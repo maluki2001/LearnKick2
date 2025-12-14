@@ -1,0 +1,2002 @@
+[
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "5 + 3 equals 8",
+    "correct_answer": "True",
+    "explanation": "When you add 5 and 3 together, you get 8.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "10 is larger than 15",
+    "correct_answer": "False",
+    "explanation": "10 is smaller than 15, not larger.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "A circle has four corners",
+    "correct_answer": "False",
+    "explanation": "A circle has no corners at all. A square has four corners.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "2 + 2 equals 4",
+    "correct_answer": "True",
+    "explanation": "Adding 2 and 2 together gives you 4.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "The sun is a star",
+    "correct_answer": "True",
+    "explanation": "The sun is indeed a star. It is the closest star to Earth.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Fish can live without water",
+    "correct_answer": "False",
+    "explanation": "Fish need water to breathe through their gills and survive.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Plants need sunlight to grow",
+    "correct_answer": "True",
+    "explanation": "Plants use sunlight to make food through photosynthesis.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Ice is warmer than boiling water",
+    "correct_answer": "False",
+    "explanation": "Ice is very cold (around 0°C) whilst boiling water is hot (100°C).",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The word 'cat' has three letters",
+    "correct_answer": "True",
+    "explanation": "C-A-T has exactly three letters.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "A sentence always starts with a capital letter",
+    "correct_answer": "True",
+    "explanation": "Every sentence should begin with a capital letter.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The word 'dog' rhymes with 'cat'",
+    "correct_answer": "False",
+    "explanation": "Dog and cat do not rhyme. Dog rhymes with words like log or fog.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Switzerland has mountains",
+    "correct_answer": "True",
+    "explanation": "Switzerland is famous for its beautiful mountains, including the Alps.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "geography",
+    "question": "The ocean is made of fresh water",
+    "correct_answer": "False",
+    "explanation": "The ocean contains salt water, not fresh water.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "12 + 8 equals 20",
+    "correct_answer": "True",
+    "explanation": "When you add 12 and 8, you get 20.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "6 × 3 equals 15",
+    "correct_answer": "False",
+    "explanation": "6 × 3 equals 18, not 15.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "Half of 10 is 5",
+    "correct_answer": "True",
+    "explanation": "When you divide 10 by 2, you get 5.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "A square has 3 sides",
+    "correct_answer": "False",
+    "explanation": "A square has 4 equal sides, not 3. A triangle has 3 sides.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "Water freezes at 0 degrees Celsius",
+    "correct_answer": "True",
+    "explanation": "Water turns into ice when it reaches 0°C.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "Birds are mammals",
+    "correct_answer": "False",
+    "explanation": "Birds are not mammals. They are a separate class of animals with feathers and beaks.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "The heart pumps blood around the body",
+    "correct_answer": "True",
+    "explanation": "The heart is like a pump that sends blood to all parts of your body.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "Frogs are reptiles",
+    "correct_answer": "False",
+    "explanation": "Frogs are amphibians, not reptiles. They can live both in water and on land.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "A noun is a word for a person, place, or thing",
+    "correct_answer": "True",
+    "explanation": "Nouns name people (teacher), places (school), or things (book).",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "The word 'happy' is a verb",
+    "correct_answer": "False",
+    "explanation": "Happy is an adjective that describes feelings, not a verb (action word).",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "The plural of 'child' is 'children'",
+    "correct_answer": "True",
+    "explanation": "Children is the correct plural form of child.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Bern is the capital of Switzerland",
+    "correct_answer": "True",
+    "explanation": "Bern is Switzerland's capital city.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Africa is a country",
+    "correct_answer": "False",
+    "explanation": "Africa is a continent made up of many countries, not a single country.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "15 × 4 equals 60",
+    "correct_answer": "True",
+    "explanation": "When you multiply 15 by 4, you get 60.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "100 ÷ 5 equals 25",
+    "correct_answer": "False",
+    "explanation": "100 ÷ 5 equals 20, not 25.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "A triangle has three angles",
+    "correct_answer": "True",
+    "explanation": "Every triangle has exactly three angles where the sides meet.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "0.5 is the same as one half",
+    "correct_answer": "True",
+    "explanation": "0.5 as a decimal equals ½ or one half.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "There are 100 centimetres in a kilometre",
+    "correct_answer": "False",
+    "explanation": "There are 100,000 centimetres in a kilometre. There are 100 centimetres in a metre.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "The Earth orbits around the sun",
+    "correct_answer": "True",
+    "explanation": "The Earth travels around the sun once every year.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "Sound travels faster than light",
+    "correct_answer": "False",
+    "explanation": "Light travels much faster than sound. That's why you see lightning before you hear thunder.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "Humans have 5 senses",
+    "correct_answer": "True",
+    "explanation": "The five senses are sight, hearing, touch, taste, and smell.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "Insects have 8 legs",
+    "correct_answer": "False",
+    "explanation": "Insects have 6 legs. Animals with 8 legs, like spiders, are arachnids.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "An adjective describes a noun",
+    "correct_answer": "True",
+    "explanation": "Adjectives are words that describe nouns, like 'big house' or 'red car'.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "The word 'their' means 'they are'",
+    "correct_answer": "False",
+    "explanation": "'Their' shows possession (their book), whilst 'they're' means 'they are'.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "A comma is used to separate items in a list",
+    "correct_answer": "True",
+    "explanation": "Commas separate items, like 'apples, oranges, and bananas'.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Lake Geneva is located in Switzerland",
+    "correct_answer": "True",
+    "explanation": "Lake Geneva is on the border between Switzerland and France.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Australia is the largest continent",
+    "correct_answer": "False",
+    "explanation": "Asia is the largest continent. Australia is the smallest continent.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "The perimeter of a square with 5cm sides is 20cm",
+    "correct_answer": "True",
+    "explanation": "Perimeter = 4 × side length. So 4 × 5cm = 20cm.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "3/4 is larger than 7/8",
+    "correct_answer": "False",
+    "explanation": "7/8 (0.875) is larger than 3/4 (0.75).",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "The area of a rectangle is length × width",
+    "correct_answer": "True",
+    "explanation": "To find the area of a rectangle, multiply the length by the width.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "25% is the same as one quarter",
+    "correct_answer": "True",
+    "explanation": "25% equals 1/4 or one quarter.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "A right angle measures 45 degrees",
+    "correct_answer": "False",
+    "explanation": "A right angle measures 90 degrees, not 45 degrees.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Photosynthesis is how plants make food",
+    "correct_answer": "True",
+    "explanation": "Plants use sunlight, water, and carbon dioxide to make food through photosynthesis.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "The Moon produces its own light",
+    "correct_answer": "False",
+    "explanation": "The Moon reflects light from the Sun. It doesn't make its own light.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Evaporation is when liquid water turns into water vapour",
+    "correct_answer": "True",
+    "explanation": "When water heats up, it evaporates and becomes water vapour (a gas).",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Diamonds are made of carbon",
+    "correct_answer": "True",
+    "explanation": "Diamonds are formed from carbon under extreme pressure and heat.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Herbivores eat meat",
+    "correct_answer": "False",
+    "explanation": "Herbivores eat only plants. Carnivores eat meat.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "A verb is an action word",
+    "correct_answer": "True",
+    "explanation": "Verbs describe actions or states of being, like run, jump, or is.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "The past tense of 'go' is 'goed'",
+    "correct_answer": "False",
+    "explanation": "The past tense of 'go' is 'went', not 'goed'.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "A synonym is a word with a similar meaning",
+    "correct_answer": "True",
+    "explanation": "Synonyms are words that mean the same or nearly the same thing, like 'big' and 'large'.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "The River Rhine flows through Switzerland",
+    "correct_answer": "True",
+    "explanation": "The Rhine River flows through several countries including Switzerland.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "The Equator runs through Europe",
+    "correct_answer": "False",
+    "explanation": "The Equator doesn't pass through Europe. It runs through Africa, South America, and Asia.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "Prime numbers are only divisible by 1 and themselves",
+    "correct_answer": "True",
+    "explanation": "A prime number has exactly two factors: 1 and the number itself.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "The number 1 is a prime number",
+    "correct_answer": "False",
+    "explanation": "1 is not considered prime because it only has one factor (itself).",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "The sum of angles in a triangle is 180 degrees",
+    "correct_answer": "True",
+    "explanation": "All triangles have interior angles that add up to exactly 180 degrees.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "0.75 equals 3/5",
+    "correct_answer": "False",
+    "explanation": "0.75 equals 3/4, not 3/5. 3/5 equals 0.6.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "The diameter of a circle is twice its radius",
+    "correct_answer": "True",
+    "explanation": "The diameter goes all the way across the circle, which is twice the radius.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "The human skeleton has 206 bones",
+    "correct_answer": "True",
+    "explanation": "An adult human skeleton typically has 206 bones.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "Gravity on the Moon is the same as on Earth",
+    "correct_answer": "False",
+    "explanation": "The Moon's gravity is about 1/6th of Earth's gravity, much weaker.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "Electricity flows through conductors",
+    "correct_answer": "True",
+    "explanation": "Conductors like metal allow electricity to flow through them easily.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "The process of condensation turns gas into liquid",
+    "correct_answer": "True",
+    "explanation": "Condensation occurs when water vapour (gas) cools and becomes liquid water.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "All metals are magnetic",
+    "correct_answer": "False",
+    "explanation": "Only some metals like iron, nickel, and cobalt are magnetic. Gold and aluminium are not.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "An adverb modifies a verb, adjective, or another adverb",
+    "correct_answer": "True",
+    "explanation": "Adverbs describe how, when, where, or to what extent something happens.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "The words 'effect' and 'affect' mean exactly the same thing",
+    "correct_answer": "False",
+    "explanation": "'Affect' is usually a verb (to influence), whilst 'effect' is usually a noun (the result).",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "A metaphor is a direct comparison using 'like' or 'as'",
+    "correct_answer": "False",
+    "explanation": "That's a simile. A metaphor makes a comparison without using 'like' or 'as'.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Switzerland has four official languages",
+    "correct_answer": "True",
+    "explanation": "Switzerland's four official languages are German, French, Italian, and Romansh.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "geography",
+    "question": "The River Nile is the longest river in Asia",
+    "correct_answer": "False",
+    "explanation": "The Nile is in Africa, not Asia. The Yangtze is the longest river in Asia.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "A negative number multiplied by a negative number gives a positive result",
+    "correct_answer": "True",
+    "explanation": "When you multiply two negative numbers, the result is always positive.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "The square root of 144 is 11",
+    "correct_answer": "False",
+    "explanation": "The square root of 144 is 12, not 11. (12 × 12 = 144)",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "π (pi) is approximately 3.14",
+    "correct_answer": "True",
+    "explanation": "Pi is approximately 3.14159, often rounded to 3.14 for calculations.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "The volume of a cube is found by multiplying length × width",
+    "correct_answer": "False",
+    "explanation": "Volume of a cube is length × width × height (or side³ for a cube).",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "Converting 2.5 kilometres to metres gives 2500 metres",
+    "correct_answer": "True",
+    "explanation": "1 kilometre = 1000 metres, so 2.5 km = 2500 metres.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "Mitochondria are known as the powerhouses of the cell",
+    "correct_answer": "True",
+    "explanation": "Mitochondria produce energy (ATP) for the cell, earning them this nickname.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "Antibiotics are effective against viral infections",
+    "correct_answer": "False",
+    "explanation": "Antibiotics only work against bacteria, not viruses.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "The speed of light is approximately 300,000 kilometres per second",
+    "correct_answer": "True",
+    "explanation": "Light travels at about 300,000 km/s in a vacuum.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "Oxygen makes up most of Earth's atmosphere",
+    "correct_answer": "False",
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, whilst oxygen is about 21%.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "All planets in our solar system orbit the sun",
+    "correct_answer": "True",
+    "explanation": "All eight planets in our solar system orbit around the sun.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "A preposition shows the relationship between a noun and other words",
+    "correct_answer": "True",
+    "explanation": "Prepositions like 'in', 'on', 'at', and 'under' show relationships in sentences.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "The passive voice emphasises the action's performer",
+    "correct_answer": "False",
+    "explanation": "Passive voice emphasises the action or receiver, not the performer. Active voice emphasises the performer.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "An antonym is a word with the opposite meaning",
+    "correct_answer": "True",
+    "explanation": "Antonyms are words with opposite meanings, like 'hot' and 'cold'.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "The Alps mountain range extends through Switzerland",
+    "correct_answer": "True",
+    "explanation": "The Swiss Alps are a major part of the larger Alpine mountain range.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "The Arctic is located at the South Pole",
+    "correct_answer": "False",
+    "explanation": "The Arctic is at the North Pole. The Antarctic is at the South Pole.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "7 is bigger than 4",
+    "correct_answer": "True",
+    "explanation": "7 is greater than 4 by 3.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "3 + 3 equals 5",
+    "correct_answer": "False",
+    "explanation": "3 + 3 equals 6, not 5.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Birds have feathers",
+    "correct_answer": "True",
+    "explanation": "All birds have feathers which help them fly and keep warm.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Trees can walk",
+    "correct_answer": "False",
+    "explanation": "Trees have roots that keep them in one place. They cannot walk.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The letter A is a vowel",
+    "correct_answer": "True",
+    "explanation": "A, E, I, O, and U are vowels in English.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The word 'book' starts with the letter C",
+    "correct_answer": "False",
+    "explanation": "Book starts with the letter B, not C.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Rain comes from clouds",
+    "correct_answer": "True",
+    "explanation": "Rain falls from clouds when water droplets become too heavy.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "geography",
+    "question": "The sky is green",
+    "correct_answer": "False",
+    "explanation": "The sky appears blue during the day, not green.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "9 + 6 equals 15",
+    "correct_answer": "True",
+    "explanation": "When you add 9 and 6 together, you get 15.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "A rectangle has 5 corners",
+    "correct_answer": "False",
+    "explanation": "A rectangle has 4 corners, not 5.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "Caterpillars turn into butterflies",
+    "correct_answer": "True",
+    "explanation": "Many caterpillars transform into butterflies through metamorphosis.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "The moon is made of cheese",
+    "correct_answer": "False",
+    "explanation": "The moon is made of rock and dust, not cheese. That's just a silly story.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "A question mark comes at the end of a question",
+    "correct_answer": "True",
+    "explanation": "Questions end with a question mark (?).",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "The word 'run' has four letters",
+    "correct_answer": "False",
+    "explanation": "Run has only three letters: R-U-N.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Rivers flow downhill",
+    "correct_answer": "True",
+    "explanation": "Rivers flow from higher ground to lower ground due to gravity.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Switzerland is surrounded by water on all sides",
+    "correct_answer": "False",
+    "explanation": "Switzerland is landlocked, surrounded by other countries, not water.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "7 × 8 equals 56",
+    "correct_answer": "True",
+    "explanation": "Seven times eight equals 56.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "40 ÷ 8 equals 6",
+    "correct_answer": "False",
+    "explanation": "40 ÷ 8 equals 5, not 6.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "Mammals are warm-blooded animals",
+    "correct_answer": "True",
+    "explanation": "All mammals can regulate their own body temperature and are warm-blooded.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "The sun revolves around the Earth",
+    "correct_answer": "False",
+    "explanation": "The Earth revolves around the sun, not the other way around.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "A full stop marks the end of a sentence",
+    "correct_answer": "True",
+    "explanation": "A full stop (.) is used to end a complete sentence.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "The word 'colour' is spelled 'color' in British English",
+    "correct_answer": "False",
+    "explanation": "In British English, it's spelled 'colour' with a 'u'. American English uses 'color'.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Europe is one of the seven continents",
+    "correct_answer": "True",
+    "explanation": "Europe is indeed one of Earth's seven continents.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Zürich is the capital city of Switzerland",
+    "correct_answer": "False",
+    "explanation": "Bern is Switzerland's capital. Zürich is the largest city but not the capital.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "1000 grams equals 1 kilogram",
+    "correct_answer": "True",
+    "explanation": "There are exactly 1000 grams in 1 kilogram.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "An obtuse angle measures less than 90 degrees",
+    "correct_answer": "False",
+    "explanation": "An obtuse angle measures more than 90 degrees but less than 180 degrees.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Water boils at 100 degrees Celsius at sea level",
+    "correct_answer": "True",
+    "explanation": "At normal atmospheric pressure (sea level), water boils at exactly 100°C.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Whales are fish",
+    "correct_answer": "False",
+    "explanation": "Whales are mammals, not fish. They breathe air and nurse their young.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "An exclamation mark shows strong emotion",
+    "correct_answer": "True",
+    "explanation": "Exclamation marks (!) express excitement, surprise, or strong feelings.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "The word 'favourite' has two syllables",
+    "correct_answer": "False",
+    "explanation": "Favourite has three syllables: fa-vour-ite.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "The Mediterranean Sea borders several European countries",
+    "correct_answer": "True",
+    "explanation": "The Mediterranean Sea borders many European countries including Spain, France, Italy, and Greece.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "Mount Everest is located in Switzerland",
+    "correct_answer": "False",
+    "explanation": "Mount Everest is on the border between Nepal and Tibet, not in Switzerland.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "A parallelogram has two pairs of parallel sides",
+    "correct_answer": "True",
+    "explanation": "By definition, a parallelogram has two pairs of opposite parallel sides.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "2/3 is equivalent to 4/9",
+    "correct_answer": "False",
+    "explanation": "2/3 is equivalent to 4/6 or 6/9, not 4/9.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "Stalactites hang down from cave ceilings",
+    "correct_answer": "True",
+    "explanation": "Stalactites hang down from above (like icicles), whilst stalagmites grow up from below.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "Venus is the closest planet to the sun",
+    "correct_answer": "False",
+    "explanation": "Mercury is the closest planet to the sun, not Venus.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "A compound sentence contains two independent clauses",
+    "correct_answer": "True",
+    "explanation": "A compound sentence joins two independent clauses, often with a conjunction.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "Homophones are words that sound the same but have different spellings",
+    "correct_answer": "True",
+    "explanation": "Homophones sound alike but have different meanings and often different spellings, like 'there' and 'their'.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "geography",
+    "question": "The Amazon River is the longest river in the world",
+    "correct_answer": "False",
+    "explanation": "The Nile is generally considered the longest river, though the Amazon carries the most water.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Switzerland is a landlocked country",
+    "correct_answer": "True",
+    "explanation": "Switzerland has no coastline and is completely surrounded by other countries.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "The circumference of a circle is π times the diameter",
+    "correct_answer": "True",
+    "explanation": "The formula for circumference is C = πd or C = 2πr.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "A regular hexagon has 7 sides",
+    "correct_answer": "False",
+    "explanation": "A hexagon has 6 sides. A heptagon has 7 sides.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "The periodic table organises elements by atomic number",
+    "correct_answer": "True",
+    "explanation": "Elements in the periodic table are arranged in order of increasing atomic number.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "Carbon dioxide is produced during photosynthesis",
+    "correct_answer": "False",
+    "explanation": "Oxygen is produced during photosynthesis. Carbon dioxide is consumed.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "Alliteration is the repetition of initial consonant sounds",
+    "correct_answer": "True",
+    "explanation": "Alliteration repeats the same sound at the beginning of words, like 'Peter Piper picked'.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "A biography is a story someone writes about their own life",
+    "correct_answer": "False",
+    "explanation": "A biography is written about someone else's life. An autobiography is about your own life.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "The International Date Line roughly follows the 180° meridian",
+    "correct_answer": "True",
+    "explanation": "The International Date Line generally follows 180° longitude, with some deviations.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "The North Pole is on land",
+    "correct_answer": "False",
+    "explanation": "The North Pole is on floating sea ice in the Arctic Ocean, not on land.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "A triangle has three sides",
+    "correct_answer": "True",
+    "explanation": "Every triangle has exactly three sides and three corners.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "6 + 2 equals 10",
+    "correct_answer": "False",
+    "explanation": "6 + 2 equals 8, not 10.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Humans need air to breathe",
+    "correct_answer": "True",
+    "explanation": "We breathe air to get oxygen, which our bodies need to survive.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "science",
+    "question": "Dogs can fly",
+    "correct_answer": "False",
+    "explanation": "Dogs cannot fly. Only birds, bats, and insects have wings for flying.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The word 'sun' rhymes with 'fun'",
+    "correct_answer": "True",
+    "explanation": "Sun and fun both end with the 'un' sound, so they rhyme.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The word 'pencil' has two letters",
+    "correct_answer": "False",
+    "explanation": "Pencil has six letters: P-E-N-C-I-L.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Snow is cold",
+    "correct_answer": "True",
+    "explanation": "Snow is frozen water and is very cold to touch.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "geography",
+    "question": "The sun comes out at night",
+    "correct_answer": "False",
+    "explanation": "The sun shines during the day. At night we see the moon and stars.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "14 - 5 equals 9",
+    "correct_answer": "True",
+    "explanation": "When you subtract 5 from 14, you get 9.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "A circle has straight sides",
+    "correct_answer": "False",
+    "explanation": "A circle is round with a curved edge, it has no straight sides.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "Bees make honey",
+    "correct_answer": "True",
+    "explanation": "Bees collect nectar from flowers and make it into honey in their hives.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "Penguins live in hot deserts",
+    "correct_answer": "False",
+    "explanation": "Penguins live in cold places like Antarctica, not in hot deserts.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "The word 'two' sounds the same as 'too'",
+    "correct_answer": "True",
+    "explanation": "Two and too are homophones - they sound the same but have different meanings.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "english",
+    "question": "Every word must have at least one vowel",
+    "correct_answer": "True",
+    "explanation": "All English words have at least one vowel (A, E, I, O, or U) in them.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Mountains are taller than hills",
+    "correct_answer": "True",
+    "explanation": "Mountains are much taller and steeper than hills.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Lakes contain salt water",
+    "correct_answer": "False",
+    "explanation": "Most lakes contain fresh water, not salt water. Oceans have salt water.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "There are 60 minutes in one hour",
+    "correct_answer": "True",
+    "explanation": "An hour is divided into 60 minutes.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "1000 millilitres equals 10 litres",
+    "correct_answer": "False",
+    "explanation": "1000 millilitres equals 1 litre, not 10 litres.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "Lightning comes before thunder",
+    "correct_answer": "True",
+    "explanation": "Lightning and thunder happen at the same time, but light travels faster than sound, so we see lightning first.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "All spiders are insects",
+    "correct_answer": "False",
+    "explanation": "Spiders are arachnids, not insects. Insects have 6 legs, whilst spiders have 8.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "Quotation marks show someone is speaking",
+    "correct_answer": "True",
+    "explanation": "We use quotation marks (\" \") to show the exact words someone says.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "The word 'quickly' is a noun",
+    "correct_answer": "False",
+    "explanation": "Quickly is an adverb that describes how an action is done, not a noun.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "A compass helps us find directions",
+    "correct_answer": "True",
+    "explanation": "A compass needle points north, helping us find all four main directions.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "The Pacific Ocean is the smallest ocean",
+    "correct_answer": "False",
+    "explanation": "The Pacific Ocean is the largest ocean. The Arctic Ocean is the smallest.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "An even number is divisible by 2",
+    "correct_answer": "True",
+    "explanation": "Even numbers can be divided by 2 with no remainder.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "50% is the same as three quarters",
+    "correct_answer": "False",
+    "explanation": "50% equals one half (1/2), not three quarters (3/4 = 75%).",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Magnets attract iron and steel",
+    "correct_answer": "True",
+    "explanation": "Magnets are attracted to magnetic metals like iron and steel.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "The lungs are responsible for pumping blood",
+    "correct_answer": "False",
+    "explanation": "The heart pumps blood. The lungs help us breathe and exchange oxygen.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "A simile compares two things using 'like' or 'as'",
+    "correct_answer": "True",
+    "explanation": "Similes use 'like' or 'as' to compare, such as 'as brave as a lion'.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "An apostrophe is used to make words plural",
+    "correct_answer": "False",
+    "explanation": "Apostrophes show possession (Sam's book) or contractions (can't), not plurals.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "The Sahara is the world's largest hot desert",
+    "correct_answer": "True",
+    "explanation": "The Sahara Desert in Africa is the largest hot desert in the world.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "All rivers flow into lakes",
+    "correct_answer": "False",
+    "explanation": "Most rivers flow into oceans or seas. Some flow into lakes, but not all.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "A polygon is a closed shape with straight sides",
+    "correct_answer": "True",
+    "explanation": "Polygons are flat shapes with straight sides that connect to form a closed figure.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "The fraction 5/8 is greater than 1",
+    "correct_answer": "False",
+    "explanation": "5/8 is less than 1 because the numerator is smaller than the denominator.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "The Earth rotates on its axis once every 24 hours",
+    "correct_answer": "True",
+    "explanation": "Earth's rotation every 24 hours creates day and night.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "Fungi are a type of plant",
+    "correct_answer": "False",
+    "explanation": "Fungi are their own kingdom of organisms, separate from plants.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "The present tense describes actions happening now",
+    "correct_answer": "True",
+    "explanation": "Present tense verbs describe actions occurring in the current moment.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "A prefix comes at the end of a word",
+    "correct_answer": "False",
+    "explanation": "A prefix comes at the beginning of a word. A suffix comes at the end.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "geography",
+    "question": "The Tropic of Cancer is north of the Equator",
+    "correct_answer": "True",
+    "explanation": "The Tropic of Cancer is located at approximately 23.5° north of the Equator.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Glaciers are found only in Antarctica",
+    "correct_answer": "False",
+    "explanation": "Glaciers exist in many places including Greenland, Alaska, the Alps, and other mountain ranges.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "The mean is the average of a set of numbers",
+    "correct_answer": "True",
+    "explanation": "The mean (average) is found by adding all numbers and dividing by how many there are.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "An isosceles triangle has all sides equal",
+    "correct_answer": "False",
+    "explanation": "An isosceles triangle has two equal sides. An equilateral triangle has all sides equal.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "A lever is a simple machine",
+    "correct_answer": "True",
+    "explanation": "A lever is one of the six simple machines that make work easier.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "Acids turn litmus paper blue",
+    "correct_answer": "False",
+    "explanation": "Acids turn litmus paper red. Bases turn it blue.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "A complex sentence contains an independent and a dependent clause",
+    "correct_answer": "True",
+    "explanation": "Complex sentences have one independent clause and at least one dependent clause.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "english",
+    "question": "Onomatopoeia refers to words that show comparison",
+    "correct_answer": "False",
+    "explanation": "Onomatopoeia refers to words that imitate sounds, like 'buzz' or 'crash'.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "Latitude lines run horizontally around the Earth",
+    "correct_answer": "True",
+    "explanation": "Latitude lines (parallels) run east-west, parallel to the Equator.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "The Prime Meridian passes through Paris",
+    "correct_answer": "False",
+    "explanation": "The Prime Meridian (0° longitude) passes through Greenwich, London, not Paris.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "math",
+    "question": "20 - 8 equals 12",
+    "correct_answer": "True",
+    "explanation": "When you subtract 8 from 20, you get 12.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "geography",
+    "question": "The Atlantic Ocean separates Europe and North America",
+    "correct_answer": "True",
+    "explanation": "The Atlantic Ocean lies between Europe and North America.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "math",
+    "question": "9 - 3 equals 7",
+    "correct_answer": "False",
+    "explanation": "9 - 3 equals 6, not 7.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "science",
+    "question": "The sun is the smallest star in the universe",
+    "correct_answer": "False",
+    "explanation": "The sun is an average-sized star. There are much larger and much smaller stars.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "english",
+    "question": "The word 'beautiful' has four syllables",
+    "correct_answer": "False",
+    "explanation": "Beautiful has three syllables: beau-ti-ful.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "math",
+    "question": "6 × 7 equals 48",
+    "correct_answer": "False",
+    "explanation": "6 × 7 equals 42, not 48.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "science",
+    "question": "Oil is denser than water",
+    "correct_answer": "False",
+    "explanation": "Water is denser than most oils. That's why oil floats on water.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "geography",
+    "question": "The Sahara Desert is located in Asia",
+    "correct_answer": "False",
+    "explanation": "The Sahara Desert is in Africa, not Asia.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "math",
+    "question": "4 + 7 equals 13",
+    "correct_answer": "False",
+    "explanation": "4 + 7 equals 11, not 13.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "geography",
+    "question": "The Arctic Ocean is the warmest ocean",
+    "correct_answer": "False",
+    "explanation": "The Arctic Ocean is the coldest ocean, covered with ice year-round.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 1,
+    "subject": "english",
+    "question": "The letter Z comes before A in the alphabet",
+    "correct_answer": "False",
+    "explanation": "A is the first letter of the alphabet, Z is the last.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "science",
+    "question": "Snakes have legs",
+    "correct_answer": "False",
+    "explanation": "Snakes are reptiles without legs. They slither on their bellies.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "english",
+    "question": "The word 'its' with an apostrophe means belonging to it",
+    "correct_answer": "False",
+    "explanation": "'Its' without an apostrophe means belonging. 'It's' with an apostrophe means 'it is'.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "math",
+    "question": "A straight angle measures 360 degrees",
+    "correct_answer": "False",
+    "explanation": "A straight angle measures 180 degrees. A full rotation is 360 degrees.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 3,
+    "subject": "science",
+    "question": "Crocodiles are amphibians",
+    "correct_answer": "False",
+    "explanation": "Crocodiles are reptiles, not amphibians.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Deserts are always hot",
+    "correct_answer": "False",
+    "explanation": "Some deserts, like the Gobi Desert, can be very cold. Deserts are defined by low rainfall, not temperature.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 5,
+    "subject": "math",
+    "question": "1/2 is smaller than 1/3",
+    "correct_answer": "False",
+    "explanation": "1/2 (0.5) is larger than 1/3 (0.33...).",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 4,
+    "subject": "english",
+    "question": "The word 'receive' is spelled with 'ie' not 'ei'",
+    "correct_answer": "False",
+    "explanation": "'Receive' is spelled with 'ei' following the rule 'i before e except after c'.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "en",
+    "grade": 6,
+    "subject": "science",
+    "question": "Sound can travel through a vacuum",
+    "correct_answer": "False",
+    "explanation": "Sound needs a medium (like air, water, or solids) to travel. It cannot travel through a vacuum.",
+    "difficulty": 5
+  }
+]

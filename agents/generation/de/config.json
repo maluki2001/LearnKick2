@@ -1,0 +1,46 @@
+{
+  "agentId": "generator-de",
+  "version": "1.0.0",
+  "language": "de",
+  "targetQuestions": 4000,
+  "batchSize": 100,
+  "retryLimit": 3,
+
+  "curriculumFiles": [
+    "./curriculum/math-topics.json",
+    "./curriculum/deutsch-topics.json",
+    "./curriculum/nmg-topics.json",
+    "./curriculum/arts-topics.json",
+    "./curriculum/others-topics.json"
+  ],
+
+  "ruleFiles": [
+    "./rules/grammar-rules.json",
+    "./rules/vocabulary-g1-2.json",
+    "./rules/vocabulary-g3-4.json",
+    "./rules/vocabulary-g5-6.json",
+    "./rules/cultural-context.json"
+  ],
+
+  "templateFiles": [
+    "./templates/multiple-choice.json",
+    "./templates/true-false.json",
+    "./templates/number-input.json"
+  ],
+
+  "exampleFiles": [
+    "./examples/math-perfect.json",
+    "./examples/deutsch-perfect.json",
+    "./examples/nmg-perfect.json"
+  ],
+
+  "qcAgentPath": "../../quality-control/qc-de/AGENT_QC_DE.md",
+
+  "questionDistribution": {
+    "math": 0.30,
+    "deutsch": 0.20,
+    "nmg": 0.30,
+    "arts": 0.10,
+    "others": 0.10
+  }
+}

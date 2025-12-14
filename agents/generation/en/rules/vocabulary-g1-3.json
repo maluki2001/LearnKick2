@@ -1,0 +1,41 @@
+{
+  "grades": [1, 2, 3],
+  "ageRange": "6-9 years",
+  "vocabularySize": "~1000 words",
+  "sentenceLength": {
+    "min": 3,
+    "max": 8,
+    "recommended": "4-6 words"
+  },
+  "complexity": "simple",
+  "categories": [
+    "numbers (0-100)",
+    "colours",
+    "animals",
+    "family",
+    "school objects",
+    "food",
+    "body parts",
+    "days of week",
+    "months",
+    "weather",
+    "common verbs (be, have, go, see, eat, play)",
+    "basic adjectives (big, small, happy, sad)"
+  ],
+  "grammar": {
+    "tenses": ["present simple"],
+    "sentences": ["simple statements", "basic questions"],
+    "avoid": ["subordinate clauses", "passive voice", "complex conditionals"]
+  },
+  "examples": {
+    "appropriate": [
+      "What colour is the sky?",
+      "How many apples are there?",
+      "The cat is sleeping."
+    ],
+    "tooComplex": [
+      "If it rains, we will stay inside.",
+      "The book that I read yesterday was interesting."
+    ]
+  }
+}

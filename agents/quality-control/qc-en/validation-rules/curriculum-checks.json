@@ -1,0 +1,71 @@
+{
+  "curriculum": "Lehrplan 21",
+  "totalChecks": 15,
+  "checks": [
+    {
+      "id": "C01",
+      "name": "Valid Lehrplan 21 code",
+      "description": "Code exists and is correctly formatted",
+      "severity": "critical",
+      "autoReject": true,
+      "validCodes": [
+        "MA.1.A.*", "MA.2.A.*", "MA.*.B.*", "MA.*.C.*",
+        "D.1.*", "D.2.*", "D.*.A.*", "D.*.B.*",
+        "NMG.*", "BG.*", "TG.*", "MU.*", "BS.*", "MI.*"
+      ]
+    },
+    {
+      "id": "C02",
+      "name": "Difficulty matches grade",
+      "description": "Difficulty level appropriate for grade",
+      "severity": "high",
+      "autoReject": true,
+      "rules": {
+        "grade1-2": [1, 2],
+        "grade3-4": [2, 3, 4],
+        "grade5-6": [3, 4, 5]
+      }
+    },
+    {
+      "id": "C03",
+      "name": "Content matches code",
+      "description": "Question tests competency specified by code",
+      "severity": "high",
+      "autoReject": false
+    },
+    {
+      "id": "C04",
+      "name": "Age-appropriate content",
+      "description": "Suitable for age group",
+      "severity": "critical",
+      "autoReject": true,
+      "ageGroups": {
+        "1-2": "6-8 years",
+        "3-4": "8-10 years",
+        "5-6": "10-12 years"
+      }
+    },
+    {
+      "id": "C05",
+      "name": "Not too easy/hard",
+      "description": "Appropriate challenge level",
+      "severity": "high",
+      "autoReject": false
+    },
+    {
+      "id": "C06",
+      "name": "Clear learning objective",
+      "description": "Tests specific competency",
+      "severity": "medium",
+      "autoReject": false
+    },
+    {
+      "id": "C07",
+      "name": "Builds on prior knowledge",
+      "description": "Assumes appropriate prerequisites",
+      "severity": "medium",
+      "autoReject": false
+    }
+  ],
+  "autoReject": ["C01", "C02", "C04"]
+}

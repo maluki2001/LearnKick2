@@ -1,0 +1,58 @@
+{
+  "language": "de",
+  "standard": "Hochdeutsch",
+  "rules": [
+    {
+      "rule": "Großschreibung",
+      "description": "Nomen werden großgeschrieben",
+      "examples": ["der Apfel", "die Schule", "das Haus"],
+      "common_errors": ["der apfel", "die schule"]
+    },
+    {
+      "rule": "Satzzeichen",
+      "description": "Fragen enden mit ?",
+      "examples": ["Was ist 2 + 3?", "Wie viele Äpfel?"],
+      "required": true
+    },
+    {
+      "rule": "Artikel",
+      "description": "Korrekte Artikel verwenden",
+      "articles": {
+        "maskulin": "der",
+        "feminin": "die",
+        "neutral": "das",
+        "plural": "die"
+      }
+    },
+    {
+      "rule": "Umlaute",
+      "description": "ä, ö, ü korrekt verwenden",
+      "examples": ["Äpfel", "größer", "über"],
+      "avoid": ["ae", "oe", "ue"]
+    },
+    {
+      "rule": "ß oder ss",
+      "description": "Schweiz: ss bevorzugt",
+      "swiss_german": true,
+      "examples": ["groß → gross", "Straße → Strasse"]
+    },
+    {
+      "rule": "Höflichkeitsform",
+      "description": "Kinder siezen nicht nötig",
+      "use_du": true,
+      "examples": ["Wie heißt du?", "Was denkst du?"]
+    },
+    {
+      "rule": "Zahlen",
+      "description": "Zahlen bis 12 ausschreiben",
+      "examples": ["eins", "zwei", "drei", "zehn"],
+      "numerals_from": 13
+    },
+    {
+      "rule": "Keine Anglizismen",
+      "description": "Deutsche Wörter bevorzugen",
+      "avoid": ["cool", "okay → in Ordnung"],
+      "grade_exception": [5, 6]
+    }
+  ]
+}

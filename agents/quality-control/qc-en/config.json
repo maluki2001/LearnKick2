@@ -1,0 +1,29 @@
+{
+  "agentId": "qc-en",
+  "language": "en",
+  "minConfidenceScore": 95,
+  "minQualityScore": 90,
+  "qualityWeights": {
+    "linguistic": 0.30,
+    "factual": 0.25,
+    "curriculum": 0.20,
+    "cultural": 0.15,
+    "technical": 0.10
+  },
+  "thresholds": {
+    "autoApprove": 95,
+    "flagForReview": 80,
+    "autoReject": 80
+  },
+  "validationRules": {
+    "grammar": "/agents/quality-control/qc-en/validation-rules/grammar-checks.json",
+    "factual": "/agents/quality-control/qc-en/validation-rules/factual-checks.json",
+    "curriculum": "/agents/quality-control/qc-en/validation-rules/curriculum-checks.json",
+    "cultural": "/agents/quality-control/qc-en/validation-rules/cultural-checks.json",
+    "technical": "/agents/quality-control/qc-en/validation-rules/technical-checks.json"
+  },
+  "retryStrategy": {
+    "maxRetries": 3,
+    "backoffMultiplier": 1.5
+  }
+}

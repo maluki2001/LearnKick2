@@ -1,0 +1,55 @@
+{
+  "matiere": "sciences",
+  "totalQuestions": 400,
+  "themes": [
+    {
+      "nom": "Animaux & Habitats",
+      "lehrplan21Code": "NMG.2.1",
+      "degres": [1, 2, 3],
+      "questions": 80,
+      "difficultes": [1, 2]
+    },
+    {
+      "nom": "Plantes & Croissance",
+      "lehrplan21Code": "NMG.2.2",
+      "degres": [2, 3, 4],
+      "questions": 60,
+      "difficultes": [1, 2, 3]
+    },
+    {
+      "nom": "Corps Humain",
+      "lehrplan21Code": "NMG.1.1",
+      "degres": [3, 4, 5, 6],
+      "questions": 70,
+      "difficultes": [2, 3, 4]
+    },
+    {
+      "nom": "Météo & Saisons",
+      "lehrplan21Code": "NMG.4.1",
+      "degres": [1, 2, 3, 4],
+      "questions": 50,
+      "difficultes": [1, 2, 3]
+    },
+    {
+      "nom": "Matériaux & Propriétés",
+      "lehrplan21Code": "NMG.3.1",
+      "degres": [3, 4, 5],
+      "questions": 50,
+      "difficultes": [2, 3, 4]
+    },
+    {
+      "nom": "Énergie & Forces",
+      "lehrplan21Code": "NMG.3.2",
+      "degres": [5, 6],
+      "questions": 50,
+      "difficultes": [4, 5]
+    },
+    {
+      "nom": "Cycle de l'Eau",
+      "lehrplan21Code": "NMG.4.2",
+      "degres": [4, 5, 6],
+      "questions": 40,
+      "difficultes": [3, 4, 5]
+    }
+  ]
+}

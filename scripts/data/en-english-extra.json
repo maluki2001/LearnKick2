@@ -1,0 +1,1724 @@
+{
+  "questions": [
+    {
+      "question": "Which word rhymes with 'cat'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["hat", "dog", "sun", "tree"],
+      "correctAnswer": "hat"
+    },
+    {
+      "question": "What is the plural of 'dog'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["dogs", "doges", "dogz", "doggs"],
+      "correctAnswer": "dogs"
+    },
+    {
+      "question": "The word 'happy' means feeling good.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which letter comes after 'M' in the alphabet?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["N", "L", "O", "P"],
+      "correctAnswer": "N"
+    },
+    {
+      "question": "How many letters are in the word 'book'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["4", "3", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Which word is a colour?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["blue", "chair", "run", "happy"],
+      "correctAnswer": "blue"
+    },
+    {
+      "question": "'I am eating an apple.' The word 'an' is used correctly here.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word begins with the sound 'sh'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["ship", "chip", "skip", "trip"],
+      "correctAnswer": "ship"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["small", "tall", "wide", "long"],
+      "correctAnswer": "small"
+    },
+    {
+      "question": "The word 'run' is a verb.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["I like apples.", "i like apples", "I Like Apples.", "i Like apples"],
+      "correctAnswer": "I like apples."
+    },
+    {
+      "question": "How do you spell the number 2?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["two", "too", "to", "tow"],
+      "correctAnswer": "two"
+    },
+    {
+      "question": "Which word is a noun?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["table", "run", "jump", "happy"],
+      "correctAnswer": "table"
+    },
+    {
+      "question": "The word 'cat' has three letters.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word rhymes with 'sun'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["fun", "moon", "star", "sky"],
+      "correctAnswer": "fun"
+    },
+    {
+      "question": "What is the plural of 'box'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["boxes", "boxs", "boxies", "boxe"],
+      "correctAnswer": "boxes"
+    },
+    {
+      "question": "A sentence always starts with a capital letter.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word means 'not loud'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["quiet", "noisy", "bright", "dark"],
+      "correctAnswer": "quiet"
+    },
+    {
+      "question": "How many vowels are in the word 'smile'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["2", "1", "3", "4"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "'We goes to school' is correct grammar.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which word is spelled correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["friend", "frend", "freind", "friand"],
+      "correctAnswer": "friend"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["cold", "warm", "cool", "wet"],
+      "correctAnswer": "cold"
+    },
+    {
+      "question": "The word 'jump' rhymes with 'pump'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses 'a' correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["I see a bird.", "I see a elephant.", "I see a apple.", "I see a orange."],
+      "correctAnswer": "I see a bird."
+    },
+    {
+      "question": "What comes at the end of a sentence?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["A full stop", "A comma", "A letter", "A space"],
+      "correctAnswer": "A full stop"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["beautiful", "run", "table", "quickly"],
+      "correctAnswer": "beautiful"
+    },
+    {
+      "question": "The past tense of 'walk' is 'walked'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence is a question?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Where is the park?", "The park is near.", "I like the park.", "We go to the park."],
+      "correctAnswer": "Where is the park?"
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["children", "childs", "childes", "childrens"],
+      "correctAnswer": "children"
+    },
+    {
+      "question": "The word 'their' means 'belonging to them'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a synonym for 'happy'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["joyful", "sad", "angry", "tired"],
+      "correctAnswer": "joyful"
+    },
+    {
+      "question": "How do you spell the British English word for a hue?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["colour", "color", "coler", "colur"],
+      "correctAnswer": "colour"
+    },
+    {
+      "question": "'She don't like chocolate' is correct grammar.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which word completes the sentence: 'I ___ to school every day'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["go", "goes", "going", "went"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "What is the opposite of 'old'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["young", "new", "fresh", "small"],
+      "correctAnswer": "young"
+    },
+    {
+      "question": "A comma is used to separate items in a list.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses capital letters correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["My name is Anna.", "my Name is anna.", "my name is Anna.", "My Name Is Anna."],
+      "correctAnswer": "My name is Anna."
+    },
+    {
+      "question": "What type of word is 'quickly'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["adverb", "noun", "verb", "adjective"],
+      "correctAnswer": "adverb"
+    },
+    {
+      "question": "The word 'phone' is short for 'telephone'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word rhymes with 'light'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["night", "lit", "lamp", "sun"],
+      "correctAnswer": "night"
+    },
+    {
+      "question": "What is the past tense of 'eat'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["ate", "eated", "eaten", "eats"],
+      "correctAnswer": "ate"
+    },
+    {
+      "question": "'There', 'their', and 'they're' are all spelled the same way.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which sentence is written in the past tense?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["We played football yesterday.", "We play football today.", "We will play football tomorrow.", "We are playing football now."],
+      "correctAnswer": "We played football yesterday."
+    },
+    {
+      "question": "How many syllables are in the word 'elephant'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "An exclamation mark shows strong feeling.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is spelled correctly in British English?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["favourite", "favorite", "favourit", "favorit"],
+      "correctAnswer": "favourite"
+    },
+    {
+      "question": "What is the plural of 'tooth'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["teeth", "tooths", "toothes", "teeths"],
+      "correctAnswer": "teeth"
+    },
+    {
+      "question": "The words 'to', 'too', and 'two' sound the same but have different meanings.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word means the same as 'big'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["large", "small", "tiny", "little"],
+      "correctAnswer": "large"
+    },
+    {
+      "question": "In the sentence 'The cat sat on the mat', what is 'cat'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["noun", "verb", "adjective", "adverb"],
+      "correctAnswer": "noun"
+    },
+    {
+      "question": "A question always ends with a question mark.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses 'an' correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["I ate an orange.", "I ate an banana.", "I ate an pear.", "I ate an grape."],
+      "correctAnswer": "I ate an orange."
+    },
+    {
+      "question": "What is the opposite of 'fast'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["slow", "quick", "rapid", "speedy"],
+      "correctAnswer": "slow"
+    },
+    {
+      "question": "The word 'wasn't' is a contraction of 'was not'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a verb?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["swim", "blue", "happy", "mountain"],
+      "correctAnswer": "swim"
+    },
+    {
+      "question": "Which sentence is a compound sentence?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["I like reading, and my sister likes drawing.", "I like reading.", "My sister likes drawing.", "Reading is fun."],
+      "correctAnswer": "I like reading, and my sister likes drawing."
+    },
+    {
+      "question": "An apostrophe is used to show possession.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the past tense of 'run'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["ran", "runned", "running", "runs"],
+      "correctAnswer": "ran"
+    },
+    {
+      "question": "Which word is a preposition?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["under", "happy", "running", "table"],
+      "correctAnswer": "under"
+    },
+    {
+      "question": "The prefix 'un-' means 'not'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses quotation marks correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["\"Hello,\" said Tom.", "Hello, said Tom.", "\"Hello\" said Tom.", "Hello, \"said Tom\"."],
+      "correctAnswer": "\"Hello,\" said Tom."
+    },
+    {
+      "question": "What is the comparative form of 'good'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["better", "gooder", "more good", "best"],
+      "correctAnswer": "better"
+    },
+    {
+      "question": "A paragraph should have at least one main idea.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is an antonym for 'difficult'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["easy", "hard", "challenging", "tough"],
+      "correctAnswer": "easy"
+    },
+    {
+      "question": "What is the plural of 'mouse'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["mice", "mouses", "mouse", "mices"],
+      "correctAnswer": "mice"
+    },
+    {
+      "question": "The suffix '-ful' means 'full of'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence is in the future tense?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["I will go to the cinema tomorrow.", "I went to the cinema yesterday.", "I am at the cinema now.", "I go to the cinema often."],
+      "correctAnswer": "I will go to the cinema tomorrow."
+    },
+    {
+      "question": "How is 'organisation' spelled in British English?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["organisation", "organization", "organisasion", "organizacion"],
+      "correctAnswer": "organisation"
+    },
+    {
+      "question": "An adjective describes a noun.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a conjunction?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["but", "quickly", "happy", "tree"],
+      "correctAnswer": "but"
+    },
+    {
+      "question": "What is the superlative form of 'tall'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["tallest", "taller", "more tall", "most tall"],
+      "correctAnswer": "tallest"
+    },
+    {
+      "question": "Homophones are words that sound the same but have different meanings.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses the correct form of 'its/it's'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["The dog wagged its tail.", "The dog wagged it's tail.", "Its a nice day.", "It's collar is red."],
+      "correctAnswer": "The dog wagged its tail."
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["written", "wrote", "writing", "writed"],
+      "correctAnswer": "written"
+    },
+    {
+      "question": "A simile uses 'like' or 'as' to compare two things.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word means 'very tired'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["exhausted", "sleepy", "awake", "rested"],
+      "correctAnswer": "exhausted"
+    },
+    {
+      "question": "What type of noun is 'London'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["proper noun", "common noun", "collective noun", "abstract noun"],
+      "correctAnswer": "proper noun"
+    },
+    {
+      "question": "The word 'they're' is a contraction of 'they are'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence has correct subject-verb agreement?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["She plays the piano.", "She play the piano.", "They plays the piano.", "He play the piano."],
+      "correctAnswer": "She plays the piano."
+    },
+    {
+      "question": "How many syllables are in the word 'beautiful'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "An adverb describes a verb.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is spelled correctly in British English?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["centre", "center", "centr", "centar"],
+      "correctAnswer": "centre"
+    },
+    {
+      "question": "What is the root word in 'unhappiness'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["happy", "unhappy", "happiness", "happily"],
+      "correctAnswer": "happy"
+    },
+    {
+      "question": "The past tense of 'go' is 'went'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses a metaphor?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Time is money.", "She runs like the wind.", "He is as brave as a lion.", "The flower is beautiful."],
+      "correctAnswer": "Time is money."
+    },
+    {
+      "question": "Which punctuation mark separates clauses in a compound sentence?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["comma", "full stop", "semicolon", "exclamation mark"],
+      "correctAnswer": "comma"
+    },
+    {
+      "question": "A verb in the present continuous tense ends in '-ing'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the plural of 'leaf'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["leaves", "leafs", "leafes", "leavs"],
+      "correctAnswer": "leaves"
+    },
+    {
+      "question": "Which word is a collective noun?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["team", "player", "game", "ball"],
+      "correctAnswer": "team"
+    },
+    {
+      "question": "The prefix 're-' means 'again'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses the passive voice?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["The cake was baked by Mum.", "Mum baked the cake.", "Mum is baking a cake.", "Mum bakes cakes."],
+      "correctAnswer": "The cake was baked by Mum."
+    },
+    {
+      "question": "What is the comparative form of 'bad'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["worse", "badder", "more bad", "worst"],
+      "correctAnswer": "worse"
+    },
+    {
+      "question": "Alliteration is the repetition of the same sound at the beginning of words.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a synonym for 'brave'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["courageous", "afraid", "scared", "timid"],
+      "correctAnswer": "courageous"
+    },
+    {
+      "question": "What is the past tense of 'swim'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["swam", "swimmed", "swum", "swimming"],
+      "correctAnswer": "swam"
+    },
+    {
+      "question": "The suffix '-less' means 'without'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses correct punctuation for direct speech?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["\"I'm going home,\" she said.", "I'm going home, she said.", "\"I'm going home\" she said.", "I'm going home, \"she said\"."],
+      "correctAnswer": "\"I'm going home,\" she said."
+    },
+    {
+      "question": "How is 'metre' (unit of measurement) spelled in British English?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["metre", "meter", "metar", "metur"],
+      "correctAnswer": "metre"
+    },
+    {
+      "question": "A noun phrase contains at least one noun.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is an abstract noun?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["happiness", "table", "tree", "mountain"],
+      "correctAnswer": "happiness"
+    },
+    {
+      "question": "What is the superlative form of 'far'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["farthest", "farrer", "more far", "most far"],
+      "correctAnswer": "farthest"
+    },
+    {
+      "question": "Onomatopoeia is when words sound like what they describe.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses the correct form of 'your/you're'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["You're going to love this book.", "Your going to love this book.", "You're book is on the table.", "Your very kind."],
+      "correctAnswer": "You're going to love this book."
+    },
+    {
+      "question": "What is the past participle of 'speak'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["spoken", "spoke", "speaking", "speaked"],
+      "correctAnswer": "spoken"
+    },
+    {
+      "question": "A colon can be used to introduce a list.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word means 'to look at something carefully'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["examine", "glance", "glimpse", "peek"],
+      "correctAnswer": "examine"
+    },
+    {
+      "question": "What type of word is 'because'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["conjunction", "preposition", "verb", "noun"],
+      "correctAnswer": "conjunction"
+    },
+    {
+      "question": "The word 'won't' is a contraction of 'will not'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence has correct subject-verb agreement?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["The children are playing outside.", "The children is playing outside.", "The child are playing outside.", "The children be playing outside."],
+      "correctAnswer": "The children are playing outside."
+    },
+    {
+      "question": "What is the root word in 'disagreement'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["agree", "disagree", "agreement", "disagreement"],
+      "correctAnswer": "agree"
+    },
+    {
+      "question": "The past tense of 'see' is 'saw'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses personification?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["The wind whispered through the trees.", "The wind was very strong.", "The trees moved in the wind.", "The wind blew all day."],
+      "correctAnswer": "The wind whispered through the trees."
+    },
+    {
+      "question": "Which word is an antonym for 'ancient'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["modern", "old", "historical", "prehistoric"],
+      "correctAnswer": "modern"
+    },
+    {
+      "question": "A semicolon can connect two independent clauses.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence is written in the present perfect tense?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["I have finished my homework.", "I finished my homework.", "I am finishing my homework.", "I will finish my homework."],
+      "correctAnswer": "I have finished my homework."
+    },
+    {
+      "question": "The words 'effect' and 'affect' mean the same thing.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the plural of 'sheep'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["sheep", "sheeps", "sheepes", "sheepen"],
+      "correctAnswer": "sheep"
+    },
+    {
+      "question": "Which word is a subordinating conjunction?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["although", "and", "but", "or"],
+      "correctAnswer": "although"
+    },
+    {
+      "question": "The prefix 'anti-' means 'against'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses a dependent clause?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Although it was raining, we went outside.", "It was raining.", "We went outside.", "It was raining, so we stayed inside."],
+      "correctAnswer": "Although it was raining, we went outside."
+    },
+    {
+      "question": "What is the past participle of 'break'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["broken", "broke", "breaking", "breaked"],
+      "correctAnswer": "broken"
+    },
+    {
+      "question": "A rhetorical question expects an answer.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which word is a synonym for 'reluctant'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["unwilling", "eager", "enthusiastic", "willing"],
+      "correctAnswer": "unwilling"
+    },
+    {
+      "question": "What is the comparative form of 'little'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["less", "littler", "more little", "lesser"],
+      "correctAnswer": "less"
+    },
+    {
+      "question": "The suffix '-able' means 'capable of being'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses correct punctuation for a parenthetical phrase?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["My friend, who lives in Geneva, is visiting.", "My friend who lives in Geneva is visiting.", "My friend (who lives in Geneva is visiting.", "My friend who lives in Geneva, is visiting."],
+      "correctAnswer": "My friend, who lives in Geneva, is visiting."
+    },
+    {
+      "question": "How is 'honour' spelled in British English?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["honour", "honor", "honnor", "honeur"],
+      "correctAnswer": "honour"
+    },
+    {
+      "question": "An independent clause can stand alone as a complete sentence.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a possessive pronoun?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["hers", "her", "she", "herself"],
+      "correctAnswer": "hers"
+    },
+    {
+      "question": "What is the superlative form of 'much'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["most", "mucher", "more", "muchest"],
+      "correctAnswer": "most"
+    },
+    {
+      "question": "Hyperbole is extreme exaggeration for emphasis.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses the subjunctive mood?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["If I were you, I would study harder.", "If I was you, I would study harder.", "I am studying harder.", "I studied harder yesterday."],
+      "correctAnswer": "If I were you, I would study harder."
+    },
+    {
+      "question": "What is the past tense of 'teach'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["taught", "teached", "teaching", "teaches"],
+      "correctAnswer": "taught"
+    },
+    {
+      "question": "A dash can be used to show an interruption in thought.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word means 'to make something less severe'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["mitigate", "aggravate", "escalate", "intensify"],
+      "correctAnswer": "mitigate"
+    },
+    {
+      "question": "What type of word is 'throughout'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["preposition", "conjunction", "verb", "noun"],
+      "correctAnswer": "preposition"
+    },
+    {
+      "question": "The word 'could've' is a contraction of 'could have'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses an appositive correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["My teacher, Mrs Smith, is very kind.", "My teacher Mrs Smith is very kind.", "My teacher, Mrs Smith is very kind.", "My teacher Mrs Smith, is very kind."],
+      "correctAnswer": "My teacher, Mrs Smith, is very kind."
+    },
+    {
+      "question": "What is the root word in 'inconceivable'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["conceive", "conceivable", "inconceivable", "in"],
+      "correctAnswer": "conceive"
+    },
+    {
+      "question": "The past participle of 'fly' is 'flown'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses imagery?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["The crimson sunset painted the sky with streaks of gold.", "The sun set in the evening.", "It was a nice sunset.", "The sunset was beautiful."],
+      "correctAnswer": "The crimson sunset painted the sky with streaks of gold."
+    },
+    {
+      "question": "Which word is an antonym for 'abundant'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["scarce", "plentiful", "numerous", "copious"],
+      "correctAnswer": "scarce"
+    },
+    {
+      "question": "An ellipsis indicates omitted words or a pause.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence is in the past perfect tense?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["She had already left when I arrived.", "She left when I arrived.", "She is leaving when I arrive.", "She will leave when I arrive."],
+      "correctAnswer": "She had already left when I arrived."
+    },
+    {
+      "question": "The words 'principal' and 'principle' are homophones with different meanings.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the plural of 'criterion'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["criteria", "criterions", "criterioes", "criterias"],
+      "correctAnswer": "criteria"
+    },
+    {
+      "question": "Which word is a correlative conjunction?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["either...or", "because", "although", "however"],
+      "correctAnswer": "either...or"
+    },
+    {
+      "question": "The prefix 'circum-' means 'around'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses a participial phrase?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Running quickly, she caught the bus.", "She ran quickly.", "She caught the bus.", "The bus was running late."],
+      "correctAnswer": "Running quickly, she caught the bus."
+    },
+    {
+      "question": "What is the past participle of 'choose'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["chosen", "chose", "choosing", "choosed"],
+      "correctAnswer": "chosen"
+    },
+    {
+      "question": "An oxymoron combines contradictory terms.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a synonym for 'meticulous'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["thorough", "careless", "hasty", "negligent"],
+      "correctAnswer": "thorough"
+    },
+    {
+      "question": "What is the comparative form of 'beautiful'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["more beautiful", "beautifuler", "most beautiful", "beautifullest"],
+      "correctAnswer": "more beautiful"
+    },
+    {
+      "question": "The suffix '-ology' means 'the study of'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses correct punctuation for a list with internal commas?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["I visited Paris, France; Rome, Italy; and Berlin, Germany.", "I visited Paris, France, Rome, Italy, and Berlin, Germany.", "I visited Paris France; Rome Italy; and Berlin Germany.", "I visited Paris, France: Rome, Italy: and Berlin, Germany."],
+      "correctAnswer": "I visited Paris, France; Rome, Italy; and Berlin, Germany."
+    },
+    {
+      "question": "How is 'theatre' (performance venue) spelled in British English?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["theatre", "theater", "theatr", "theatar"],
+      "correctAnswer": "theatre"
+    },
+    {
+      "question": "A complex sentence contains one independent clause and at least one dependent clause.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word is a reflexive pronoun?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["themselves", "them", "they", "their"],
+      "correctAnswer": "themselves"
+    },
+    {
+      "question": "What is the superlative form of 'interesting'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["most interesting", "interestingest", "more interesting", "interestinger"],
+      "correctAnswer": "most interesting"
+    },
+    {
+      "question": "Irony is when the literal meaning differs from the intended meaning.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses the conditional perfect tense?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["I would have gone if I had known.", "I would go if I knew.", "I will go if I know.", "I went because I knew."],
+      "correctAnswer": "I would have gone if I had known."
+    },
+    {
+      "question": "What is the past tense of 'sink'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["sank", "sinked", "sunk", "sinking"],
+      "correctAnswer": "sank"
+    },
+    {
+      "question": "Parentheses can enclose supplementary information.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which word means 'to spread or disperse widely'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["disseminate", "collect", "gather", "accumulate"],
+      "correctAnswer": "disseminate"
+    },
+    {
+      "question": "What type of word is 'consequently'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["adverb", "conjunction", "preposition", "verb"],
+      "correctAnswer": "adverb"
+    },
+    {
+      "question": "The word 'shouldn't' is a contraction of 'should not'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses parallel structure correctly?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["She likes reading, writing, and running.", "She likes reading, to write, and running.", "She likes to read, writing, and to run.", "She likes reading, writes, and to run."],
+      "correctAnswer": "She likes reading, writing, and running."
+    },
+    {
+      "question": "What is the root word in 'biodegradable'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["degrade", "bio", "grade", "able"],
+      "correctAnswer": "degrade"
+    },
+    {
+      "question": "The past participle of 'ring' is 'rung'.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sentence uses foreshadowing?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Dark clouds gathered on the horizon, hinting at the storm to come.", "It was a sunny day.", "The weather was pleasant.", "We enjoyed the sunshine."],
+      "correctAnswer": "Dark clouds gathered on the horizon, hinting at the storm to come."
+    },
+    {
+      "question": "Which word is an antonym for 'benevolent'?",
+      "type": "multiple-choice",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["malevolent", "kind", "generous", "charitable"],
+      "correctAnswer": "malevolent"
+    },
+    {
+      "question": "An apostrophe is used in contractions to show missing letters.",
+      "type": "true-false",
+      "subject": "english",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    }
+  ]
+}

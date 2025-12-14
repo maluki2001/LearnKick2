@@ -1,0 +1,1847 @@
+{
+  "questions": [
+    {
+      "question": "What is 3 + 4?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Count the apples: 🍎🍎🍎🍎🍎. How many are there?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "5"
+    },
+    {
+      "question": "5 is greater than 3.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 10 - 2?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Which number comes after 7?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "2 + 2 = 4",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "You have 6 sweets and eat 2. How many are left?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "4"
+    },
+    {
+      "question": "What is 1 + 9?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Which shape has 3 sides?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correctAnswer": "Triangle"
+    },
+    {
+      "question": "8 - 5 = 3",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A square has 4 equal sides.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is half of 10?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "You have CHF 5 and spend CHF 2. How much is left?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "3"
+    },
+    {
+      "question": "What is 7 + 6?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "15 - 8 = 7",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "How many sides does a rectangle have?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "4"
+    },
+    {
+      "question": "9 + 4 = 13",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 20 - 10?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["5", "10", "15", "20"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Which number is the smallest?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["12", "7", "15", "9"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "6 + 6 = 11",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "false"
+    },
+    {
+      "question": "What is double 4?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "8"
+    },
+    {
+      "question": "A circle has corners.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "false"
+    },
+    {
+      "question": "What is 11 + 5?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["14", "15", "16", "17"],
+      "correctAnswer": "16"
+    },
+    {
+      "question": "14 - 9 = 5",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "You buy a toy for CHF 8 and give CHF 10. How much change do you get?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "2"
+    },
+    {
+      "question": "What is 17 - 8?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "10 + 10 = 20",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "How many centimetres are in half a metre?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["25", "50", "75", "100"],
+      "correctAnswer": "50"
+    },
+    {
+      "question": "What is 12 + 8?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "20"
+    },
+    {
+      "question": "What is 5 × 2?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["8", "9", "10", "12"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "12 ÷ 2 = 6",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 25 + 15?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "40"
+    },
+    {
+      "question": "What is 30 - 12?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["16", "17", "18", "19"],
+      "correctAnswer": "18"
+    },
+    {
+      "question": "3 × 4 = 12",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A chocolate bar costs CHF 3. How much do 2 bars cost?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "6"
+    },
+    {
+      "question": "What is double 15?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["25", "28", "30", "32"],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "20 ÷ 4 = 5",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is half of 24?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Which number is even?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["13", "15", "16", "17"],
+      "correctAnswer": "16"
+    },
+    {
+      "question": "All odd numbers end in 1, 3, 5, 7, or 9.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 6 × 3?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "18"
+    },
+    {
+      "question": "You have CHF 20 and spend CHF 7. How much is left?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "45 + 25 = 70",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 8 × 5?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "40"
+    },
+    {
+      "question": "A ruler is 30 centimetres long. How many millimetres is this?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["30", "100", "300", "3000"],
+      "correctAnswer": "300"
+    },
+    {
+      "question": "100 - 37 = 63",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 18 ÷ 3?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Which number is missing: 10, 20, 30, ?, 50",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["35", "40", "45", "55"],
+      "correctAnswer": "40"
+    },
+    {
+      "question": "7 × 7 = 49",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 9 × 4?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "36"
+    },
+    {
+      "question": "A book costs CHF 12 and a pen costs CHF 3. What is the total?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["14", "15", "16", "17"],
+      "correctAnswer": "15"
+    },
+    {
+      "question": "56 ÷ 8 = 7",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 75 - 29?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "46"
+    },
+    {
+      "question": "What is the next number in the pattern: 3, 6, 9, 12, ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["13", "14", "15", "16"],
+      "correctAnswer": "15"
+    },
+    {
+      "question": "A quarter is the same as one fourth.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "How many minutes are in 2 hours?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "120"
+    },
+    {
+      "question": "What is 11 × 6?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["60", "64", "66", "72"],
+      "correctAnswer": "66"
+    },
+    {
+      "question": "48 ÷ 6 = 8",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "You buy 3 apples at CHF 2 each. How much do you pay?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "6"
+    },
+    {
+      "question": "What is 125 + 75?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["190", "195", "200", "205"],
+      "correctAnswer": "200"
+    },
+    {
+      "question": "What is 12 × 8?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["84", "88", "92", "96"],
+      "correctAnswer": "96"
+    },
+    {
+      "question": "72 ÷ 9 = 8",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 150 + 250?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "400"
+    },
+    {
+      "question": "How many centimetres are in 1 metre?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["10", "50", "100", "1000"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "1 kilometre = 1000 metres",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 7 × 9?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "63"
+    },
+    {
+      "question": "A pencil case costs CHF 15. How much do 3 pencil cases cost?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["40", "45", "50", "55"],
+      "correctAnswer": "45"
+    },
+    {
+      "question": "300 - 125 = 175",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 64 ÷ 8?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "8"
+    },
+    {
+      "question": "What is half of 90?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["40", "42", "45", "48"],
+      "correctAnswer": "45"
+    },
+    {
+      "question": "A right angle is 90 degrees.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is the perimeter of a square with sides of 5 cm?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "20"
+    },
+    {
+      "question": "Which fraction is equivalent to one half?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["2/3", "2/4", "3/4", "1/3"],
+      "correctAnswer": "2/4"
+    },
+    {
+      "question": "1/4 is smaller than 1/2.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A train journey takes 3 hours and 45 minutes. How many minutes is this in total?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "225"
+    },
+    {
+      "question": "What is 15 × 6?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["80", "85", "90", "95"],
+      "correctAnswer": "90"
+    },
+    {
+      "question": "144 ÷ 12 = 12",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A rectangle has a length of 8 cm and width of 3 cm. What is its area?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "24"
+    },
+    {
+      "question": "You have CHF 50 and spend CHF 27. How much change do you have?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["21", "22", "23", "24"],
+      "correctAnswer": "23"
+    },
+    {
+      "question": "500 millilitres is half a litre.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 234 + 178?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "412"
+    },
+    {
+      "question": "How many grams are in 2.5 kilograms?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["250", "1250", "2500", "5000"],
+      "correctAnswer": "2500"
+    },
+    {
+      "question": "3/4 is greater than 2/3.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A book has 248 pages. You read 139 pages. How many pages are left?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "109"
+    },
+    {
+      "question": "What is 25 × 12?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["250", "275", "300", "325"],
+      "correctAnswer": "300"
+    },
+    {
+      "question": "The perimeter of a triangle with sides 5 cm, 6 cm, and 7 cm is 18 cm.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A cinema ticket costs CHF 12. How many tickets can you buy with CHF 100?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "8"
+    },
+    {
+      "question": "What is 156 ÷ 12?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "0.5 is the same as 1/2.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A garden is 12 metres long and 8 metres wide. What is its area in square metres?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "96"
+    },
+    {
+      "question": "What is 999 + 111?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 4,
+      "language": "en",
+      "correctAnswer": "1110",
+      "options": ["1000", "1100", "1110", "1111"]
+    },
+    {
+      "question": "What is 24 × 15?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["340", "350", "360", "370"],
+      "correctAnswer": "360"
+    },
+    {
+      "question": "1000 ÷ 25 = 40",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 3.5 + 2.8?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "6.3"
+    },
+    {
+      "question": "How many metres are in 3 kilometres?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["300", "1000", "3000", "30000"],
+      "correctAnswer": "3000"
+    },
+    {
+      "question": "2/5 + 1/5 = 3/5",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A rectangle has an area of 48 square cm and a width of 6 cm. What is its length?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "8"
+    },
+    {
+      "question": "What is 18 × 25?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["400", "425", "450", "475"],
+      "correctAnswer": "450"
+    },
+    {
+      "question": "10% of 200 is 20.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 5.6 - 2.9?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "2.7"
+    },
+    {
+      "question": "A bottle contains 2.5 litres. How many millilitres is this?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["250", "500", "1500", "2500"],
+      "correctAnswer": "2500"
+    },
+    {
+      "question": "An obtuse angle is greater than 90 degrees.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is the area of a square with sides of 9 cm?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "81"
+    },
+    {
+      "question": "A train travels 180 km in 2 hours. What is its average speed?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["80 km/h", "85 km/h", "90 km/h", "95 km/h"],
+      "correctAnswer": "90 km/h"
+    },
+    {
+      "question": "3/4 of 60 is 45.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A bicycle costs CHF 350. If it's on sale for 20% off, what is the new price?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "280"
+    },
+    {
+      "question": "What is 456 × 8?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["3448", "3548", "3648", "3748"],
+      "correctAnswer": "3648"
+    },
+    {
+      "question": "1.25 kilometres equals 1250 metres.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 2/3 of 90?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "60"
+    },
+    {
+      "question": "A triangle has angles of 60°, 60°, and 60°. What type of triangle is it?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Right triangle", "Equilateral triangle", "Isosceles triangle", "Scalene triangle"],
+      "correctAnswer": "Equilateral triangle"
+    },
+    {
+      "question": "The sum of angles in a triangle is 180 degrees.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 784 ÷ 16?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "49"
+    },
+    {
+      "question": "A swimming pool is 25 metres long, 10 metres wide, and 2 metres deep. What is its volume?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["400 m³", "450 m³", "500 m³", "550 m³"],
+      "correctAnswer": "500 m³"
+    },
+    {
+      "question": "0.75 is equivalent to 75%.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 25% of 160?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "40"
+    },
+    {
+      "question": "A shop sells watches for CHF 85 each. How many can you buy with CHF 500?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "A prime number has exactly two factors.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A car travels 420 km using 35 litres of fuel. How many kilometres per litre does it average?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "What is 15² (15 squared)?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["200", "215", "225", "235"],
+      "correctAnswer": "225"
+    },
+    {
+      "question": "The perimeter of a square with area 64 cm² is 32 cm.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A classroom has 28 students. If 3/7 are girls, how many girls are there?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "What is 1235 - 768?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["457", "467", "477", "487"],
+      "correctAnswer": "467"
+    },
+    {
+      "question": "Converting 3.6 metres to centimetres gives 360 cm.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 35 × 24?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["800", "820", "840", "860"],
+      "correctAnswer": "840"
+    },
+    {
+      "question": "50% of 80 equals 40.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 12.5 × 8?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "100"
+    },
+    {
+      "question": "A rectangular garden is 15 m long and 8 m wide. What is its perimeter?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["38 m", "42 m", "46 m", "50 m"],
+      "correctAnswer": "46 m"
+    },
+    {
+      "question": "2.5 kilograms equals 2500 grams.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 3/8 + 1/8?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "0.5"
+    },
+    {
+      "question": "A chocolate bar costs CHF 3.50. How much do 12 bars cost?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["40.00", "41.00", "42.00", "43.00"],
+      "correctAnswer": "42.00"
+    },
+    {
+      "question": "The area of a circle with radius 5 cm is approximately 78.5 cm².",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 840 ÷ 21?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "40"
+    },
+    {
+      "question": "What is 0.6 × 0.5?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["0.3", "0.35", "0.4", "0.45"],
+      "correctAnswer": "0.3"
+    },
+    {
+      "question": "A parallelogram has two pairs of parallel sides.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 7/10 as a decimal?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "0.7"
+    },
+    {
+      "question": "A baker makes 144 croissants. He sells 5/8 of them. How many are left?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["48", "52", "54", "56"],
+      "correctAnswer": "54"
+    },
+    {
+      "question": "15% of 200 is 30.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A train departs at 08:45 and arrives at 11:20. How many minutes is the journey?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "155"
+    },
+    {
+      "question": "What is the least common multiple (LCM) of 6 and 8?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["12", "16", "24", "48"],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "A cube has 12 edges.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 5/6 - 1/3?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "0.5"
+    },
+    {
+      "question": "A laptop costs CHF 850 before tax. With 8% tax added, what is the total price?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["900.00", "918.00", "925.00", "935.00"],
+      "correctAnswer": "918.00"
+    },
+    {
+      "question": "The mean of 10, 20, 30, and 40 is 25.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 3.6 ÷ 0.9?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "4"
+    },
+    {
+      "question": "A cylinder has a radius of 4 cm and height of 10 cm. What is its volume? (Use π ≈ 3.14)",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["452.16 cm³", "502.4 cm³", "502.65 cm³", "552.8 cm³"],
+      "correctAnswer": "502.4 cm³"
+    },
+    {
+      "question": "Converting 0.35 to a percentage gives 35%.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A shop increases prices by 20% then reduces them by 20%. Are prices back to the original?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "0"
+    },
+    {
+      "question": "What is 18% of 450?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["75", "78", "81", "84"],
+      "correctAnswer": "81"
+    },
+    {
+      "question": "A ratio of 3:5 is the same as 6:10.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A car travels 240 km in 3 hours and 20 minutes. What is its average speed in km/h?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "72"
+    },
+    {
+      "question": "What is the greatest common divisor (GCD) of 48 and 72?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["12", "16", "24", "36"],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "The interior angles of a pentagon sum to 540 degrees.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A recipe needs 2.5 kg of flour for 8 people. How many grams per person?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "312.5"
+    },
+    {
+      "question": "What is 2/5 × 3/4?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["3/10", "6/20", "3/5", "Both A and B"],
+      "correctAnswer": "Both A and B"
+    },
+    {
+      "question": "A square and a rectangle can have the same perimeter but different areas.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 45² - 35²?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["700", "750", "800", "850"],
+      "correctAnswer": "800"
+    },
+    {
+      "question": "The square root of 144 is 12.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 3/4 ÷ 1/2?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "1.5"
+    },
+    {
+      "question": "A circle has a diameter of 14 cm. What is its radius?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "correctAnswer": "7 cm"
+    },
+    {
+      "question": "25% is equivalent to 1/4.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A smartphone costs CHF 720 with a 15% discount. What was the original price?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "847.06"
+    },
+    {
+      "question": "What is 156 × 25?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["3800", "3850", "3900", "3950"],
+      "correctAnswer": "3900"
+    },
+    {
+      "question": "The volume of a cube with edge length 5 cm is 125 cm³.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 8.4 ÷ 0.7?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "A triangle has sides of 6 cm, 8 cm, and 10 cm. What type is it?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Equilateral", "Isosceles", "Right-angled", "Obtuse"],
+      "correctAnswer": "Right-angled"
+    },
+    {
+      "question": "If a:b = 3:4 and b:c = 2:5, then a:c = 3:10.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is the median of: 12, 15, 18, 22, 25, 30?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "20"
+    },
+    {
+      "question": "A rectangular prism has dimensions 4 cm × 5 cm × 6 cm. What is its volume?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["100 cm³", "110 cm³", "120 cm³", "130 cm³"],
+      "correctAnswer": "120 cm³"
+    },
+    {
+      "question": "Converting 3/8 to a decimal gives 0.375.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A cyclist travels 45 km in 2.5 hours. What is the average speed in km/h?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "18"
+    },
+    {
+      "question": "What is 35% of 280?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["88", "92", "96", "98"],
+      "correctAnswer": "98"
+    },
+    {
+      "question": "A regular hexagon has 6 lines of symmetry.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is the circumference of a circle with radius 10 cm? (Use π ≈ 3.14)",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "62.8"
+    },
+    {
+      "question": "A water tank is 80% full with 240 litres. What is its total capacity?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["280 litres", "300 litres", "320 litres", "350 litres"],
+      "correctAnswer": "300 litres"
+    },
+    {
+      "question": "The probability of rolling a 3 on a fair die is 1/6.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is 2.5³ (2.5 cubed)?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "15.625"
+    },
+    {
+      "question": "A map has a scale of 1:50,000. A distance of 3 cm on the map represents how many kilometres?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "1.5",
+      "options": ["1.5", "2.0", "2.5", "3.0"]
+    },
+    {
+      "question": "The sum of the first 10 positive integers is 55.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "What is the surface area of a cube with edge length 6 cm?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "correctAnswer": "216"
+    },
+    {
+      "question": "A shop sells items at CHF 45 each. After selling 18 items, what is the total revenue?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["780", "800", "810", "820"],
+      "correctAnswer": "810"
+    },
+    {
+      "question": "If x + 12 = 35, then x = 23.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A rectangular garden is 18 m by 12 m. A path 2 m wide runs around the outside. What is the total area including the path?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "352"
+    },
+    {
+      "question": "What is the range of this data set: 23, 45, 12, 67, 34, 89, 15?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["74", "75", "76", "77"],
+      "correctAnswer": "77"
+    },
+    {
+      "question": "A prime number greater than 2 must be odd.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A savings account has CHF 5000 at 4% annual interest. What is the interest after one year?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "200"
+    },
+    {
+      "question": "What is the value of 3x + 7 when x = 5?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["18", "20", "22", "24"],
+      "correctAnswer": "22"
+    },
+    {
+      "question": "The area of a trapezium with parallel sides 8 cm and 12 cm, and height 5 cm is 50 cm².",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A box contains 5 red balls, 3 blue balls, and 2 green balls. What is the probability of picking a blue ball?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "0.3"
+    },
+    {
+      "question": "What is 5/8 + 3/16?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["11/16", "13/16", "15/16", "17/16"],
+      "correctAnswer": "13/16"
+    },
+    {
+      "question": "If 3y - 8 = 19, then y = 9.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A train travels at 90 km/h for 2.5 hours, then 60 km/h for 1.5 hours. What is the total distance?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "315"
+    },
+    {
+      "question": "What is the area of a triangle with base 16 cm and height 9 cm?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["66 cm²", "70 cm²", "72 cm²", "76 cm²"],
+      "correctAnswer": "72 cm²"
+    },
+    {
+      "question": "Converting 7/20 to a percentage gives 35%.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A cylindrical water tank has radius 3 m and height 5 m. What is its volume in cubic metres? (Use π ≈ 3.14)",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "correctAnswer": "141.3"
+    },
+    {
+      "question": "What is the least common multiple of 12, 15, and 20?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["60", "90", "120", "180"],
+      "correctAnswer": "60"
+    },
+    {
+      "question": "If a:b = 2:3 and the sum a + b = 45, then a = 18.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "A shop marks up goods by 40% then offers a 25% discount. What is the overall percentage change?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "correctAnswer": "5"
+    }
+  ]
+}

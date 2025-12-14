@@ -1,0 +1,2399 @@
+[
+  {
+    "question": "Was ist eine Metapher?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein direkter Vergleich ohne 'wie'",
+      "Eine starke Übertreibung",
+      "Ein Vergleich mit 'wie'",
+      "Eine Wiederholung von Wörtern"
+    ],
+    "correctAnswer": "Ein direkter Vergleich ohne 'wie'",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Welcher Satz enthält eine Hyperbel?",
+    "type": "multiple-choice",
+    "options": [
+      "Das Buch war interessant.",
+      "Ich habe tausendmal gesagt, du sollst aufräumen!",
+      "Der Hund bellte laut.",
+      "Sie ging langsam nach Hause."
+    ],
+    "correctAnswer": "Ich habe tausendmal gesagt, du sollst aufräumen!",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Welches Wort ist ein typischer Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Fahrrad",
+      "Velo",
+      "Rad",
+      "Drahtesel"
+    ],
+    "correctAnswer": "Velo",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Im Satz 'Der Wind flüstert durch die Bäume' wird der Wind personifiziert.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'büscheln' in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "Etwas bündeln",
+      "Etwas wegwerfen",
+      "Etwas verlieren",
+      "Etwas finden"
+    ],
+    "correctAnswer": "Etwas wegwerfen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Welche Zeitform wird im Satz 'Ich werde morgen nach Zürich fahren' verwendet?",
+    "type": "multiple-choice",
+    "options": [
+      "Präsens",
+      "Präteritum",
+      "Futur I",
+      "Perfekt"
+    ],
+    "correctAnswer": "Futur I",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Ein Vergleich mit 'wie' heisst Metapher.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Welcher Satz enthält ein Modalverb?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie geht in die Schule.",
+      "Er muss seine Hausaufgaben machen.",
+      "Wir spielten Fussball.",
+      "Das Buch liegt auf dem Tisch."
+    ],
+    "correctAnswer": "Er muss seine Hausaufgaben machen.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Was ist ein Synonym für 'grüezi'?",
+    "type": "multiple-choice",
+    "options": [
+      "Auf Wiedersehen",
+      "Guten Tag",
+      "Gute Nacht",
+      "Danke"
+    ],
+    "correctAnswer": "Guten Tag",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Im Schweizer Hochdeutsch schreibt man 'Strasse' mit 'ss' statt 'ß'.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Welches stilistische Mittel liegt vor: 'Die Zeit rennt'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Personifikation",
+      "Hyperbel",
+      "Vergleich"
+    ],
+    "correctAnswer": "Personifikation",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'parkieren' in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "Fahren",
+      "Parken",
+      "Bremsen",
+      "Beschleunigen"
+    ],
+    "correctAnswer": "Parken",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Der Konjunktiv I wird hauptsächlich für die indirekte Rede verwendet.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welcher Satz steht im Konjunktiv I?",
+    "type": "multiple-choice",
+    "options": [
+      "Er sagt, er kommt morgen.",
+      "Er sagt, er komme morgen.",
+      "Er sagte, er käme morgen.",
+      "Er wird morgen kommen."
+    ],
+    "correctAnswer": "Er sagt, er komme morgen.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Eine Alliteration ist die Wiederholung von Anfangslauten.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Mittagessen",
+      "Znüni",
+      "Frühstück",
+      "Abendessen"
+    ],
+    "correctAnswer": "Znüni",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Attribut?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Beifügung zu einem Nomen",
+      "Ein Satzglied",
+      "Eine Zeitform",
+      "Ein Pronomen"
+    ],
+    "correctAnswer": "Eine Beifügung zu einem Nomen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Ein Adverb beschreibt ein Verb, Adjektiv oder anderes Adverb näher.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Fischer's Fritz fischt frische Fische'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Alliteration",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Alliteration",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Güsel' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Geschenk",
+      "Abfall",
+      "Essen",
+      "Getränk"
+    ],
+    "correctAnswer": "Abfall",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Das Präteritum ist die einfache Vergangenheitsform.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welcher Satz enthält eine Metapher?",
+    "type": "multiple-choice",
+    "options": [
+      "Er ist stark wie ein Bär.",
+      "Er ist ein Bär.",
+      "Der Bär ist gross.",
+      "Er sieht einen Bären."
+    ],
+    "correctAnswer": "Er ist ein Bär.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was ist ein Akkusativobjekt?",
+    "type": "multiple-choice",
+    "options": [
+      "Objekt im 1. Fall",
+      "Objekt im 2. Fall",
+      "Objekt im 3. Fall",
+      "Objekt im 4. Fall"
+    ],
+    "correctAnswer": "Objekt im 4. Fall",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Relativpronomen leiten Relativsätze ein.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Wort ist ein Schweizer Ausdruck?",
+    "type": "multiple-choice",
+    "options": [
+      "Tasche",
+      "Sack",
+      "Beutel",
+      "Tüte"
+    ],
+    "correctAnswer": "Sack",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was bedeutet 'schnuderluudi' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Schnell",
+      "Langsam",
+      "Egal, gleichgültig",
+      "Vorsichtig"
+    ],
+    "correctAnswer": "Egal, gleichgültig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Nebensatz kann auch vor dem Hauptsatz stehen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welche Konjunktion leitet einen kausalen Nebensatz ein?",
+    "type": "multiple-choice",
+    "options": [
+      "Obwohl",
+      "Weil",
+      "Damit",
+      "Als"
+    ],
+    "correctAnswer": "Weil",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist ein Oxymoron?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine starke Übertreibung",
+      "Die Verbindung widersprüchlicher Begriffe",
+      "Eine bildhafte Darstellung",
+      "Eine rhetorische Frage"
+    ],
+    "correctAnswer": "Die Verbindung widersprüchlicher Begriffe",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Das Perfekt wird mit 'haben' oder 'sein' und dem Partizip II gebildet.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welcher Begriff ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Gehsteig",
+      "Trottoir",
+      "Bürgersteig",
+      "Fussweg"
+    ],
+    "correctAnswer": "Trottoir",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Genitivobjekt?",
+    "type": "multiple-choice",
+    "options": [
+      "Objekt im 1. Fall",
+      "Objekt im 2. Fall",
+      "Objekt im 3. Fall",
+      "Objekt im 4. Fall"
+    ],
+    "correctAnswer": "Objekt im 2. Fall",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Ein Ellipse ist ein unvollständiger Satz, bei dem Teile weggelassen werden.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'bittere Süsse'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Oxymoron",
+      "Hyperbel",
+      "Alliteration"
+    ],
+    "correctAnswer": "Oxymoron",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Billet' in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "Brief",
+      "Fahrkarte",
+      "Geld",
+      "Notiz"
+    ],
+    "correctAnswer": "Fahrkarte",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Reflexive Verben benötigen ein Reflexivpronomen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Satz enthält ein Reflexivpronomen?",
+    "type": "multiple-choice",
+    "options": [
+      "Er sieht den Hund.",
+      "Sie freut sich auf das Wochenende.",
+      "Wir gehen spazieren.",
+      "Du liest ein Buch."
+    ],
+    "correctAnswer": "Sie freut sich auf das Wochenende.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist ein Tempussatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Satz, der einen Grund angibt",
+      "Ein Satz, der eine Zeit angibt",
+      "Ein Satz, der eine Bedingung angibt",
+      "Ein Satz, der einen Ort angibt"
+    ],
+    "correctAnswer": "Ein Satz, der eine Zeit angibt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Ein Konditionalsatz gibt eine Bedingung an.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Wort leitet einen Konzessivsatz ein?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil",
+      "Obwohl",
+      "Damit",
+      "Wenn"
+    ],
+    "correctAnswer": "Obwohl",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Zmorge' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Mittagessen",
+      "Frühstück",
+      "Abendessen",
+      "Snack"
+    ],
+    "correctAnswer": "Frühstück",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Das Futur II wird mit 'werden' + Partizip II + 'haben' oder 'sein' gebildet.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel liegt vor: 'Alle Kinder lieben Schokolade'?",
+    "type": "multiple-choice",
+    "options": [
+      "Hyperbel",
+      "Generalisierung",
+      "Metapher",
+      "Personifikation"
+    ],
+    "correctAnswer": "Generalisierung",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was ist ein Finalsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Satz, der eine Absicht angibt",
+      "Ein Satz, der eine Zeit angibt",
+      "Ein Satz, der einen Grund angibt",
+      "Ein Satz, der einen Ort angibt"
+    ],
+    "correctAnswer": "Ein Satz, der eine Absicht angibt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Die Konjunktion 'damit' leitet einen Finalsatz ein.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Kartoffel",
+      "Härdöpfel",
+      "Erdapfel",
+      "Grundbirne"
+    ],
+    "correctAnswer": "Härdöpfel",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Partizip I?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Grundform des Verbs",
+      "Die Mittelwortform der Gegenwart",
+      "Die Mittelwortform der Vergangenheit",
+      "Eine Zukunftsform"
+    ],
+    "correctAnswer": "Die Mittelwortform der Gegenwart",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Das Partizip I wird durch Anhängen von '-end' an den Verbstamm gebildet.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist eine rhetorische Frage?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Frage, die eine Antwort erwartet",
+      "Eine Frage, auf die keine Antwort erwartet wird",
+      "Eine Frage an sich selbst",
+      "Eine indirekte Frage"
+    ],
+    "correctAnswer": "Eine Frage, auf die keine Antwort erwartet wird",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'luege' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Lügen",
+      "Schauen",
+      "Hören",
+      "Sprechen"
+    ],
+    "correctAnswer": "Schauen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Adversativsatz drückt einen Gegensatz aus.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welche Konjunktion leitet einen Adversativsatz ein?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil",
+      "Während",
+      "Damit",
+      "Als"
+    ],
+    "correctAnswer": "Während",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Anapher?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Wiederholung von Wörtern am Satzende",
+      "Die Wiederholung von Wörtern am Satzanfang",
+      "Die Wiederholung von Vokalen",
+      "Die Wiederholung von Konsonanten"
+    ],
+    "correctAnswer": "Die Wiederholung von Wörtern am Satzanfang",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Das Plusquamperfekt ist die Vorvergangenheit.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Stuhl",
+      "Sessel",
+      "Fauteuil",
+      "Schemel"
+    ],
+    "correctAnswer": "Fauteuil",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Konsekutivsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Satz, der eine Folge angibt",
+      "Ein Satz, der einen Grund angibt",
+      "Ein Satz, der eine Zeit angibt",
+      "Ein Satz, der eine Bedingung angibt"
+    ],
+    "correctAnswer": "Ein Satz, der eine Folge angibt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Die Konjunktion 'sodass' leitet einen Konsekutivsatz ein.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Feuer und Flamme sein'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Idiom/Redewendung",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Idiom/Redewendung",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Schüeli' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Schule",
+      "Schaukel",
+      "Schuh",
+      "Schüssel"
+    ],
+    "correctAnswer": "Schaukel",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Komparativsatz vergleicht zwei Sachverhalte.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welche Konjunktion leitet einen Komparativsatz ein?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil",
+      "Als",
+      "Damit",
+      "Obwohl"
+    ],
+    "correctAnswer": "Als",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Epipher?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Wiederholung von Wörtern am Satzanfang",
+      "Die Wiederholung von Wörtern am Satzende",
+      "Die Wiederholung von Vokalen",
+      "Die Wiederholung von Konsonanten"
+    ],
+    "correctAnswer": "Die Wiederholung von Wörtern am Satzende",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Ein Infinitivsatz enthält ein Verb im Infinitiv mit 'zu'.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Portemonnaie",
+      "Geldbörse",
+      "Portmonee",
+      "Geldbeutel"
+    ],
+    "correctAnswer": "Portmonee",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Modalsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Satz, der die Art und Weise angibt",
+      "Ein Satz, der eine Zeit angibt",
+      "Ein Satz, der einen Grund angibt",
+      "Ein Satz, der eine Bedingung angibt"
+    ],
+    "correctAnswer": "Ein Satz, der die Art und Weise angibt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Die Konjunktion 'indem' leitet einen Modalsatz ein.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Die Sonne lacht'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Personifikation",
+      "Hyperbel",
+      "Vergleich"
+    ],
+    "correctAnswer": "Personifikation",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'lupfen' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Drücken",
+      "Heben",
+      "Ziehen",
+      "Schieben"
+    ],
+    "correctAnswer": "Heben",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Attributsatz ist ein Nebensatz, der ein Nomen näher bestimmt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Pronomen leitet einen Relativsatz ein?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich",
+      "Der, die, das",
+      "Dieser",
+      "Jener"
+    ],
+    "correctAnswer": "Der, die, das",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist ein Chiasmus?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Übertreibung",
+      "Eine Überkreuzstellung von Satzgliedern",
+      "Eine Wiederholung",
+      "Ein Vergleich"
+    ],
+    "correctAnswer": "Eine Überkreuzstellung von Satzgliedern",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Das Passiv wird mit 'werden' und dem Partizip II gebildet.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Fahrschein",
+      "Ticket",
+      "Billett",
+      "Fahrkarte"
+    ],
+    "correctAnswer": "Billett",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Lokalsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Satz, der einen Ort angibt",
+      "Ein Satz, der eine Zeit angibt",
+      "Ein Satz, der einen Grund angibt",
+      "Ein Satz, der eine Bedingung angibt"
+    ],
+    "correctAnswer": "Ein Satz, der einen Ort angibt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Die Konjunktion 'wo' kann einen Lokalsatz einleiten.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Ich kam, sah und siegte'?",
+    "type": "multiple-choice",
+    "options": [
+      "Trikolon",
+      "Metapher",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Trikolon",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Müesli' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Mäuschen",
+      "Getreidespeise",
+      "Muskel",
+      "Moos"
+    ],
+    "correctAnswer": "Getreidespeise",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Irrealis drückt etwas Unwirkliches aus.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welcher Satz steht im Konjunktiv II?",
+    "type": "multiple-choice",
+    "options": [
+      "Er sagt, er komme morgen.",
+      "Er käme, wenn er Zeit hätte.",
+      "Er kommt morgen.",
+      "Er ist gekommen."
+    ],
+    "correctAnswer": "Er käme, wenn er Zeit hätte.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Was ist eine Klimax?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Abstufung vom Höhepunkt zum Tiefpunkt",
+      "Eine Steigerung zum Höhepunkt",
+      "Eine Wiederholung",
+      "Ein Vergleich"
+    ],
+    "correctAnswer": "Eine Steigerung zum Höhepunkt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Ein Prädikat kann aus mehreren Teilen bestehen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Samstag",
+      "Sonnabend",
+      "Samschtig",
+      "Weekend"
+    ],
+    "correctAnswer": "Samschtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Prädikativum?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Attribut",
+      "Eine Ergänzung zum Prädikat",
+      "Ein Objekt",
+      "Ein Subjekt"
+    ],
+    "correctAnswer": "Eine Ergänzung zum Prädikat",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Das Präteritum wird in der Schweiz seltener verwendet als das Perfekt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'schnell wie der Blitz'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Vergleich",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Vergleich",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Zvieri' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Frühstück",
+      "Mittagessen",
+      "Nachmittagssnack",
+      "Abendessen"
+    ],
+    "correctAnswer": "Nachmittagssnack",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Apostroph zeigt das Auslassen von Buchstaben an.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welche Satzart liegt vor: 'Geh bitte zur Seite!'?",
+    "type": "multiple-choice",
+    "options": [
+      "Aussagesatz",
+      "Fragesatz",
+      "Aufforderungssatz",
+      "Ausrufesatz"
+    ],
+    "correctAnswer": "Aufforderungssatz",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Antithese?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Wiederholung",
+      "Eine Gegenüberstellung von Gegensätzen",
+      "Eine Übertreibung",
+      "Ein Vergleich"
+    ],
+    "correctAnswer": "Eine Gegenüberstellung von Gegensätzen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Konjunktionen verbinden Wörter, Wortgruppen oder Sätze.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Möhre",
+      "Karotte",
+      "Rüebli",
+      "Wurzel"
+    ],
+    "correctAnswer": "Rüebli",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Indefinitpronomen?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein bestimmtes Pronomen",
+      "Ein unbestimmtes Pronomen",
+      "Ein persönliches Pronomen",
+      "Ein besitzanzeigendes Pronomen"
+    ],
+    "correctAnswer": "Ein unbestimmtes Pronomen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Präpositionen bestimmen das Verhältnis zwischen Wörtern.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Der Löwe brüllt vor Wut'?",
+    "type": "multiple-choice",
+    "options": [
+      "Personifikation",
+      "Metapher",
+      "Hyperbel",
+      "Keine besondere Stilfigur"
+    ],
+    "correctAnswer": "Keine besondere Stilfigur",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Natel' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Telefon",
+      "Mobiltelefon",
+      "Computer",
+      "Tablet"
+    ],
+    "correctAnswer": "Mobiltelefon",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Dativobjekt steht im 3. Fall.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Satz enthält ein Dativobjekt?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich sehe den Hund.",
+      "Ich helfe dem Lehrer.",
+      "Das Buch liegt auf dem Tisch.",
+      "Er läuft schnell."
+    ],
+    "correctAnswer": "Ich helfe dem Lehrer.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist ein Symbol in der Literatur?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein direkter Vergleich",
+      "Ein Zeichen mit tieferer Bedeutung",
+      "Eine Übertreibung",
+      "Eine Wiederholung"
+    ],
+    "correctAnswer": "Ein Zeichen mit tieferer Bedeutung",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Adjektive können gesteigert werden.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Sahne",
+      "Rahm",
+      "Schmand",
+      "Obers"
+    ],
+    "correctAnswer": "Rahm",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Partizipialsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Nebensatz mit finitem Verb",
+      "Ein verkürzter Nebensatz mit Partizip",
+      "Ein Hauptsatz",
+      "Ein Infinitivsatz"
+    ],
+    "correctAnswer": "Ein verkürzter Nebensatz mit Partizip",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Im Aktivsatz handelt das Subjekt, im Passivsatz wird es behandelt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Ich bin zu Tode erschrocken'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Hyperbel",
+      "Personifikation",
+      "Vergleich"
+    ],
+    "correctAnswer": "Hyperbel",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'fötzeln' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Necken, ärgern",
+      "Essen",
+      "Schlafen",
+      "Arbeiten"
+    ],
+    "correctAnswer": "Necken, ärgern",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein zusammengesetzter Satz besteht aus mindestens zwei Teilsätzen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welche Steigerungsform ist 'am schönsten'?",
+    "type": "multiple-choice",
+    "options": [
+      "Positiv",
+      "Komparativ",
+      "Superlativ",
+      "Elativ"
+    ],
+    "correctAnswer": "Superlativ",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Onomatopoesie?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Lautmalerei",
+      "Eine Übertreibung",
+      "Ein Vergleich",
+      "Eine Wiederholung"
+    ],
+    "correctAnswer": "Eine Lautmalerei",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Verben im Infinitiv enden im Deutschen meist auf '-en'.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Pflaster",
+      "Heftpflaster",
+      "Wundpflaster",
+      "Klebband"
+    ],
+    "correctAnswer": "Heftpflaster",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Appositionsattribut?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Attribut mit Adjektiv",
+      "Ein nachgestelltes Substantiv als Beifügung",
+      "Ein Genitiv-Attribut",
+      "Ein Präpositional-Attribut"
+    ],
+    "correctAnswer": "Ein nachgestelltes Substantiv als Beifügung",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Starke Verben ändern ihren Stammvokal bei der Konjugation.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'bumm, klatsch, zisch'?",
+    "type": "multiple-choice",
+    "options": [
+      "Alliteration",
+      "Onomatopoesie",
+      "Metapher",
+      "Hyperbel"
+    ],
+    "correctAnswer": "Onomatopoesie",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Kägi' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Kuchen",
+      "Keks",
+      "Schokolade",
+      "Bonbon"
+    ],
+    "correctAnswer": "Keks",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Demonstrativpronomen zeigt auf etwas hin.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Wort ist ein Demonstrativpronomen?",
+    "type": "multiple-choice",
+    "options": [
+      "Er",
+      "Dieser",
+      "Mein",
+      "Jemand"
+    ],
+    "correctAnswer": "Dieser",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Synekdoche?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Übertreibung",
+      "Eine Ersetzung des Ganzen durch einen Teil",
+      "Ein Vergleich",
+      "Eine Wiederholung"
+    ],
+    "correctAnswer": "Eine Ersetzung des Ganzen durch einen Teil",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Nomen werden im Deutschen grossgeschrieben.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Brötchen",
+      "Semmel",
+      "Weggli",
+      "Schrippe"
+    ],
+    "correctAnswer": "Weggli",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Genitivattribut?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Attribut im 2. Fall",
+      "Ein Attribut im 3. Fall",
+      "Ein Attribut im 4. Fall",
+      "Ein Adjektiv-Attribut"
+    ],
+    "correctAnswer": "Ein Attribut im 2. Fall",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Interjektionen sind Ausrufewörter.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'pro Kopf' für 'pro Person'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Synekdoche",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Synekdoche",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'glüschtig' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Müde",
+      "Hungrig, Lust habend",
+      "Wütend",
+      "Glücklich"
+    ],
+    "correctAnswer": "Hungrig, Lust habend",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Possessivpronomen zeigt Besitz an.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Wort ist ein Possessivpronomen?",
+    "type": "multiple-choice",
+    "options": [
+      "Dieser",
+      "Mein",
+      "Ich",
+      "Jemand"
+    ],
+    "correctAnswer": "Mein",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Litotes?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine starke Übertreibung",
+      "Eine Verneinung des Gegenteils",
+      "Ein direkter Vergleich",
+      "Eine Wiederholung"
+    ],
+    "correctAnswer": "Eine Verneinung des Gegenteils",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Zusammengesetzte Nomen werden zusammengeschrieben.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Kehrwoche",
+      "Ämtli",
+      "Hausarbeit",
+      "Putzdienst"
+    ],
+    "correctAnswer": "Ämtli",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Präpositionalattribut?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Attribut mit Präposition",
+      "Ein Adjektiv-Attribut",
+      "Ein Genitiv-Attribut",
+      "Ein Relativsatz"
+    ],
+    "correctAnswer": "Ein Attribut mit Präposition",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Schwache Verben bilden das Präteritum mit '-te'.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'nicht schlecht' für 'gut'?",
+    "type": "multiple-choice",
+    "options": [
+      "Hyperbel",
+      "Litotes",
+      "Metapher",
+      "Personifikation"
+    ],
+    "correctAnswer": "Litotes",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'fründe' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Streiten",
+      "Freundlich sein, sich vertragen",
+      "Spielen",
+      "Essen"
+    ],
+    "correctAnswer": "Freundlich sein, sich vertragen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Interrogativpronomen wird für Fragen verwendet.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welches Wort ist ein Interrogativpronomen?",
+    "type": "multiple-choice",
+    "options": [
+      "Dieser",
+      "Wer",
+      "Mein",
+      "Jener"
+    ],
+    "correctAnswer": "Wer",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Euphemismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Übertreibung",
+      "Eine beschönigende Umschreibung",
+      "Ein Vergleich",
+      "Eine Wiederholung"
+    ],
+    "correctAnswer": "Eine beschönigende Umschreibung",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Nach Doppelpunkt wird klein weitergeschrieben, wenn kein ganzer Satz folgt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Kehricht",
+      "Müll",
+      "Abfall",
+      "Unrat"
+    ],
+    "correctAnswer": "Kehricht",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Adverbialsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Nebensatz, der ein Adverb ersetzt",
+      "Ein Hauptsatz",
+      "Ein Attributsatz",
+      "Ein Objektsatz"
+    ],
+    "correctAnswer": "Ein Nebensatz, der ein Adverb ersetzt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Trennbare Verben haben ein betontes Präfix, das im Präsens abgetrennt wird.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'einschlafen' für 'sterben'?",
+    "type": "multiple-choice",
+    "options": [
+      "Hyperbel",
+      "Euphemismus",
+      "Metapher",
+      "Litotes"
+    ],
+    "correctAnswer": "Euphemismus",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'zügeln' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Bremsen",
+      "Umziehen",
+      "Fahren",
+      "Rennen"
+    ],
+    "correctAnswer": "Umziehen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Subjektsatz kann anstelle eines Subjekts stehen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Satz enthält einen Subjektsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Das Buch ist interessant.",
+      "Dass du kommst, freut mich.",
+      "Ich sehe den Hund.",
+      "Er läuft schnell."
+    ],
+    "correctAnswer": "Dass du kommst, freut mich.",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Metonymie?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Übertreibung",
+      "Eine Ersetzung durch einen verwandten Begriff",
+      "Ein Vergleich",
+      "Eine Wiederholung"
+    ],
+    "correctAnswer": "Eine Ersetzung durch einen verwandten Begriff",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Anführungszeichen kennzeichnen wörtliche Rede.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Einkaufstasche",
+      "Einkaufssack",
+      "Einkaufsbeutel",
+      "Einkaufstüte"
+    ],
+    "correctAnswer": "Einkaufssack",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist ein Objektsatz?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Nebensatz, der ein Objekt ersetzt",
+      "Ein Hauptsatz",
+      "Ein Attributsatz",
+      "Ein Subjektsatz"
+    ],
+    "correctAnswer": "Ein Nebensatz, der ein Objekt ersetzt",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Untrennbare Verben haben ein unbetontes Präfix, das nicht abgetrennt wird.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Krone' für 'Königtum'?",
+    "type": "multiple-choice",
+    "options": [
+      "Synekdoche",
+      "Metonymie",
+      "Metapher",
+      "Hyperbel"
+    ],
+    "correctAnswer": "Metonymie",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'Lehrer/Lehrerin' im Schweizer Deutsch oft?",
+    "type": "multiple-choice",
+    "options": [
+      "Lehrer",
+      "Lehrerin",
+      "Lehrperson",
+      "Lehrkraft"
+    ],
+    "correctAnswer": "Lehrperson",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Satzgefüge besteht aus Haupt- und Nebensatz.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Welcher Nebensatz ist 'Ich weiss, dass du kommst'?",
+    "type": "multiple-choice",
+    "options": [
+      "Subjektsatz",
+      "Objektsatz",
+      "Adverbialsatz",
+      "Attributsatz"
+    ],
+    "correctAnswer": "Objektsatz",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist eine Inversion?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine normale Wortstellung",
+      "Eine Umstellung der üblichen Wortfolge",
+      "Eine Wiederholung",
+      "Eine Übertreibung"
+    ],
+    "correctAnswer": "Eine Umstellung der üblichen Wortfolge",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Kommas trennen Haupt- und Nebensätze.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welcher Begriff ist typisch schweizerisch?",
+    "type": "multiple-choice",
+    "options": [
+      "Kinderwagen",
+      "Sportwagen",
+      "Buggy",
+      "Kindli-Wage"
+    ],
+    "correctAnswer": "Kindli-Wage",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist eine Satzreihe?",
+    "type": "multiple-choice",
+    "options": [
+      "Mehrere Hauptsätze verbunden",
+      "Haupt- und Nebensatz",
+      "Ein einzelner Hauptsatz",
+      "Mehrere Nebensätze"
+    ],
+    "correctAnswer": "Mehrere Hauptsätze verbunden",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Bei zusammengesetzten Adjektiven wird oft ein Bindestrich gesetzt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Morgen kam er' statt 'Er kam morgen'?",
+    "type": "multiple-choice",
+    "options": [
+      "Metapher",
+      "Inversion",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Inversion",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'chrampfe' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Spielen",
+      "Hart arbeiten",
+      "Schlafen",
+      "Essen"
+    ],
+    "correctAnswer": "Hart arbeiten",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Ein Komma steht zwischen gleichrangigen Adjektiven.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welche Konjunktion verbindet Hauptsätze in einer Satzreihe?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil",
+      "Und",
+      "Dass",
+      "Obwohl"
+    ],
+    "correctAnswer": "Und",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.C.1"
+  },
+  {
+    "question": "Was ist ein Parallelismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Übertreibung",
+      "Eine parallele Struktur von Sätzen",
+      "Ein Vergleich",
+      "Eine Metapher"
+    ],
+    "correctAnswer": "Eine parallele Struktur von Sätzen",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Eigennamen werden grossgeschrieben.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welcher Ausdruck ist ein Helvetismus?",
+    "type": "multiple-choice",
+    "options": [
+      "Mittagspause",
+      "Zmittagspause",
+      "Pause",
+      "Mittagszeit"
+    ],
+    "correctAnswer": "Zmittagspause",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen direkter und indirekter Rede?",
+    "type": "multiple-choice",
+    "options": [
+      "Direkte Rede gibt wörtlich wieder, indirekte Rede paraphrasiert",
+      "Kein Unterschied",
+      "Indirekte Rede ist immer im Präteritum",
+      "Direkte Rede verwendet Konjunktiv"
+    ],
+    "correctAnswer": "Direkte Rede gibt wörtlich wieder, indirekte Rede paraphrasiert",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.5.D.1"
+  },
+  {
+    "question": "Nach einer wörtlichen Rede folgt ein Begleitsatz oft mit Komma getrennt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "D.4.F.1"
+  },
+  {
+    "question": "Welches Stilmittel ist 'Ich kam, ich sah, ich siegte'?",
+    "type": "multiple-choice",
+    "options": [
+      "Parallelismus",
+      "Metapher",
+      "Hyperbel",
+      "Personifikation"
+    ],
+    "correctAnswer": "Parallelismus",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.6.C.1"
+  },
+  {
+    "question": "Was bedeutet 'verschumeret' im Schweizer Deutsch?",
+    "type": "multiple-choice",
+    "options": [
+      "Sauber",
+      "Schmutzig, schmuddelig",
+      "Ordentlich",
+      "Neu"
+    ],
+    "correctAnswer": "Schmutzig, schmuddelig",
+    "grade": 6,
+    "subject": "german",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "D.4.A.1"
+  }
+]

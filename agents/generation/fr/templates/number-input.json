@@ -1,0 +1,68 @@
+{
+  "typeTemplate": "number-input",
+  "langue": "fr",
+  "champsRequis": [
+    "id",
+    "type",
+    "subject",
+    "grade",
+    "difficulty",
+    "language",
+    "question",
+    "correctAnswer",
+    "lehrplan21Code",
+    "competencyLevel",
+    "timeLimit",
+    "tags"
+  ],
+  "champsFacultatifs": [
+    "tolerance",
+    "unit"
+  ],
+  "schema": {
+    "id": {
+      "format": "fr_{matiere}_grade{1-6}_num_{numero}",
+      "exemple": "fr_math_grade5_num_001"
+    },
+    "type": {
+      "valeur": "number-input",
+      "fixe": true
+    },
+    "correctAnswer": {
+      "type": "number",
+      "note": "Valeur numérique unique"
+    },
+    "tolerance": {
+      "type": "number",
+      "facultatif": true,
+      "description": "Marge d'erreur acceptable pour réponses décimales",
+      "exemple": 0.1,
+      "utilisation": "Pour calculs avec décimaux ou mesures"
+    },
+    "unit": {
+      "type": "string",
+      "facultatif": true,
+      "exemples": ["cm", "kg", "CHF", "°C"],
+      "note": "Spécifier l'unité si la réponse en nécessite une"
+    },
+    "question": {
+      "type": "string",
+      "format": "Instruction claire pour fournir une réponse numérique",
+      "exemples": [
+        "Calcule: 23 × 4 = ?",
+        "Combien de centimètres y a-t-il dans 2,5 mètres?"
+      ]
+    },
+    "timeLimit": {
+      "recommande": {
+        "grade1-2": 25000,
+        "grade3-4": 20000,
+        "grade5-6": 15000
+      }
+    }
+  },
+  "bonnesPratiques": {
+    "quandUtiliser": "Calculs mathématiques, mesures, comptage",
+    "eviterPour": "Réponses nécessitant unités ou plusieurs étapes sans résultat numérique clair"
+  }
+}

@@ -1,0 +1,7 @@
+ID,Type,Subject,Grade,Difficulty,Language,Question,Statement,Answer A,Answer B,Answer C,Answer D,Correct Index,Correct Answer,Explanation,Unit,Image URL,Tags,Created At,Updated At
+sample_math_1,multiple-choice,math,3,3,en,"What is 7 + 5?",,10,11,12,13,2,,"7 + 5 = 12",,,"addition;arithmetic",2025-09-02T10:00:00.000Z,2025-09-02T10:00:00.000Z
+sample_geo_1,multiple-choice,geography,2,2,en,"What is the capital of France?",,London,Paris,Berlin,Rome,1,,"Paris is the capital city of France",,,"countries;capitals;europe",2025-09-02T10:00:00.000Z,2025-09-02T10:00:00.000Z
+sample_tf_1,true-false,general-knowledge,1,1,en,,The sun rises in the east.,,,,,,"Yes, the sun rises in the east and sets in the west",,,"sun;directions;nature",2025-09-02T10:00:00.000Z,2025-09-02T10:00:00.000Z
+sample_num_1,number-input,math,4,4,en,"If a rectangle has width 6cm and height 4cm, what is its area?",,,,,,24,"Area = width × height = 6 × 4 = 24",cm²,,"geometry;area;rectangles",2025-09-02T10:00:00.000Z,2025-09-02T10:00:00.000Z
+sample_lang_1,multiple-choice,language,3,3,en,"What is the plural of 'mouse'?",,mouses,mice,mouse,mousen,1,,"The correct plural of 'mouse' is 'mice'",,,"grammar;plural;english",2025-09-02T10:00:00.000Z,2025-09-02T10:00:00.000Z
+sample_img_1,image-question,geography,3,3,en,"Which animal is shown in the image?",,Dog,Cat,Bird,Fish,1,,This is a domestic cat,,https://example.com/cat-image.jpg,"animals;recognition",2025-09-02T10:00:00.000Z,2025-09-02T10:00:00.000Z

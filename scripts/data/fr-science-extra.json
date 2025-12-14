@@ -1,0 +1,1554 @@
+{
+  "questions": [
+    {
+      "question": "Quelle partie de la plante pousse sous la terre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Les racines", "Les feuilles", "Les fleurs", "Les fruits"],
+      "correctAnswer": "Les racines"
+    },
+    {
+      "question": "Combien de pattes a un chat ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Quatre", "Deux", "Six", "Huit"],
+      "correctAnswer": "Quatre"
+    },
+    {
+      "question": "Le soleil brille pendant la journée.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle partie du corps utilises-tu pour voir ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Les yeux", "Les oreilles", "Le nez", "La bouche"],
+      "correctAnswer": "Les yeux"
+    },
+    {
+      "question": "Les poissons vivent dans l'eau.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel temps fait-il quand il y a des nuages gris et de l'eau qui tombe du ciel ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Il pleut", "Il neige", "Il fait beau", "Il y a du vent"],
+      "correctAnswer": "Il pleut"
+    },
+    {
+      "question": "Les plantes ont besoin d'eau pour grandir.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal pond des œufs ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La poule", "Le chien", "Le chat", "La vache"],
+      "correctAnswer": "La poule"
+    },
+    {
+      "question": "Le papier est un matériau dur comme le métal.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Combien de doigts as-tu sur une main ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Cinq", "Quatre", "Six", "Dix"],
+      "correctAnswer": "Cinq"
+    },
+    {
+      "question": "Les oiseaux ont des plumes.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle saison vient après l'hiver ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le printemps", "L'été", "L'automne", "L'hiver"],
+      "correctAnswer": "Le printemps"
+    },
+    {
+      "question": "Les arbres perdent leurs feuilles en été.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Avec quelle partie du corps entends-tu les sons ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Les oreilles", "Les yeux", "Le nez", "Les mains"],
+      "correctAnswer": "Les oreilles"
+    },
+    {
+      "question": "La glace est de l'eau gelée.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel matériau est transparent et fragile ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le verre", "Le bois", "Le métal", "Le plastique"],
+      "correctAnswer": "Le verre"
+    },
+    {
+      "question": "Les animaux qui donnent du lait sont appelés mammifères.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Que deviennent les graines quand on les plante dans la terre avec de l'eau ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Elles germent", "Elles disparaissent", "Elles deviennent dures", "Elles changent de couleur"],
+      "correctAnswer": "Elles germent"
+    },
+    {
+      "question": "Le cœur bat dans ta poitrine.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal vit à la ferme et dit 'meuh' ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["La vache", "Le mouton", "Le cochon", "Le cheval"],
+      "correctAnswer": "La vache"
+    },
+    {
+      "question": "L'arc-en-ciel apparaît quand il pleut et qu'il y a du soleil en même temps.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Les plantes fabriquent leur nourriture grâce au soleil.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal est un insecte ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La fourmi", "L'araignée", "Le ver de terre", "L'escargot"],
+      "correctAnswer": "La fourmi"
+    },
+    {
+      "question": "Le bois flotte sur l'eau.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien d'ailes a un papillon ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Quatre", "Deux", "Six", "Huit"],
+      "correctAnswer": "Quatre"
+    },
+    {
+      "question": "De quelle couleur sont la plupart des feuilles en été ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vertes", "Rouges", "Jaunes", "Brunes"],
+      "correctAnswer": "Vertes"
+    },
+    {
+      "question": "Les serpents sont des mammifères.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel organe pompe le sang dans ton corps ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le cœur", "Les poumons", "L'estomac", "Le cerveau"],
+      "correctAnswer": "Le cœur"
+    },
+    {
+      "question": "La neige tombe quand il fait très froid.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel matériau est fabriqué à partir d'arbres ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le papier", "Le verre", "Le métal", "La pierre"],
+      "correctAnswer": "Le papier"
+    },
+    {
+      "question": "Les plantes respirent par leurs feuilles.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal hiberne pendant l'hiver ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["L'ours", "Le lapin", "L'écureuil", "Le renard"],
+      "correctAnswer": "L'ours"
+    },
+    {
+      "question": "Les dents de lait tombent et sont remplacées par des dents définitives.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Qu'est-ce qui fait bouger les branches des arbres ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Le vent", "La pluie", "Le soleil", "La neige"],
+      "correctAnswer": "Le vent"
+    },
+    {
+      "question": "Les grenouilles commencent leur vie comme des têtards.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle partie de la plante produit les graines ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La fleur", "La racine", "La tige", "Les feuilles"],
+      "correctAnswer": "La fleur"
+    },
+    {
+      "question": "Le fer est attiré par un aimant.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de sens as-tu ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Cinq", "Trois", "Six", "Quatre"],
+      "correctAnswer": "Cinq"
+    },
+    {
+      "question": "Les nuages sont faits de vapeur d'eau.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal fabrique du miel ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["L'abeille", "La guêpe", "Le papillon", "La mouche"],
+      "correctAnswer": "L'abeille"
+    },
+    {
+      "question": "Les os donnent la forme à ton corps.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est l'état de l'eau quand elle est très froide ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Solide (glace)", "Liquide", "Gazeux (vapeur)", "Poudre"],
+      "correctAnswer": "Solide (glace)"
+    },
+    {
+      "question": "Les plantes carnivores mangent des insectes.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal change de couleur pour se camoufler ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le caméléon", "Le lézard", "Le serpent", "La tortue"],
+      "correctAnswer": "Le caméléon"
+    },
+    {
+      "question": "La Lune produit sa propre lumière.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Que respires-tu dans l'air ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["L'oxygène", "Le dioxyde de carbone", "L'azote", "L'hydrogène"],
+      "correctAnswer": "L'oxygène"
+    },
+    {
+      "question": "Les champignons sont des plantes.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Combien de pattes a une araignée ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Huit", "Six", "Quatre", "Dix"],
+      "correctAnswer": "Huit"
+    },
+    {
+      "question": "Le plastique se décompose rapidement dans la nature.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle est la température normale du corps humain ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["37°C", "40°C", "35°C", "38°C"],
+      "correctAnswer": "37°C"
+    },
+    {
+      "question": "Les étoiles sont visibles pendant la nuit.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle partie de l'arbre transporte l'eau des racines vers les feuilles ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le tronc", "Les branches", "Les feuilles", "Les fruits"],
+      "correctAnswer": "Le tronc"
+    },
+    {
+      "question": "Les chauves-souris sont des oiseaux.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel organe filtre le sang dans ton corps ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Les reins", "Le foie", "Les poumons", "L'estomac"],
+      "correctAnswer": "Les reins"
+    },
+    {
+      "question": "L'eau bout à 100 degrés Celsius.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel matériau conduit l'électricité ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le cuivre", "Le bois", "Le plastique", "Le verre"],
+      "correctAnswer": "Le cuivre"
+    },
+    {
+      "question": "La photosynthèse permet aux plantes de fabriquer leur nourriture.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel animal est un amphibien ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La salamandre", "Le lézard", "Le serpent", "La tortue"],
+      "correctAnswer": "La salamandre"
+    },
+    {
+      "question": "Les muscles te permettent de bouger ton corps.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Qu'est-ce qu'un thermomètre mesure ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La température", "Le poids", "La longueur", "Le temps"],
+      "correctAnswer": "La température"
+    },
+    {
+      "question": "Les dinosaures vivent encore aujourd'hui.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle planète est la plus proche du Soleil ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Mercure", "Vénus", "La Terre", "Mars"],
+      "correctAnswer": "Mercure"
+    },
+    {
+      "question": "Les conifères perdent toutes leurs aiguilles en hiver.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Combien d'os y a-t-il dans le corps humain adulte ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["206", "150", "300", "100"],
+      "correctAnswer": "206"
+    },
+    {
+      "question": "Le cycle de l'eau comprend l'évaporation, la condensation et les précipitations.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel insecte subit une métamorphose complète ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le papillon", "La sauterelle", "Le puceron", "La coccinelle"],
+      "correctAnswer": "Le papillon"
+    },
+    {
+      "question": "L'aluminium est magnétique.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La peau", "Le foie", "Les poumons", "L'intestin"],
+      "correctAnswer": "La peau"
+    },
+    {
+      "question": "Les plantes produisent de l'oxygène pendant la photosynthèse.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel phénomène météorologique est mesuré avec un anémomètre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La vitesse du vent", "La température", "La pression atmosphérique", "L'humidité"],
+      "correctAnswer": "La vitesse du vent"
+    },
+    {
+      "question": "Les baleines sont des poissons.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle est la fonction principale des racines ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Absorber l'eau et les nutriments", "Produire des graines", "Faire la photosynthèse", "Attirer les insectes"],
+      "correctAnswer": "Absorber l'eau et les nutriments"
+    },
+    {
+      "question": "Le cerveau contrôle toutes les parties de ton corps.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel matériau est un bon isolant thermique ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La laine", "Le métal", "Le verre", "La pierre"],
+      "correctAnswer": "La laine"
+    },
+    {
+      "question": "Les cristaux de neige ont tous six branches.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de compartiments le cœur humain a-t-il ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Quatre", "Deux", "Trois", "Cinq"],
+      "correctAnswer": "Quatre"
+    },
+    {
+      "question": "Les cactus stockent l'eau dans leurs tiges.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel type de nuage annonce souvent de l'orage ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le cumulonimbus", "Le cirrus", "Le stratus", "L'altocumulus"],
+      "correctAnswer": "Le cumulonimbus"
+    },
+    {
+      "question": "Les pingouins vivent au pôle Nord.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle partie du système digestif absorbe les nutriments ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["L'intestin grêle", "L'estomac", "Le gros intestin", "L'œsophage"],
+      "correctAnswer": "L'intestin grêle"
+    },
+    {
+      "question": "La condensation transforme la vapeur d'eau en liquide.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles pour faire la photosynthèse ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le dioxyde de carbone", "L'oxygène", "L'azote", "L'hydrogène"],
+      "correctAnswer": "Le dioxyde de carbone"
+    },
+    {
+      "question": "Les mammifères sont des animaux à sang froid.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel est le principal composant de l'air que nous respirons ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["L'azote", "L'oxygène", "Le dioxyde de carbone", "L'argon"],
+      "correctAnswer": "L'azote"
+    },
+    {
+      "question": "Les articulations permettent aux os de bouger.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle force attire les objets vers le centre de la Terre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La gravité", "Le magnétisme", "La friction", "L'électricité"],
+      "correctAnswer": "La gravité"
+    },
+    {
+      "question": "Les fougères se reproduisent par des graines.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel animal est un herbivore ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le lapin", "Le lion", "L'aigle", "Le renard"],
+      "correctAnswer": "Le lapin"
+    },
+    {
+      "question": "Le son voyage plus vite dans l'eau que dans l'air.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de dents permanentes un adulte a-t-il normalement ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["32", "28", "24", "20"],
+      "correctAnswer": "32"
+    },
+    {
+      "question": "La rosée se forme quand l'air chaud et humide se refroidit.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le processus par lequel les plantes perdent de l'eau par leurs feuilles ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La transpiration", "L'évaporation", "La respiration", "La condensation"],
+      "correctAnswer": "La transpiration"
+    },
+    {
+      "question": "Les invertébrés ont une colonne vertébrale.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel organe produit l'insuline dans le corps humain ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Le pancréas", "Le foie", "L'estomac", "Les reins"],
+      "correctAnswer": "Le pancréas"
+    },
+    {
+      "question": "L'eau salée bout à une température plus élevée que l'eau douce.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel matériau est un bon conducteur de chaleur ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le métal", "Le bois", "Le plastique", "Le caoutchouc"],
+      "correctAnswer": "Le métal"
+    },
+    {
+      "question": "Les éclairs se produisent avant le tonnerre.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel organe échange l'oxygène et le dioxyde de carbone dans ton corps ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Les poumons", "Le cœur", "Le foie", "L'estomac"],
+      "correctAnswer": "Les poumons"
+    },
+    {
+      "question": "Les champignons produisent de l'oxygène par photosynthèse.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel type d'énergie est produit par le vent ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["L'énergie éolienne", "L'énergie solaire", "L'énergie hydraulique", "L'énergie géothermique"],
+      "correctAnswer": "L'énergie éolienne"
+    },
+    {
+      "question": "Les virus sont des êtres vivants.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle partie de la cellule contient l'information génétique ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Le noyau", "La membrane", "Le cytoplasme", "La paroi"],
+      "correctAnswer": "Le noyau"
+    },
+    {
+      "question": "Les aimants ont deux pôles : nord et sud.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de phases la Lune a-t-elle pendant un cycle complet ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Huit principales", "Quatre", "Six", "Douze"],
+      "correctAnswer": "Huit principales"
+    },
+    {
+      "question": "Les plantes peuvent pousser sans lumière si elles ont de l'eau.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel système du corps humain comprend le cerveau et la moelle épinière ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le système nerveux", "Le système circulatoire", "Le système digestif", "Le système respiratoire"],
+      "correctAnswer": "Le système nerveux"
+    },
+    {
+      "question": "L'évaporation refroidit les surfaces.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel processus permet aux animaux de s'adapter à leur environnement sur plusieurs générations ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["L'évolution", "La migration", "L'hibernation", "La reproduction"],
+      "correctAnswer": "L'évolution"
+    },
+    {
+      "question": "Les métaux se dilatent quand ils sont chauffés.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle unité mesure la force ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le newton", "Le watt", "Le joule", "Le pascal"],
+      "correctAnswer": "Le newton"
+    },
+    {
+      "question": "Les globules rouges transportent l'oxygène dans le sang.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel phénomène provoque les marées ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["L'attraction de la Lune", "Le vent", "La rotation de la Terre", "Les courants océaniques"],
+      "correctAnswer": "L'attraction de la Lune"
+    },
+    {
+      "question": "La chlorophylle donne la couleur verte aux plantes.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est l'animal le plus rapide sur terre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le guépard", "Le lion", "L'antilope", "Le lièvre"],
+      "correctAnswer": "Le guépard"
+    },
+    {
+      "question": "L'eau pure est un bon conducteur d'électricité.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle couche de l'atmosphère est la plus proche de la Terre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La troposphère", "La stratosphère", "La mésosphère", "La thermosphère"],
+      "correctAnswer": "La troposphère"
+    },
+    {
+      "question": "Les antibiotiques tuent les virus.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel type de roche se forme par refroidissement du magma ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La roche ignée", "La roche sédimentaire", "La roche métamorphique", "La roche calcaire"],
+      "correctAnswer": "La roche ignée"
+    },
+    {
+      "question": "La photosynthèse a lieu dans les chloroplastes des cellules végétales.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel gaz contribue le plus à l'effet de serre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le dioxyde de carbone", "L'oxygène", "L'azote", "L'hydrogène"],
+      "correctAnswer": "Le dioxyde de carbone"
+    },
+    {
+      "question": "Les artères transportent le sang du cœur vers le corps.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la durée approximative d'une rotation complète de la Terre sur elle-même ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["24 heures", "12 heures", "365 jours", "30 jours"],
+      "correctAnswer": "24 heures"
+    },
+    {
+      "question": "Les plantes utilisent leurs racines pour respirer uniquement.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel instrument mesure la pression atmosphérique ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le baromètre", "Le thermomètre", "L'hygromètre", "L'anémomètre"],
+      "correctAnswer": "Le baromètre"
+    },
+    {
+      "question": "Les fossiles se forment sur des millions d'années.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la fonction principale des globules blancs ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Défendre le corps contre les infections", "Transporter l'oxygène", "Coaguler le sang", "Produire des hormones"],
+      "correctAnswer": "Défendre le corps contre les infections"
+    },
+    {
+      "question": "L'eau se dilate lorsqu'elle gèle.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pigment donne la couleur rouge au sang ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["L'hémoglobine", "La chlorophylle", "La mélanine", "Le carotène"],
+      "correctAnswer": "L'hémoglobine"
+    },
+    {
+      "question": "Les écosystèmes aquatiques couvrent environ 70% de la surface de la Terre.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel processus transforme le nectar en miel dans la ruche ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["L'évaporation et les enzymes", "La fermentation", "La congélation", "La cristallisation"],
+      "correctAnswer": "L'évaporation et les enzymes"
+    },
+    {
+      "question": "Les veines transportent toujours du sang désoxygéné.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle est la vitesse approximative de la lumière ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["300 000 km/s", "150 000 km/s", "500 000 km/s", "100 000 km/s"],
+      "correctAnswer": "300 000 km/s"
+    },
+    {
+      "question": "La pollinisation croisée augmente la diversité génétique des plantes.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel phénomène explique pourquoi le ciel est bleu ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La diffusion de Rayleigh", "La réflexion", "La réfraction", "L'absorption"],
+      "correctAnswer": "La diffusion de Rayleigh"
+    },
+    {
+      "question": "Les amphibiens peuvent respirer à travers leur peau.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est l'unité de mesure de l'énergie ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le joule", "Le watt", "Le newton", "Le pascal"],
+      "correctAnswer": "Le joule"
+    },
+    {
+      "question": "L'ADN se trouve dans le noyau des cellules.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel type de liaison chimique partage des électrons entre atomes ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La liaison covalente", "La liaison ionique", "La liaison métallique", "La liaison hydrogène"],
+      "correctAnswer": "La liaison covalente"
+    },
+    {
+      "question": "Les cellules végétales ont une paroi cellulaire, contrairement aux cellules animales.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle planète du système solaire a le plus de lunes connues ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Saturne", "Jupiter", "Uranus", "Neptune"],
+      "correctAnswer": "Saturne"
+    },
+    {
+      "question": "La mitose est un type de division cellulaire qui produit deux cellules identiques.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le pH d'une solution neutre ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["7", "0", "14", "10"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Les conifères sont des plantes à fleurs.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle partie de l'oreille transforme les vibrations sonores en signaux nerveux ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La cochlée", "Le tympan", "Le marteau", "Le canal auditif"],
+      "correctAnswer": "La cochlée"
+    },
+    {
+      "question": "Les isotopes d'un élément ont le même nombre de protons mais un nombre différent de neutrons.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel processus géologique crée les montagnes ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La tectonique des plaques", "L'érosion", "La sédimentation", "La météorisation"],
+      "correctAnswer": "La tectonique des plaques"
+    },
+    {
+      "question": "Les enzymes sont des protéines qui accélèrent les réactions chimiques.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle couche de l'atmosphère contient la couche d'ozone ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La stratosphère", "La troposphère", "La mésosphère", "La thermosphère"],
+      "correctAnswer": "La stratosphère"
+    },
+    {
+      "question": "Le diabète de type 1 est causé par un manque de production d'insuline.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel type de reproduction ne nécessite qu'un seul parent ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La reproduction asexuée", "La reproduction sexuée", "La pollinisation", "La fécondation"],
+      "correctAnswer": "La reproduction asexuée"
+    },
+    {
+      "question": "Les métaux sont généralement de bons conducteurs de chaleur et d'électricité.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle substance donne sa couleur brune au sol ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["L'humus", "L'argile", "Le sable", "Le calcaire"],
+      "correctAnswer": "L'humus"
+    },
+    {
+      "question": "Les chaînes alimentaires commencent toujours par un producteur (plante).",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la fonction principale du système lymphatique ?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["La défense immunitaire", "La circulation sanguine", "La digestion", "La respiration"],
+      "correctAnswer": "La défense immunitaire"
+    },
+    {
+      "question": "Les tremblements de terre sont causés par le mouvement des plaques tectoniques.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    }
+  ]
+}

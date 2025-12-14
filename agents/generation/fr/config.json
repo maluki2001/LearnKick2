@@ -1,0 +1,32 @@
+{
+  "agentId": "generator-fr",
+  "language": "fr",
+  "targetQuestions": 2000,
+  "batchSize": 100,
+  "retryLimit": 3,
+  "questionDistribution": {
+    "math": 0.30,
+    "francais": 0.25,
+    "sciences": 0.20,
+    "geographie": 0.15,
+    "general": 0.10
+  },
+  "gradeDistribution": {
+    "1": 0.15,
+    "2": 0.15,
+    "3": 0.18,
+    "4": 0.18,
+    "5": 0.17,
+    "6": 0.17
+  },
+  "difficultyDistribution": {
+    "1": 0.15,
+    "2": 0.25,
+    "3": 0.30,
+    "4": 0.20,
+    "5": 0.10
+  },
+  "qcAgent": "/agents/quality-control/qc-fr/AGENT_QC_FR.md",
+  "outputDatabase": "questions",
+  "validationStatus": "draft"
+}

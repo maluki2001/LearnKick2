@@ -1,0 +1,1694 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la première lettre de l'alphabet ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Combien de lettres y a-t-il dans le mot 'chat' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Le mot 'maison' commence par la lettre :",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["M", "N", "L", "P"],
+      "correctAnswer": "M"
+    },
+    {
+      "question": "Quel mot désigne un animal ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["chien", "table", "livre", "crayon"],
+      "correctAnswer": "chien"
+    },
+    {
+      "question": "Le mot 'école' est-il masculin ou féminin ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["féminin", "masculin", "neutre", "les deux"],
+      "correctAnswer": "féminin"
+    },
+    {
+      "question": "Quel est le pluriel de 'ballon' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["ballons", "ballones", "ballon", "ballonnes"],
+      "correctAnswer": "ballons"
+    },
+    {
+      "question": "Le mot 'soleil' commence par une voyelle.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel mot rime avec 'chat' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["rat", "chien", "poule", "oiseau"],
+      "correctAnswer": "rat"
+    },
+    {
+      "question": "Dans 'je joue', le verbe est conjugué au présent.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le contraire de 'grand' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["petit", "gros", "long", "large"],
+      "correctAnswer": "petit"
+    },
+    {
+      "question": "Le mot 'ami' est au pluriel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle lettre vient après 'F' dans l'alphabet ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["G", "E", "H", "D"],
+      "correctAnswer": "G"
+    },
+    {
+      "question": "Le mot 'arbre' désigne un végétal.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel article va avec 'chaussure' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["la", "le", "l'", "les"],
+      "correctAnswer": "la"
+    },
+    {
+      "question": "Dans 'il mange', qui est 'il' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["un garçon ou un homme", "une fille", "moi", "toi"],
+      "correctAnswer": "un garçon ou un homme"
+    },
+    {
+      "question": "Le mot 'rouge' est un adjectif de couleur.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien y a-t-il de syllabes dans 'chocolat' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Le mot 'papa' a deux syllabes identiques.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le féminin de 'lion' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["lionne", "lione", "lionesse", "lionna"],
+      "correctAnswer": "lionne"
+    },
+    {
+      "question": "Dans 'nous chantons', le verbe est au pluriel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["hibou", "ibou", "hibu", "iboux"],
+      "correctAnswer": "hibou"
+    },
+    {
+      "question": "Le verbe 'manger' se termine par '-er'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le pluriel de 'cheval' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["chevaux", "chevals", "chevaus", "chevalles"],
+      "correctAnswer": "chevaux"
+    },
+    {
+      "question": "Dans 'tu manges', 'tu' est un pronom personnel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot est un synonyme de 'content' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["joyeux", "triste", "fâché", "fatigué"],
+      "correctAnswer": "joyeux"
+    },
+    {
+      "question": "Le mot 'septante' signifie 70 en français de Suisse.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne conjugaison : 'Je (être) content' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["suis", "es", "est", "sont"],
+      "correctAnswer": "suis"
+    },
+    {
+      "question": "Le mot 'photo' est le diminutif de 'photographie'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le contraire de 'monter' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["descendre", "partir", "venir", "aller"],
+      "correctAnswer": "descendre"
+    },
+    {
+      "question": "Dans 'les fleurs', 'les' est un article défini.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Elle est gentille.", "Elle est gentil.", "Elles est gentille.", "Elle sont gentille."],
+      "correctAnswer": "Elle est gentille."
+    },
+    {
+      "question": "Le mot 'huitante' signifie 80 en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot s'écrit avec un 'h' muet ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["heure", "hibou", "haricot", "héros"],
+      "correctAnswer": "heure"
+    },
+    {
+      "question": "Dans 'ils jouent', le verbe est conjugué à la troisième personne du pluriel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le féminin de 'boulanger' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["boulangère", "boulangère", "boulangerie", "boulange"],
+      "correctAnswer": "boulangère"
+    },
+    {
+      "question": "Le mot 'bicycle' s'écrit 'bicyclette' en français.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien y a-t-il de voyelles dans 'oiseau' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["4", "3", "5", "2"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Dans 'vous dansez', 'vous' peut désigner plusieurs personnes.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot est un nom commun ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["ville", "Genève", "Lausanne", "Suisse"],
+      "correctAnswer": "ville"
+    },
+    {
+      "question": "Le mot 'nonante' signifie 90 en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la nature du mot 'vite' dans 'Je cours vite' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["adverbe", "adjectif", "verbe", "nom"],
+      "correctAnswer": "adverbe"
+    },
+    {
+      "question": "Le passé composé utilise un auxiliaire (être ou avoir).",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne conjugaison : 'Nous (avoir) faim' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["avons", "avez", "ont", "a"],
+      "correctAnswer": "avons"
+    },
+    {
+      "question": "Dans 'J'ai mangé', le verbe est au passé composé.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le participe passé de 'faire' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["fait", "fais", "faisé", "fer"],
+      "correctAnswer": "fait"
+    },
+    {
+      "question": "Le mot 'aujourd'hui' s'écrit en un seul mot.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase utilise correctement l'imparfait ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Je jouais au parc.", "Je joue au parc.", "J'ai joué au parc.", "Je jouerai au parc."],
+      "correctAnswer": "Je jouais au parc."
+    },
+    {
+      "question": "Dans 'Il est parti', 'parti' s'accorde avec le sujet.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot est invariable ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["toujours", "beau", "grand", "chien"],
+      "correctAnswer": "toujours"
+    },
+    {
+      "question": "Le complément d'objet direct (COD) répond à la question 'quoi?' ou 'qui?'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Elle mange une pomme', quel est le COD ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["une pomme", "elle", "mange", "aucun"],
+      "correctAnswer": "une pomme"
+    },
+    {
+      "question": "Le mot 'déjeuner' désigne le repas du midi en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["peut-être", "peut être", "peutêtre", "peut-ètre"],
+      "correctAnswer": "peut-être"
+    },
+    {
+      "question": "Dans 'Elles sont parties', le participe passé s'accorde au féminin pluriel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel temps exprime une action future ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["futur simple", "imparfait", "passé composé", "présent"],
+      "correctAnswer": "futur simple"
+    },
+    {
+      "question": "Le mot 'beaucoup' est un adverbe de quantité.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase est au futur simple ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Je partirai demain.", "Je pars demain.", "Je suis parti hier.", "Je partais souvent."],
+      "correctAnswer": "Je partirai demain."
+    },
+    {
+      "question": "Dans 'très gentil', 'très' modifie l'adjectif 'gentil'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le pluriel de 'journal' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["journaux", "journals", "journalles", "journaus"],
+      "correctAnswer": "journaux"
+    },
+    {
+      "question": "Le mot 'poche' en Suisse romande peut désigner un sac en plastique.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle conjonction de coordination complète : 'mais, ou, et, ...' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["donc", "que", "si", "quand"],
+      "correctAnswer": "donc"
+    },
+    {
+      "question": "L'infinitif est la forme non conjuguée du verbe.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Je le vois', que remplace 'le' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["un COD masculin", "un COI", "le sujet", "un adverbe"],
+      "correctAnswer": "un COD masculin"
+    },
+    {
+      "question": "Le conditionnel présent exprime une hypothèse ou une politesse.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne conjugaison : 'Si j'avais de l'argent, je (acheter) une voiture' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["achèterais", "achète", "achèterai", "ai acheté"],
+      "correctAnswer": "achèterais"
+    },
+    {
+      "question": "Dans 'Elle lui parle', 'lui' est un pronom complément d'objet indirect.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel type de phrase est : 'Ferme la porte !' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["impérative", "interrogative", "exclamative", "déclarative"],
+      "correctAnswer": "impérative"
+    },
+    {
+      "question": "Le mot 'natel' désigne un téléphone portable en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le féminin de 'directeur' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["directrice", "directeure", "directeuse", "directeure"],
+      "correctAnswer": "directrice"
+    },
+    {
+      "question": "Dans 'Il a couru vite', 'couru' est le participe passé de 'courir'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase utilise correctement le subjonctif ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Il faut que tu viennes.", "Il faut que tu viens.", "Il faut que tu venir.", "Il faut que tu venais."],
+      "correctAnswer": "Il faut que tu viennes."
+    },
+    {
+      "question": "Le pronom relatif 'dont' remplace un complément introduit par 'de'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le participe passé de 'prendre' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["pris", "prit", "prendu", "prenu"],
+      "correctAnswer": "pris"
+    },
+    {
+      "question": "Dans 'Les livres que j'ai lus', 'lus' s'accorde avec 'livres'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot est un homonyme de 'ver' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["verre", "vrai", "vers", "vert"],
+      "correctAnswer": "verre"
+    },
+    {
+      "question": "Le mot 'tablard' désigne un étagère murale en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Demain, je partirai', quel mot indique le temps ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Demain", "je", "partirai", "aucun"],
+      "correctAnswer": "Demain"
+    },
+    {
+      "question": "L'adjectif 'nouveau' devient 'nouvel' devant une voyelle ou un 'h' muet.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne orthographe du pluriel de 'œil' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["yeux", "œils", "œils", "yeils"],
+      "correctAnswer": "yeux"
+    },
+    {
+      "question": "Dans 'C'est un livre intéressant', 'intéressant' est un adjectif qualificatif.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase contient une proposition subordonnée relative ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Le livre que je lis est captivant.", "Je lis un livre captivant.", "Le livre est captivant.", "J'aime lire."],
+      "correctAnswer": "Le livre que je lis est captivant."
+    },
+    {
+      "question": "Le passé simple est un temps littéraire rarement utilisé à l'oral.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le mode du verbe dans 'Je veux qu'il parte' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["subjonctif", "indicatif", "impératif", "conditionnel"],
+      "correctAnswer": "subjonctif"
+    },
+    {
+      "question": "Dans 'Ayant fini ses devoirs, il sortit', 'ayant fini' est un participe présent composé.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle figure de style est utilisée dans 'La mer est un miroir' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["métaphore", "comparaison", "personnification", "hyperbole"],
+      "correctAnswer": "métaphore"
+    },
+    {
+      "question": "Le complément circonstanciel de lieu répond à la question 'où ?'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Quoiqu'il pleuve, je sortirai', quelle conjonction exprime la concession ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["quoique", "que", "si", "car"],
+      "correctAnswer": "quoique"
+    },
+    {
+      "question": "Le mot 'cornet' peut désigner un sac en papier en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pronom relatif complète : 'La maison ... j'habite est grande' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["où", "que", "qui", "dont"],
+      "correctAnswer": "où"
+    },
+    {
+      "question": "Dans 'Il pleut des cordes', l'expression est au sens figuré.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la voix de la phrase 'Le gâteau est mangé par Marie' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["voix passive", "voix active", "voix moyenne", "voix neutre"],
+      "correctAnswer": "voix passive"
+    },
+    {
+      "question": "Le discours direct utilise des guillemets pour rapporter les paroles.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le participe passé de 'vivre' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["vécu", "vit", "vivé", "vivré"],
+      "correctAnswer": "vécu"
+    },
+    {
+      "question": "Dans 'Elle s'est lavée', le participe s'accorde avec le pronom réfléchi 'se'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la fonction de 'très' dans 'très rapidement' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["adverbe modifiant un adverbe", "adjectif", "nom", "verbe"],
+      "correctAnswer": "adverbe modifiant un adverbe"
+    },
+    {
+      "question": "Le mot 'linge' désigne les vêtements en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Bien qu'il soit tard, je travaille', le verbe 'soit' est au subjonctif.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel type de complément est 'avec plaisir' dans 'Il travaille avec plaisir' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["complément circonstanciel de manière", "COD", "COI", "attribut"],
+      "correctAnswer": "complément circonstanciel de manière"
+    },
+    {
+      "question": "Le plus-que-parfait indique une action antérieure à une autre action passée.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase est au discours indirect ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Il dit qu'il viendra.", "Il dit : « Je viendrai. »", "« Je viendrai », dit-il.", "Viendras-tu ?"],
+      "correctAnswer": "Il dit qu'il viendra."
+    },
+    {
+      "question": "Quelle est la forme correcte du conditionnel passé ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["J'aurais voulu", "J'aurai voulu", "J'avais voulu", "J'ai voulu"],
+      "correctAnswer": "J'aurais voulu"
+    },
+    {
+      "question": "Le gérondif se forme avec 'en' + participe présent.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'C'est le garçon dont je t'ai parlé', 'dont' remplace :",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["de qui", "qui", "que", "où"],
+      "correctAnswer": "de qui"
+    },
+    {
+      "question": "L'accord du participe passé avec 'avoir' se fait avec le COD placé avant.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase contient une proposition subordonnée circonstancielle de cause ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Comme il pleut, je reste à la maison.", "Si tu viens, je serai content.", "Je pense qu'il viendra.", "Le livre que je lis est intéressant."],
+      "correctAnswer": "Comme il pleut, je reste à la maison."
+    },
+    {
+      "question": "Le mot 'fourre' peut désigner une housse ou un classeur en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle figure de style est 'Il fait un froid de canard' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["expression figée", "métaphore", "comparaison", "personnification"],
+      "correctAnswer": "expression figée"
+    },
+    {
+      "question": "Dans 'Elle s'est lavé les mains', le participe ne s'accorde pas car 'les mains' est COD.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le subjonctif présent de 'pouvoir' à la 1ère personne du singulier ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["que je puisse", "que je peux", "que je pouve", "que je pourrai"],
+      "correctAnswer": "que je puisse"
+    },
+    {
+      "question": "Le passé antérieur est un temps composé qui utilise l'auxiliaire au passé simple.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'À peine fut-il arrivé qu'il repartit', quelle est la construction ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["inversion du sujet", "ordre normal", "voix passive", "discours indirect"],
+      "correctAnswer": "inversion du sujet"
+    },
+    {
+      "question": "Le pronom relatif composé 'auquel' remplace 'à + lequel'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase utilise correctement le subjonctif imparfait ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Il fallait qu'il vînt.", "Il fallait qu'il vient.", "Il fallait qu'il viendra.", "Il fallait qu'il venait."],
+      "correctAnswer": "Il fallait qu'il vînt."
+    },
+    {
+      "question": "Dans 'Quoi qu'il arrive', 'quoi que' s'écrit en deux mots.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est l'infinitif passé de 'manger' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["avoir mangé", "être mangé", "mangé", "ayant mangé"],
+      "correctAnswer": "avoir mangé"
+    },
+    {
+      "question": "Le mot 'régie' peut désigner une administration publique en Suisse romande.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Les fleurs que j'ai cueillies', pourquoi 'cueillies' s'accorde-t-il ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["COD 'que' placé avant", "sujet pluriel", "verbe pronominal", "auxiliaire être"],
+      "correctAnswer": "COD 'que' placé avant"
+    },
+    {
+      "question": "La concordance des temps exige le subjonctif après 'bien que'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la nature de 'cependant' dans 'Il pleut, cependant je sors' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["conjonction de coordination", "adverbe", "préposition", "pronom"],
+      "correctAnswer": "conjonction de coordination"
+    },
+    {
+      "question": "Le mot 'œuvre' est généralement féminin, sauf dans certains contextes artistiques.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le bon accord : 'Les pommes que j'ai (manger)' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["mangées", "mangé", "manger", "manges"],
+      "correctAnswer": "mangées"
+    },
+    {
+      "question": "Dans 'Tu es gentil', le verbe 'être' est conjugué au présent.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de mots dans la phrase : 'Le chat dort.' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Le mot 'pain' désigne une nourriture.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel article va devant 'arbre' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["l'", "le", "la", "un"],
+      "correctAnswer": "l'"
+    },
+    {
+      "question": "Dans 'Les oiseaux chantent', le verbe est au pluriel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le masculin de 'chatte' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["chat", "chaton", "chatou", "chattte"],
+      "correctAnswer": "chat"
+    },
+    {
+      "question": "Le mot 'eau' commence par une voyelle.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot est un verbe ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["courir", "rouge", "maison", "grand"],
+      "correctAnswer": "courir"
+    },
+    {
+      "question": "Dans 'Il pleut', 'il' désigne une personne.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle est la terminaison de l'imparfait pour 'nous' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["-ions", "-ons", "-ez", "-ent"],
+      "correctAnswer": "-ions"
+    },
+    {
+      "question": "Le mot 'raclette' désigne un plat suisse traditionnel.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Tu finiras demain', le verbe est au futur simple.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le synonyme de 'rapide' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["vite", "lent", "grand", "petit"],
+      "correctAnswer": "vite"
+    },
+    {
+      "question": "Le mot 'bonbon' a deux syllabes identiques.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Vous êtes partis', le participe passé s'accorde avec le sujet.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle préposition complète : 'Je vais ... Genève' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["à", "au", "en", "de"],
+      "correctAnswer": "à"
+    },
+    {
+      "question": "Le mot 'dérivé' signifie qu'il vient d'un autre mot.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est l'antonyme de 'monter' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["descendre", "grimper", "partir", "venir"],
+      "correctAnswer": "descendre"
+    },
+    {
+      "question": "Dans 'Je pense que tu viendras', la subordonnée est au futur.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase est au passé composé ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["J'ai dormi", "Je dors", "Je dormais", "Je dormirai"],
+      "correctAnswer": "J'ai dormi"
+    },
+    {
+      "question": "Le mot 'action' est un nom dérivé du verbe 'agir'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Après avoir mangé, il partit', 'avoir mangé' est un infinitif passé.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pronom relatif complète : 'L'homme ... je parle est là' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["dont", "que", "qui", "où"],
+      "correctAnswer": "dont"
+    },
+    {
+      "question": "Le mot 'service' désigne un département dans une entreprise.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'En mangeant, il regarde la télé', 'en mangeant' est un gérondif.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la voix passive de 'Marie mange la pomme' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La pomme est mangée par Marie.", "Marie a mangé la pomme.", "La pomme mange Marie.", "Marie est mangée."],
+      "correctAnswer": "La pomme est mangée par Marie."
+    },
+    {
+      "question": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Ils se sont regardés', le participe s'accorde car 'se' est COD.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel temps utilise-t-on après 'si' dans une hypothèse irréelle du présent ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["imparfait", "présent", "futur", "conditionnel"],
+      "correctAnswer": "imparfait"
+    },
+    {
+      "question": "Quel article accompagne le mot 'gomme' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["la", "le", "l'", "les"],
+      "correctAnswer": "la"
+    },
+    {
+      "question": "Le mot 'lune' commence par la lettre L.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la dernière lettre de 'chat' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["t", "a", "h", "c"],
+      "correctAnswer": "t"
+    },
+    {
+      "question": "Dans 'un crayon', le mot 'un' est un article.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel mot rime avec 'beau' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["chapeau", "maison", "chat", "fleur"],
+      "correctAnswer": "chapeau"
+    },
+    {
+      "question": "Le mot 'fromage' désigne un aliment suisse célèbre.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le pluriel de 'gâteau' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["gâteaux", "gâteaus", "gâteau", "gâteaues"],
+      "correctAnswer": "gâteaux"
+    },
+    {
+      "question": "Dans 'Elle chante bien', 'bien' est un adverbe.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["montagne", "montaigne", "montagne", "montagn"],
+      "correctAnswer": "montagne"
+    },
+    {
+      "question": "Le verbe 'finir' appartient au deuxième groupe.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Ils ont chanté', l'auxiliaire est 'avoir'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le COI dans 'Je parle à mon ami' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["à mon ami", "je", "parle", "aucun"],
+      "correctAnswer": "à mon ami"
+    },
+    {
+      "question": "Le mot 'fondue' désigne un plat traditionnel suisse au fromage.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle phrase est à l'impératif ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Viens ici !", "Tu viens ici.", "Il vient ici.", "Nous venons ici."],
+      "correctAnswer": "Viens ici !"
+    },
+    {
+      "question": "Dans 'Nous sommes arrivés', le participe s'accorde avec 'nous'.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le féminin de 'coiffeur' ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["coiffeuse", "coiffeure", "coiffrice", "coiffère"],
+      "correctAnswer": "coiffeuse"
+    },
+    {
+      "question": "Le mot 'cantine' désigne le restaurant scolaire.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans 'Je voudrais un café', le verbe est au conditionnel présent.",
+      "type": "true-false",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle conjonction exprime l'opposition ?",
+      "type": "multiple-choice",
+      "subject": "french",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["mais", "et", "car", "donc"],
+      "correctAnswer": "mais"
+    }
+  ]
+}

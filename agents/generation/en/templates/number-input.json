@@ -1,0 +1,68 @@
+{
+  "templateType": "number-input",
+  "language": "en",
+  "requiredFields": [
+    "id",
+    "type",
+    "subject",
+    "grade",
+    "difficulty",
+    "language",
+    "question",
+    "correctAnswer",
+    "lehrplan21Code",
+    "competencyLevel",
+    "timeLimit",
+    "tags"
+  ],
+  "optionalFields": [
+    "tolerance",
+    "unit"
+  ],
+  "schema": {
+    "id": {
+      "format": "en_{subject}_grade{1-6}_num_{number}",
+      "example": "en_math_grade5_num_001"
+    },
+    "type": {
+      "value": "number-input",
+      "fixed": true
+    },
+    "correctAnswer": {
+      "type": "number",
+      "note": "Single numeric value"
+    },
+    "tolerance": {
+      "type": "number",
+      "optional": true,
+      "description": "Acceptable margin of error for decimal answers",
+      "example": 0.1,
+      "useCase": "For calculations involving decimals or measurements"
+    },
+    "unit": {
+      "type": "string",
+      "optional": true,
+      "examples": ["cm", "kg", "CHF", "°C"],
+      "note": "Specify unit if answer requires one"
+    },
+    "question": {
+      "type": "string",
+      "format": "Clear instruction to provide numeric answer",
+      "examples": [
+        "Calculate: 23 × 4 = ?",
+        "How many centimetres are in 2.5 metres?"
+      ]
+    },
+    "timeLimit": {
+      "recommended": {
+        "grade1-2": 25000,
+        "grade3-4": 20000,
+        "grade5-6": 15000
+      }
+    }
+  },
+  "bestPractices": {
+    "whenToUse": "Math calculations, measurements, counting",
+    "avoidFor": "Answers requiring units or multiple steps without clear numeric result"
+  }
+}

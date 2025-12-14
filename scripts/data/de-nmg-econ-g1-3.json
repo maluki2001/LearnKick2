@@ -1,0 +1,717 @@
+[
+  {
+    "question": "Was ist Geld?",
+    "type": "multiple-choice",
+    "options": [
+      "Etwas zum Essen",
+      "Etwas zum Bezahlen",
+      "Etwas zum Spielen",
+      "Etwas zum Trinken"
+    ],
+    "correctAnswer": "Etwas zum Bezahlen",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wo kaufen wir Brot?",
+    "type": "multiple-choice",
+    "options": [
+      "In der Bäckerei",
+      "In der Apotheke",
+      "Beim Arzt",
+      "In der Schule"
+    ],
+    "correctAnswer": "In der Bäckerei",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wer hilft kranken Menschen?",
+    "type": "multiple-choice",
+    "options": [
+      "Der Bäcker",
+      "Der Arzt",
+      "Der Maler",
+      "Der Gärtner"
+    ],
+    "correctAnswer": "Der Arzt",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wir bezahlen mit Geld im Laden.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was macht ein Lehrer?",
+    "type": "multiple-choice",
+    "options": [
+      "Er unterrichtet Kinder",
+      "Er backt Brot",
+      "Er baut Häuser",
+      "Er verkauft Autos"
+    ],
+    "correctAnswer": "Er unterrichtet Kinder",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wo kaufen wir Äpfel und Bananen?",
+    "type": "multiple-choice",
+    "options": [
+      "Im Laden oder Supermarkt",
+      "In der Bibliothek",
+      "Im Museum",
+      "Im Schwimmbad"
+    ],
+    "correctAnswer": "Im Laden oder Supermarkt",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Ein Polizist schützt die Menschen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wer fährt den Bus?",
+    "type": "multiple-choice",
+    "options": [
+      "Der Busfahrer",
+      "Der Koch",
+      "Der Briefträger",
+      "Der Zahnarzt"
+    ],
+    "correctAnswer": "Der Busfahrer",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was machen wir im Supermarkt?",
+    "type": "multiple-choice",
+    "options": [
+      "Wir kaufen Lebensmittel",
+      "Wir schwimmen",
+      "Wir lesen Bücher",
+      "Wir malen Bilder"
+    ],
+    "correctAnswer": "Wir kaufen Lebensmittel",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Alle Menschen arbeiten am gleichen Ort.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wer bringt Briefe und Pakete?",
+    "type": "multiple-choice",
+    "options": [
+      "Der Briefträger",
+      "Der Feuerwehrmann",
+      "Der Verkäufer",
+      "Der Pilot"
+    ],
+    "correctAnswer": "Der Briefträger",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Ein Feuerwehrmann löscht Feuer.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was macht eine Verkäuferin?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie verkauft Dinge im Laden",
+      "Sie kocht Essen",
+      "Sie repariert Autos",
+      "Sie schneidet Haare"
+    ],
+    "correctAnswer": "Sie verkauft Dinge im Laden",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wir können im Laden mit Steinen bezahlen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wo arbeitet ein Koch?",
+    "type": "multiple-choice",
+    "options": [
+      "In der Küche oder Restaurant",
+      "Im Zug",
+      "Im Garten",
+      "Im Flugzeug"
+    ],
+    "correctAnswer": "In der Küche oder Restaurant",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wie viel kostet ein Spielzeug, wenn es 5 Franken kostet und du 2 Franken Rabatt bekommst?",
+    "type": "multiple-choice",
+    "options": [
+      "3 Franken",
+      "5 Franken",
+      "7 Franken",
+      "2 Franken"
+    ],
+    "correctAnswer": "3 Franken",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Welche Münze gibt es in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "1 Franken Münze",
+      "1 Euro Münze",
+      "1 Dollar Münze",
+      "1 Pfund Münze"
+    ],
+    "correctAnswer": "1 Franken Münze",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "In der Schweiz bezahlen wir mit Schweizer Franken (CHF).",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Du kaufst ein Brötchen für 1.50 CHF. Du gibst 2 CHF. Wie viel Geld bekommst du zurück?",
+    "type": "multiple-choice",
+    "options": [
+      "50 Rappen",
+      "1 Franken",
+      "2 Franken",
+      "Nichts"
+    ],
+    "correctAnswer": "50 Rappen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was bedeutet 'verkaufen'?",
+    "type": "multiple-choice",
+    "options": [
+      "Etwas gegen Geld weggeben",
+      "Etwas geschenkt bekommen",
+      "Etwas verlieren",
+      "Etwas finden"
+    ],
+    "correctAnswer": "Etwas gegen Geld weggeben",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "100 Rappen sind gleich viel wie 1 Franken.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Welche Schweizer Geldnote gibt es?",
+    "type": "multiple-choice",
+    "options": [
+      "10 Franken Note",
+      "10 Euro Note",
+      "10 Dollar Note",
+      "10 Yen Note"
+    ],
+    "correctAnswer": "10 Franken Note",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was bedeutet 'kaufen'?",
+    "type": "multiple-choice",
+    "options": [
+      "Etwas mit Geld bezahlen und bekommen",
+      "Etwas verschenken",
+      "Etwas ausleihen",
+      "Etwas wegwerfen"
+    ],
+    "correctAnswer": "Etwas mit Geld bezahlen und bekommen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wenn etwas viel kostet, ist es teuer.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Du hast 10 Franken. Du kaufst etwas für 6 Franken. Wie viel Geld hast du noch?",
+    "type": "multiple-choice",
+    "options": [
+      "4 Franken",
+      "6 Franken",
+      "10 Franken",
+      "16 Franken"
+    ],
+    "correctAnswer": "4 Franken",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Welche Münzen gibt es in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "5 Rappen, 10 Rappen, 20 Rappen, 50 Rappen",
+      "1 Cent, 5 Cent, 10 Cent",
+      "1 Penny, 2 Pence",
+      "1 Yen, 5 Yen"
+    ],
+    "correctAnswer": "5 Rappen, 10 Rappen, 20 Rappen, 50 Rappen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Alle Dinge im Laden kosten gleich viel.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was ist ein Preis?",
+    "type": "multiple-choice",
+    "options": [
+      "Wie viel Geld etwas kostet",
+      "Wie schwer etwas ist",
+      "Wie gross etwas ist",
+      "Welche Farbe etwas hat"
+    ],
+    "correctAnswer": "Wie viel Geld etwas kostet",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Ein Bauer produziert Lebensmittel wie Milch und Gemüse.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was machen Menschen mit ihrem Lohn?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie kaufen damit Dinge die sie brauchen",
+      "Sie werfen es weg",
+      "Sie verstecken es immer",
+      "Sie geben es nicht aus"
+    ],
+    "correctAnswer": "Sie kaufen damit Dinge die sie brauchen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wenn du sparst, sammelst du Geld für später.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Warum ist Sparen gut?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit man später etwas kaufen kann",
+      "Damit das Geld verschwindet",
+      "Damit man ärmer wird",
+      "Damit man nichts mehr hat"
+    ],
+    "correctAnswer": "Damit man später etwas kaufen kann",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was ist ein 'Bedürfnis'?",
+    "type": "multiple-choice",
+    "options": [
+      "Etwas das man braucht oder möchte",
+      "Eine Art von Geld",
+      "Ein Laden",
+      "Ein Beruf"
+    ],
+    "correctAnswer": "Etwas das man braucht oder möchte",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Essen und Trinken sind Grundbedürfnisse.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen 'brauchen' und 'wünschen'?",
+    "type": "multiple-choice",
+    "options": [
+      "Brauchen ist wichtig, wünschen ist nicht so wichtig",
+      "Beides ist genau gleich",
+      "Wünschen ist wichtiger als brauchen",
+      "Es gibt keinen Unterschied"
+    ],
+    "correctAnswer": "Brauchen ist wichtig, wünschen ist nicht so wichtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Welches ist ein Grundbedürfnis?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Dach über dem Kopf (Wohnung)",
+      "Ein Spielzeugauto",
+      "Ein Computerspiel",
+      "Süssigkeiten"
+    ],
+    "correctAnswer": "Ein Dach über dem Kopf (Wohnung)",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Schweizer Schokolade ist in der ganzen Welt bekannt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Wofür ist die Schweiz berühmt?",
+    "type": "multiple-choice",
+    "options": [
+      "Schokolade, Käse und Uhren",
+      "Pyramiden und Wüsten",
+      "Dschungel und Tiger",
+      "Wolkenkratzer und Taxis"
+    ],
+    "correctAnswer": "Schokolade, Käse und Uhren",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was ist ein berühmtes Schweizer Produkt?",
+    "type": "multiple-choice",
+    "options": [
+      "Emmentaler Käse",
+      "Pizza",
+      "Hamburger",
+      "Sushi"
+    ],
+    "correctAnswer": "Emmentaler Käse",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Schweizer Uhren sind für ihre Qualität bekannt.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Du sparst jeden Monat 5 Franken. Wie viel hast du nach 3 Monaten gespart?",
+    "type": "multiple-choice",
+    "options": [
+      "15 Franken",
+      "5 Franken",
+      "10 Franken",
+      "20 Franken"
+    ],
+    "correctAnswer": "15 Franken",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was ist eine Bank?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Ort wo man Geld sicher aufbewahren kann",
+      "Ein Möbelstück zum Sitzen",
+      "Ein Spielplatz",
+      "Ein Lebensmittelgeschäft"
+    ],
+    "correctAnswer": "Ein Ort wo man Geld sicher aufbewahren kann",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Man kann Geld auf einem Sparkonto sparen.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Warum arbeiten Menschen?",
+    "type": "multiple-choice",
+    "options": [
+      "Um Geld zu verdienen und ihren Lebensunterhalt zu bezahlen",
+      "Nur zum Spass",
+      "Weil sie nichts anderes tun können",
+      "Um Zeit zu verschwenden"
+    ],
+    "correctAnswer": "Um Geld zu verdienen und ihren Lebensunterhalt zu bezahlen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Ein Schweizer Bauer produziert oft Milch und Käse.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was bedeutet 'Tauschhandel'?",
+    "type": "multiple-choice",
+    "options": [
+      "Dinge austauschen ohne Geld zu benutzen",
+      "Geld wechseln in der Bank",
+      "Etwas im Laden kaufen",
+      "Geld sparen"
+    ],
+    "correctAnswer": "Dinge austauschen ohne Geld zu benutzen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Welche Stadt ist ein wichtiges Wirtschaftszentrum der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "Zürich",
+      "Paris",
+      "London",
+      "Berlin"
+    ],
+    "correctAnswer": "Zürich",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "In der Schweiz gibt es viele Banken.",
+    "type": "true-false",
+    "options": ["Richtig", "Falsch"],
+    "correctAnswer": "Richtig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Was ist wichtiger: ein neues Spielzeug oder warme Kleidung im Winter?",
+    "type": "multiple-choice",
+    "options": [
+      "Warme Kleidung, weil man sie braucht",
+      "Das Spielzeug, weil es schöner ist",
+      "Beides ist gleich wichtig",
+      "Nichts davon ist wichtig"
+    ],
+    "correctAnswer": "Warme Kleidung, weil man sie braucht",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  },
+  {
+    "question": "Du möchtest ein Fahrrad für 200 Franken kaufen. Du hast 150 Franken gespart. Wie viel Geld brauchst du noch?",
+    "type": "multiple-choice",
+    "options": [
+      "50 Franken",
+      "150 Franken",
+      "200 Franken",
+      "100 Franken"
+    ],
+    "correctAnswer": "50 Franken",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.6.1"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "totalChecks": 15,
+  "checks": [
+    {
+      "id": "T01",
+      "name": "Eindeutige ID",
+      "description": "ID ist unique und folgt Format",
+      "severity": "critical",
+      "format": "de_{subject}_grade{1-6}_{number}"
+    },
+    {
+      "id": "T02",
+      "name": "Genau 4 Antworten",
+      "description": "Multiple-Choice hat exakt 4 Optionen",
+      "severity": "critical",
+      "applies": ["multiple-choice"]
+    },
+    {
+      "id": "T03",
+      "name": "Correct Index gültig",
+      "description": "correctIndex ist 0-3",
+      "severity": "critical",
+      "range": [0, 3]
+    },
+    {
+      "id": "T04",
+      "name": "Alle Pflichtfelder",
+      "description": "Keine fehlenden Required Fields",
+      "severity": "critical",
+      "required": [
+        "id", "type", "subject", "grade", "difficulty",
+        "language", "question", "answers", "correctIndex",
+        "lehrplan21Code", "timeLimit", "tags"
+      ]
+    },
+    {
+      "id": "T05",
+      "name": "Zeitlimit sinnvoll",
+      "description": "timeLimit zwischen 5000-30000ms",
+      "severity": "high",
+      "range": [5000, 30000]
+    },
+    {
+      "id": "T06",
+      "name": "Klassenstufe gültig",
+      "description": "grade ist 1-6",
+      "severity": "critical",
+      "range": [1, 6]
+    },
+    {
+      "id": "T07",
+      "name": "Schwierigkeit gültig",
+      "description": "difficulty ist 1-5",
+      "severity": "critical",
+      "range": [1, 5]
+    },
+    {
+      "id": "T08",
+      "name": "Frage nicht zu kurz",
+      "description": "Mindestens 10 Zeichen",
+      "severity": "high",
+      "minLength": 10
+    },
+    {
+      "id": "T09",
+      "name": "Frage nicht zu lang",
+      "description": "Maximal 500 Zeichen",
+      "severity": "medium",
+      "maxLength": 500
+    },
+    {
+      "id": "T10",
+      "name": "Kein Platzhaltertext",
+      "description": "Keine TODO, XXX, FIXME",
+      "severity": "critical",
+      "forbidden": ["TODO", "XXX", "FIXME", "TBD"]
+    },
+    {
+      "id": "T11",
+      "name": "Tags vorhanden",
+      "description": "Mindestens 1 Tag",
+      "severity": "medium",
+      "minTags": 1
+    },
+    {
+      "id": "T12",
+      "name": "Sprache korrekt",
+      "description": "language ist 'de'",
+      "severity": "critical",
+      "value": "de"
+    }
+  ],
+  "autoReject": [
+    "T01", "T02", "T03", "T04", "T06", "T07", "T10", "T12"
+  ]
+}

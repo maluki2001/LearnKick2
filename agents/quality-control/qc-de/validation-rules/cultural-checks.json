@@ -1,0 +1,66 @@
+{
+  "country": "Schweiz",
+  "totalChecks": 12,
+  "checks": [
+    {
+      "id": "CU01",
+      "name": "Schweizer Kontext",
+      "description": "Beispiele aus der Schweiz",
+      "severity": "high",
+      "preferred": [
+        "Schweizer Städte (nicht deutsche)",
+        "CHF (nicht EUR)",
+        "Schweizer Persönlichkeiten",
+        "Alpen-Bezug"
+      ]
+    },
+    {
+      "id": "CU02",
+      "name": "Keine regionalen Vorurteile",
+      "description": "Keine Stereotypen über Kantone",
+      "severity": "critical"
+    },
+    {
+      "id": "CU03",
+      "name": "Mehrsprachigkeit berücksichtigt",
+      "description": "4 Landessprachen respektiert",
+      "severity": "medium"
+    },
+    {
+      "id": "CU04",
+      "name": "Geschlechtsneutral",
+      "description": "Keine Geschlechterstereotypen",
+      "severity": "critical",
+      "examples": {
+        "avoid": ["Mädchen mögen Rosa", "Jungs spielen Fußball"],
+        "prefer": ["Kinder mögen verschiedene Farben"]
+      }
+    },
+    {
+      "id": "CU05",
+      "name": "Kulturell vielfältig",
+      "description": "Verschiedene Kulturen einbeziehen",
+      "severity": "medium"
+    },
+    {
+      "id": "CU06",
+      "name": "Keine politischen Themen",
+      "description": "Neutral bei Politik (außer Demokratie-Grundlagen)",
+      "severity": "high"
+    },
+    {
+      "id": "CU07",
+      "name": "Keine religiösen Vorurteile",
+      "description": "Respekt für alle Religionen",
+      "severity": "critical"
+    },
+    {
+      "id": "CU08",
+      "name": "Schweizer Werte",
+      "description": "Neutralität, Demokratie, Föderalismus",
+      "severity": "low"
+    }
+  ],
+  "autoReject": ["CU02", "CU04", "CU07"],
+  "flagForReview": ["CU06"]
+}

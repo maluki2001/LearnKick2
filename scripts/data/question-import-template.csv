@@ -1,0 +1,8 @@
+id,type,subject,grade,difficulty,language,timeLimit,tags,lehrplan21Topic,question,answer1,answer2,answer3,answer4,correctIndex,statement,correctBoolean,correctNumber,tolerance,unit,imageUrl,explanation
+math_4_addition_1,multiple-choice,math,4,2,en,15000,"addition,basic-arithmetic",MA.1.A.2,"What is 25 + 17?",40,42,43,44,1,,,,,,,Addition: 25 + 17 = 42
+math_3_fractions_1,multiple-choice,math,3,3,en,20000,"fractions,division",MA.1.A.3,"What is 1/2 of 16?",6,8,10,12,1,,,,,,,Half of 16 is 8
+lang_2_spelling_1,multiple-choice,language,2,2,en,12000,"spelling,vocabulary",E.4.A.1,"How do you spell the animal that says 'meow'?",kat,cat,catt,caat,1,,,,,,,A cat says meow
+geo_5_capitals_1,multiple-choice,geography,5,4,en,18000,"capitals,europe",NMG.8.5,"What is the capital of France?",London,Paris,Berlin,Madrid,1,,,,,,,Paris is the capital of France
+math_1_counting_1,true-false,math,1,1,en,10000,"counting,basic",MA.1.A.1,,,,,,There are 5 fingers on one hand,true,,,,,"Humans have 5 fingers on each hand"
+math_6_algebra_1,number-input,math,6,5,en,25000,"algebra,equations",MA.1.A.6,"If x + 5 = 12, what is x?",,,,,,,,7,0,,,"x = 12 - 5 = 7"
+geo_4_continents_1,image-question,geography,4,3,en,20000,"continents,world",NMG.8.4,"Which continent is highlighted in this map?",Africa,Asia,Europe,Australia,0,,,,,/images/africa-map.jpg,"Africa is highlighted in red"

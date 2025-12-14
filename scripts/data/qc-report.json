@@ -1,0 +1,164 @@
+{
+  "timestamp": "2025-12-07T03:08:11.581Z",
+  "summary": {
+    "total": 4633,
+    "passed": 4628,
+    "failed": 5,
+    "flagged": 0,
+    "passRate": "99.89%"
+  },
+  "byLanguage": {
+    "de": {
+      "total": 4264,
+      "passed": 4259,
+      "failed": 5,
+      "flagged": 0
+    },
+    "en": {
+      "total": 192,
+      "passed": 192,
+      "failed": 0,
+      "flagged": 0
+    },
+    "fr": {
+      "total": 177,
+      "passed": 177,
+      "failed": 0,
+      "flagged": 0
+    }
+  },
+  "bySubject": {
+    "german": {
+      "total": 988,
+      "passed": 984,
+      "failed": 4,
+      "flagged": 0
+    },
+    "math": {
+      "total": 1644,
+      "passed": 1643,
+      "failed": 1,
+      "flagged": 0
+    },
+    "nmg": {
+      "total": 1821,
+      "passed": 1821,
+      "failed": 0,
+      "flagged": 0
+    },
+    "english": {
+      "total": 49,
+      "passed": 49,
+      "failed": 0,
+      "flagged": 0
+    },
+    "science": {
+      "total": 79,
+      "passed": 79,
+      "failed": 0,
+      "flagged": 0
+    },
+    "french": {
+      "total": 52,
+      "passed": 52,
+      "failed": 0,
+      "flagged": 0
+    }
+  },
+  "byGrade": {
+    "1": {
+      "total": 717,
+      "passed": 717,
+      "failed": 0,
+      "flagged": 0
+    },
+    "2": {
+      "total": 699,
+      "passed": 699,
+      "failed": 0,
+      "flagged": 0
+    },
+    "3": {
+      "total": 878,
+      "passed": 877,
+      "failed": 1,
+      "flagged": 0
+    },
+    "4": {
+      "total": 783,
+      "passed": 782,
+      "failed": 1,
+      "flagged": 0
+    },
+    "5": {
+      "total": 833,
+      "passed": 831,
+      "failed": 2,
+      "flagged": 0
+    },
+    "6": {
+      "total": 723,
+      "passed": 722,
+      "failed": 1,
+      "flagged": 0
+    }
+  },
+  "errors": [
+    {
+      "id": "441b6ade-4728-4542-9c48-5aa358db644b",
+      "question": "Das Wort 'groß' schreibt man in der Schweiz 'gross...",
+      "errors": [
+        {
+          "field": "question",
+          "error": "Swiss German uses \"ss\" not \"ß\"",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "id": "86bd4831-2239-42fb-beb1-ab640a3d2014",
+      "question": "Im Schweizer Hochdeutsch schreibt man 'grüssen' mi...",
+      "errors": [
+        {
+          "field": "question",
+          "error": "Swiss German uses \"ss\" not \"ß\"",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "id": "1b93cadc-302c-4cf2-99e6-b8c89acc8dd8",
+      "question": "Im Schweizer Hochdeutsch schreibt man 'Strasse' mi...",
+      "errors": [
+        {
+          "field": "question",
+          "error": "Swiss German uses \"ss\" not \"ß\"",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "id": "ddc8253e-1d3c-4c60-803d-6610449dc1a5",
+      "question": "Im Schweizer Hochdeutsch schreibt man 'Strasse' mi...",
+      "errors": [
+        {
+          "field": "question",
+          "error": "Swiss German uses \"ss\" not \"ß\"",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "id": "bf3e4039-af0d-445d-8859-fdff347dc843",
+      "question": "Die römische Zahl XXX bedeutet 30....",
+      "errors": [
+        {
+          "field": "question",
+          "error": "Placeholder text detected",
+          "severity": "critical"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

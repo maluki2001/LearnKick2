@@ -1,0 +1,1456 @@
+{
+  "totalQuestions": 100,
+  "passed": 57,
+  "failed": 43,
+  "warnings": 0,
+  "questionResults": [
+    {
+      "id": "592f50ad-c316-4712-9ef8-0d518f97e28d",
+      "question": "Antibodies are produced by white blood cells.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "1b0da7c0-af2d-448f-a4d5-12da88f58039",
+      "question": "How many bones are in the adult human body?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "206",
+        "100",
+        "50",
+        "500"
+      ]
+    },
+    {
+      "id": "b14c6358-ab08-465d-a669-90dc8e3d853e",
+      "question": "The largest ocean on Earth is the Pacific Ocean.",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "f74b4747-4535-4ccc-8b1b-76b075457d82",
+      "question": "What is a cloud made of?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Water droplets",
+        "Cotton",
+        "Sugar",
+        "Smoke"
+      ]
+    },
+    {
+      "id": "bc5692e1-b27f-430b-89a3-08d15c744fcd",
+      "question": "The Rhine River flows through Switzerland.",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "51b3a96b-02c9-4187-968b-7b8997b7f9f4",
+      "question": "Birds have feathers.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "55584de7-dbb1-4098-8641-ccb75f8320a3",
+      "question": "Wind can move clouds across the sky.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "b9cc96cf-2eb6-46ab-b669-a9e24dd31ac3",
+      "question": "How many seasons are there in a year?",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "4",
+        "2",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "id": "7e1d578b-cac4-4e53-84e8-c6abdd827993",
+      "question": "Dolphins use echolocation to navigate.",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "bf417a94-8e4a-462f-985c-4da2c8cd448d",
+      "question": "Which planet is closest to the sun?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Mercury",
+      "answers": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ]
+    },
+    {
+      "id": "ce5c405e-cd86-4e24-99f7-548da476edca",
+      "question": "Plants absorb water through their roots.",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "7be8523d-e03e-408c-8532-193f5cfe1782",
+      "question": "What is the freezing point of water?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "0°C",
+      "answers": [
+        "0°C",
+        "100°C",
+        "50°C",
+        "-10°C"
+      ]
+    },
+    {
+      "id": "a4eaad1f-b2c2-44e5-b363-5793148cedc9",
+      "question": "Sunflowers turn to face the sun.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "9dfb4a14-c5c0-4ad7-ad36-7b6e2b926dd8",
+      "question": "Which animal hatches from an egg?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Chicken",
+        "Dog",
+        "Cat",
+        "Horse"
+      ]
+    },
+    {
+      "id": "5ab3f699-b7d7-4a86-bb74-1b89ac53e125",
+      "question": "Trees lose their leaves in autumn.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "c46a9db1-3649-4065-bbd1-ddddcc7c1d85",
+      "question": "Which animal is the fastest land animal?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Cheetah",
+      "answers": [
+        "Cheetah",
+        "Lion",
+        "Horse",
+        "Gazelle"
+      ]
+    },
+    {
+      "id": "df9bb6d8-f9cb-4354-b9f9-fde98679c278",
+      "question": "How many chromosomes does a human have?",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "46",
+      "answers": [
+        "46",
+        "23",
+        "92",
+        "12"
+      ]
+    },
+    {
+      "id": "b8e53d7d-55f8-4353-a2db-b2939489d24e",
+      "question": "Which organ pumps blood around the body?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Heart",
+      "answers": [
+        "Heart",
+        "Brain",
+        "Lungs",
+        "Stomach"
+      ]
+    },
+    {
+      "id": "bb30b855-4963-4a86-bbc9-3530a8d33dbe",
+      "question": "What is the main pigment in plant cells?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Chlorophyll",
+      "answers": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Carotene"
+      ]
+    },
+    {
+      "id": "0e906418-dc5b-4681-86f0-7ef93ae29aa6",
+      "question": "Photosynthesis occurs in all living cells.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "False",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "bda5d4c9-f78f-49cc-bb98-447b1bffebb6",
+      "question": "Evaporation is when liquid turns into gas.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "ad396def-7f99-4b57-85a3-c80d4f1a687f",
+      "question": "The capital of Switzerland is Bern.",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "bf681315-0d46-4f66-a87f-c618b1a1d0c0",
+      "question": "Clouds are made of tiny water droplets.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "1a89514a-857c-477d-bb91-9d4410ff0912",
+      "question": "Seeds can travel to new places by wind or animals.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "1c988ff0-d5fc-4fcd-9d77-fa0a392b346c",
+      "question": "Which simple machine would you use to lift a heavy box onto a lorry?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Inclined plane (ramp)",
+      "answers": [
+        "Wheel and axle",
+        "Inclined plane (ramp)",
+        "Screw",
+        "Wedge"
+      ]
+    },
+    {
+      "id": "10e47244-ef68-4d60-8806-5495a86296b0",
+      "question": "Which of these is a solid?",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Rock",
+        "Milk",
+        "Air",
+        "Juice"
+      ]
+    },
+    {
+      "id": "f8559fdf-7fbb-40bd-b56d-e648ce30f5b5",
+      "question": "Your stomach helps digest food.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "7706b056-d8b0-4b8c-8a3d-1405edcdf2dc",
+      "question": "Elephants use their trunks to drink water.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "ff163cdb-2810-4a2b-85b9-f5308312cfae",
+      "question": "What is the largest organ in your body?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Skin",
+        "Heart",
+        "Brain",
+        "Stomach"
+      ]
+    },
+    {
+      "id": "e5c7f4bd-5fad-47ed-98e8-905b4e8e5b0c",
+      "question": "What is the formula for photosynthesis?",
+      "grade": 4,
+      "difficulty": 4,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "CO2 + H2O + Light → Glucose + O2",
+      "answers": [
+        "CO2 + H2O + Light → Glucose + O2",
+        "O2 + H2O → CO2",
+        "N2 + O2 → NO2",
+        "H2 + O2 → H2O"
+      ]
+    },
+    {
+      "id": "a9daf5d1-c23c-4cbb-a39c-50e4348e99bc",
+      "question": "What is the process by which plants lose water vapour?",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Incorrect: Water vapour is a gas"
+      ],
+      "correctAnswer": "Transpiration",
+      "answers": [
+        "Transpiration",
+        "Respiration",
+        "Digestion",
+        "Absorption"
+      ]
+    },
+    {
+      "id": "943dc42c-b1dc-4666-821d-dd00b2a2ab20",
+      "question": "What do we call water that falls as frozen flakes?",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Snow",
+        "Rain",
+        "Hail",
+        "Dew"
+      ]
+    },
+    {
+      "id": "6249a4ec-6993-4fe9-959c-ff1506c3c2cc",
+      "question": "The Sun is a star.",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "66f1dc2e-1c7f-4afc-b96c-9f50e134b620",
+      "question": "What is prey?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "An animal that is hunted",
+      "answers": [
+        "An animal that hunts",
+        "An animal that is hunted",
+        "A type of plant",
+        "A carnivore"
+      ]
+    },
+    {
+      "id": "84dd68ad-d59a-462f-b900-1e3fa0102b07",
+      "question": "Potential energy is stored energy.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "241b63bc-6332-4c0d-bb41-ad3bd06a4a93",
+      "question": "Which blood vessels carry blood away from the heart?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Arteries",
+      "answers": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Ventricles"
+      ]
+    },
+    {
+      "id": "25cf86ed-c294-43a7-8213-39d064316b04",
+      "question": "Which type of lever is a wheelbarrow?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Second class",
+      "answers": [
+        "First class",
+        "Second class",
+        "Third class",
+        "Fourth class"
+      ]
+    },
+    {
+      "id": "e681fe6d-510a-4766-bda1-5e88127d2506",
+      "question": "What is the formula for calculating speed?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Distance ÷ Time",
+      "answers": [
+        "Distance ÷ Time",
+        "Time ÷ Distance",
+        "Distance × Time",
+        "Force × Distance"
+      ]
+    },
+    {
+      "id": "d1b014fe-1025-4800-acca-5fbcdd6dab05",
+      "question": "Metamorphosis is a process of transformation.",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "3d42d2b2-23fd-4eb0-998f-0c7034096d19",
+      "question": "How many languages are official in Switzerland?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "4",
+      "answers": null
+    },
+    {
+      "id": "ac398876-ed55-4d00-bd12-d60b111795cb",
+      "question": "When two objects rub together, what is produced along with friction?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Heat",
+      "answers": [
+        "Cold",
+        "Heat",
+        "Light",
+        "Sound only"
+      ]
+    },
+    {
+      "id": "35e1c76e-3ee5-45d1-ae9f-ef115393b6c3",
+      "question": "Dogs can fly.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "False",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "2aaddb58-fb5b-4772-b258-9932a88caace",
+      "question": "What is water pollution?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Harmful substances contaminating water",
+      "answers": [
+        "Water that is too cold",
+        "Harmful substances contaminating water",
+        "Water moving too fast",
+        "Clean drinking water"
+      ]
+    },
+    {
+      "id": "cfaa4b34-e60f-4bcc-8265-43676af74054",
+      "question": "The speed of light is approximately 300,000 kilometres per second.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "6aac5316-fd63-4190-985f-aa5fbabf3fb1",
+      "question": "Penguins live in the Arctic.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "False",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "cefb7b18-8bb0-49f8-ae0a-c1188f5359a9",
+      "question": "Which gas do plants release during photosynthesis?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
+      ]
+    },
+    {
+      "id": "680840e4-48e2-4d83-b760-7f087f415b1b",
+      "question": "Chromosomes are found in the nucleus of cells.",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "4a12353a-5c64-4f4a-9a79-c085e6966549",
+      "question": "What is the smallest particle of an element?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Atom",
+      "answers": [
+        "Atom",
+        "Molecule",
+        "Compound",
+        "Mixture"
+      ]
+    },
+    {
+      "id": "eadf3832-e125-4f1f-a1c9-49bcc624becc",
+      "question": "What makes a ball thrown upwards come back down?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Gravity",
+      "answers": [
+        "Air resistance",
+        "Gravity",
+        "Magnetism",
+        "Your arm pulling it"
+      ]
+    },
+    {
+      "id": "157fee41-c85e-43f6-ad62-cad9fc1084a6",
+      "question": "Batteries store chemical energy.",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "c1be3387-c9e8-44e4-8718-264dc6250bea",
+      "question": "The Earth takes one year to orbit around which object?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "The Sun",
+      "answers": [
+        "The Moon",
+        "The Sun",
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": "0d14a9f8-665f-4009-ad9d-db3bb3f5884f",
+      "question": "What colour is the sky on a sunny day?",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Blue",
+      "answers": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ]
+    },
+    {
+      "id": "d4573272-ce90-49db-ac98-659a64fb5a81",
+      "question": "Which organelle controls cell activities?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Nucleus",
+      "answers": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Vacuole"
+      ]
+    },
+    {
+      "id": "c62dcd63-c031-4ab4-80c9-f4af71de2cb8",
+      "question": "What percentage of energy is typically passed from one level to the next in a food chain?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "10%",
+      "answers": [
+        "90%",
+        "50%",
+        "10%",
+        "100%"
+      ]
+    },
+    {
+      "id": "14485ba5-7c1e-4b63-bc74-417208053b97",
+      "question": "What is the strongest muscle in the human body relative to its size?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Jaw muscle",
+      "answers": [
+        "Heart",
+        "Tongue",
+        "Thigh muscle",
+        "Jaw muscle"
+      ]
+    },
+    {
+      "id": "abc9a5aa-e645-436a-a5db-cdb783ac9593",
+      "question": "You can see water vapour in the air.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": null
+    },
+    {
+      "id": "27be3aed-8849-4ae7-8432-ed2ccbf0b63e",
+      "question": "Which type of rock is marble?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Metamorphic",
+      "answers": [
+        "Metamorphic",
+        "Igneous",
+        "Sedimentary",
+        "Volcanic"
+      ]
+    },
+    {
+      "id": "2eb4aabf-1b3c-4a0b-b666-f748620af282",
+      "question": "Penguins can fly in the air.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": null
+    },
+    {
+      "id": "b44e0229-7319-4cc9-91f9-57d38f61c1c5",
+      "question": "What is symbiosis?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Two species living closely together",
+      "answers": [
+        "One animal eating another",
+        "Two species living closely together",
+        "Animals living alone",
+        "Plants growing in soil"
+      ]
+    },
+    {
+      "id": "3142a2e5-65cf-4c17-aa8e-99ab9a3a7d54",
+      "question": "What do bees collect from flowers?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Nectar",
+        "Water",
+        "Soil",
+        "Air"
+      ]
+    },
+    {
+      "id": "28406683-6cb6-4251-b436-10112f5aa8cc",
+      "question": "What do we call a group of stars that form a pattern in the night sky?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Constellation",
+      "answers": [
+        "Galaxy",
+        "Constellation",
+        "Solar system",
+        "Nebula"
+      ]
+    },
+    {
+      "id": "178855b7-2589-4bfd-b9b2-29196da71d38",
+      "question": "The Moon orbits around which celestial body?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Earth",
+      "answers": [
+        "The Sun",
+        "Mars",
+        "Earth",
+        "Jupiter"
+      ]
+    },
+    {
+      "id": "f83219d6-8fc8-488b-a5f6-b1d335321529",
+      "question": "Why is it important to protect endangered species?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "To maintain biodiversity and ecosystem balance",
+      "answers": [
+        "They are cute",
+        "To maintain biodiversity and ecosystem balance",
+        "They cost money",
+        "They are rare collectors' items"
+      ]
+    },
+    {
+      "id": "fb84cc38-6655-4bc0-9393-28d062aae486",
+      "question": "What do we call water that falls from clouds?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Precipitation",
+        "Evaporation",
+        "Condensation",
+        "Collection"
+      ]
+    },
+    {
+      "id": "31fad061-c1d8-4f0b-a722-22d748368b25",
+      "question": "What is the term for organisms that make their own food?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Autotrophs",
+      "answers": [
+        "Autotrophs",
+        "Heterotrophs",
+        "Decomposers",
+        "Consumers"
+      ]
+    },
+    {
+      "id": "3fe9d6ed-2c2e-4102-9796-673696e16e55",
+      "question": "How many continents are there on Earth?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "7",
+      "answers": null
+    },
+    {
+      "id": "599db625-dbeb-4635-895e-1995b15376a1",
+      "question": "What is the asteroid belt?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "A region of rocky objects between Mars and Jupiter",
+      "answers": [
+        "A ring around Saturn",
+        "A region of rocky objects between Mars and Jupiter",
+        "A comet tail",
+        "The edge of the solar system"
+      ]
+    },
+    {
+      "id": "ada2540d-2d41-4bbb-ae7a-59b076f58967",
+      "question": "What protects your brain inside your head?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Skull",
+        "Skin",
+        "Hair",
+        "Muscles"
+      ]
+    },
+    {
+      "id": "d07ac056-03fe-4526-879c-dccafe2180b4",
+      "question": "Plants make their own food using sunlight.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "45238b54-51d2-42da-8fdc-3a80fed31776",
+      "question": "Snow is frozen water.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "b66b8104-a26f-41dd-898c-9c8316c29073",
+      "question": "Which animal has a pouch to carry its baby?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Kangaroo",
+        "Elephant",
+        "Tiger",
+        "Bear"
+      ]
+    },
+    {
+      "id": "fc5da881-3591-4faa-beb1-71665936958e",
+      "question": "What is the main component of the sun?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Hydrogen",
+      "answers": [
+        "Hydrogen",
+        "Helium",
+        "Carbon",
+        "Oxygen"
+      ]
+    },
+    {
+      "id": "1a8bf004-4c87-486d-a2ba-b87d06d80c4e",
+      "question": "Which particle has a negative charge?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Electron",
+      "answers": [
+        "Electron",
+        "Proton",
+        "Neutron",
+        "Nucleus"
+      ]
+    },
+    {
+      "id": "89e4af52-a80a-41d0-bcff-420b59ba6ca6",
+      "question": "Spring is when new plants start to grow.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "03d96e58-9470-4d1d-8030-c043f1b5cc1c",
+      "question": "The density of water is 1 g/cm³.",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "0ec697fa-cb00-46b6-9aef-50497611f0d8",
+      "question": "What is the term for animals without backbones?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Invertebrates",
+      "answers": [
+        "Invertebrates",
+        "Vertebrates",
+        "Mammals",
+        "Reptiles"
+      ]
+    },
+    {
+      "id": "9d2f7d8e-fe36-45ba-a789-d8e928b3f4e6",
+      "question": "What is the main function of white blood cells?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Fight disease and infection",
+      "answers": [
+        "Carry oxygen",
+        "Fight disease and infection",
+        "Help digestion",
+        "Control temperature"
+      ]
+    },
+    {
+      "id": "98ad961e-b631-4a32-8bf6-7ec772c7b2c4",
+      "question": "Photosynthesis requires sunlight, water, and carbon dioxide.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer not found in answer list"
+      ],
+      "correctAnswer": "true",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ]
+    },
+    {
+      "id": "1a46168a-cd9d-4251-80a4-3863a7517056",
+      "question": "You use your nose to smell things.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "f0f16ed6-b171-4755-a0b1-71b5225c0194",
+      "question": "Leaves change colour in autumn.",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "190d0c3c-bb95-4556-83e9-4a16e9b9c3f1",
+      "question": "Renewable energy sources will never run out.",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "True",
+      "answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": "982584a1-9754-4870-8614-23e396301cdb",
+      "question": "How many planets are in our solar system?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "8",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "id": "02fb66c7-5bc6-4ee9-9067-8449610d19b6",
+      "question": "What do we call frozen rain?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Hail",
+        "Snow",
+        "Mist",
+        "Dew"
+      ]
+    },
+    {
+      "id": "016a0699-ab46-4f81-87f0-ebb5f8e015a2",
+      "question": "What happens when water boils?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "It turns to steam",
+        "It freezes",
+        "It disappears forever",
+        "It turns to ice"
+      ]
+    },
+    {
+      "id": "9c31fd2f-d44f-4653-b87c-3b2c120f34f4",
+      "question": "Which organ produces insulin?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Pancreas",
+      "answers": [
+        "Pancreas",
+        "Liver",
+        "Stomach",
+        "Kidneys"
+      ]
+    },
+    {
+      "id": "b99aaa9d-cdc3-4eec-bb00-522ac9e11f81",
+      "question": "Animals hibernate during winter.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "eeb03ce5-392e-4e8f-b14f-8a54cca0794d",
+      "question": "What is the process of splitting atoms called?",
+      "grade": 5,
+      "difficulty": 4,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Nuclear fission",
+      "answers": [
+        "Nuclear fission",
+        "Nuclear fusion",
+        "Radiation",
+        "Decay"
+      ]
+    },
+    {
+      "id": "ee84ffcb-d433-4a8e-bb49-769741a9c29e",
+      "question": "What is the greenhouse effect?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Heat trapped in Earth's atmosphere",
+      "answers": [
+        "Growing plants in a greenhouse",
+        "Heat trapped in Earth's atmosphere",
+        "Cooling of the Earth",
+        "Making glass houses"
+      ]
+    },
+    {
+      "id": "c8f683dd-4c02-483f-b4bb-9d7c5a940617",
+      "question": "What is the purpose of the ribcage?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "To protect the heart and lungs",
+      "answers": [
+        "To help you breathe",
+        "To protect the heart and lungs",
+        "To help you digest food",
+        "To support your legs"
+      ]
+    },
+    {
+      "id": "47698cee-e98f-4034-9188-1ea84990fa6a",
+      "question": "Which part of the plant is underground?",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Roots",
+      "answers": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ]
+    },
+    {
+      "id": "e611535d-21ac-4d72-b77a-25dc950b0831",
+      "question": "Summer has the longest days and shortest nights.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "5b37fe8f-7da7-4e78-85f0-5b29f9fb4044",
+      "question": "What is extinction?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "When all members of a species die",
+      "answers": [
+        "When a species moves to a new area",
+        "When all members of a species die",
+        "When animals hibernate",
+        "When plants lose their leaves"
+      ]
+    },
+    {
+      "id": "709ef318-419a-4477-a6e0-de7d83432e77",
+      "question": "What causes the seasons on Earth?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Earth's tilted axis",
+      "answers": [
+        "Distance from the Sun",
+        "Earth's tilted axis",
+        "The Moon's gravity",
+        "Solar flares"
+      ]
+    },
+    {
+      "id": "38b7b99c-befa-44a3-85fd-257e73e93c34",
+      "question": "What do we call the study of living things?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Biology",
+      "answers": [
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Geology"
+      ]
+    },
+    {
+      "id": "371a6391-2690-4993-b8e9-16d52be219b0",
+      "question": "What connects bones to muscles?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Tendons",
+      "answers": [
+        "Ligaments",
+        "Tendons",
+        "Cartilage",
+        "Blood vessels"
+      ]
+    },
+    {
+      "id": "3733f16c-db11-462c-98d7-88283e3e8c11",
+      "question": "What is the name of the force that opposes motion?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Friction",
+      "answers": [
+        "Friction",
+        "Gravity",
+        "Magnetism",
+        "Inertia"
+      ]
+    },
+    {
+      "id": "b9428be9-1044-4539-ac0c-6a3d6e8031d4",
+      "question": "Steam from a kettle is water vapour.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        "Missing or invalid answers array"
+      ],
+      "correctAnswer": "true",
+      "answers": null
+    },
+    {
+      "id": "f36fd373-0661-4ef6-9974-62e2a83c4eb4",
+      "question": "Which vitamin do we get from sunlight?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Vitamin D",
+      "answers": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B"
+      ]
+    },
+    {
+      "id": "a6f946ca-dbc1-47c6-b0aa-111c636ab39f",
+      "question": "Which state of matter has a definite volume but no definite shape?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "issues": [],
+      "correctAnswer": "Liquid",
+      "answers": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Plasma"
+      ]
+    },
+    {
+      "id": "1ee2e592-3bd8-4c78-bb0a-6f466db095d1",
+      "question": "What do camels store in their humps?",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        "Missing question or correct_answer field"
+      ],
+      "correctAnswer": "",
+      "answers": [
+        "Fat",
+        "Water",
+        "Food",
+        "Air"
+      ]
+    }
+  ]
+}

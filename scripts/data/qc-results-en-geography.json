@@ -1,0 +1,1691 @@
+{
+  "totalQuestions": 100,
+  "passed": 39,
+  "failedFactual": 0,
+  "failedDataIntegrity": 61,
+  "timestamp": "2025-12-07T04:20:23.224Z",
+  "questions": [
+    {
+      "id": "36918bc2-b7bb-4b9a-a3c8-b2e96d6fd50a",
+      "question": "Which river is the longest in Europe?",
+      "answers": [
+        "Volga River",
+        "Danube River",
+        "Rhine River",
+        "Thames River"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "65c2ac3b-3f68-4da5-aaa2-07b5de4adc4c",
+      "question": "What is the largest city in Switzerland?",
+      "answers": [
+        "Zürich",
+        "Bern",
+        "Geneva",
+        "Basel"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "3290728c-0a6f-430c-9eb8-731781fc7227",
+      "question": "Which is the highest mountain in North America?",
+      "answers": [
+        "Denali (Mount McKinley)",
+        "Mount Logan",
+        "Mount Rainier",
+        "Pikes Peak"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "046edfb1-fee1-431c-bfef-a0412b0a50ac",
+      "question": "The Swiss Plateau lies between the Alps and the Jura Mountains.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "6eb49171-0ece-4774-8a54-4f320d03784c",
+      "question": "Which Swiss canton is known for its watchmaking industry?",
+      "answers": [
+        "Neuchâtel",
+        "Appenzell",
+        "Schaffhausen",
+        "Glarus"
+      ],
+      "correctAnswer": "Neuchâtel",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "70aa3cdf-cf02-4919-9208-379ce58f4437",
+      "question": "What is the capital of Russia?",
+      "answers": [
+        "Moscow",
+        "St. Petersburg",
+        "Novosibirsk",
+        "Kazan"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "bb1a13e6-331c-47d2-8d6a-a5bc7f36ff90",
+      "question": "Which Swiss mountain is featured on Toblerone chocolate packaging?",
+      "answers": [
+        "Matterhorn",
+        "Jungfrau",
+        "Eiger",
+        "Pilatus"
+      ],
+      "correctAnswer": "",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "de58cbfe-8f62-42a7-af0b-dc1cde75a925",
+      "question": "What is the capital of Mexico?",
+      "answers": [
+        "Mexico City",
+        "Guadalajara",
+        "Monterrey",
+        "Cancún"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "85d1d89f-0fac-47d4-8783-ab510e3140fa",
+      "question": "Which canton is the smallest by area?",
+      "answers": [
+        "Basel-Stadt",
+        "Geneva",
+        "Zug",
+        "Schaffhausen"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "04dd7a31-2122-4fd6-90e0-5d34cf432538",
+      "question": "Which sea is the saltiest in the world?",
+      "answers": [
+        "Dead Sea",
+        "Red Sea",
+        "Mediterranean Sea",
+        "Caspian Sea"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "39cd3de8-6e7e-4295-a5f9-69b07d46c16b",
+      "question": "What is the capital of Thailand?",
+      "answers": [
+        "Bangkok",
+        "Phuket",
+        "Chiang Mai",
+        "Pattaya"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "3597460a-ba60-4505-85b0-7de583952267",
+      "question": "What is the name of the famous mountain trio in the Bernese Alps?",
+      "answers": [
+        "Eiger, Mönch, Jungfrau",
+        "Matterhorn, Dom, Weisshorn",
+        "Pilatus, Rigi, Titlis",
+        "Dufourspitze, Dom, Täschhorn"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "456871c3-9543-49a5-b882-5d2ef41712f5",
+      "question": "Which canton is the largest by area?",
+      "answers": [
+        "Graubünden",
+        "Bern",
+        "Valais",
+        "Ticino"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "a29537bd-73f2-494f-a8e1-1a91824c04f3",
+      "question": "Lake Maggiore is shared between Switzerland and Italy.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "3d6b8a17-e6fa-427d-a4cb-c77e9e810b37",
+      "question": "Which mountain range separates Europe from Asia?",
+      "answers": [
+        "Ural Mountains",
+        "Caucasus Mountains",
+        "Altai Mountains",
+        "Tian Shan"
+      ],
+      "correctAnswer": "Ural Mountains",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "a2276701-3627-45b8-8882-6b2d05c19ccf",
+      "question": "Mount Kilimanjaro is located in Tanzania.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "a25583f0-24cf-4a75-aba8-7e9587ca0e96",
+      "question": "Which canton is Zürich in?",
+      "answers": [
+        "Canton of Zürich",
+        "Canton of Bern",
+        "Canton of Geneva",
+        "Canton of Vaud"
+      ],
+      "correctAnswer": "Canton of Zürich",
+      "grade": 2,
+      "difficulty": 1,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "ef2e5215-3f62-4711-b6c5-dec36dfef863",
+      "question": "Which ocean is between Europe and America?",
+      "answers": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswer": "",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "98340b8a-08ae-4938-9faf-d754e5086fcd",
+      "question": "Which famous opera house is located in Sydney?",
+      "answers": [
+        "Sydney Opera House",
+        "Royal Opera House",
+        "La Scala",
+        "Metropolitan Opera"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "f431a961-e8ac-4446-8329-403e0a991b7b",
+      "question": "Which is the longest glacier in the Alps?",
+      "answers": [
+        "Aletsch Glacier",
+        "Rhône Glacier",
+        "Gorner Glacier",
+        "Morteratsch Glacier"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "cc6cdd04-31dc-4dd5-ad1d-49c74044863f",
+      "question": "The Dead Sea is the lowest point on Earth's surface.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "9347d1d8-2c4d-418a-a56f-7495d682be46",
+      "question": "What is the capital of Morocco?",
+      "answers": [
+        "Rabat",
+        "Casablanca",
+        "Marrakech",
+        "Fez"
+      ],
+      "correctAnswer": "Rabat",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "acc2e674-deaa-4664-b52d-59e2708308a8",
+      "question": "Which country is both in Europe and Asia?",
+      "answers": [
+        "Turkey",
+        "Egypt",
+        "Kazakhstan",
+        "Russia"
+      ],
+      "correctAnswer": "Turkey",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "85b7b103-f5ad-4a24-b3ce-795ed7e99d5c",
+      "question": "Which mountain is known as the 'Roof of Africa'?",
+      "answers": [
+        "Mount Kilimanjaro",
+        "Mount Kenya",
+        "Mount Elgon",
+        "Mount Meru"
+      ],
+      "correctAnswer": "Mount Kilimanjaro",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "9c5dc74c-ad80-4b4b-b16d-92749674b3c8",
+      "question": "Which canton is known as the 'Land of a Thousand Lakes'?",
+      "answers": [
+        "Graubünden",
+        "Valais",
+        "Ticino",
+        "Uri"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "a7325f8e-2b55-4ac3-81dd-57c9d2641188",
+      "question": "What is the capital of Belgium?",
+      "answers": [
+        "Brussels",
+        "Antwerp",
+        "Bruges",
+        "Ghent"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "9a99cb9b-4537-41d3-8b96-c74697d8a176",
+      "question": "Which famous wall runs along China's northern border?",
+      "answers": [
+        "Great Wall of China",
+        "Ming Wall",
+        "Qin Wall",
+        "Han Wall"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "406f1f51-38e5-493f-95b7-45029c72f730",
+      "question": "Switzerland has a total of 26 cantons.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "b32031a6-c5cf-4a88-9acb-c8dbcfdff0c5",
+      "question": "What is the capital city of Switzerland?",
+      "answers": [
+        "Bern",
+        "Zürich",
+        "Geneva",
+        "Basel"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "fe50f27a-e6f6-432d-890c-f36bbb792152",
+      "question": "The Pilatus mountain overlooks Lucerne.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "61fcf4d5-2ae0-4dc2-a97e-5b63b3362438",
+      "question": "What is the capital of Latvia?",
+      "answers": [
+        "Riga",
+        "Daugavpils",
+        "Liepāja",
+        "Jelgava"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "d683bc1b-cfed-454b-961d-2329065ebdbf",
+      "question": "The Tropic of Cancer passes through the Sahara Desert.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "695c438a-1a7d-48c1-a98c-e47f2b00214e",
+      "question": "Which famous tower is located in Paris?",
+      "answers": [
+        "Eiffel Tower",
+        "Leaning Tower",
+        "Big Ben",
+        "CN Tower"
+      ],
+      "correctAnswer": "",
+      "grade": 2,
+      "difficulty": 1,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "70330674-8a30-4c3b-8fb4-2e57ba112e15",
+      "question": "Which mountain range runs along the border between France and Spain?",
+      "answers": [
+        "Pyrenees",
+        "Alps",
+        "Apennines",
+        "Carpathians"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "ce9eb294-19c6-4a19-92af-edac05a1a310",
+      "question": "Which canal connects the Mediterranean Sea to the Red Sea?",
+      "answers": [
+        "Suez Canal",
+        "Panama Canal",
+        "Kiel Canal",
+        "Corinth Canal"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "97a0c3b1-d626-42a1-ba6b-31fb357e1c8f",
+      "question": "Which famous African mountain is a dormant volcano?",
+      "answers": [
+        "Mount Kilimanjaro",
+        "Table Mountain",
+        "Mount Kenya",
+        "Atlas Mountains"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "dfb0e67f-f016-4b3b-a085-63a490e0eb31",
+      "question": "The Panama Canal connects the Atlantic and Pacific Oceans.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "d2bc7872-5064-404c-90cf-2478dda37f13",
+      "question": "The Sahara is the world's largest hot desert.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "3344bc49-7a27-4b34-aa96-d6af9cc224f0",
+      "question": "What is the capital of Chile?",
+      "answers": [
+        "Santiago",
+        "Valparaíso",
+        "Concepción",
+        "Viña del Mar"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "2d195563-e6b9-4ed3-bb69-c6549f74dd66",
+      "question": "What is the capital of the Czech Republic?",
+      "answers": [
+        "Prague",
+        "Brno",
+        "Ostrava",
+        "Plzeň"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "68452733-c2f6-429c-8df2-b5c32d1a782b",
+      "question": "The Canton of Valais is known for the Matterhorn.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "3a545755-64d4-4ca4-b5ef-0c7e46d0cf1f",
+      "question": "Which Swiss canton is an enclave within Italy?",
+      "answers": [
+        "Campione d'Italia (part of Ticino)",
+        "Büsingen (German)",
+        "None",
+        "Ticino"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 5,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "f1fa4f29-aa8a-4671-96ab-6af07aa0585f",
+      "question": "Which continent is Switzerland located on?",
+      "answers": [
+        "Europe",
+        "Asia",
+        "Africa",
+        "North America"
+      ],
+      "correctAnswer": "Europe",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "8bcc9426-e358-46cc-a883-4a692fac1e7b",
+      "question": "Which lake is the largest entirely in Switzerland?",
+      "answers": [
+        "Lake Neuchâtel",
+        "Lake Geneva",
+        "Lake Constance",
+        "Lake Maggiore"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "b45121bb-cb80-4d3e-bddb-0df3e5e99bbd",
+      "question": "What is the second-largest city in Switzerland?",
+      "answers": [
+        "Geneva",
+        "Basel",
+        "Bern",
+        "Lausanne"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "66a92d2c-34ec-4e0a-a7c9-e5981136e534",
+      "question": "Which Swiss city is known for its international organisations like the Red Cross?",
+      "answers": [
+        "Geneva",
+        "Bern",
+        "Zürich",
+        "Lausanne"
+      ],
+      "correctAnswer": "",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "29df7064-cb76-40cb-9256-ef9412792c1a",
+      "question": "What is the capital of Egypt?",
+      "answers": [
+        "Cairo",
+        "Alexandria",
+        "Giza",
+        "Luxor"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "9c5fe4bb-54d7-46e9-a5df-05b8d1392773",
+      "question": "Which African country was never colonised by Europeans?",
+      "answers": [
+        "Ethiopia",
+        "Morocco",
+        "Algeria",
+        "Sudan"
+      ],
+      "correctAnswer": "Ethiopia",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "ded68e71-d9e1-42de-bc98-9e17146a0c28",
+      "question": "Which sea is the saltiest body of water in the world?",
+      "answers": [
+        "Dead Sea",
+        "Red Sea",
+        "Black Sea",
+        "Caspian Sea"
+      ],
+      "correctAnswer": "Dead Sea",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "eff87ff2-46a1-413f-9d59-d22103c6bae1",
+      "question": "Which Swiss city is home to the International Olympic Committee?",
+      "answers": [
+        "Lausanne",
+        "Geneva",
+        "Zürich",
+        "Bern"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "67eabe3e-a664-4944-a6a8-d13720ac4634",
+      "question": "Which country has the longest coastline in the world?",
+      "answers": [
+        "Canada",
+        "Russia",
+        "Indonesia",
+        "Norway"
+      ],
+      "correctAnswer": "Canada",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "0b599d3e-1f94-4b3e-b942-a29ae0135b5a",
+      "question": "Which canton is known for watchmaking?",
+      "answers": [
+        "Neuchâtel",
+        "Geneva",
+        "Both Neuchâtel and Geneva",
+        "Zürich"
+      ],
+      "correctAnswer": "2",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Correct answer \"2\" not found in answers list"
+      ]
+    },
+    {
+      "id": "f678d4a0-49c0-4353-850a-6e493ad877fa",
+      "question": "Switzerland has exactly 20 cantons.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "04f8ef7a-c83b-41c0-abcb-690c483a3d97",
+      "question": "Which Swiss city is known as the 'Olympic Capital'?",
+      "answers": [
+        "Lausanne",
+        "Geneva",
+        "Bern",
+        "Zürich"
+      ],
+      "correctAnswer": "Lausanne",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "cc6dd40f-17b0-43c3-a48a-dba491e92f93",
+      "question": "Which Swiss mountain resort is famous for being car-free?",
+      "answers": [
+        "Zermatt",
+        "St. Moritz",
+        "Davos",
+        "Gstaad"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "0329ee93-8a1e-48fa-b476-0f53dca64c3d",
+      "question": "Asia is the largest continent.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "f7dd4bb2-d201-4c8d-92d8-153606ca821b",
+      "question": "How many cantons does Switzerland have?",
+      "answers": [
+        "26",
+        "20",
+        "30",
+        "16"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "b7661fc0-fc7a-4a9d-8133-1afad9e2d3da",
+      "question": "Which mountain is the most famous in Switzerland?",
+      "answers": [
+        "Matterhorn",
+        "Mount Everest",
+        "Mont Blanc",
+        "Mount Fuji"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "0a51095a-632c-4313-913f-29b34c8325e3",
+      "question": "Which is the longest river in South America?",
+      "answers": [
+        "Amazon River",
+        "Paraná River",
+        "Orinoco River",
+        "São Francisco River"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "edd6e4ca-b0b0-466c-b778-1958116c692f",
+      "question": "The Canton of Ticino is the only canton where Italian is the sole official language.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "d33b379f-1eba-4165-8283-f7988f2f8da4",
+      "question": "Which famous ruins are located high in the Peruvian Andes?",
+      "answers": [
+        "Machu Picchu",
+        "Chichen Itza",
+        "Teotihuacan",
+        "Tikal"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "1d53feee-02d9-4b6f-a3ed-2f047c789371",
+      "question": "Which language is NOT an official language of Switzerland?",
+      "answers": [
+        "English",
+        "German",
+        "French",
+        "Italian"
+      ],
+      "correctAnswer": "English",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "b1893dbb-24d0-40fd-bc4d-428df3e56d86",
+      "question": "Which canton is the smallest in Switzerland?",
+      "answers": [
+        "Basel-Stadt",
+        "Zug",
+        "Schaffhausen",
+        "Appenzell Innerrhoden"
+      ],
+      "correctAnswer": "Basel-Stadt",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "df35397d-cc38-406e-aeeb-919bb8a3ca5d",
+      "question": "The equator passes through Switzerland.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "grade": 4,
+      "difficulty": 1,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "a625ae65-8863-4e6e-911b-d9c0270915c7",
+      "question": "What is the capital of Portugal?",
+      "answers": [
+        "Lisbon",
+        "Porto",
+        "Faro",
+        "Coimbra"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "4b4ce551-96be-4e3b-a5e7-860033656790",
+      "question": "What colour is the Swiss flag?",
+      "answers": [
+        "Red with white cross",
+        "White with red cross",
+        "Blue and white",
+        "Green and yellow"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "87c6cf5a-1d3a-4d7e-8b21-3ef8e74e834f",
+      "question": "Which forest is often called the 'lungs of the Earth'?",
+      "answers": [
+        "Amazon Rainforest",
+        "Congo Rainforest",
+        "Taiga Forest",
+        "Black Forest"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "7008d4f6-da86-4d68-9ef5-f0aa1fb763eb",
+      "question": "Which ocean is the smallest?",
+      "answers": [
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "da25ae7b-7474-47e1-84b6-29abb6d8abdc",
+      "question": "What is the capital of France?",
+      "answers": [
+        "Paris",
+        "Lyon",
+        "Marseille",
+        "Nice"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "951ff9bf-916f-451f-976d-2eaa82b485c6",
+      "question": "What is the capital of Japan?",
+      "answers": [
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Hiroshima"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "3ec93af9-b56a-4019-bcac-0eadb619e0b4",
+      "question": "The River Aare flows through Bern.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "5f604acb-836e-419a-86fd-72908ac3db57",
+      "question": "Which country is directly north of Switzerland?",
+      "answers": [
+        "Germany",
+        "France",
+        "Italy",
+        "Austria"
+      ],
+      "correctAnswer": "",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "0b36776b-a19f-4e16-bce7-200e90f4c73d",
+      "question": "Which ocean is closest to Europe?",
+      "answers": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Southern Ocean"
+      ],
+      "correctAnswer": "Atlantic Ocean",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "30b607f9-27ea-4390-a770-a95438de975e",
+      "question": "What is the capital of Romania?",
+      "answers": [
+        "Bucharest",
+        "Cluj-Napoca",
+        "Timișoara",
+        "Iași"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "78221617-076e-4b3e-a181-b9cb03818bcc",
+      "question": "What is the capital of Slovenia?",
+      "answers": [
+        "Ljubljana",
+        "Maribor",
+        "Celje",
+        "Kranj"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "047176fc-c09b-468b-82c6-de176ccb5360",
+      "question": "Which city is known for the Château de Chillon castle on Lake Geneva?",
+      "answers": [
+        "Montreux",
+        "Lausanne",
+        "Geneva",
+        "Vevey"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "f0a7a656-5f85-4a1f-a100-ec81474106dd",
+      "question": "Lake Zürich is entirely within the Canton of Zürich.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "9a0daafa-9c46-47ac-a2cf-8fe582025a71",
+      "question": "Mount Everest is located in Switzerland.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "4d2661a2-4685-471e-a236-533b5b16dffb",
+      "question": "Which is the world's largest island?",
+      "answers": [
+        "Greenland",
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ],
+      "correctAnswer": "Greenland",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "4c66b68c-6cbf-4675-a76e-0a0f2bacd2ae",
+      "question": "Which famous statue stands in New York harbour?",
+      "answers": [
+        "Statue of Liberty",
+        "Christ the Redeemer",
+        "David",
+        "The Thinker"
+      ],
+      "correctAnswer": "",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "8a4de82b-56ff-4933-81ce-061cd1601dc6",
+      "question": "Which is the second-largest country in the world by area?",
+      "answers": [
+        "Canada",
+        "United States",
+        "China",
+        "Brazil"
+      ],
+      "correctAnswer": "Canada",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "9355e611-2087-4a9a-bbb9-8e9be92960ce",
+      "question": "What is the name of the famous waterfall near Schaffhausen?",
+      "answers": [
+        "Rhine Falls",
+        "Staubbach Falls",
+        "Trümmelbach Falls",
+        "Giessbach Falls"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "1bfcfc16-a355-44a8-a9ae-5fa2d35f0c59",
+      "question": "What is Switzerland's longest river?",
+      "answers": [
+        "Rhine River",
+        "Rhône River",
+        "Aare River",
+        "Reuss River"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "41ecd57e-2be4-4dac-90ed-37ce9c721c61",
+      "question": "Which is the largest country in the world by land area?",
+      "answers": [
+        "Russia",
+        "Canada",
+        "China",
+        "United States"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "6f0e902f-ade6-4ead-a894-6c85b993f2f4",
+      "question": "Lake Constance is shared by Switzerland, Germany, and which other country?",
+      "answers": [
+        "Austria",
+        "France",
+        "Italy",
+        "Liechtenstein"
+      ],
+      "correctAnswer": "Austria",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "49598547-e3bb-43c7-a95d-43e847d90125",
+      "question": "Which river is the longest in Asia?",
+      "answers": [
+        "Yangtze River",
+        "Yellow River",
+        "Mekong River",
+        "Ganges River"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "1cb19048-0499-4bab-872f-b3ac9ed32d4c",
+      "question": "Which Swiss canton is entirely surrounded by other Swiss cantons (no foreign borders)?",
+      "answers": [
+        "Appenzell Innerrhoden",
+        "Nidwalden",
+        "Zug",
+        "Glarus"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 5,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "f475ba33-c276-445d-8136-3ef9bb98f4cb",
+      "question": "Which famous tower is located in Pisa, Italy?",
+      "answers": [
+        "Leaning Tower of Pisa",
+        "Tower of Pisa",
+        "Bell Tower of Pisa",
+        "Campanile of Pisa"
+      ],
+      "correctAnswer": "",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "853ca8f1-68a7-4b0b-9dad-03e05ad8760f",
+      "question": "The Great Barrier Reef is located off the coast of Australia.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "87e21dbd-e45a-4be3-8c7a-164b757a795e",
+      "question": "What is the name of the famous cogwheel railway up Mount Rigi?",
+      "answers": [
+        "Rigi Railways",
+        "Pilatus Railway",
+        "Jungfrau Railway",
+        "Gornergrat Railway"
+      ],
+      "correctAnswer": "",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "6c045e3a-f811-488a-92bf-6ec3c2935052",
+      "question": "What is the capital of Ireland?",
+      "answers": [
+        "Dublin",
+        "Cork",
+        "Galway",
+        "Limerick"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "529cf529-aac2-4848-93d4-93b3ad647151",
+      "question": "Which Swiss city is famous for its international organisations?",
+      "answers": [
+        "Geneva",
+        "Bern",
+        "Zürich",
+        "Lausanne"
+      ],
+      "correctAnswer": "Geneva",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "a9280e15-02f6-41af-b8ea-7ced869158f1",
+      "question": "Which pass connects the cantons of Uri and Ticino?",
+      "answers": [
+        "Gotthard Pass",
+        "Simplon Pass",
+        "Furka Pass",
+        "Grimsel Pass"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 4,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "eaee4796-288c-4df5-9998-96de23c9bd5c",
+      "question": "What is the main language spoken in Ticino?",
+      "answers": [
+        "Italian",
+        "German",
+        "French",
+        "Romansh"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "c565dd10-70b0-423a-b467-712c464d96eb",
+      "question": "What is the capital of Croatia?",
+      "answers": [
+        "Zagreb",
+        "Split",
+        "Dubrovnik",
+        "Rijeka"
+      ],
+      "correctAnswer": "",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    },
+    {
+      "id": "4c47f419-9504-40d6-83ab-fd247ce91f7d",
+      "question": "Which canton is known for its many vineyards?",
+      "answers": [
+        "Vaud",
+        "Valais",
+        "Both Vaud and Valais",
+        "Geneva"
+      ],
+      "correctAnswer": "2",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Correct answer \"2\" not found in answers list"
+      ]
+    },
+    {
+      "id": "3727446c-54da-4a18-b5d7-d79ab81a620b",
+      "question": "Africa is the smallest continent.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "589526a6-7c63-4a90-b640-1a82fe3e0ad4",
+      "question": "The Canton of Bern is the largest canton by area.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "92953691-4b92-4416-9e2b-c04f97fd9c61",
+      "question": "What is the capital of Indonesia?",
+      "answers": [
+        "Jakarta",
+        "Bali",
+        "Surabaya",
+        "Bandung"
+      ],
+      "correctAnswer": "Jakarta",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "category": "pass",
+      "issues": []
+    },
+    {
+      "id": "4ba0f501-1d11-4a8e-8d5b-21547252e6ba",
+      "question": "What is the capital of Austria?",
+      "answers": [
+        "Vienna",
+        "Salzburg",
+        "Innsbruck",
+        "Graz"
+      ],
+      "correctAnswer": "",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "category": "data_integrity",
+      "issues": [
+        "DATA INTEGRITY: Missing correct answer"
+      ]
+    }
+  ]
+}

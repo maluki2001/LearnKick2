@@ -1,0 +1,40 @@
+{
+  "agentId": "qc-de",
+  "version": "1.0.0",
+  "language": "de",
+  "minConfidenceScore": 95,
+  "autoRejectThreshold": 50,
+
+  "validationRules": [
+    "./validation-rules/grammar-checks.json",
+    "./validation-rules/factual-checks.json",
+    "./validation-rules/curriculum-checks.json",
+    "./validation-rules/cultural-checks.json",
+    "./validation-rules/technical-checks.json"
+  ],
+
+  "rejectTriggers": [
+    "grammar_error",
+    "factually_incorrect",
+    "ambiguous_answer",
+    "wrong_curriculum_code",
+    "inappropriate_content",
+    "missing_required_field",
+    "placeholder_text"
+  ],
+
+  "flagTriggers": [
+    "confidence_below_95",
+    "complex_factual_claim",
+    "unusual_format",
+    "borderline_cultural"
+  ],
+
+  "qualityWeights": {
+    "linguistic": 0.30,
+    "factual": 0.25,
+    "curriculum": 0.20,
+    "cultural": 0.15,
+    "technical": 0.10
+  }
+}

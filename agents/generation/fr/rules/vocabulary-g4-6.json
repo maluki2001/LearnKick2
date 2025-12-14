@@ -1,0 +1,42 @@
+{
+  "degres": [4, 5, 6],
+  "trancheAge": "10-12 ans",
+  "tailleVocabulaire": "~3500 mots",
+  "longueurPhrase": {
+    "min": 6,
+    "max": 15,
+    "recommande": "8-12 mots"
+  },
+  "complexite": "intermédiaire à avancé",
+  "categories": [
+    "vocabulaire académique",
+    "termes scientifiques (habitats, matériaux, énergie)",
+    "termes mathématiques (fraction, décimal, périmètre, aire)",
+    "termes géographiques (continent, climat, capitale)",
+    "termes historiques (confédération, démocratie, siècle)",
+    "concepts abstraits (responsabilité, égalité, environnement)",
+    "verbes complexes (investiguer, comparer, analyser)",
+    "adjectifs descriptifs (ancien, renouvelable, démocratique)"
+  ],
+  "grammaire": {
+    "temps": ["tous les temps y compris parfait et futur"],
+    "phrases": [
+      "phrases complexes",
+      "subordonnées",
+      "propositions relatives",
+      "phrases conditionnelles"
+    ],
+    "acceptable": ["voix passive", "discours indirect", "verbes modaux"]
+  },
+  "exemples": {
+    "appropries": [
+      "La Suisse est devenue un État fédéral en 1848.",
+      "Si tu divises 24 par 6, quel est le résultat?",
+      "Quelle source d'énergie renouvelable est la plus courante en Suisse?"
+    ],
+    "tropSimple": [
+      "Le chat est noir.",
+      "Combien font 2 + 2?"
+    ]
+  }
+}

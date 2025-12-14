@@ -1,0 +1,53 @@
+{
+  "subject": "english",
+  "totalQuestions": 500,
+  "topics": [
+    {
+      "name": "Alphabet & Phonics",
+      "lehrplan21Code": "D.1.A.1",
+      "grades": [1, 2],
+      "questions": 80,
+      "difficulties": [1, 2]
+    },
+    {
+      "name": "Spelling",
+      "lehrplan21Code": "D.2.A.1",
+      "grades": [2, 3, 4],
+      "questions": 100,
+      "difficulties": [1, 2, 3]
+    },
+    {
+      "name": "Grammar - Parts of Speech",
+      "lehrplan21Code": "D.2.B.1",
+      "grades": [3, 4, 5, 6],
+      "questions": 120,
+      "difficulties": [2, 3, 4, 5]
+    },
+    {
+      "name": "Vocabulary",
+      "lehrplan21Code": "D.2.C.1",
+      "grades": [1, 2, 3, 4, 5, 6],
+      "questions": 100,
+      "difficulties": [1, 2, 3, 4, 5]
+    },
+    {
+      "name": "Reading Comprehension",
+      "lehrplan21Code": "D.3.A.1",
+      "grades": [2, 3, 4, 5, 6],
+      "questions": 80,
+      "difficulties": [2, 3, 4, 5]
+    },
+    {
+      "name": "Punctuation",
+      "lehrplan21Code": "D.2.B.2",
+      "grades": [3, 4, 5, 6],
+      "questions": 20,
+      "difficulties": [3, 4]
+    }
+  ],
+  "britishEnglishPreferred": true,
+  "examples": {
+    "spelling": ["colour", "favourite", "organisation"],
+    "vocabulary": ["maths", "holiday", "autumn"]
+  }
+}

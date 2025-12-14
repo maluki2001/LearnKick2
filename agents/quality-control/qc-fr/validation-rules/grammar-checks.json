@@ -1,0 +1,83 @@
+{
+  "langue": "fr",
+  "variante": "Français standard (Suisse romande)",
+  "totalControles": 30,
+  "controles": [
+    {
+      "id": "G01",
+      "nom": "Accord sujet-verbe",
+      "description": "Le verbe s'accorde avec le sujet",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G02",
+      "nom": "Accord nom-adjectif",
+      "description": "L'adjectif s'accorde en genre et nombre",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G03",
+      "nom": "Articles corrects",
+      "description": "Utilisation correcte de le/la/les/un/une",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G04",
+      "nom": "Majuscules",
+      "description": "Noms propres et débuts de phrase en majuscule",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G05",
+      "nom": "Ponctuation phrase",
+      "description": "Point ou point d'interrogation à la fin",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G06",
+      "nom": "Point d'interrogation pour questions",
+      "description": "Les questions se terminent par ?",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G07",
+      "nom": "Pas de fautes d'orthographe",
+      "description": "Tous les mots correctement orthographiés",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G08",
+      "nom": "Cohérence temporelle",
+      "description": "Même temps verbal dans la question",
+      "severite": "high",
+      "autoReject": false
+    },
+    {
+      "id": "G09",
+      "nom": "Nombres suisses (70-90)",
+      "description": "Utiliser septante, huitante/octante, nonante",
+      "severite": "high",
+      "autoReject": false,
+      "suisseRomand": true,
+      "exemples": {
+        "correct": ["septante", "huitante", "octante", "nonante"],
+        "eviter": ["soixante-dix", "quatre-vingts", "quatre-vingt-dix"]
+      }
+    },
+    {
+      "id": "G10",
+      "nom": "Élision correcte",
+      "description": "l' devant voyelle",
+      "severite": "high",
+      "autoReject": true
+    }
+  ],
+  "autoReject": ["G01", "G02", "G03", "G04", "G05", "G06", "G07", "G10"]
+}

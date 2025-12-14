@@ -1,0 +1,64 @@
+{
+  "curriculum": "Lehrplan 21",
+  "totalChecks": 15,
+  "checks": [
+    {
+      "id": "C01",
+      "name": "Lehrplan 21 Code existiert",
+      "description": "Code wie MA.1.A.2 ist gültig",
+      "severity": "critical",
+      "validCodes": [
+        "MA.1.A.*", "MA.2.A.*", "MA.*.B.*", "MA.*.C.*",
+        "D.1.*", "D.2.*", "D.*.A.*", "D.*.B.*",
+        "NMG.*", "BG.*", "TG.*", "MU.*", "BS.*", "MI.*"
+      ]
+    },
+    {
+      "id": "C02",
+      "name": "Kompetenzstufe passend",
+      "description": "Schwierigkeit passt zur Klassenstufe",
+      "severity": "high",
+      "rules": {
+        "grade1-2": [1, 2],
+        "grade3-4": [2, 3, 4],
+        "grade5-6": [3, 4, 5]
+      }
+    },
+    {
+      "id": "C03",
+      "name": "Thema passt zu Code",
+      "description": "Frage passt zum Lehrplan 21 Thema",
+      "severity": "high"
+    },
+    {
+      "id": "C04",
+      "name": "Altersgerecht",
+      "description": "Inhalt passend für Altersgruppe",
+      "severity": "critical",
+      "ageGroups": {
+        "1-2": "6-8 Jahre",
+        "3-4": "8-10 Jahre",
+        "5-6": "10-12 Jahre"
+      }
+    },
+    {
+      "id": "C05",
+      "name": "Keine Über-/Unterforderung",
+      "description": "Schwierigkeit angemessen",
+      "severity": "high"
+    },
+    {
+      "id": "C06",
+      "name": "Lernziel erkennbar",
+      "description": "Frage testet spezifische Kompetenz",
+      "severity": "medium"
+    },
+    {
+      "id": "C07",
+      "name": "Progression beachtet",
+      "description": "Aufbauend auf Vorstufe",
+      "severity": "medium"
+    }
+  ],
+  "autoReject": ["C01", "C02", "C04"]
+}

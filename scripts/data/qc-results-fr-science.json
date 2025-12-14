@@ -1,0 +1,1434 @@
+{
+  "timestamp": "2025-12-07T04:19:32.032Z",
+  "totalQuestions": 100,
+  "passed": 90,
+  "failed": 10,
+  "validationDetails": [
+    {
+      "id": "c0f2989a-62e0-4c1e-a7ce-b0f6a6ee59ec",
+      "question": "Quel animal change de couleur pour se camoufler ?",
+      "grade": 2,
+      "difficulty": 3,
+      "answers": [
+        "Le caméléon",
+        "Le lézard",
+        "Le serpent",
+        "La tortue"
+      ],
+      "correct_answer": "Le caméléon",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "34c7f743-711d-40b1-8809-f7211c28fb19",
+      "question": "Le bois flotte sur l'eau.",
+      "grade": 1,
+      "difficulty": 2,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "1e0fe82e-0f1b-42e4-82da-ac229cd9bfd2",
+      "question": "Quelle est la langue officielle de Genève ?",
+      "grade": 3,
+      "difficulty": 1,
+      "answers": [
+        "Allemand",
+        "Français",
+        "Italien",
+        "Romanche"
+      ],
+      "correct_answer": "Français",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "9a606062-fec2-4b2c-8568-6b88bc93bfa7",
+      "question": "Au printemps, les oiseaux reviennent de migration.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "09e5a83c-dd6b-4cd8-9344-9f88aa268996",
+      "question": "Combien y a-t-il d'états de la matière principaux?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "1 état",
+        "2 états",
+        "3 états",
+        "4 états"
+      ],
+      "correct_answer": "2",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "738ba3f8-d2b9-47e7-91f1-16e630e32572",
+      "question": "Le Soleil est une étoile. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "4f67b3fb-ea0a-45a7-a895-777dfea4ea0a",
+      "question": "Les grenouilles vivent dans l'eau et sur terre.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "6ba71e50-f7d0-48ef-ac91-32126470ae19",
+      "question": "Qu'est-ce qu'une zone protégée ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "Un parc d'attractions",
+        "Une zone où la nature est préservée",
+        "Une zone commerciale",
+        "Une autoroute"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f4242a5e-d55d-4b30-863c-4fc13d16464e",
+      "question": "Qu'est-ce qui fait bouger les branches des arbres ?",
+      "grade": 2,
+      "difficulty": 1,
+      "answers": [
+        "Le vent",
+        "La pluie",
+        "Le soleil",
+        "La neige"
+      ],
+      "correct_answer": "Le vent",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "4bc23fef-d48d-463e-a5b9-c3b406c9820c",
+      "question": "Quel gaz contribue le plus à l'effet de serre ?",
+      "grade": 5,
+      "difficulty": 3,
+      "answers": [
+        "Le dioxyde de carbone",
+        "L'oxygène",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correct_answer": "Le dioxyde de carbone",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "7da75b8f-fdab-4572-b442-9689bccfe0d2",
+      "question": "Les conifères gardent leurs aiguilles toute l'année.",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f9f344e3-d2cf-4421-815b-266aef4f414f",
+      "question": "Quelle énergie produit une éolienne ?",
+      "grade": 5,
+      "difficulty": 2,
+      "answers": [
+        "Énergie solaire",
+        "Énergie électrique",
+        "Énergie nucléaire",
+        "Énergie chimique"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "5c9195f1-d5dd-4c51-9bc6-009892970bb3",
+      "question": "Qu'est-ce que la pollution lumineuse ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": [
+        "La lumière du soleil",
+        "L'excès d'éclairage artificiel la nuit",
+        "Les lampes de poche",
+        "Les écrans d'ordinateur"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "69e99c10-a89e-4fbb-939c-a47e4bebc57d",
+      "question": "Le lac Léman se trouve en Suisse romande.",
+      "grade": 3,
+      "difficulty": 1,
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"true\" (not an index or matching answer)"
+    },
+    {
+      "id": "568eb501-0a06-46c0-a1dc-608644d369e1",
+      "question": "Dans quel écosystème trouve-t-on des cactus ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "La forêt",
+        "Le désert",
+        "L'océan",
+        "La toundra"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f243fbe2-b58c-47c4-90c4-bbb133a2ee9e",
+      "question": "Combien de pattes a un chat?",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": [
+        "2 pattes",
+        "4 pattes",
+        "6 pattes",
+        "8 pattes"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "91dc8bbf-24e8-4f11-86b7-3ba3cc22865c",
+      "question": "Les tremblements de terre sont causés par le mouvement des plaques tectoniques.",
+      "grade": 6,
+      "difficulty": 3,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "19ad816a-eea1-4ed4-8d56-342729aa1e22",
+      "question": "Quel état de l'eau trouve-t-on dans les nuages ?",
+      "grade": 5,
+      "difficulty": 3,
+      "answers": [
+        "Solide",
+        "Liquide",
+        "Gazeux",
+        "Liquide et gazeux"
+      ],
+      "correct_answer": "Liquide et gazeux",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f6047d49-83d3-4b24-9058-389d5bb2eb1b",
+      "question": "En hiver, il fait froid.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "c1bdb40f-9723-47cd-b651-07b2be1ce96d",
+      "question": "Quel processus permet aux animaux de s'adapter à leur environnement sur plusieurs générations ?",
+      "grade": 5,
+      "difficulty": 4,
+      "answers": [
+        "L'évolution",
+        "La migration",
+        "L'hibernation",
+        "La reproduction"
+      ],
+      "correct_answer": "L'évolution",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "0fb21d32-91c1-482f-a621-4998cb98c66d",
+      "question": "Quel pigment donne la couleur rouge au sang ?",
+      "grade": 5,
+      "difficulty": 4,
+      "answers": [
+        "L'hémoglobine",
+        "La chlorophylle",
+        "La mélanine",
+        "Le carotène"
+      ],
+      "correct_answer": "L'hémoglobine",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f18d42ab-398c-4430-942c-08a70020ea87",
+      "question": "Que mesure un thermomètre?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "La pluie",
+        "La température",
+        "Le vent",
+        "Les nuages"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "5aef504d-0927-4105-8d67-a743b2ad07f0",
+      "question": "La gravité nous maintient au sol. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "b2f6bc54-71e3-4a25-ad48-47df5aaf8ab0",
+      "question": "Les vers de terre aident les plantes à pousser.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "2fd4c277-a00c-4279-9706-4b1652270b25",
+      "question": "L'eau occupe plus de place quand elle gèle.",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "50620500-a896-41b0-baab-af6b341f0363",
+      "question": "Les hirondelles partent en automne et reviennent au printemps.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "ac3f7cde-0752-46ce-9155-0ca4cd6261a6",
+      "question": "Combien de dents permanentes un adulte a-t-il normalement ?",
+      "grade": 4,
+      "difficulty": 3,
+      "answers": [
+        "32",
+        "28",
+        "24",
+        "20"
+      ],
+      "correct_answer": "32",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "e76bac4c-93f6-4f4c-ad4c-97f6ba5d502d",
+      "question": "Les cactus peuvent vivre sans beaucoup d'eau.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "20e8a189-0b03-4a79-873f-70bab8eea7cd",
+      "question": "Économiser l'eau est important pour protéger l'environnement. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "a5c4ba40-0d13-4df2-981a-5eebf2f92840",
+      "question": "Combien de compartiments le cœur humain a-t-il ?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "Quatre",
+        "Deux",
+        "Trois",
+        "Cinq"
+      ],
+      "correct_answer": "Quatre",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "805c99c4-bd06-4681-8b30-e471530f39d6",
+      "question": "Le cœur pompe le sang dans tout le corps. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "33350308-3232-4b9b-a3ea-dcc5defb850b",
+      "question": "Quel animal est un mammifère ?",
+      "grade": 3,
+      "difficulty": 2,
+      "answers": [
+        "Le poisson",
+        "L'oiseau",
+        "Le chat",
+        "Le serpent"
+      ],
+      "correct_answer": "Le chat",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "e8e84a96-211b-409a-a4b6-7e25be014070",
+      "question": "Les arbres ont des racines sous la terre.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "033ecb5c-89ee-4ad4-929e-a19ca39b4faa",
+      "question": "Quel animal est un amphibien?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "Le chien",
+        "La grenouille",
+        "L'oiseau",
+        "Le poisson"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "23469aad-2528-4303-b7e8-c33e20a9592a",
+      "question": "Quand commence le printemps en Suisse?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "En décembre",
+        "En mars",
+        "En juin",
+        "En septembre"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "db5c9997-c3de-453d-80b9-97483334ce6f",
+      "question": "Les poissons vivent dans l'eau.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "40fc48d6-7bde-48b7-94c9-10e1e01d3326",
+      "question": "Un glaçon fond quand il fait chaud.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "9bf2b0d0-de52-4fcc-ba3c-ca0668376b45",
+      "question": "D'où vient l'oxygène que nous respirons?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "Des voitures",
+        "Des plantes",
+        "Des pierres",
+        "Des nuages"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "33a4d720-83d1-4046-8632-d057bba41e59",
+      "question": "L'évaporation refroidit les surfaces.",
+      "grade": 5,
+      "difficulty": 3,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f8e4d4ad-a40f-4230-b025-41770a976cea",
+      "question": "Quelle partie de l'oreille transforme les vibrations sonores en signaux nerveux ?",
+      "grade": 6,
+      "difficulty": 4,
+      "answers": [
+        "La cochlée",
+        "Le tympan",
+        "Le marteau",
+        "Le canal auditif"
+      ],
+      "correct_answer": "La cochlée",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "bca4fcf6-172d-49dc-9a52-0b0ad09d96a1",
+      "question": "Dans quel écosystème trouve-t-on des coraux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "La forêt",
+        "L'océan",
+        "Le désert",
+        "La montagne"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "ef54dd16-c4fd-4519-8c35-df088950d657",
+      "question": "Quel animal est un carnivore ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "Une vache",
+        "Un lapin",
+        "Un lion",
+        "Un mouton"
+      ],
+      "correct_answer": "2",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "028839a0-f6bf-4610-9bda-b42e142bba04",
+      "question": "Quel gaz est principalement responsable du réchauffement climatique ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": [
+        "L'oxygène",
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'hydrogène"
+      ],
+      "correct_answer": "2",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "e0e3c396-5cb6-43e5-ae85-43d599f4874f",
+      "question": "La force élastique d'un ressort lui permet de revenir à sa forme initiale. Vrai ou faux ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "69b26f62-fcbf-493d-acbe-85cc756fe3b6",
+      "question": "Quelle partie du système digestif absorbe les nutriments ?",
+      "grade": 4,
+      "difficulty": 3,
+      "answers": [
+        "L'intestin grêle",
+        "L'estomac",
+        "Le gros intestin",
+        "L'œsophage"
+      ],
+      "correct_answer": "L'intestin grêle",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "da0cdbaf-7a15-4f04-a706-1746ff211004",
+      "question": "Quel animal est un mammifère marin?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "Le requin",
+        "Le dauphin",
+        "La méduse",
+        "Le crabe"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f6e94247-1c8d-4e09-8b53-6839bf375ba7",
+      "question": "Quel animal est un amphibien ?",
+      "grade": 3,
+      "difficulty": 2,
+      "answers": [
+        "La salamandre",
+        "Le lézard",
+        "Le serpent",
+        "La tortue"
+      ],
+      "correct_answer": "La salamandre",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "fcb0f212-8049-49c0-9705-286c5006d3b0",
+      "question": "Quel animal donne du lait?",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": [
+        "La vache",
+        "Le chat",
+        "Le poisson",
+        "L'oiseau"
+      ],
+      "correct_answer": "",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"\" (not an index or matching answer)"
+    },
+    {
+      "id": "eba20778-b39f-4f53-a6a6-f24489e05d8c",
+      "question": "Quel animal vole dans le ciel?",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": [
+        "Le poisson",
+        "L'oiseau",
+        "Le chien",
+        "Le lapin"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "adaa343f-f9da-46c2-b62e-643faef02fc6",
+      "question": "Quel processus géologique crée les montagnes ?",
+      "grade": 6,
+      "difficulty": 3,
+      "answers": [
+        "La tectonique des plaques",
+        "L'érosion",
+        "La sédimentation",
+        "La météorisation"
+      ],
+      "correct_answer": "La tectonique des plaques",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f46a1753-5bbd-4053-952b-c4a4a2b10045",
+      "question": "Quel objet utilise-t-on quand il pleut?",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": [
+        "Un parapluie",
+        "Des lunettes de soleil",
+        "Un maillot de bain",
+        "Une casquette"
+      ],
+      "correct_answer": "",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"\" (not an index or matching answer)"
+    },
+    {
+      "id": "ee8031e8-00d7-4f0f-9687-6efecb4efae8",
+      "question": "Combien de dents de lait a un enfant?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "10 dents",
+        "20 dents",
+        "32 dents",
+        "40 dents"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "e7e1c978-7355-4c49-9208-758ce76acfe8",
+      "question": "Quelle force fait tomber une pomme d'un arbre ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "Le vent",
+        "La gravité",
+        "Le magnétisme",
+        "La friction"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "4ce9df46-c91e-4ca3-8205-c9c0122e616a",
+      "question": "Les antibiotiques tuent les virus.",
+      "grade": 5,
+      "difficulty": 4,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Faux",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "6eaed126-f509-4705-99f7-b04b04266335",
+      "question": "Qu'est-ce que l'humidité de l'air?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "La température",
+        "La quantité d'eau dans l'air",
+        "La force du vent",
+        "La pression"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "61bfcaba-8cc4-4aae-a1bb-42ddc056a952",
+      "question": "Le plastique se décompose rapidement dans la nature.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Faux",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f017a9ab-eb77-422d-8cfd-cc5227225ee9",
+      "question": "Le cycle de l'eau comprend l'évaporation, la condensation et les précipitations.",
+      "grade": 5,
+      "difficulty": 3,
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"true\" (not an index or matching answer)"
+    },
+    {
+      "id": "820b9a47-fc44-441b-8b21-34d6c585668f",
+      "question": "Combien de sens as-tu ?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "Cinq",
+        "Trois",
+        "Six",
+        "Quatre"
+      ],
+      "correct_answer": "Cinq",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "3bbbbe3b-7317-4d26-90f0-a9266d49ad8e",
+      "question": "Que devient l'eau quand elle bout?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "De la glace",
+        "De la vapeur",
+        "Du chocolat",
+        "De l'huile"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "1dd36a14-e90e-49d3-9a90-92d4a0926536",
+      "question": "La Terre tourne autour du Soleil.",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"true\" (not an index or matching answer)"
+    },
+    {
+      "id": "8ea5afbe-05ca-43a7-9b6c-06f04bdc7a46",
+      "question": "Nous respirons par le nez et la bouche.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "938713d3-ddc9-431c-8f3a-17511ad58da7",
+      "question": "Les insectes ont six pattes.",
+      "grade": 3,
+      "difficulty": 2,
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"true\" (not an index or matching answer)"
+    },
+    {
+      "id": "f333a3a3-a975-42a8-9991-5cd5663ad0f0",
+      "question": "Quel temps fait-il quand il pleut?",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": [
+        "Il fait beau",
+        "Il fait nuageux",
+        "Il fait chaud",
+        "Il fait sec"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "f5eae6bf-240f-4fb2-96aa-c9432f467991",
+      "question": "Quelle forme d'énergie est stockée dans les aliments ?",
+      "grade": 5,
+      "difficulty": 2,
+      "answers": [
+        "Énergie chimique",
+        "Énergie lumineuse",
+        "Énergie sonore",
+        "Énergie magnétique"
+      ],
+      "correct_answer": "",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"\" (not an index or matching answer)"
+    },
+    {
+      "id": "54fb5434-e4a4-4755-82b9-ce9d674f9b53",
+      "question": "Qu'est-ce qu'une espèce menacée ?",
+      "grade": 5,
+      "difficulty": 2,
+      "answers": [
+        "Une espèce dangereuse",
+        "Une espèce en risque de disparition",
+        "Une espèce nouvelle",
+        "Une espèce domestique"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "8f0b4b34-fa6d-4867-89e6-943f177661bf",
+      "question": "Que se passe-t-il quand on chauffe de la glace?",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": [
+        "Elle devient plus dure",
+        "Elle fond",
+        "Elle disparaît",
+        "Elle grossit"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "8774273f-f4c7-4560-8267-4ffbbcb1c9d5",
+      "question": "Qu'est-ce qu'un point d'appui dans un levier ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": [
+        "Le point où on applique la force",
+        "Le point fixe autour duquel le levier tourne",
+        "L'objet qu'on soulève",
+        "La longueur du levier"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "73a5598e-34e2-4ae3-9eed-c59424dc14f6",
+      "question": "L'air est un gaz invisible.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "669e0967-5262-4825-aba7-c9953f1e56ec",
+      "question": "Qu'est-ce qu'un levier ?",
+      "grade": 5,
+      "difficulty": 2,
+      "answers": [
+        "Une machine simple qui aide à soulever des objets",
+        "Un type de plante",
+        "Un animal",
+        "Une planète"
+      ],
+      "correct_answer": "",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"\" (not an index or matching answer)"
+    },
+    {
+      "id": "24c46318-ddea-4be6-8f06-e06ab10937cb",
+      "question": "Combien de pattes a un insecte?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "4 pattes",
+        "6 pattes",
+        "8 pattes",
+        "10 pattes"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "be699e60-c19c-407f-ba50-d6d73a77e42e",
+      "question": "Quelle partie du corps pompe le sang ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "Le cerveau",
+        "Le cœur",
+        "Les poumons",
+        "L'estomac"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "aacd2651-adda-43a3-9241-df87e06058cf",
+      "question": "Un objet en hauteur possède de l'énergie potentielle. Vrai ou faux ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "0d803df7-934a-4a07-a3e0-de1dab37d271",
+      "question": "Quel animal hiberne en hiver?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "Le veau",
+        "L'ours",
+        "Le chien",
+        "Le chat"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "3a988f3b-8be9-4c6f-b9bf-ab054c864cfd",
+      "question": "La neige est de l'eau à l'état solide.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "c02b6cd8-14af-4d38-a12e-4f6670f7180d",
+      "question": "Les animaux polaires comme l'ours blanc ont une épaisse fourrure pour survivre au froid. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "ed1e522e-b68d-4acf-aef0-a61c140788fb",
+      "question": "Utiliser les transports publics réduit la pollution. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "fdfaa736-b19a-43ed-934f-3093925b5c5a",
+      "question": "Les plantes utilisent leurs racines pour respirer uniquement.",
+      "grade": 5,
+      "difficulty": 3,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Faux",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "c9c4be95-caeb-4035-8d96-eb8e6bac3be7",
+      "question": "Un aimant peut attirer du fer. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "87931946-3c32-4f1d-ab96-15deb9abd0f2",
+      "question": "Qu'est-ce que la photosynthèse ?",
+      "grade": 5,
+      "difficulty": 2,
+      "answers": [
+        "Le processus par lequel les plantes fabriquent leur nourriture",
+        "La respiration des animaux",
+        "La croissance des champignons",
+        "Le sommeil des plantes"
+      ],
+      "correct_answer": "",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"\" (not an index or matching answer)"
+    },
+    {
+      "id": "a014e88f-8765-427d-83d8-8b6a301d7e40",
+      "question": "Que respires-tu dans l'air ?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correct_answer": "L'oxygène",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "a3434d69-c5a3-4c53-ba3d-5e001839380c",
+      "question": "Quel animal pond des œufs ?",
+      "grade": 2,
+      "difficulty": 1,
+      "answers": [
+        "Le chien",
+        "La poule",
+        "Le chat",
+        "La vache"
+      ],
+      "correct_answer": "La poule",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "4a307bb9-ebf3-4478-adf9-0b4b089927bd",
+      "question": "Combien d'ailes a un papillon ?",
+      "grade": 1,
+      "difficulty": 2,
+      "answers": [
+        "Quatre",
+        "Deux",
+        "Six",
+        "Huit"
+      ],
+      "correct_answer": "Quatre",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "1104f83e-87bf-4fd6-975b-0e42c138d666",
+      "question": "La température se mesure en degrés Celsius.",
+      "grade": 3,
+      "difficulty": 1,
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "questionType": "multiple-choice",
+      "status": "FAIL",
+      "reason": "Invalid correct_answer: \"true\" (not an index or matching answer)"
+    },
+    {
+      "id": "ea033961-dd07-4b9b-8daa-b8e6105d0a5a",
+      "question": "Combien de phases de la Lune peut-on observer ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": [
+        "4 phases",
+        "6 phases",
+        "8 phases",
+        "12 phases"
+      ],
+      "correct_answer": "2",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "2714c380-ee74-4d7f-ac23-4a8b7b5b790e",
+      "question": "Quel système nous aide à digérer la nourriture?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "Le système respiratoire",
+        "Le système digestif",
+        "Le système nerveux",
+        "Le système circulatoire"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "a6d78570-859c-40b8-9b8c-6dedb3b247f8",
+      "question": "Le Soleil est notre principale source d'énergie. Vrai ou faux ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "52ecd603-3b23-4dd7-9a26-a4b367c924de",
+      "question": "Que se passe-t-il pendant une tempête?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "Il fait très calme",
+        "Il y a beaucoup de vent et de pluie",
+        "Il fait très chaud",
+        "Il neige doucement"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "46e21685-5dfc-4e4d-b674-f91924b53df2",
+      "question": "Qu'est-ce qu'une force de contact ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": [
+        "Une force qui agit à distance",
+        "Une force qui nécessite un contact physique",
+        "La gravité",
+        "Le magnétisme"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "954f0e0d-cae3-478f-948c-3ec8c3c71fce",
+      "question": "À quelle température l'eau bout-elle?",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": [
+        "0°C",
+        "50°C",
+        "100°C",
+        "200°C"
+      ],
+      "correct_answer": "2",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "8e7503f0-dd9e-4f88-8dff-140cf35e9d45",
+      "question": "Les oiseaux ont des plumes.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "e87efaf0-d2e3-4ffc-9ba2-eac53c01aa82",
+      "question": "Les jours sont plus longs en été qu'en hiver.",
+      "grade": 2,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "73a2ba1c-78b3-414b-9fee-5fadd414fa1b",
+      "question": "Que mangent les herbivores?",
+      "grade": 3,
+      "difficulty": 3,
+      "answers": [
+        "De la viande",
+        "Des plantes",
+        "Des pierres",
+        "Du métal"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "8e4b8e07-054a-4452-aafd-ff0f2ee7981d",
+      "question": "La géothermie utilise la chaleur de la Terre. Vrai ou faux ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "43504325-cf80-4fe2-916a-b16375072803",
+      "question": "Quelle planète du système solaire a le plus de lunes connues ?",
+      "grade": 6,
+      "difficulty": 4,
+      "answers": [
+        "Saturne",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct_answer": "Saturne",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "658c7563-a980-4ba4-9000-2551106c8438",
+      "question": "L'ADN se trouve dans le noyau des cellules.",
+      "grade": 6,
+      "difficulty": 3,
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "4773379c-f25a-4d4f-9bdb-da2511a2ea87",
+      "question": "La neige est de l'eau gelée.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "fa36aed8-ebf2-4102-a9a5-2f2fc62ce447",
+      "question": "Les plantes ont besoin de terre pour pousser.",
+      "grade": 1,
+      "difficulty": 1,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "b9397ef4-3f31-4af5-bfd9-ee90979dfece",
+      "question": "Quel est le principal composant de l'air que nous respirons ?",
+      "grade": 4,
+      "difficulty": 3,
+      "answers": [
+        "L'azote",
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'argon"
+      ],
+      "correct_answer": "L'azote",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "2fd349a0-9de4-4c4f-9753-cf2d7ebb4640",
+      "question": "Quelle énergie utilise un téléphone portable ?",
+      "grade": 4,
+      "difficulty": 2,
+      "answers": [
+        "Énergie solaire",
+        "Énergie électrique",
+        "Énergie éolienne",
+        "Énergie hydraulique"
+      ],
+      "correct_answer": "1",
+      "questionType": "multiple-choice",
+      "status": "PASS",
+      "reason": ""
+    },
+    {
+      "id": "4e1f159c-e4cc-4581-a577-a75e667de2ee",
+      "question": "Les muscles travaillent toujours par paires. Vrai ou faux ?",
+      "grade": 6,
+      "difficulty": 2,
+      "answers": null,
+      "correct_answer": "true",
+      "questionType": "true-false",
+      "status": "PASS",
+      "reason": ""
+    }
+  ]
+}

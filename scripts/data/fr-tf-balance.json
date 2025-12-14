@@ -1,0 +1,1772 @@
+[
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "5 + 3 = 8",
+    "correct_answer": "Vrai",
+    "explanation": "Cinq plus trois égale huit.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "Le triangle a 3 côtés.",
+    "correct_answer": "Vrai",
+    "explanation": "Un triangle a toujours trois côtés.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "french",
+    "question": "Le mot 'chat' commence par la lettre C.",
+    "correct_answer": "Vrai",
+    "explanation": "Le mot chat commence bien par la lettre C.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "science",
+    "question": "Le soleil brille pendant la journée.",
+    "correct_answer": "Vrai",
+    "explanation": "Le soleil éclaire la Terre pendant la journée.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "geography",
+    "question": "La Suisse a des montagnes.",
+    "correct_answer": "Vrai",
+    "explanation": "La Suisse est un pays montagneux avec les Alpes.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "15 + 5 = 20",
+    "correct_answer": "Vrai",
+    "explanation": "Quinze plus cinq égale vingt.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "Un carré a 4 angles droits.",
+    "correct_answer": "Vrai",
+    "explanation": "Tous les carrés ont quatre angles droits.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "25 est un nombre impair.",
+    "correct_answer": "Vrai",
+    "explanation": "Vingt-cinq se termine par 5, c'est un nombre impair.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "french",
+    "question": "Un nom propre commence par une majuscule.",
+    "correct_answer": "Vrai",
+    "explanation": "Les noms propres prennent toujours une majuscule.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "science",
+    "question": "Les plantes ont besoin d'eau pour grandir.",
+    "correct_answer": "Vrai",
+    "explanation": "L'eau est essentielle à la croissance des plantes.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Berne est la capitale de la Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Berne est la ville fédérale de la Suisse.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "La Suisse a quatre langues nationales.",
+    "correct_answer": "Vrai",
+    "explanation": "L'allemand, le français, l'italien et le romanche.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "100 ÷ 10 = 10",
+    "correct_answer": "Vrai",
+    "explanation": "Cent divisé par dix égale dix.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "Un rectangle a des côtés opposés égaux.",
+    "correct_answer": "Vrai",
+    "explanation": "Dans un rectangle, les côtés opposés sont toujours égaux.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "1 kilomètre = 1000 mètres",
+    "correct_answer": "Vrai",
+    "explanation": "Un kilomètre équivaut à mille mètres.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Un verbe exprime une action ou un état.",
+    "correct_answer": "Vrai",
+    "explanation": "Le verbe indique ce que fait ou ce qu'est le sujet.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "science",
+    "question": "L'eau gèle à 0 degré Celsius.",
+    "correct_answer": "Vrai",
+    "explanation": "L'eau se transforme en glace à zéro degré.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Le lac Léman est partagé entre la Suisse et la France.",
+    "correct_answer": "Vrai",
+    "explanation": "Le lac Léman se trouve à la frontière suisse-française.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "0.5 = 1/2",
+    "correct_answer": "Vrai",
+    "explanation": "Zéro virgule cinq équivaut à un demi.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "Le périmètre d'un carré de 5 cm de côté est 20 cm.",
+    "correct_answer": "Vrai",
+    "explanation": "5 + 5 + 5 + 5 = 20 centimètres.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "3/4 est plus grand que 2/3.",
+    "correct_answer": "Vrai",
+    "explanation": "Trois quarts (0.75) est supérieur à deux tiers (0.66).",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Le passé composé se forme avec un auxiliaire et un participe passé.",
+    "correct_answer": "Vrai",
+    "explanation": "On utilise être ou avoir + participe passé.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Tous les verbes en -er ont un participe passé en -é.",
+    "correct_answer": "Vrai",
+    "explanation": "Les verbes du premier groupe ont un participe en -é.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "La photosynthèse produit de l'oxygène.",
+    "correct_answer": "Vrai",
+    "explanation": "Les plantes libèrent de l'oxygène lors de la photosynthèse.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "Le fer est attiré par un aimant.",
+    "correct_answer": "Vrai",
+    "explanation": "Le fer est un matériau ferromagnétique.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "geography",
+    "question": "Le Cervin est une montagne suisse célèbre.",
+    "correct_answer": "Vrai",
+    "explanation": "Le Cervin (Matterhorn) est un sommet emblématique des Alpes.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "2³ = 8",
+    "correct_answer": "Vrai",
+    "explanation": "Deux à la puissance trois égale huit (2 × 2 × 2).",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "Un nombre divisible par 2 et par 3 est divisible par 6.",
+    "correct_answer": "Vrai",
+    "explanation": "Si divisible par 2 et 3, alors divisible par 6.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "0.25 = 1/4",
+    "correct_answer": "Vrai",
+    "explanation": "Zéro virgule vingt-cinq équivaut à un quart.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "french",
+    "question": "Un complément d'objet direct répond à la question 'quoi ?' ou 'qui ?'.",
+    "correct_answer": "Vrai",
+    "explanation": "Le COD complète directement le verbe.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "Le cœur pompe le sang dans tout le corps.",
+    "correct_answer": "Vrai",
+    "explanation": "Le cœur est l'organe central du système circulatoire.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "La Terre tourne autour du Soleil en 365 jours environ.",
+    "correct_answer": "Vrai",
+    "explanation": "Une révolution terrestre dure environ 365.25 jours.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Le Jura est une chaîne de montagnes suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Le Jura s'étend le long de la frontière franco-suisse.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "geography",
+    "question": "La Suisse compte 26 cantons.",
+    "correct_answer": "Vrai",
+    "explanation": "La Suisse est composée de vingt-six cantons.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "π (pi) est approximativement égal à 3.14.",
+    "correct_answer": "Vrai",
+    "explanation": "Pi vaut environ 3.14159...",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "Un nombre premier n'a que deux diviseurs : 1 et lui-même.",
+    "correct_answer": "Vrai",
+    "explanation": "C'est la définition d'un nombre premier.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "Le volume d'un cube de 3 cm d'arête est 27 cm³.",
+    "correct_answer": "Vrai",
+    "explanation": "Volume = 3 × 3 × 3 = 27 cm³.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "5/8 est égal à 0.625.",
+    "correct_answer": "Vrai",
+    "explanation": "Cinq divisé par huit égale zéro virgule six cent vingt-cinq.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "french",
+    "question": "Une proposition relative complète un nom.",
+    "correct_answer": "Vrai",
+    "explanation": "La proposition relative apporte une précision sur le nom.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "science",
+    "question": "L'évaporation transforme l'eau liquide en vapeur d'eau.",
+    "correct_answer": "Vrai",
+    "explanation": "L'évaporation est le passage de l'état liquide à gazeux.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "7 - 4 = 3",
+    "correct_answer": "Vrai",
+    "explanation": "Sept moins quatre égale trois.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "french",
+    "question": "Il y a 26 lettres dans l'alphabet français.",
+    "correct_answer": "Vrai",
+    "explanation": "L'alphabet français compte vingt-six lettres.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "science",
+    "question": "Les oiseaux ont des plumes.",
+    "correct_answer": "Vrai",
+    "explanation": "Tous les oiseaux sont couverts de plumes.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Lausanne se trouve en Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Lausanne est une ville suisse au bord du lac Léman.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "20 - 8 = 12",
+    "correct_answer": "Vrai",
+    "explanation": "Vingt moins huit égale douze.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "french",
+    "question": "Le mot 'pomme' contient deux M.",
+    "correct_answer": "Vrai",
+    "explanation": "Le mot pomme s'écrit avec deux lettres M.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "science",
+    "question": "Les étoiles brillent dans le ciel la nuit.",
+    "correct_answer": "Vrai",
+    "explanation": "On peut voir les étoiles scintiller la nuit.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Fribourg est un canton suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Fribourg est l'un des vingt-six cantons de Suisse.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "50 ÷ 5 = 10",
+    "correct_answer": "Vrai",
+    "explanation": "Cinquante divisé par cinq égale dix.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "1 litre = 1000 millilitres",
+    "correct_answer": "Vrai",
+    "explanation": "Un litre équivaut à mille millilitres.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Un adjectif qualificatif précise le nom.",
+    "correct_answer": "Vrai",
+    "explanation": "L'adjectif qualificatif donne une qualité au nom.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "science",
+    "question": "Les insectes ont six pattes.",
+    "correct_answer": "Vrai",
+    "explanation": "Tous les insectes possèdent six pattes.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Neuchâtel est un canton et une ville de Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Neuchâtel désigne à la fois le canton et sa capitale.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "geography",
+    "question": "L'Aar est une rivière suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "L'Aar (ou Arole) est un important cours d'eau suisse.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "250 grammes = 0.25 kilogramme",
+    "correct_answer": "Vrai",
+    "explanation": "Deux cent cinquante grammes égale un quart de kilo.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "Un losange a quatre côtés égaux.",
+    "correct_answer": "Vrai",
+    "explanation": "Le losange est un quadrilatère avec quatre côtés égaux.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Le complément du nom suit généralement une préposition.",
+    "correct_answer": "Vrai",
+    "explanation": "Le complément du nom est introduit par de, à, en, etc.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Le participe passé avec 'être' s'accorde toujours avec le sujet.",
+    "correct_answer": "Vrai",
+    "explanation": "Avec l'auxiliaire être, le participe s'accorde en genre et nombre.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "Les amphibiens peuvent vivre sur terre et dans l'eau.",
+    "correct_answer": "Vrai",
+    "explanation": "Les amphibiens comme les grenouilles vivent dans les deux milieux.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "geography",
+    "question": "Le Tessin est le seul canton italophone de Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Le Tessin est le canton où l'italien est la langue principale.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "geography",
+    "question": "Le lac de Constance touche la Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Le lac de Constance est partagé entre la Suisse, l'Allemagne et l'Autriche.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "15% de 100 = 15",
+    "correct_answer": "Vrai",
+    "explanation": "Quinze pour cent de cent égale quinze.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "Le PGCD de 12 et 18 est 6.",
+    "correct_answer": "Vrai",
+    "explanation": "Le plus grand commun diviseur de 12 et 18 est 6.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "french",
+    "question": "Un complément circonstanciel peut être supprimé.",
+    "correct_answer": "Vrai",
+    "explanation": "Le CC n'est pas essentiel à la phrase, on peut le supprimer.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "La condensation transforme la vapeur d'eau en liquide.",
+    "correct_answer": "Vrai",
+    "explanation": "La condensation est le passage de l'état gazeux à liquide.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Le Gothard est un col important des Alpes suisses.",
+    "correct_answer": "Vrai",
+    "explanation": "Le col du Gothard relie le nord et le sud de la Suisse.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "(-3) × (-4) = 12",
+    "correct_answer": "Vrai",
+    "explanation": "Le produit de deux nombres négatifs est positif.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "La circonférence d'un cercle se calcule avec la formule 2πr.",
+    "correct_answer": "Vrai",
+    "explanation": "C = 2 × pi × rayon est la formule de la circonférence.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "french",
+    "question": "Une phrase complexe contient plusieurs propositions.",
+    "correct_answer": "Vrai",
+    "explanation": "Une phrase complexe a au moins deux propositions liées.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "science",
+    "question": "Les cellules sont les unités de base du vivant.",
+    "correct_answer": "Vrai",
+    "explanation": "Tous les êtres vivants sont composés de cellules.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "geography",
+    "question": "La Suisse utilise le franc suisse comme monnaie.",
+    "correct_answer": "Vrai",
+    "explanation": "Le franc suisse (CHF) est la monnaie officielle de la Suisse.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "6 + 2 = 8",
+    "correct_answer": "Vrai",
+    "explanation": "Six plus deux égale huit.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "french",
+    "question": "Une phrase commence par une majuscule.",
+    "correct_answer": "Vrai",
+    "explanation": "Toute phrase commence par une lettre majuscule.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Il y a quatre saisons dans l'année.",
+    "correct_answer": "Vrai",
+    "explanation": "Les quatre saisons sont le printemps, l'été, l'automne et l'hiver.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "14 est un nombre pair.",
+    "correct_answer": "Vrai",
+    "explanation": "Quatorze se termine par 4, c'est un nombre pair.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "french",
+    "question": "Le déterminant 'un' est masculin.",
+    "correct_answer": "Vrai",
+    "explanation": "Le déterminant un est de genre masculin.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "science",
+    "question": "L'eau de pluie vient des nuages.",
+    "correct_answer": "Vrai",
+    "explanation": "La pluie tombe des nuages chargés de vapeur d'eau.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "24 ÷ 4 = 6",
+    "correct_answer": "Vrai",
+    "explanation": "Vingt-quatre divisé par quatre égale six.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "science",
+    "question": "Le cycle de l'eau comprend l'évaporation, la condensation et les précipitations.",
+    "correct_answer": "Vrai",
+    "explanation": "Ce sont les trois étapes principales du cycle de l'eau.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Le lac des Quatre-Cantons se trouve en Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Le lac des Quatre-Cantons est un lac suisse au centre du pays.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "2/5 + 1/5 = 3/5",
+    "correct_answer": "Vrai",
+    "explanation": "Avec le même dénominateur, on additionne les numérateurs.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "Un triangle équilatéral a tous ses angles égaux.",
+    "correct_answer": "Vrai",
+    "explanation": "Les trois angles d'un triangle équilatéral mesurent 60°.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "Les carnivores mangent uniquement de la viande.",
+    "correct_answer": "Vrai",
+    "explanation": "Les carnivores se nourrissent principalement de viande.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "geography",
+    "question": "La Croix-Rouge a été fondée en Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Henri Dunant a fondé la Croix-Rouge à Genève en 1863.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "Un angle aigu mesure moins de 90 degrés.",
+    "correct_answer": "Vrai",
+    "explanation": "Un angle aigu est compris entre 0° et 90°.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "7² = 49",
+    "correct_answer": "Vrai",
+    "explanation": "Sept au carré égale quarante-neuf (7 × 7).",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "french",
+    "question": "Le COI répond à la question 'à qui ?' ou 'à quoi ?'.",
+    "correct_answer": "Vrai",
+    "explanation": "Le complément d'objet indirect est introduit par une préposition.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "Les artères transportent le sang du cœur vers les organes.",
+    "correct_answer": "Vrai",
+    "explanation": "Les artères distribuent le sang oxygéné dans tout le corps.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Le Rhône et le Rhin prennent leur source en Suisse.",
+    "correct_answer": "Vrai",
+    "explanation": "Ces deux grands fleuves européens naissent dans les Alpes suisses.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "2 + 2 = 5",
+    "correct_answer": "Faux",
+    "explanation": "Deux plus deux égale quatre, pas cinq.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "10 est plus petit que 5.",
+    "correct_answer": "Faux",
+    "explanation": "Dix est plus grand que cinq.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "french",
+    "question": "Le mot 'maison' se termine par la lettre T.",
+    "correct_answer": "Faux",
+    "explanation": "Le mot maison se termine par N, pas par T.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "science",
+    "question": "Les poissons peuvent voler dans le ciel.",
+    "correct_answer": "Faux",
+    "explanation": "Les poissons vivent dans l'eau et ne peuvent pas voler.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Genève se trouve au bord de la mer.",
+    "correct_answer": "Faux",
+    "explanation": "Genève se trouve au bord d'un lac, pas de la mer.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "12 - 7 = 6",
+    "correct_answer": "Faux",
+    "explanation": "Douze moins sept égale cinq, pas six.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "3 × 4 = 14",
+    "correct_answer": "Faux",
+    "explanation": "Trois fois quatre égale douze, pas quatorze.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "french",
+    "question": "Le pluriel de 'cheval' est 'chevals'.",
+    "correct_answer": "Faux",
+    "explanation": "Le pluriel de cheval est chevaux.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "science",
+    "question": "La Terre tourne autour de la Lune.",
+    "correct_answer": "Faux",
+    "explanation": "C'est la Lune qui tourne autour de la Terre.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Le Rhin est un lac suisse.",
+    "correct_answer": "Faux",
+    "explanation": "Le Rhin est un fleuve, pas un lac.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "45 + 35 = 70",
+    "correct_answer": "Faux",
+    "explanation": "Quarante-cinq plus trente-cinq égale huitante, pas septante.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "7 × 8 = 54",
+    "correct_answer": "Faux",
+    "explanation": "Sept fois huit égale cinquante-six, pas cinquante-quatre.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Le féminin de 'beau' est 'beaue'.",
+    "correct_answer": "Faux",
+    "explanation": "Le féminin de beau est belle.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "science",
+    "question": "Les mammifères pondent des œufs.",
+    "correct_answer": "Faux",
+    "explanation": "La plupart des mammifères donnent naissance à des petits vivants.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Zurich se trouve en Suisse romande.",
+    "correct_answer": "Faux",
+    "explanation": "Zurich est en Suisse alémanique, pas en Suisse romande.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "Un angle droit mesure nonante degrés.",
+    "correct_answer": "Faux",
+    "explanation": "Un angle droit mesure quatre-vingt-dix degrés, pas nonante.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "144 ÷ 12 = 11",
+    "correct_answer": "Faux",
+    "explanation": "Cent quarante-quatre divisé par douze égale douze.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Un adjectif s'accorde en genre mais pas en nombre.",
+    "correct_answer": "Faux",
+    "explanation": "L'adjectif s'accorde en genre ET en nombre avec le nom.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "L'eau bout à 50 degrés Celsius.",
+    "correct_answer": "Faux",
+    "explanation": "L'eau bout à cent degrés Celsius au niveau de la mer.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "geography",
+    "question": "La Suisse a un accès direct à la mer.",
+    "correct_answer": "Faux",
+    "explanation": "La Suisse est un pays enclavé sans accès à la mer.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "L'aire d'un rectangle de 6 cm sur 4 cm est 20 cm².",
+    "correct_answer": "Faux",
+    "explanation": "L'aire est 6 × 4 = 24 cm², pas 20.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "Le diamètre d'un cercle est égal à son rayon.",
+    "correct_answer": "Faux",
+    "explanation": "Le diamètre est le double du rayon.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "french",
+    "question": "Le conditionnel présent exprime une certitude.",
+    "correct_answer": "Faux",
+    "explanation": "Le conditionnel exprime une hypothèse, pas une certitude.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "Le son se propage plus vite dans l'air que dans l'eau.",
+    "correct_answer": "Faux",
+    "explanation": "Le son se propage plus rapidement dans l'eau que dans l'air.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Le Rhône prend sa source dans le lac Léman.",
+    "correct_answer": "Faux",
+    "explanation": "Le Rhône prend sa source au glacier du Rhône et traverse le lac Léman.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "La somme des angles d'un triangle est 360°.",
+    "correct_answer": "Faux",
+    "explanation": "La somme des angles d'un triangle est 180°, pas 360°.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "french",
+    "question": "Le subjonctif exprime un fait certain.",
+    "correct_answer": "Faux",
+    "explanation": "Le subjonctif exprime le doute, le souhait, pas la certitude.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "science",
+    "question": "La Lune produit sa propre lumière.",
+    "correct_answer": "Faux",
+    "explanation": "La Lune réfléchit la lumière du Soleil.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "geography",
+    "question": "La Suisse fait partie de l'Union européenne.",
+    "correct_answer": "Faux",
+    "explanation": "La Suisse n'est pas membre de l'Union européenne.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "Un cercle a des coins.",
+    "correct_answer": "Faux",
+    "explanation": "Un cercle n'a pas de coins, il est rond.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "french",
+    "question": "Le mot 'arbre' commence par la lettre B.",
+    "correct_answer": "Faux",
+    "explanation": "Le mot arbre commence par la lettre A.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "science",
+    "question": "Les arbres peuvent marcher.",
+    "correct_answer": "Faux",
+    "explanation": "Les arbres ne peuvent pas se déplacer.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Il fait toujours chaud en hiver.",
+    "correct_answer": "Faux",
+    "explanation": "En hiver, il fait froid en Suisse.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "30 est plus petit que 20.",
+    "correct_answer": "Faux",
+    "explanation": "Trente est plus grand que vingt.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "french",
+    "question": "Les jours de la semaine prennent une majuscule en français.",
+    "correct_answer": "Faux",
+    "explanation": "En français, les jours s'écrivent avec une minuscule.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "science",
+    "question": "Les chats sont des reptiles.",
+    "correct_answer": "Faux",
+    "explanation": "Les chats sont des mammifères, pas des reptiles.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Le printemps vient après l'été.",
+    "correct_answer": "Faux",
+    "explanation": "Le printemps vient après l'hiver, pas après l'été.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "6 × 7 = 48",
+    "correct_answer": "Faux",
+    "explanation": "Six fois sept égale quarante-deux, pas quarante-huit.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Le pluriel de 'œil' est 'œils'.",
+    "correct_answer": "Faux",
+    "explanation": "Le pluriel de œil est yeux.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "science",
+    "question": "Le granite est un liquide.",
+    "correct_answer": "Faux",
+    "explanation": "Le granite est une roche solide.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "9 × 9 = 72",
+    "correct_answer": "Faux",
+    "explanation": "Neuf fois neuf égale huitante-un, pas septante-deux.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "Le mercure est un gaz à température ambiante.",
+    "correct_answer": "Faux",
+    "explanation": "Le mercure est un métal liquide à température ambiante.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "La médiane d'une série de données est toujours un nombre de la série.",
+    "correct_answer": "Faux",
+    "explanation": "La médiane peut être la moyenne de deux valeurs centrales.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "french",
+    "question": "L'imparfait exprime une action ponctuelle dans le passé.",
+    "correct_answer": "Faux",
+    "explanation": "L'imparfait exprime une action habituelle ou durable, pas ponctuelle.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "Les végétaux produisent du dioxyde de carbone pendant la photosynthèse.",
+    "correct_answer": "Faux",
+    "explanation": "Les végétaux absorbent le CO2 et produisent de l'oxygène.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "geography",
+    "question": "Vaud est le plus grand canton de Suisse.",
+    "correct_answer": "Faux",
+    "explanation": "Les Grisons sont le plus grand canton suisse par superficie.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "Un parallélogramme a des diagonales perpendiculaires.",
+    "correct_answer": "Faux",
+    "explanation": "Les diagonales d'un parallélogramme ne sont pas forcément perpendiculaires.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "french",
+    "question": "Le passé simple s'utilise couramment à l'oral.",
+    "correct_answer": "Faux",
+    "explanation": "Le passé simple est surtout utilisé à l'écrit, pas à l'oral.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "science",
+    "question": "La force de gravité est plus forte sur la Lune que sur Terre.",
+    "correct_answer": "Faux",
+    "explanation": "La gravité lunaire est environ six fois plus faible que sur Terre.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "9 - 3 = 5",
+    "correct_answer": "Faux",
+    "explanation": "Neuf moins trois égale six, pas cinq.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "science",
+    "question": "Les vaches peuvent voler.",
+    "correct_answer": "Faux",
+    "explanation": "Les vaches ne peuvent pas voler, elles marchent.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "5 × 2 = 12",
+    "correct_answer": "Faux",
+    "explanation": "Cinq fois deux égale dix, pas douze.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Le mois de janvier vient après février.",
+    "correct_answer": "Faux",
+    "explanation": "Janvier vient avant février, c'est le premier mois de l'année.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "1 mètre = 10 centimètres",
+    "correct_answer": "Faux",
+    "explanation": "Un mètre égale cent centimètres, pas dix.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Le verbe 'être' est un verbe d'action.",
+    "correct_answer": "Faux",
+    "explanation": "Être est un verbe d'état, pas d'action.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Le féminin de 'acteur' est 'acteuse'.",
+    "correct_answer": "Faux",
+    "explanation": "Le féminin de acteur est actrice.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "french",
+    "question": "Une proposition subordonnée peut exister seule.",
+    "correct_answer": "Faux",
+    "explanation": "Une proposition subordonnée dépend d'une principale.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "8 est plus grand que 10.",
+    "correct_answer": "Faux",
+    "explanation": "Huit est plus petit que dix.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "18 - 9 = 10",
+    "correct_answer": "Faux",
+    "explanation": "Dix-huit moins neuf égale neuf, pas dix.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "Un angle plat mesure 90 degrés.",
+    "correct_answer": "Faux",
+    "explanation": "Un angle plat mesure 180 degrés, pas 90.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Un synonyme est un mot de sens contraire.",
+    "correct_answer": "Faux",
+    "explanation": "Un synonyme a un sens proche, pas contraire.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "Le verre conduit l'électricité.",
+    "correct_answer": "Faux",
+    "explanation": "Le verre est un isolant, il ne conduit pas l'électricité.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "L'aire d'un triangle se calcule : base × hauteur.",
+    "correct_answer": "Faux",
+    "explanation": "L'aire = (base × hauteur) ÷ 2, il faut diviser par deux.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "3 + 3 = 7",
+    "correct_answer": "Faux",
+    "explanation": "Trois plus trois égale six, pas sept.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "math",
+    "question": "Un carré a 3 côtés.",
+    "correct_answer": "Faux",
+    "explanation": "Un carré a quatre côtés, pas trois.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "french",
+    "question": "Le mot 'école' commence par O.",
+    "correct_answer": "Faux",
+    "explanation": "École commence par la lettre É.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "science",
+    "question": "La lune brille pendant la journée.",
+    "correct_answer": "Faux",
+    "explanation": "On voit généralement la lune la nuit.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 1,
+    "subject": "geography",
+    "question": "Paris est en Suisse.",
+    "correct_answer": "Faux",
+    "explanation": "Paris est en France, pas en Suisse.",
+    "difficulty": 1
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "17 + 3 = 21",
+    "correct_answer": "Faux",
+    "explanation": "Dix-sept plus trois égale vingt, pas vingt et un.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "math",
+    "question": "40 est plus petit que 30.",
+    "correct_answer": "Faux",
+    "explanation": "Quarante est plus grand que trente.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "french",
+    "question": "Le pluriel de 'souris' est 'souriss'.",
+    "correct_answer": "Faux",
+    "explanation": "Souris ne change pas au pluriel.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "science",
+    "question": "Les pingouins vivent au Sahara.",
+    "correct_answer": "Faux",
+    "explanation": "Les pingouins vivent dans les régions froides, pas au Sahara.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 2,
+    "subject": "geography",
+    "question": "Décembre vient avant novembre.",
+    "correct_answer": "Faux",
+    "explanation": "Décembre vient après novembre.",
+    "difficulty": 2
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "9 × 8 = 81",
+    "correct_answer": "Faux",
+    "explanation": "Neuf fois huit égale septante-deux, pas huitante-un.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "math",
+    "question": "1 heure = 100 minutes",
+    "correct_answer": "Faux",
+    "explanation": "Une heure égale soixante minutes, pas cent.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "french",
+    "question": "Un antonyme est un mot de même sens.",
+    "correct_answer": "Faux",
+    "explanation": "Un antonyme est un mot de sens contraire.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "science",
+    "question": "Les araignées sont des insectes.",
+    "correct_answer": "Faux",
+    "explanation": "Les araignées ont huit pattes, ce sont des arachnides.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 3,
+    "subject": "geography",
+    "question": "Lugano se trouve en Suisse romande.",
+    "correct_answer": "Faux",
+    "explanation": "Lugano est au Tessin, région italophone.",
+    "difficulty": 3
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "5/6 est plus petit que 1/2.",
+    "correct_answer": "Faux",
+    "explanation": "Cinq sixièmes est plus grand qu un demi.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "math",
+    "question": "Un rectangle a tous ses côtés égaux.",
+    "correct_answer": "Faux",
+    "explanation": "Seul le carré a tous ses côtés égaux.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "french",
+    "question": "Le pluriel de 'bail' est 'bails'.",
+    "correct_answer": "Faux",
+    "explanation": "Le pluriel de bail est baux.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "science",
+    "question": "Le bois flotte pas dans l'eau.",
+    "correct_answer": "Faux",
+    "explanation": "La plupart des bois flottent sur l'eau.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 4,
+    "subject": "geography",
+    "question": "Le Mont-Blanc est entièrement en Suisse.",
+    "correct_answer": "Faux",
+    "explanation": "Le Mont-Blanc est à la frontière franco-italienne.",
+    "difficulty": 4
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "math",
+    "question": "Un angle obtus mesure moins de 90 degrés.",
+    "correct_answer": "Faux",
+    "explanation": "Un angle obtus mesure entre 90 et 180 degrés.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "french",
+    "question": "Le futur simple se forme avec l'auxiliaire avoir.",
+    "correct_answer": "Faux",
+    "explanation": "Le futur simple n'utilise pas d'auxiliaire.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 5,
+    "subject": "science",
+    "question": "L'air ne pèse rien.",
+    "correct_answer": "Faux",
+    "explanation": "L'air a une masse et exerce une pression.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "math",
+    "question": "0 est un nombre négatif.",
+    "correct_answer": "Faux",
+    "explanation": "Zéro n'est ni positif ni négatif.",
+    "difficulty": 5
+  },
+  {
+    "type": "true-false",
+    "language": "fr",
+    "grade": 6,
+    "subject": "science",
+    "question": "Les champignons sont des végétaux.",
+    "correct_answer": "Faux",
+    "explanation": "Les champignons forment un règne à part.",
+    "difficulty": 5
+  }
+]

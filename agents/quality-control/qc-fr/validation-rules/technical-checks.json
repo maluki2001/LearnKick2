@@ -1,0 +1,108 @@
+{
+  "totalControles": 15,
+  "controles": [
+    {
+      "id": "T01",
+      "nom": "Format ID unique",
+      "description": "L'ID est unique et suit le format",
+      "severite": "critical",
+      "format": "fr_{matiere}_grade{1-6}_{numero}",
+      "autoReject": true
+    },
+    {
+      "id": "T02",
+      "nom": "Exactement 4 réponses (QCM)",
+      "description": "Le choix multiple a exactement 4 options",
+      "severite": "critical",
+      "applique": ["multiple-choice"],
+      "autoReject": true
+    },
+    {
+      "id": "T03",
+      "nom": "CorrectIndex valide",
+      "description": "correctIndex est 0-3",
+      "severite": "critical",
+      "plage": [0, 3],
+      "autoReject": true
+    },
+    {
+      "id": "T04",
+      "nom": "Tous les champs requis présents",
+      "description": "Aucun champ requis manquant",
+      "severite": "critical",
+      "autoReject": true,
+      "requis": [
+        "id", "type", "subject", "grade", "difficulty",
+        "language", "question", "answers", "correctIndex",
+        "lehrplan21Code", "timeLimit", "tags"
+      ]
+    },
+    {
+      "id": "T05",
+      "nom": "Limite de temps raisonnable",
+      "description": "timeLimit entre 5000-30000ms",
+      "severite": "high",
+      "plage": [5000, 30000],
+      "autoReject": false
+    },
+    {
+      "id": "T06",
+      "nom": "Degré valide",
+      "description": "grade est 1-6",
+      "severite": "critical",
+      "plage": [1, 6],
+      "autoReject": true
+    },
+    {
+      "id": "T07",
+      "nom": "Difficulté valide",
+      "description": "difficulty est 1-5",
+      "severite": "critical",
+      "plage": [1, 5],
+      "autoReject": true
+    },
+    {
+      "id": "T08",
+      "nom": "Question pas trop courte",
+      "description": "Minimum 10 caractères",
+      "severite": "high",
+      "longueurMin": 10,
+      "autoReject": false
+    },
+    {
+      "id": "T09",
+      "nom": "Question pas trop longue",
+      "description": "Maximum 500 caractères",
+      "severite": "medium",
+      "longueurMax": 500,
+      "autoReject": false
+    },
+    {
+      "id": "T10",
+      "nom": "Pas de texte provisoire",
+      "description": "Pas de TODO, XXX, FIXME",
+      "severite": "critical",
+      "interdit": ["TODO", "XXX", "FIXME", "TBD"],
+      "autoReject": true
+    },
+    {
+      "id": "T11",
+      "nom": "Tags présents",
+      "description": "Au moins 1 tag",
+      "severite": "medium",
+      "minTags": 1,
+      "autoReject": false
+    },
+    {
+      "id": "T12",
+      "nom": "Langue correcte",
+      "description": "language est 'fr'",
+      "severite": "critical",
+      "valeur": "fr",
+      "autoReject": true
+    }
+  ],
+  "autoReject": [
+    "T01", "T02", "T03", "T04", "T06", "T07", "T10", "T12"
+  ]
+}

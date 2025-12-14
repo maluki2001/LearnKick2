@@ -1,0 +1,89 @@
+{
+  "contexte": "Suisse romande",
+  "totalControles": 12,
+  "controles": [
+    {
+      "id": "CU01",
+      "nom": "Contexte suisse romand prioritaire",
+      "description": "Préférer les exemples suisses romands",
+      "severite": "medium",
+      "prefere": [
+        "Villes romandes plutôt que françaises",
+        "CHF plutôt qu'autres monnaies",
+        "Géographie, histoire, culture suisse romande"
+      ]
+    },
+    {
+      "id": "CU02",
+      "nom": "Pas de biais culturel",
+      "description": "Neutre, approprié internationalement",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "CU03",
+      "nom": "Conscience multilingue",
+      "description": "Respect du multilinguisme suisse",
+      "severite": "medium",
+      "note": "Ne pas supposer que le français est langue maternelle"
+    },
+    {
+      "id": "CU04",
+      "nom": "Langage neutre genre",
+      "description": "Pas de stéréotypes de genre",
+      "severite": "critical",
+      "autoReject": true,
+      "exemples": {
+        "eviter": ["Les filles aiment le rose", "Les garçons jouent au football"],
+        "preferer": ["Les enfants aiment diverses couleurs", "Les élèves pratiquent des sports"]
+      }
+    },
+    {
+      "id": "CU05",
+      "nom": "Exemples inclusifs",
+      "description": "Représenter la diversité",
+      "severite": "high",
+      "autoReject": false
+    },
+    {
+      "id": "CU06",
+      "nom": "Éviter les sujets politiques",
+      "description": "Neutre sauf bases de démocratie",
+      "severite": "high",
+      "autoReject": false,
+      "flagForReview": true
+    },
+    {
+      "id": "CU07",
+      "nom": "Pas de biais religieux",
+      "description": "Respect de toutes les religions",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "CU08",
+      "nom": "Système métrique uniquement",
+      "description": "Utiliser mètres, kilogrammes, Celsius",
+      "severite": "high",
+      "autoReject": false,
+      "unites": ["m", "cm", "km", "kg", "g", "L", "°C"]
+    },
+    {
+      "id": "CU09",
+      "nom": "Contenu adapté à l'âge",
+      "description": "Pas de violence, sujets adultes",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "CU10",
+      "nom": "Nombres suisses romands",
+      "description": "Utiliser septante, huitante/octante, nonante",
+      "severite": "high",
+      "autoReject": false,
+      "note": "Vérifier cohérence avec variante suisse romande"
+    }
+  ],
+  "autoReject": ["CU02", "CU04", "CU07", "CU09"],
+  "flagForReview": ["CU06"]
+}

@@ -1,0 +1,1464 @@
+[
+  {
+    "question": "Was ist ein elektrischer Stromkreis?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Weg, den der Strom nur in eine Richtung fliessen kann",
+      "Ein geschlossener Weg, durch den elektrischer Strom fliessen kann",
+      "Ein Kabel ohne Verbindung zur Batterie",
+      "Ein Schalter, der den Strom stoppt"
+    ],
+    "correctAnswer": "Ein geschlossener Weg, durch den elektrischer Strom fliessen kann",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Material leitet elektrischen Strom am besten?",
+    "type": "multiple-choice",
+    "options": [
+      "Holz",
+      "Plastik",
+      "Kupfer",
+      "Gummi"
+    ],
+    "correctAnswer": "Kupfer",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Ein Magnet zieht alle Metalle an.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was passiert, wenn man zwei gleiche Magnetpole zusammenbringt?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie ziehen sich an",
+      "Sie stossen sich ab",
+      "Nichts passiert",
+      "Der Magnet verliert seine Kraft"
+    ],
+    "correctAnswer": "Sie stossen sich ab",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Wie viele Pole hat ein Magnet?",
+    "type": "multiple-choice",
+    "options": [
+      "Einen",
+      "Zwei",
+      "Drei",
+      "Vier"
+    ],
+    "correctAnswer": "Zwei",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Eine Batterie liefert elektrischen Strom.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist die Aufgabe eines Schalters in einem Stromkreis?",
+    "type": "multiple-choice",
+    "options": [
+      "Den Strom stärker machen",
+      "Den Stromkreis öffnen oder schliessen",
+      "Die Batterie aufladen",
+      "Das Kabel isolieren"
+    ],
+    "correctAnswer": "Den Stromkreis öffnen oder schliessen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Werkzeug benutzt man, um Nägel in Holz zu schlagen?",
+    "type": "multiple-choice",
+    "options": [
+      "Schraubenzieher",
+      "Hammer",
+      "Säge",
+      "Zange"
+    ],
+    "correctAnswer": "Hammer",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Plastik ist ein elektrischer Leiter.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Form hat eine stabile Konstruktion für ein Dach?",
+    "type": "multiple-choice",
+    "options": [
+      "Kreis",
+      "Dreieck",
+      "Viereck ohne Verstärkung",
+      "Linie"
+    ],
+    "correctAnswer": "Dreieck",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist ein Isolator?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Material, das Strom sehr gut leitet",
+      "Ein Material, das Strom nicht leitet",
+      "Ein Teil der Batterie",
+      "Ein elektrisches Gerät"
+    ],
+    "correctAnswer": "Ein Material, das Strom nicht leitet",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Die Pole eines Magneten heissen Nordpol und Südpol.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Warum verwendet man beim Bau einer Brücke oft Dreiecke?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil sie schön aussehen",
+      "Weil sie sehr stabil sind",
+      "Weil sie wenig Platz brauchen",
+      "Weil sie billig sind"
+    ],
+    "correctAnswer": "Weil sie sehr stabil sind",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Welches Gerät wandelt elektrische Energie in Licht um?",
+    "type": "multiple-choice",
+    "options": [
+      "Batterie",
+      "Schalter",
+      "Glühbirne",
+      "Kabel"
+    ],
+    "correctAnswer": "Glühbirne",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Ein Kompass funktioniert mit einem Magneten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was braucht man mindestens für einen funktionierenden Stromkreis?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur eine Batterie",
+      "Batterie, Kabel und ein Verbraucher (z.B. Lampe)",
+      "Nur Kabel",
+      "Nur eine Lampe"
+    ],
+    "correctAnswer": "Batterie, Kabel und ein Verbraucher (z.B. Lampe)",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Material wird oft für elektrische Kabel verwendet?",
+    "type": "multiple-choice",
+    "options": [
+      "Holz",
+      "Glas",
+      "Kupfer oder Aluminium",
+      "Papier"
+    ],
+    "correctAnswer": "Kupfer oder Aluminium",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Man kann einen Magneten teilen und erhält dann einen Nordpol und einen Südpol einzeln.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Elektromagnet?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Magnet, der nur bei Kälte funktioniert",
+      "Ein Magnet, der durch elektrischen Strom entsteht",
+      "Ein Magnet aus Plastik",
+      "Ein sehr starker Dauermagnet"
+    ],
+    "correctAnswer": "Ein Magnet, der durch elektrischen Strom entsteht",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Werkzeug benutzt man zum Sägen von Holz?",
+    "type": "multiple-choice",
+    "options": [
+      "Hammer",
+      "Bohrer",
+      "Säge",
+      "Schere"
+    ],
+    "correctAnswer": "Säge",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Alle Batterien kann man wieder aufladen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was passiert, wenn ein Stromkreis unterbrochen ist?",
+    "type": "multiple-choice",
+    "options": [
+      "Der Strom fliesst weiter",
+      "Der Strom wird stärker",
+      "Es fliesst kein Strom mehr",
+      "Die Batterie wird heiss"
+    ],
+    "correctAnswer": "Es fliesst kein Strom mehr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Metalle kann ein Magnet anziehen?",
+    "type": "multiple-choice",
+    "options": [
+      "Alle Metalle",
+      "Nur Eisen, Nickel und Kobalt",
+      "Nur Gold und Silber",
+      "Nur Aluminium"
+    ],
+    "correctAnswer": "Nur Eisen, Nickel und Kobalt",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Eine LED-Lampe verbraucht mehr Energie als eine Glühbirne.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist die Funktion eines Schraubenziehers?",
+    "type": "multiple-choice",
+    "options": [
+      "Holz sägen",
+      "Schrauben eindrehen oder herausdrehen",
+      "Nägel einschlagen",
+      "Löcher bohren"
+    ],
+    "correctAnswer": "Schrauben eindrehen oder herausdrehen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Warum sind elektrische Kabel mit Plastik ummantelt?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit sie schöner aussehen",
+      "Zur Sicherheit, damit man keinen Stromschlag bekommt",
+      "Damit sie bunter sind",
+      "Damit sie schwerer sind"
+    ],
+    "correctAnswer": "Zur Sicherheit, damit man keinen Stromschlag bekommt",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Magnete funktionieren auch durch Papier und Glas hindurch.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen einer Reihenschaltung und einer Parallelschaltung?",
+    "type": "multiple-choice",
+    "options": [
+      "Es gibt keinen Unterschied",
+      "In der Reihenschaltung sind alle Teile hintereinander, in der Parallelschaltung nebeneinander",
+      "In der Parallelschaltung gibt es keine Batterien",
+      "In der Reihenschaltung braucht man keinen Schalter"
+    ],
+    "correctAnswer": "In der Reihenschaltung sind alle Teile hintereinander, in der Parallelschaltung nebeneinander",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Baumaterial ist am stabilsten für hohe Gebäude?",
+    "type": "multiple-choice",
+    "options": [
+      "Papier",
+      "Stroh",
+      "Beton und Stahl",
+      "Sand"
+    ],
+    "correctAnswer": "Beton und Stahl",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "In einer Reihenschaltung leuchten alle Lampen gleich hell.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Sicherheitsregel gilt beim Umgang mit Strom?",
+    "type": "multiple-choice",
+    "options": [
+      "Man darf mit nassen Händen elektrische Geräte anfassen",
+      "Man darf niemals mit Steckdosen experimentieren",
+      "Strom ist ungefährlich",
+      "Kabel darf man durchschneiden"
+    ],
+    "correctAnswer": "Man darf niemals mit Steckdosen experimentieren",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Kurzschluss?",
+    "type": "multiple-choice",
+    "options": [
+      "Wenn die Batterie leer ist",
+      "Wenn der Strom einen sehr kurzen Weg ohne Verbraucher nimmt",
+      "Wenn der Schalter offen ist",
+      "Wenn zu viele Lampen im Stromkreis sind"
+    ],
+    "correctAnswer": "Wenn der Strom einen sehr kurzen Weg ohne Verbraucher nimmt",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Die Erde ist ein riesiger Magnet.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Konstruktion ist am stabilsten gegen seitliche Kräfte?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Rechteck",
+      "Ein Dreieck",
+      "Ein Kreis",
+      "Eine gerade Linie"
+    ],
+    "correctAnswer": "Ein Dreieck",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Wenn eine Lampe in einer Reihenschaltung kaputt geht, leuchten alle anderen weiter.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Computer?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Gerät nur zum Spielen",
+      "Eine elektronische Maschine, die Daten verarbeiten kann",
+      "Ein Fernseher",
+      "Ein Taschenrechner"
+    ],
+    "correctAnswer": "Eine elektronische Maschine, die Daten verarbeiten kann",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was bedeutet das Wort 'digital'?",
+    "type": "multiple-choice",
+    "options": [
+      "Etwas, das mit Fingern zu tun hat",
+      "Informationen, die in Form von Zahlen dargestellt werden",
+      "Nur Bilder auf dem Bildschirm",
+      "Alte Technologie"
+    ],
+    "correctAnswer": "Informationen, die in Form von Zahlen dargestellt werden",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Das Internet verbindet Computer auf der ganzen Welt.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Algorithmus?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein mathematisches Rätsel",
+      "Eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+      "Ein Computerspiel",
+      "Ein Teil des Computers"
+    ],
+    "correctAnswer": "Eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Programmiersprache ist für Kinder entwickelt worden?",
+    "type": "multiple-choice",
+    "options": [
+      "Python",
+      "Scratch",
+      "Java",
+      "C++"
+    ],
+    "correctAnswer": "Scratch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Ein Passwort sollte immer einfach sein, damit man es sich gut merken kann.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Browser?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Computerspiel",
+      "Ein Programm zum Surfen im Internet",
+      "Eine Suchmaschine",
+      "Ein E-Mail-Programm"
+    ],
+    "correctAnswer": "Ein Programm zum Surfen im Internet",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was bedeutet 'programmieren'?",
+    "type": "multiple-choice",
+    "options": [
+      "Einen Computer kaufen",
+      "Einem Computer Anweisungen geben, was er tun soll",
+      "Im Internet surfen",
+      "E-Mails schreiben"
+    ],
+    "correctAnswer": "Einem Computer Anweisungen geben, was er tun soll",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Alle Informationen im Internet sind wahr und können verwendet werden.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist eine Suchmaschine?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Programm zum Schreiben von Texten",
+      "Ein Werkzeug, um Informationen im Internet zu finden",
+      "Ein Spiel",
+      "Ein E-Mail-Dienst"
+    ],
+    "correctAnswer": "Ein Werkzeug, um Informationen im Internet zu finden",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches ist KEINE Eingabegerät für einen Computer?",
+    "type": "multiple-choice",
+    "options": [
+      "Tastatur",
+      "Maus",
+      "Bildschirm",
+      "Mikrofon"
+    ],
+    "correctAnswer": "Bildschirm",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "In Scratch programmiert man mit bunten Bausteinen, die man zusammensetzt.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist eine Schleife in der Programmierung?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Fehler im Programm",
+      "Eine Anweisung, die mehrmals wiederholt wird",
+      "Das Ende eines Programms",
+      "Ein Computervirus"
+    ],
+    "correctAnswer": "Eine Anweisung, die mehrmals wiederholt wird",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was sollte man tun, wenn man im Internet belästigt wird?",
+    "type": "multiple-choice",
+    "options": [
+      "Zurück beleidigen",
+      "Nichts sagen",
+      "Einem Erwachsenen Bescheid geben",
+      "Weiterspielen"
+    ],
+    "correctAnswer": "Einem Erwachsenen Bescheid geben",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Man kann sein Passwort mit Freunden teilen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Pixel?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Farbe",
+      "Der kleinste Punkt auf einem Bildschirm",
+      "Ein Computerprogramm",
+      "Eine Taste auf der Tastatur"
+    ],
+    "correctAnswer": "Der kleinste Punkt auf einem Bildschirm",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Gerät speichert Daten dauerhaft?",
+    "type": "multiple-choice",
+    "options": [
+      "RAM (Arbeitsspeicher)",
+      "Festplatte",
+      "Bildschirm",
+      "Tastatur"
+    ],
+    "correctAnswer": "Festplatte",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "E-Mails sind immer sicher und können keine Viren enthalten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Binärcode?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein geheimer Code",
+      "Ein Code aus nur zwei Ziffern: 0 und 1",
+      "Ein Code mit Buchstaben",
+      "Ein Code für Passwörter"
+    ],
+    "correctAnswer": "Ein Code aus nur zwei Ziffern: 0 und 1",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was bedeutet 'Download'?",
+    "type": "multiple-choice",
+    "options": [
+      "Daten vom Internet auf den Computer herunterladen",
+      "Daten vom Computer löschen",
+      "Einen Computer ausschalten",
+      "Ein Programm starten"
+    ],
+    "correctAnswer": "Daten vom Internet auf den Computer herunterladen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Ein Tablet ist ein Computer.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Hardware und Software?",
+    "type": "multiple-choice",
+    "options": [
+      "Es gibt keinen Unterschied",
+      "Hardware sind die physischen Teile, Software sind die Programme",
+      "Hardware ist teurer als Software",
+      "Software kann man anfassen, Hardware nicht"
+    ],
+    "correctAnswer": "Hardware sind die physischen Teile, Software sind die Programme",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Taste benutzt man, um einen Grossbuchstaben zu schreiben?",
+    "type": "multiple-choice",
+    "options": [
+      "Ctrl",
+      "Alt",
+      "Shift",
+      "Tab"
+    ],
+    "correctAnswer": "Shift",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "WLAN ist eine drahtlose Verbindung zum Internet.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist eine Bedingung (if-Anweisung) in der Programmierung?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine Wiederholung",
+      "Eine Entscheidung: Wenn etwas wahr ist, dann tue dies",
+      "Das Ende des Programms",
+      "Ein Fehler"
+    ],
+    "correctAnswer": "Eine Entscheidung: Wenn etwas wahr ist, dann tue dies",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches ist ein Beispiel für ein digitales Gerät?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Bleistift",
+      "Ein Smartphone",
+      "Ein Papierblock",
+      "Ein Lineal"
+    ],
+    "correctAnswer": "Ein Smartphone",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Man sollte persönliche Informationen wie Adresse oder Telefonnummer im Internet öffentlich teilen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Virus im Zusammenhang mit Computern?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Programm, das den Computer schädigen kann",
+      "Eine Krankheit für Menschen",
+      "Ein nützliches Programm",
+      "Ein Computerspiel"
+    ],
+    "correctAnswer": "Ein Programm, das den Computer schädigen kann",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was bedeutet 'Upload'?",
+    "type": "multiple-choice",
+    "options": [
+      "Daten vom Computer ins Internet hochladen",
+      "Daten herunterladen",
+      "Den Computer ausschalten",
+      "Ein Programm öffnen"
+    ],
+    "correctAnswer": "Daten vom Computer ins Internet hochladen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Ein Smartphone hat mehr Rechenleistung als die Computer, die zur Mondlandung benutzt wurden.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein QR-Code?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein geheimes Passwort",
+      "Ein zweidimensionaler Strichcode, der Informationen speichert",
+      "Ein Computerspiel",
+      "Eine Programmiersprache"
+    ],
+    "correctAnswer": "Ein zweidimensionaler Strichcode, der Informationen speichert",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welches Land hat das World Wide Web erfunden?",
+    "type": "multiple-choice",
+    "options": [
+      "USA",
+      "Schweiz (CERN in Genf)",
+      "Japan",
+      "Deutschland"
+    ],
+    "correctAnswer": "Schweiz (CERN in Genf)",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Screenshots sind Fotos vom Bildschirm.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Bug in der Programmierung?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Insekt im Computer",
+      "Ein Fehler im Programm",
+      "Ein nützliches Feature",
+      "Ein Computervirus"
+    ],
+    "correctAnswer": "Ein Fehler im Programm",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist Cloud-Computing?",
+    "type": "multiple-choice",
+    "options": [
+      "Computer in den Wolken",
+      "Daten auf entfernten Servern im Internet speichern",
+      "Wetter vorhersagen mit Computern",
+      "Ein Computerspiel"
+    ],
+    "correctAnswer": "Daten auf entfernten Servern im Internet speichern",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Das Internet und das World Wide Web sind dasselbe.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Schweizer Innovation revolutionierte die Uhrenindustrie?",
+    "type": "multiple-choice",
+    "options": [
+      "Die mechanische Uhr",
+      "Die Quarzuhr",
+      "Die Sanduhr",
+      "Die Sonnenuhr"
+    ],
+    "correctAnswer": "Die Quarzuhr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist ein Roboter?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Spielzeug",
+      "Eine programmierbare Maschine, die Aufgaben ausführen kann",
+      "Ein Computer",
+      "Ein Videospiel"
+    ],
+    "correctAnswer": "Eine programmierbare Maschine, die Aufgaben ausführen kann",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Das World Wide Web wurde am CERN in Genf erfunden.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist künstliche Intelligenz (KI)?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein sehr intelligenter Mensch",
+      "Computer, die lernen und Entscheidungen treffen können",
+      "Ein Roboter",
+      "Ein Computerspiel"
+    ],
+    "correctAnswer": "Computer, die lernen und Entscheidungen treffen können",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Schweizer Firma ist bekannt für Industrieroboter?",
+    "type": "multiple-choice",
+    "options": [
+      "Nestlé",
+      "ABB",
+      "Rolex",
+      "Lindt"
+    ],
+    "correctAnswer": "ABB",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Erneuerbare Energien sind Energiequellen, die sich nicht erschöpfen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist Solarenergie?",
+    "type": "multiple-choice",
+    "options": [
+      "Energie aus Wind",
+      "Energie aus Sonnenlicht",
+      "Energie aus Kohle",
+      "Energie aus Wasser"
+    ],
+    "correctAnswer": "Energie aus Sonnenlicht",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Welche Technologie nutzt Windkraft zur Stromerzeugung?",
+    "type": "multiple-choice",
+    "options": [
+      "Solarpanels",
+      "Windturbinen",
+      "Wasserkraftwerke",
+      "Kernkraftwerke"
+    ],
+    "correctAnswer": "Windturbinen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "3D-Drucker können nur mit Plastik drucken.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist ein Sensor?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Motor",
+      "Ein Gerät, das Informationen aus der Umgebung misst",
+      "Ein Bildschirm",
+      "Eine Batterie"
+    ],
+    "correctAnswer": "Ein Gerät, das Informationen aus der Umgebung misst",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Innovation aus der Schweiz ermöglichte sichere Online-Zahlungen?",
+    "type": "multiple-choice",
+    "options": [
+      "Kreditkarten",
+      "PayPal",
+      "Verschlüsselungstechnologien (SSL wurde in der Schweiz weiterentwickelt)",
+      "Bitcoin"
+    ],
+    "correctAnswer": "Verschlüsselungstechnologien (SSL wurde in der Schweiz weiterentwickelt)",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Wasserkraft ist eine erneuerbare Energiequelle.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist der Hauptvorteil von erneuerbaren Energien?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie sind billiger",
+      "Sie erschöpfen sich nicht und sind umweltfreundlicher",
+      "Sie sind einfacher zu nutzen",
+      "Sie brauchen keine Technologie"
+    ],
+    "correctAnswer": "Sie erschöpfen sich nicht und sind umweltfreundlicher",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Welches Bauteil in einem Roboter sorgt für Bewegung?",
+    "type": "multiple-choice",
+    "options": [
+      "Sensor",
+      "Motor",
+      "Prozessor",
+      "Batterie"
+    ],
+    "correctAnswer": "Motor",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Ein autonomes Fahrzeug kann ohne menschlichen Fahrer fahren.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist Virtual Reality (VR)?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Computerspiel",
+      "Eine computergenerierte, dreidimensionale Umgebung, die man erleben kann",
+      "Eine Art Film",
+      "Ein soziales Netzwerk"
+    ],
+    "correctAnswer": "Eine computergenerierte, dreidimensionale Umgebung, die man erleben kann",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Schweizer Stadt ist bekannt für Innovationen in der Pharma- und Chemie-Industrie?",
+    "type": "multiple-choice",
+    "options": [
+      "Zürich",
+      "Bern",
+      "Basel",
+      "Genf"
+    ],
+    "correctAnswer": "Basel",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "LED-Lampen verbrauchen weniger Energie als herkömmliche Glühbirnen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen einem Programm und einem Algorithmus?",
+    "type": "multiple-choice",
+    "options": [
+      "Es gibt keinen Unterschied",
+      "Ein Algorithmus ist die Idee, ein Programm ist die Umsetzung in einer Programmiersprache",
+      "Ein Programm ist einfacher",
+      "Ein Algorithmus funktioniert nur auf Papier"
+    ],
+    "correctAnswer": "Ein Algorithmus ist die Idee, ein Programm ist die Umsetzung in einer Programmiersprache",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist ein Smart Home?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein sehr teures Haus",
+      "Ein Haus mit vernetzten Geräten, die automatisch gesteuert werden können",
+      "Ein kleines Haus",
+      "Ein Haus aus modernen Materialien"
+    ],
+    "correctAnswer": "Ein Haus mit vernetzten Geräten, die automatisch gesteuert werden können",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Drohnen werden nur für die Fotografie verwendet.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was bedeutet 'nachhaltige Technologie'?",
+    "type": "multiple-choice",
+    "options": [
+      "Technologie, die lange hält",
+      "Technologie, die umweltfreundlich ist und Ressourcen schont",
+      "Technologie aus der Schweiz",
+      "Sehr teure Technologie"
+    ],
+    "correctAnswer": "Technologie, die umweltfreundlich ist und Ressourcen schont",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Welches Material wird oft in der Elektronikindustrie verwendet und ist wertvoll?",
+    "type": "multiple-choice",
+    "options": [
+      "Plastik",
+      "Holz",
+      "Seltene Erden und Metalle wie Gold, Silber, Kupfer",
+      "Papier"
+    ],
+    "correctAnswer": "Seltene Erden und Metalle wie Gold, Silber, Kupfer",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Recycling von Elektrogeräten ist wichtig, um wertvolle Rohstoffe zurückzugewinnen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist das Internet der Dinge (IoT)?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Online-Shop",
+      "Vernetzte Alltagsgeräte, die Daten austauschen",
+      "Ein soziales Netzwerk",
+      "Eine Suchmaschine"
+    ],
+    "correctAnswer": "Vernetzte Alltagsgeräte, die Daten austauschen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Welche Schweizer Innovation wird in Tunnelbau weltweit verwendet?",
+    "type": "multiple-choice",
+    "options": [
+      "Tunnelbohrmaschinen (entwickelt von Schweizer Ingenieuren)",
+      "Dynamit",
+      "Krane",
+      "Bagger"
+    ],
+    "correctAnswer": "Tunnelbohrmaschinen (entwickelt von Schweizer Ingenieuren)",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Geothermie nutzt die Wärme aus dem Erdinneren.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Was ist Biomasse als Energiequelle?",
+    "type": "multiple-choice",
+    "options": [
+      "Energie aus Kohle",
+      "Energie aus organischen Materialien wie Holz oder Pflanzenresten",
+      "Energie aus Kernkraft",
+      "Energie aus Erdöl"
+    ],
+    "correctAnswer": "Energie aus organischen Materialien wie Holz oder Pflanzenresten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "GPS-Technologie nutzt Satelliten zur Ortung.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  },
+  {
+    "question": "Was ist der Hauptnachteil von fossilen Brennstoffen?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie sind zu billig",
+      "Sie erschöpfen sich und verursachen CO2-Emissionen",
+      "Sie sind zu schwer",
+      "Sie sind ungefährlich"
+    ],
+    "correctAnswer": "Sie erschöpfen sich und verursachen CO2-Emissionen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.5.3"
+  },
+  {
+    "question": "Welche Technologie ermöglicht bargeldloses Bezahlen mit dem Smartphone?",
+    "type": "multiple-choice",
+    "options": [
+      "Bluetooth",
+      "NFC (Near Field Communication)",
+      "WLAN",
+      "GPS"
+    ],
+    "correctAnswer": "NFC (Near Field Communication)",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.5.2"
+  }
+]

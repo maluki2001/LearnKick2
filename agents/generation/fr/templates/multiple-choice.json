@@ -1,0 +1,81 @@
+{
+  "typeTemplate": "multiple-choice",
+  "langue": "fr",
+  "champsRequis": [
+    "id",
+    "type",
+    "subject",
+    "grade",
+    "difficulty",
+    "language",
+    "question",
+    "answers",
+    "correctIndex",
+    "lehrplan21Code",
+    "competencyLevel",
+    "timeLimit",
+    "tags"
+  ],
+  "schema": {
+    "id": {
+      "format": "fr_{matiere}_grade{1-6}_{numero}",
+      "exemple": "fr_math_grade3_001"
+    },
+    "type": {
+      "valeur": "multiple-choice",
+      "fixe": true
+    },
+    "subject": {
+      "enum": ["math", "francais", "sciences", "geographie", "general"]
+    },
+    "grade": {
+      "type": "integer",
+      "min": 1,
+      "max": 6
+    },
+    "difficulty": {
+      "type": "integer",
+      "min": 1,
+      "max": 5,
+      "correspondance": {
+        "1": "très facile",
+        "2": "facile",
+        "3": "moyen",
+        "4": "difficile",
+        "5": "très difficile"
+      }
+    },
+    "language": {
+      "valeur": "fr",
+      "fixe": true
+    },
+    "question": {
+      "type": "string",
+      "longueurMin": 10,
+      "longueurMax": 500
+    },
+    "answers": {
+      "type": "array",
+      "longueur": 4,
+      "typeItem": "string"
+    },
+    "correctIndex": {
+      "type": "integer",
+      "min": 0,
+      "max": 3
+    },
+    "timeLimit": {
+      "type": "integer",
+      "unite": "millisecondes",
+      "recommande": {
+        "grade1-2": 20000,
+        "grade3-4": 15000,
+        "grade5-6": 12000
+      }
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1
+    }
+  }
+}

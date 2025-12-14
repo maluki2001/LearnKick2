@@ -1,0 +1,1664 @@
+{
+  "questions": [
+    {
+      "question": "What do plants need to grow?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Water and sunlight", "Only chocolate", "Only toys", "Only rocks"],
+      "correctAnswer": "Water and sunlight"
+    },
+    {
+      "question": "Which animal lives in water?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Fish", "Cat", "Dog", "Bird"],
+      "correctAnswer": "Fish"
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["8", "6", "4", "10"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "The sun is a star.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What colour is the sky on a sunny day?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Blue", "Green", "Red", "Yellow"],
+      "correctAnswer": "Blue"
+    },
+    {
+      "question": "Which season comes after winter?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Spring", "Summer", "Autumn", "Winter"],
+      "correctAnswer": "Spring"
+    },
+    {
+      "question": "Dogs can fly.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What do we use to see?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Eyes", "Ears", "Nose", "Mouth"],
+      "correctAnswer": "Eyes"
+    },
+    {
+      "question": "Which animal says 'moo'?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Cow", "Sheep", "Pig", "Horse"],
+      "correctAnswer": "Cow"
+    },
+    {
+      "question": "Ice is frozen water.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What do bees make?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Honey", "Milk", "Cheese", "Bread"],
+      "correctAnswer": "Honey"
+    },
+    {
+      "question": "Which part of the plant is underground?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Roots", "Leaves", "Flowers", "Fruits"],
+      "correctAnswer": "Roots"
+    },
+    {
+      "question": "The moon gives us light at night.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What do we breathe?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Air", "Water", "Food", "Soil"],
+      "correctAnswer": "Air"
+    },
+    {
+      "question": "Birds have feathers.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which is the hottest season?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Summer", "Winter", "Spring", "Autumn"],
+      "correctAnswer": "Summer"
+    },
+    {
+      "question": "What do we use to hear?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Ears", "Eyes", "Nose", "Tongue"],
+      "correctAnswer": "Ears"
+    },
+    {
+      "question": "Carrots grow on trees.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which animal has a long trunk?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Elephant", "Lion", "Tiger", "Bear"],
+      "correctAnswer": "Elephant"
+    },
+    {
+      "question": "Rain comes from clouds.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What do caterpillars turn into?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Butterflies", "Birds", "Frogs", "Fish"],
+      "correctAnswer": "Butterflies"
+    },
+    {
+      "question": "How many senses do humans have?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["5", "3", "7", "10"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Trees lose their leaves in autumn.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which animal is known for its stripes?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Zebra", "Elephant", "Giraffe", "Rhino"],
+      "correctAnswer": "Zebra"
+    },
+    {
+      "question": "Water can be solid, liquid, or gas.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which organ pumps blood around the body?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Heart", "Brain", "Lungs", "Stomach"],
+      "correctAnswer": "Heart"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Jupiter", "Earth", "Mars", "Saturn"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "Frogs can live both in water and on land.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What do we call animals that eat only plants?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Herbivores", "Carnivores", "Omnivores", "Predators"],
+      "correctAnswer": "Herbivores"
+    },
+    {
+      "question": "Which part of the plant makes food?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Leaves", "Roots", "Stem", "Flowers"],
+      "correctAnswer": "Leaves"
+    },
+    {
+      "question": "The Earth revolves around the sun.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Diamond", "Gold", "Iron", "Silver"],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["206", "150", "300", "100"],
+      "correctAnswer": "206"
+    },
+    {
+      "question": "Penguins live in the Arctic.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the process by which plants make their food?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Circulation"],
+      "correctAnswer": "Photosynthesis"
+    },
+    {
+      "question": "Which sense do we use to taste?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Tongue", "Nose", "Eyes", "Ears"],
+      "correctAnswer": "Tongue"
+    },
+    {
+      "question": "Sound travels faster in water than in air.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What type of animal is a whale?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Mammal", "Fish", "Reptile", "Amphibian"],
+      "correctAnswer": "Mammal"
+    },
+    {
+      "question": "Which material is a good conductor of electricity?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Copper", "Wood", "Plastic", "Rubber"],
+      "correctAnswer": "Copper"
+    },
+    {
+      "question": "The brain is protected by the skull.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What do we call the path the Earth takes around the sun?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Orbit", "Rotation", "Revolution", "Circle"],
+      "correctAnswer": "Orbit"
+    },
+    {
+      "question": "Which gas do plants release during photosynthesis?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "question": "All insects have six legs.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["100°C", "50°C", "0°C", "200°C"],
+      "correctAnswer": "100°C"
+    },
+    {
+      "question": "Which planet is closest to the sun?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "correctAnswer": "Mercury"
+    },
+    {
+      "question": "Sharks are mammals.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What do we call animals that eat both plants and meat?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Omnivores", "Herbivores", "Carnivores", "Vegetarians"],
+      "correctAnswer": "Omnivores"
+    },
+    {
+      "question": "How many days does it take for the Earth to orbit the sun?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["365", "100", "30", "500"],
+      "correctAnswer": "365"
+    },
+    {
+      "question": "Magnets attract all metals.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["0°C", "100°C", "50°C", "-10°C"],
+      "correctAnswer": "0°C"
+    },
+    {
+      "question": "Which organ helps us breathe?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Lungs", "Heart", "Liver", "Kidneys"],
+      "correctAnswer": "Lungs"
+    },
+    {
+      "question": "Light travels faster than sound.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the main gas in Earth's atmosphere?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "Which force pulls objects towards Earth?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Gravity", "Magnetism", "Friction", "Electricity"],
+      "correctAnswer": "Gravity"
+    },
+    {
+      "question": "The human skeleton supports the body.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the process of water turning into vapour called?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Evaporation", "Condensation", "Precipitation", "Freezing"],
+      "correctAnswer": "Evaporation"
+    },
+    {
+      "question": "How many teeth does an adult human have?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["32", "20", "28", "40"],
+      "correctAnswer": "32"
+    },
+    {
+      "question": "The sun is the centre of our solar system.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What do we call a baby frog?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Tadpole", "Cub", "Chick", "Puppy"],
+      "correctAnswer": "Tadpole"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "Batteries store chemical energy.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Skin", "Liver", "Heart", "Brain"],
+      "correctAnswer": "Skin"
+    },
+    {
+      "question": "Which type of rock is formed from cooled lava?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Igneous", "Sedimentary", "Metamorphic", "Limestone"],
+      "correctAnswer": "Igneous"
+    },
+    {
+      "question": "Owls are nocturnal animals.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "question": "Which animal is the fastest land animal?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Cheetah", "Lion", "Horse", "Gazelle"],
+      "correctAnswer": "Cheetah"
+    },
+    {
+      "question": "The moon produces its own light.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What do we call the study of living things?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Biology", "Chemistry", "Physics", "Geology"],
+      "correctAnswer": "Biology"
+    },
+    {
+      "question": "How many chambers does the human heart have?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["4", "2", "3", "5"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Camels store water in their humps.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Cell", "Atom", "Molecule", "Tissue"],
+      "correctAnswer": "Cell"
+    },
+    {
+      "question": "Which gas do we breathe out?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon dioxide"
+    },
+    {
+      "question": "Snakes are cold-blooded animals.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the name of the force that opposes motion?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Friction", "Gravity", "Magnetism", "Inertia"],
+      "correctAnswer": "Friction"
+    },
+    {
+      "question": "Which vitamin do we get from sunlight?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B"],
+      "correctAnswer": "Vitamin D"
+    },
+    {
+      "question": "All birds can fly.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the centre of an atom called?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Nucleus", "Electron", "Proton", "Neutron"],
+      "correctAnswer": "Nucleus"
+    },
+    {
+      "question": "How long does it take for the moon to orbit Earth?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["About 27 days", "365 days", "7 days", "100 days"],
+      "correctAnswer": "About 27 days"
+    },
+    {
+      "question": "Plants absorb water through their roots.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the process of vapour turning into water called?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Condensation", "Evaporation", "Precipitation", "Melting"],
+      "correctAnswer": "Condensation"
+    },
+    {
+      "question": "Which part of the eye controls the amount of light entering?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Pupil", "Retina", "Lens", "Cornea"],
+      "correctAnswer": "Pupil"
+    },
+    {
+      "question": "Metals expand when heated.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the closest star to Earth?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["The sun", "Alpha Centauri", "Sirius", "Polaris"],
+      "correctAnswer": "The sun"
+    },
+    {
+      "question": "Which system in the body fights disease?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Immune system", "Digestive system", "Nervous system", "Skeletal system"],
+      "correctAnswer": "Immune system"
+    },
+    {
+      "question": "Venus is the hottest planet in our solar system.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Which organ filters waste from the blood?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Kidneys", "Liver", "Heart", "Lungs"],
+      "correctAnswer": "Kidneys"
+    },
+    {
+      "question": "Earthquakes are caused by moving tectonic plates.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the speed of light?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "100,000 km/s"],
+      "correctAnswer": "300,000 km/s"
+    },
+    {
+      "question": "What type of energy does a moving car have?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Kinetic energy", "Potential energy", "Chemical energy", "Nuclear energy"],
+      "correctAnswer": "Kinetic energy"
+    },
+    {
+      "question": "The human body is about 60% water.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the smallest bone in the human body?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Stapes (in the ear)", "Femur", "Radius", "Tibia"],
+      "correctAnswer": "Stapes (in the ear)"
+    },
+    {
+      "question": "Which layer of Earth's atmosphere do we live in?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctAnswer": "Troposphere"
+    },
+    {
+      "question": "Fungi are plants.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the formula for photosynthesis?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["CO2 + H2O + Light → Glucose + O2", "O2 + H2O → CO2", "N2 + O2 → NO2", "H2 + O2 → H2O"],
+      "correctAnswer": "CO2 + H2O + Light → Glucose + O2"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Saturn", "Jupiter", "Mars", "Uranus"],
+      "correctAnswer": "Saturn"
+    },
+    {
+      "question": "Dolphins use echolocation to navigate.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the process by which plants lose water vapour?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Transpiration", "Respiration", "Digestion", "Absorption"],
+      "correctAnswer": "Transpiration"
+    },
+    {
+      "question": "How many planets are in our solar system?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["8", "9", "7", "10"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Antibiotics kill viruses.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Methane", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "correctAnswer": "Methane"
+    },
+    {
+      "question": "Which blood type is known as the universal donor?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["O negative", "AB positive", "A positive", "B negative"],
+      "correctAnswer": "O negative"
+    },
+    {
+      "question": "The ozone layer protects Earth from ultraviolet radiation.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Blue whale", "Elephant", "Giraffe", "Polar bear"],
+      "correctAnswer": "Blue whale"
+    },
+    {
+      "question": "Which element is essential for all organic compounds?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Carbon", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon"
+    },
+    {
+      "question": "Stalactites grow from cave ceilings.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "correctAnswer": "Newton"
+    },
+    {
+      "question": "Which gland controls growth and development?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Pituitary gland", "Thyroid gland", "Adrenal gland", "Pancreas"],
+      "correctAnswer": "Pituitary gland"
+    },
+    {
+      "question": "Electricity flows through a complete circuit.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+      "correctAnswer": "Mitochondria"
+    },
+    {
+      "question": "Which gas is most abundant in the air we breathe?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "Acids turn blue litmus paper red.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the unit of electrical resistance?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Ohm", "Volt", "Ampere", "Watt"],
+      "correctAnswer": "Ohm"
+    },
+    {
+      "question": "Which type of blood cells fight infection?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+      "correctAnswer": "White blood cells"
+    },
+    {
+      "question": "The density of water is 1 g/cm³.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the pH of pure water?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["7", "0", "14", "10"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Which organ produces insulin?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Pancreas", "Liver", "Stomach", "Kidneys"],
+      "correctAnswer": "Pancreas"
+    },
+    {
+      "question": "Fossils are remains of ancient organisms.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the term for animals without backbones?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Invertebrates", "Vertebrates", "Mammals", "Reptiles"],
+      "correctAnswer": "Invertebrates"
+    },
+    {
+      "question": "Which law states that energy cannot be created or destroyed?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Conservation of energy", "Conservation of mass", "Newton's first law", "Archimedes' principle"],
+      "correctAnswer": "Conservation of energy"
+    },
+    {
+      "question": "Chromosomes are found in the nucleus of cells.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["6", "12", "8", "14"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Which system carries messages throughout the body?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Nervous system", "Circulatory system", "Digestive system", "Respiratory system"],
+      "correctAnswer": "Nervous system"
+    },
+    {
+      "question": "Metamorphosis is a process of transformation.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the smallest particle of an element?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Atom", "Molecule", "Compound", "Mixture"],
+      "correctAnswer": "Atom"
+    },
+    {
+      "question": "Which layer of Earth is liquid?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Outer core", "Inner core", "Mantle", "Crust"],
+      "correctAnswer": "Outer core"
+    },
+    {
+      "question": "Renewable energy sources will never run out.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the process of splitting atoms called?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Nuclear fission", "Nuclear fusion", "Radiation", "Decay"],
+      "correctAnswer": "Nuclear fission"
+    },
+    {
+      "question": "Which vitamin is produced by the skin?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin K"],
+      "correctAnswer": "Vitamin D"
+    },
+    {
+      "question": "Conduction is the transfer of heat through direct contact.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What percentage of Earth's surface is covered by water?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["About 71%", "About 50%", "About 90%", "About 30%"],
+      "correctAnswer": "About 71%"
+    },
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Chloroplasts", "Mitochondria", "Nucleus", "Vacuole"],
+      "correctAnswer": "Chloroplasts"
+    },
+    {
+      "question": "Mass and weight are the same thing.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the study of weather called?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Meteorology", "Geology", "Astronomy", "Biology"],
+      "correctAnswer": "Meteorology"
+    },
+    {
+      "question": "Which blood vessels carry blood away from the heart?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Arteries", "Veins", "Capillaries", "Ventricles"],
+      "correctAnswer": "Arteries"
+    },
+    {
+      "question": "Diamonds and graphite are both forms of carbon.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the formula for calculating speed?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Distance ÷ Time", "Time ÷ Distance", "Distance × Time", "Force × Distance"],
+      "correctAnswer": "Distance ÷ Time"
+    },
+    {
+      "question": "Which particle has a negative charge?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Electron", "Proton", "Neutron", "Nucleus"],
+      "correctAnswer": "Electron"
+    },
+    {
+      "question": "Photosynthesis occurs in all living cells.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["NaCl", "H2O", "CO2", "CaCO3"],
+      "correctAnswer": "NaCl"
+    },
+    {
+      "question": "Which organ is primarily responsible for detoxification?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Liver", "Kidneys", "Heart", "Lungs"],
+      "correctAnswer": "Liver"
+    },
+    {
+      "question": "Inertia is the tendency of an object to resist changes in motion.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the term for a substance that speeds up a chemical reaction?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Catalyst", "Enzyme", "Acid", "Base"],
+      "correctAnswer": "Catalyst"
+    },
+    {
+      "question": "How many chromosomes does a human have?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["46", "23", "92", "12"],
+      "correctAnswer": "46"
+    },
+    {
+      "question": "Convection requires a medium to transfer heat.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the main pigment in plant cells?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Chlorophyll", "Haemoglobin", "Melanin", "Carotene"],
+      "correctAnswer": "Chlorophyll"
+    },
+    {
+      "question": "Which law states that for every action there is an equal and opposite reaction?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Newton's third law", "Newton's first law", "Newton's second law", "Law of gravity"],
+      "correctAnswer": "Newton's third law"
+    },
+    {
+      "question": "DNA stands for Deoxyribonucleic Acid.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "correctAnswer": "Joule"
+    },
+    {
+      "question": "Which type of rock is marble?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Metamorphic", "Igneous", "Sedimentary", "Volcanic"],
+      "correctAnswer": "Metamorphic"
+    },
+    {
+      "question": "Antibodies are produced by white blood cells.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the process by which cells divide?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Mitosis", "Meiosis", "Photosynthesis", "Respiration"],
+      "correctAnswer": "Mitosis"
+    },
+    {
+      "question": "Which element is a noble gas?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Helium", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Helium"
+    },
+    {
+      "question": "The Big Bang theory explains the origin of the universe.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the hardest naturally occurring mineral?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Diamond", "Quartz", "Corundum", "Topaz"],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Cerebellum", "Cerebrum", "Medulla", "Hypothalamus"],
+      "correctAnswer": "Cerebellum"
+    },
+    {
+      "question": "Potential energy is stored energy.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the main component of the sun?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+      "correctAnswer": "Hydrogen"
+    },
+    {
+      "question": "Which organelle controls cell activities?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Vacuole"],
+      "correctAnswer": "Nucleus"
+    },
+    {
+      "question": "Isotopes are atoms with the same number of protons but different numbers of neutrons.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the name of the galaxy containing our solar system?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Milky Way", "Andromeda", "Whirlpool", "Sombrero"],
+      "correctAnswer": "Milky Way"
+    },
+    {
+      "question": "Which acid is found in the stomach?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Hydrochloric acid", "Sulphuric acid", "Nitric acid", "Acetic acid"],
+      "correctAnswer": "Hydrochloric acid"
+    },
+    {
+      "question": "Genes are segments of DNA that code for proteins.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the term for organisms that make their own food?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Autotrophs", "Heterotrophs", "Decomposers", "Consumers"],
+      "correctAnswer": "Autotrophs"
+    },
+    {
+      "question": "Which state of matter has a definite volume but no definite shape?",
+      "type": "multiple-choice",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Liquid", "Solid", "Gas", "Plasma"],
+      "correctAnswer": "Liquid"
+    },
+    {
+      "question": "Evaporation is an endothermic process.",
+      "type": "true-false",
+      "subject": "science",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    }
+  ]
+}

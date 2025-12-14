@@ -1,0 +1,1428 @@
+{
+  "timestamp": "2025-12-07T04:18:00.788Z",
+  "totalQuestions": 100,
+  "passed": 98,
+  "failed": 2,
+  "questions": [
+    {
+      "id": "6ba8f3d7-056e-458d-b549-a3e8ccc02e62",
+      "question": "Quel continent se trouve au sud de l'Europe ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "L'Afrique",
+        "L'Asie",
+        "L'Amérique",
+        "L'Océanie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "9d26a4cd-5dff-4024-9681-bb18ef622e9e",
+      "question": "Quelle est la capitale de la Chine?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "Pékin",
+      "answers": [
+        "Pékin",
+        "Shanghai",
+        "Hong Kong",
+        "Canton"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "1dd0cf96-8e06-460f-a164-827244ec316f",
+      "question": "La Grisons est le plus grand canton suisse.",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "4f6cb2c2-9e68-400c-bb5d-9afb545d1a18",
+      "question": "Quelle mer se trouve entre l'Arabie Saoudite et l'Afrique ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "La mer Rouge",
+        "La mer Noire",
+        "La mer Caspienne",
+        "La mer Morte"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "eebe86f9-2ba4-45dd-b365-820754b0b624",
+      "question": "Sur quel continent se trouve l'Afrique du Sud?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Afrique",
+      "answers": [
+        "Afrique",
+        "Asie",
+        "Amérique du Sud",
+        "Océanie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "80f693c2-7e6c-4b0a-95a7-271c378f0eef",
+      "question": "Dans quel pays se trouve la Grande Muraille ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "La Chine",
+        "Le Japon",
+        "La Mongolie",
+        "La Corée"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "7fc17425-18a8-4afe-93ff-707fec9ca3d0",
+      "question": "Quel est le point le plus bas de Suisse ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Lac Majeur (193 m)",
+        "Lac Léman (372 m)",
+        "Lac de Constance (395 m)",
+        "Bâle (244 m)"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ecdb7bfa-5446-4133-8e77-5e338dfcb93c",
+      "question": "Les îles Galápagos appartiennent à l'Équateur.",
+      "grade": 5,
+      "difficulty": 3,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "a2949ba9-26d9-481b-8688-d8bdc5cec81d",
+      "question": "Quel lac se trouve entre Vaud et Fribourg?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Lac de Neuchâtel",
+      "answers": [
+        "Lac de Neuchâtel",
+        "Lac Léman",
+        "Lac de Zurich",
+        "Lac de Constance"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "24e016a7-cfbd-48d4-9d47-5239fdf0776b",
+      "question": "La Suisse partage-t-elle une frontière avec l'Italie?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "e649da81-d774-4801-859d-2bd8bbd7c587",
+      "question": "L'Italie a la forme d'une botte.",
+      "grade": 3,
+      "difficulty": 1,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "813b51d4-3dee-4342-99cb-de891df54e95",
+      "question": "Quel océan borde l'Amérique du Sud à l'ouest?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Océan Pacifique",
+      "answers": [
+        "Océan Pacifique",
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ba3500ab-8259-43bd-910d-9307ce8f43ef",
+      "question": "Quelle ville suisse est connue pour ses organisations internationales?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Genève",
+      "answers": [
+        "Genève",
+        "Lausanne",
+        "Berne",
+        "Zurich"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "bf5f3b48-1c5a-4783-9227-91c40ae42da2",
+      "question": "Quel fleuve traverse plusieurs capitales européennes dont Vienne et Budapest ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Danube",
+        "Le Rhin",
+        "La Volga",
+        "L'Elbe"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "0a1f7029-aa8b-4204-a5b6-199ad62c93f2",
+      "question": "Sur quel continent se trouve le Portugal?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Europe",
+      "answers": [
+        "Europe",
+        "Afrique",
+        "Amérique du Sud",
+        "Asie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "d2ae3344-dbf7-4310-be2c-80e7eeb4ac19",
+      "question": "Quelle ville se trouve au pied du Mont Pèlerin?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vevey",
+      "answers": [
+        "Vevey",
+        "Lausanne",
+        "Montreux",
+        "Genève"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6b444a66-b795-4049-be0a-31afbedc9451",
+      "question": "Quel canton suisse est bilingue français-allemand ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Fribourg",
+        "Vaud",
+        "Genève",
+        "Neuchâtel"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6ac3ca34-bd4f-4d7d-b748-ffac0ef60263",
+      "question": "Le Lac de Morat se trouve-t-il en Suisse?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "e3139dff-3b69-482a-a3ae-40302503b460",
+      "question": "Quelle est la capitale de l'Espagne?",
+      "grade": 3,
+      "difficulty": 1,
+      "correctAnswer": "Madrid",
+      "answers": [
+        "Madrid",
+        "Barcelone",
+        "Séville",
+        "Valence"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "2f3ec45c-45b6-4a6c-aee4-85eac2727a99",
+      "question": "Le détroit de Malacca est une route maritime importante.",
+      "grade": 6,
+      "difficulty": 3,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "b54058c8-b70b-4105-92c4-ae9fde281537",
+      "question": "Le Rhône traverse la Suisse.",
+      "grade": 1,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "3dfbe464-d8a2-4e01-9111-be2137b6951f",
+      "question": "Quel fleuve traverse le Grand Canyon ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Colorado",
+        "Le Mississippi",
+        "Le Missouri",
+        "Le Rio Grande"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "7c1a26f3-9319-40e5-a690-1ccec90cd07a",
+      "question": "Dans quel canton se trouve Oron?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Fribourg",
+        "Neuchâtel",
+        "Berne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "e4db5b60-942a-4219-9881-df4999708b1b",
+      "question": "La Venoge est-elle une rivière vaudoise?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "12976529-a4b5-4a07-a542-c89b3001f2d3",
+      "question": "Combien de régions linguistiques principales y a-t-il en Suisse?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "3",
+      "answers": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5d9690da-50a4-4089-9cb6-5f4822c49fd4",
+      "question": "Quel est le plus grand désert du monde?",
+      "grade": 3,
+      "difficulty": 3,
+      "correctAnswer": "Antarctique",
+      "answers": [
+        "Antarctique",
+        "Sahara",
+        "Gobi",
+        "Arabie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "c5258f91-e9dd-4c00-b7a6-e6619f03bd0a",
+      "question": "Quel fleuve coule à travers l'Égypte?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "Le Nil",
+      "answers": [
+        "Le Nil",
+        "Le Congo",
+        "Le Niger",
+        "Le Zambèze"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "41e4dae2-6072-4c1b-8963-7ff33900fe12",
+      "question": "Le Kilimandjaro est en Afrique.",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "f979c807-e977-4b2d-aa05-857d4d59cc82",
+      "question": "La forêt amazonienne produit beaucoup d'oxygène.",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "7cf00aeb-df15-4ff5-bf41-0218d2f69342",
+      "question": "Gruyères est-elle une ville suisse?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "61ea4bde-751c-4633-9085-553966dd154b",
+      "question": "Dans quel canton se trouve Payerne?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Fribourg",
+        "Neuchâtel",
+        "Genève"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ebb94e42-9050-41f2-b4e1-8fb3979e7dc0",
+      "question": "L'Afrique est-elle traversée par l'équateur?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "c4918a4f-03e6-41ee-8f24-1f1ef92e319c",
+      "question": "Quel fleuve important traverse la ville de Bâle ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Rhin",
+        "Le Rhône",
+        "Le Danube",
+        "La Seine"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6b3a8c9d-6057-44a7-8764-b0a7afc4e408",
+      "question": "Quelle rivière coule à Berne?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "L'Aar",
+      "answers": [
+        "L'Aar",
+        "Le Rhin",
+        "Le Rhône",
+        "La Reuss"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "8a137eae-8b79-496a-824a-cae8223743bf",
+      "question": "Quel pays est situé entre la France et l'Allemagne ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Luxembourg",
+        "La Belgique",
+        "La Suisse",
+        "Les Pays-Bas"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "4787c90b-cf57-43d5-afef-3c08ef951588",
+      "question": "Quel désert se trouve en Mongolie et Chine?",
+      "grade": 6,
+      "difficulty": 3,
+      "correctAnswer": "Gobi",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Kalahari",
+        "Atacama"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "7b08ea69-5999-4616-88c9-6b92d756ca4e",
+      "question": "Le Cervin se trouve près de quelle ville?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Zermatt",
+      "answers": [
+        "Zermatt",
+        "Genève",
+        "Lausanne",
+        "Berne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5e421812-159c-4057-9e22-110b85e349f5",
+      "question": "La Jungfrau se trouve dans les Alpes bernoises.",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "cbe06a1c-bf5b-4363-80b0-f97099f93c43",
+      "question": "Combien de pays voisins la Suisse a-t-elle?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "5",
+      "answers": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "4648e2a1-dcfd-4f26-a3e7-888d71d466c0",
+      "question": "Quelle ville suisse abrite le siège de nombreuses organisations internationales ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Genève",
+        "Berne",
+        "Zurich",
+        "Lausanne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "af20bd3e-5462-4b21-a9e6-f1215cb9e149",
+      "question": "Le cercle polaire arctique traverse la Norvège.",
+      "grade": 6,
+      "difficulty": 3,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "e72a28dd-61e9-49ef-871a-2ee9f186c9d8",
+      "question": "Quel canal relie la mer Méditerranée à la mer Rouge ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le canal de Suez",
+        "Le canal de Panama",
+        "Le canal de Corinthe",
+        "Le canal de Kiel"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "33b34728-3dee-4ccf-a2a0-de70d294bb2a",
+      "question": "Montreux est célèbre pour son festival de jazz.",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5894be1f-e2cb-49b8-8627-60a6c5912748",
+      "question": "Quelle est la capitale de l'Autriche ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Vienne",
+        "Salzbourg",
+        "Innsbruck",
+        "Graz"
+      ],
+      "status": "FAIL",
+      "errors": [
+        "Incorrect capital: Autriche capital is Vienne, not ",
+        "Wrong answer \"Vienne\" is actually the correct capital of Autriche"
+      ]
+    },
+    {
+      "id": "e1683905-78cf-4ce8-8826-64ef6dbbe7ac",
+      "question": "Quelle rivière prend sa source dans les Alpes suisses et se jette dans la Méditerranée ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Rhône",
+        "Le Rhin",
+        "L'Inn",
+        "L'Aar"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "0388f9ba-d63e-4cbd-992b-3172efa56be0",
+      "question": "Combien de langues nationales y a-t-il en Suisse?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "4",
+      "answers": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "3bff0d8b-2515-4804-9f44-edbbda9ba0c1",
+      "question": "La Suisse romande est la partie francophone.",
+      "grade": 2,
+      "difficulty": 1,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "a013e875-03ea-458d-9bb3-0ed481a3e84b",
+      "question": "Le Rhône se jette dans la mer Méditerranée.",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "c19c4293-b0b4-4efe-b40c-087038fac75b",
+      "question": "Neuchâtel a un lac qui porte son nom.",
+      "grade": 1,
+      "difficulty": 1,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "4b8b9a46-a97f-45d9-bc25-3fa174904c23",
+      "question": "Quelle ville suisse est connue pour son château de Chillon?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Montreux",
+      "answers": [
+        "Montreux",
+        "Lausanne",
+        "Genève",
+        "Vevey"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "fbf0fa30-80e7-4eb6-aedf-e33280443c5a",
+      "question": "Le Nil est le plus long fleuve d'Afrique.",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "2b43a48f-e93f-4a21-9497-ef9e5412afea",
+      "question": "Quelle ville se trouve au bord du Lac Léman et du Rhône?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Genève",
+      "answers": [
+        "Genève",
+        "Lausanne",
+        "Montreux",
+        "Vevey"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ebf3d997-485d-4c4a-b8e3-5ae64878036b",
+      "question": "Dans quel canton se trouve Moudon?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Fribourg",
+        "Neuchâtel",
+        "Berne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "d2d39c96-ce68-46e4-a9ff-4b7c0bfa95bd",
+      "question": "Sur quel continent se trouve la Thaïlande?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Asie",
+      "answers": [
+        "Asie",
+        "Océanie",
+        "Afrique",
+        "Europe"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "da0d3f8a-8f1f-4998-bcd0-3daa578cb1f0",
+      "question": "Quelle montagne célèbre a une forme de pyramide?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Le Cervin",
+      "answers": [
+        "Le Cervin",
+        "La Jungfrau",
+        "L'Eiger",
+        "Le Pilate"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ce8a60a3-a057-4a8f-ab0c-a56faf1de004",
+      "question": "Quelle ville suisse abrite le siège du CERN ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Genève",
+        "Zurich",
+        "Lausanne",
+        "Berne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "c925a4c1-6d77-4d80-99e7-15d19afd8bba",
+      "question": "Quel pays d'Amérique du Sud a deux capitales ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "La Bolivie",
+        "Le Pérou",
+        "L'Équateur",
+        "Le Chili"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6a321055-68f1-4fc1-b68c-4f2fec3008f9",
+      "question": "Quel volcan célèbre se trouve près de Naples en Italie ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Vésuve",
+        "L'Etna",
+        "Le Stromboli",
+        "Le Vulcano"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "9354b50d-35c2-4782-9fc4-2d387c97da77",
+      "question": "Quelle est la capitale de la Malaisie?",
+      "grade": 6,
+      "difficulty": 3,
+      "correctAnswer": "Kuala Lumpur",
+      "answers": [
+        "Kuala Lumpur",
+        "Singapour",
+        "Jakarta",
+        "Manille"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "f824f6d6-825a-4e95-b777-a76a0f95f686",
+      "question": "La Suisse produit-elle du chocolat célèbre?",
+      "grade": 1,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "65fe5e8a-1748-40ff-a530-ba5e4b02626b",
+      "question": "Quel pays a pour capitale Madrid?",
+      "grade": 3,
+      "difficulty": 1,
+      "correctAnswer": "Espagne",
+      "answers": [
+        "Espagne",
+        "Portugal",
+        "Italie",
+        "France"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ca98fbed-4402-4a5f-b97b-9ccf937e0b44",
+      "question": "Quelle mer se trouve entre l'Europe et l'Afrique ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "La mer Méditerranée",
+        "La mer du Nord",
+        "La mer Baltique",
+        "La mer Noire"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "66a9310e-b2b2-4455-9b99-47f2a44dd057",
+      "question": "Quelle est la capitale de l'Éthiopie?",
+      "grade": 6,
+      "difficulty": 3,
+      "correctAnswer": "Addis-Abeba",
+      "answers": [
+        "Addis-Abeba",
+        "Nairobi",
+        "Kampala",
+        "Khartoum"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "afe7195f-a9cc-479d-9722-f7eb6c81ebe8",
+      "question": "Sur quel continent se trouve le Canada?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Amérique du Nord",
+      "answers": [
+        "Amérique du Nord",
+        "Amérique du Sud",
+        "Europe",
+        "Asie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "af79ebd9-b848-40a2-bba6-30063e532f89",
+      "question": "Quel pays européen a le plus de fuseaux horaires?",
+      "grade": 5,
+      "difficulty": 3,
+      "correctAnswer": "France",
+      "answers": [
+        "France",
+        "Russie",
+        "Royaume-Uni",
+        "Espagne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "2d08acdc-3947-4139-b5d8-a42b02ebb8cd",
+      "question": "Fribourg est une ville suisse.",
+      "grade": 1,
+      "difficulty": 1,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "2ecf84c7-3428-4217-99d4-96fb88b44749",
+      "question": "Quel continent est principalement recouvert de glace?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Antarctique",
+      "answers": [
+        "Antarctique",
+        "Arctique",
+        "Europe",
+        "Asie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "b8131bed-acab-40ba-ac28-05312bb8b167",
+      "question": "Quel lac se trouve entre la Suisse et la France ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le Lac Léman",
+        "Le lac de Constance",
+        "Le lac de Neuchâtel",
+        "Le lac des Quatre-Cantons"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "8422ae9e-ce65-4104-ad4f-8193c5cecd7c",
+      "question": "Quelle chaîne de montagnes traverse la Suisse?",
+      "grade": 1,
+      "difficulty": 2,
+      "correctAnswer": "Les Alpes",
+      "answers": [
+        "Les Alpes",
+        "Les Pyrénées",
+        "Les Andes",
+        "L'Himalaya"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "183feb98-1219-4720-93ab-b876ce69d9da",
+      "question": "Neuchâtel se trouve au bord de quel lac ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Le lac de Neuchâtel",
+        "Le Lac Léman",
+        "Le lac de Zurich",
+        "Le lac de Bienne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "751c350e-8c9f-4065-9a4c-901690d8bdf0",
+      "question": "Quel est le plus haut sommet de Suisse?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Pointe Dufour",
+      "answers": [
+        "Pointe Dufour",
+        "Cervin",
+        "Jungfrau",
+        "Eiger"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "628a4988-85d9-47a9-92d3-e2bc1d491fc7",
+      "question": "Le Jura est une chaîne de montagnes située dans quelle partie de la Suisse ?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Nord-ouest",
+        "Sud",
+        "Est",
+        "Centre"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "175a5549-154b-4f91-af0f-60100e999364",
+      "question": "Quelle est la capitale de la France?",
+      "grade": 3,
+      "difficulty": 1,
+      "correctAnswer": "Paris",
+      "answers": [
+        "Paris",
+        "Lyon",
+        "Marseille",
+        "Toulouse"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "e823ed8e-7f08-4c80-8269-96886cd1ea69",
+      "question": "La Suisse a-t-elle des frontières maritimes?",
+      "grade": 1,
+      "difficulty": 2,
+      "correctAnswer": "false",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5a726b4f-2746-48ba-bc3a-fe70544f7ba3",
+      "question": "Les monts Oural marquent la limite Europe-Asie.",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "650e1672-44c5-43c5-a65c-bbfaa7941c95",
+      "question": "Le Grand Canyon se trouve aux États-Unis.",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "20763d1e-d4c6-4ecc-9983-e735b06ae05d",
+      "question": "Quel fleuve traverse Paris ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "La Seine",
+        "Le Rhône",
+        "La Loire",
+        "La Garonne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6359f747-be65-45d9-b38d-c143fe5e0e5b",
+      "question": "La Suisse est-elle membre de l'Union européenne?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "false",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5ca97071-6643-493f-ac3a-6820fa72ea85",
+      "question": "Quel est le plus grand lac entièrement suisse ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Lac de Neuchâtel",
+        "Lac Léman",
+        "Lac de Constance",
+        "Lac des Quatre-Cantons"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "904f21bc-2349-4532-8f58-5c1d5333bdf3",
+      "question": "Quelle est la capitale du Canada?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "Ottawa",
+      "answers": [
+        "Ottawa",
+        "Toronto",
+        "Montréal",
+        "Vancouver"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "daf466f2-41d7-4ee0-8440-b79a7cb7f089",
+      "question": "Quelle ville suisse est connue pour ses horloges?",
+      "grade": 1,
+      "difficulty": 2,
+      "correctAnswer": "Berne",
+      "answers": [
+        "Berne",
+        "Genève",
+        "Lausanne",
+        "Sion"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5aee2728-8111-4669-bb92-ad18e798f53b",
+      "question": "Lausanne est une ville suisse.",
+      "grade": 1,
+      "difficulty": 1,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "9eedcb2a-84ad-4cab-8e8b-ccd86dfa4609",
+      "question": "Quel continent abrite le désert du Sahara?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Afrique",
+      "answers": [
+        "Afrique",
+        "Asie",
+        "Amérique",
+        "Océanie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "f193ee82-082a-4179-bbee-6b24d5286f4b",
+      "question": "Le Sahara s'agrandit chaque année.",
+      "grade": 5,
+      "difficulty": 3,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ac175e9e-eaf3-421a-9989-d36085f30d21",
+      "question": "Quelle rivière traverse la ville de Fribourg ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "La Sarine",
+        "L'Aar",
+        "Le Rhône",
+        "La Reuss"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "c27774bf-a2cf-48d5-b184-f3ba3f70e989",
+      "question": "Dans quelle partie de la Suisse se trouve le Jura?",
+      "grade": 1,
+      "difficulty": 2,
+      "correctAnswer": "Nord-ouest",
+      "answers": [
+        "Nord-ouest",
+        "Sud",
+        "Est",
+        "Centre"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "604a9a8f-de04-4cdb-9595-0b0ded8ab31d",
+      "question": "Le Gothard est-il un col de montagne suisse?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "true",
+      "answers": null,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "59026ac0-ac7c-48d9-9344-34ae0bee73cf",
+      "question": "Sur quel continent se trouve la Chine?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Asie",
+      "answers": [
+        "Asie",
+        "Europe",
+        "Afrique",
+        "Océanie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "05674d70-079e-47eb-b492-d83801051dd6",
+      "question": "Combien y a-t-il de continents sur Terre ?",
+      "grade": 4,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "status": "FAIL",
+      "errors": [
+        "There are 7 continents, not "
+      ]
+    },
+    {
+      "id": "735b8813-ab14-41fd-885a-9cd8278ab704",
+      "question": "Dans quel canton se trouve la ville de Vevey?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Genève",
+        "Valais",
+        "Fribourg"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "461048a4-4a49-4b57-9144-21e53e8a2be7",
+      "question": "Quel est le seul canton suisse où l'on parle uniquement romanche et allemand ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "Grisons",
+        "Tessin",
+        "Valais",
+        "Fribourg"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "a353e966-148f-4aa1-ac27-fb0439062027",
+      "question": "Dans quel canton se trouve Aigle?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Valais",
+        "Fribourg",
+        "Genève"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "fead81ec-3cd5-4b63-8695-4ef4e292899d",
+      "question": "Dans quel canton se trouve Grandson?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Neuchâtel",
+        "Fribourg",
+        "Jura"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "8e806c58-d929-4ac9-9335-79a99ae3bbd0",
+      "question": "La Suisse alémanique est la partie germanophone.",
+      "grade": 4,
+      "difficulty": 1,
+      "correctAnswer": "Vrai",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "8f809259-d170-426a-bacd-aec529b8e95b",
+      "question": "Quel continent est aussi appelé le Nouveau Monde?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Amérique",
+      "answers": [
+        "Amérique",
+        "Afrique",
+        "Asie",
+        "Océanie"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "ac4d4815-af4c-4840-ae84-8246eb1eaae2",
+      "question": "Quelle est la capitale de l'Inde?",
+      "grade": 5,
+      "difficulty": 2,
+      "correctAnswer": "New Delhi",
+      "answers": [
+        "New Delhi",
+        "Mumbai",
+        "Calcutta",
+        "Bangalore"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "edf65d4c-5ca8-43a7-b2af-636a035344e5",
+      "question": "Quel est le plus grand continent?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Asie",
+      "answers": [
+        "Asie",
+        "Afrique",
+        "Amérique",
+        "Europe"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "8825789d-c320-47cf-822b-30f512fd6db8",
+      "question": "Quel lac est partagé entre la Suisse et la France?",
+      "grade": 2,
+      "difficulty": 2,
+      "correctAnswer": "Lac Léman",
+      "answers": [
+        "Lac Léman",
+        "Lac de Neuchâtel",
+        "Lac de Zurich",
+        "Lac de Constance"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "34106fb1-9a78-4987-b63b-34f2724b8b92",
+      "question": "Dans quel canton se trouve Cudrefin?",
+      "grade": 3,
+      "difficulty": 2,
+      "correctAnswer": "Vaud",
+      "answers": [
+        "Vaud",
+        "Fribourg",
+        "Neuchâtel",
+        "Berne"
+      ],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "94657944-b491-4bb2-9e8a-60f0f6e64d43",
+      "question": "Quel pays occupe la majeure partie de la péninsule arabique ?",
+      "grade": 6,
+      "difficulty": 2,
+      "correctAnswer": "",
+      "answers": [
+        "L'Arabie Saoudite",
+        "Les Émirats arabes unis",
+        "Le Yémen",
+        "Oman"
+      ],
+      "status": "PASS",
+      "errors": []
+    }
+  ]
+}

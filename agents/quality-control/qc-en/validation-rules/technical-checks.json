@@ -1,0 +1,108 @@
+{
+  "totalChecks": 15,
+  "checks": [
+    {
+      "id": "T01",
+      "name": "Unique ID format",
+      "description": "ID is unique and follows format",
+      "severity": "critical",
+      "format": "en_{subject}_grade{1-6}_{number}",
+      "autoReject": true
+    },
+    {
+      "id": "T02",
+      "name": "Exactly 4 answers (MC)",
+      "description": "Multiple-choice has exactly 4 options",
+      "severity": "critical",
+      "applies": ["multiple-choice"],
+      "autoReject": true
+    },
+    {
+      "id": "T03",
+      "name": "Valid correctIndex",
+      "description": "correctIndex is 0-3",
+      "severity": "critical",
+      "range": [0, 3],
+      "autoReject": true
+    },
+    {
+      "id": "T04",
+      "name": "All required fields present",
+      "description": "No missing required fields",
+      "severity": "critical",
+      "autoReject": true,
+      "required": [
+        "id", "type", "subject", "grade", "difficulty",
+        "language", "question", "answers", "correctIndex",
+        "lehrplan21Code", "timeLimit", "tags"
+      ]
+    },
+    {
+      "id": "T05",
+      "name": "Reasonable time limit",
+      "description": "timeLimit between 5000-30000ms",
+      "severity": "high",
+      "range": [5000, 30000],
+      "autoReject": false
+    },
+    {
+      "id": "T06",
+      "name": "Valid grade",
+      "description": "grade is 1-6",
+      "severity": "critical",
+      "range": [1, 6],
+      "autoReject": true
+    },
+    {
+      "id": "T07",
+      "name": "Valid difficulty",
+      "description": "difficulty is 1-5",
+      "severity": "critical",
+      "range": [1, 5],
+      "autoReject": true
+    },
+    {
+      "id": "T08",
+      "name": "Question not too short",
+      "description": "Minimum 10 characters",
+      "severity": "high",
+      "minLength": 10,
+      "autoReject": false
+    },
+    {
+      "id": "T09",
+      "name": "Question not too long",
+      "description": "Maximum 500 characters",
+      "severity": "medium",
+      "maxLength": 500,
+      "autoReject": false
+    },
+    {
+      "id": "T10",
+      "name": "No placeholder text",
+      "description": "No TODO, XXX, FIXME",
+      "severity": "critical",
+      "forbidden": ["TODO", "XXX", "FIXME", "TBD"],
+      "autoReject": true
+    },
+    {
+      "id": "T11",
+      "name": "Tags present",
+      "description": "At least 1 tag",
+      "severity": "medium",
+      "minTags": 1,
+      "autoReject": false
+    },
+    {
+      "id": "T12",
+      "name": "Correct language",
+      "description": "language is 'en'",
+      "severity": "critical",
+      "value": "en",
+      "autoReject": true
+    }
+  ],
+  "autoReject": [
+    "T01", "T02", "T03", "T04", "T06", "T07", "T10", "T12"
+  ]
+}

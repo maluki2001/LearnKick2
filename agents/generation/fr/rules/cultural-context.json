@@ -1,0 +1,74 @@
+{
+  "contexte": "Suisse romande",
+  "totalDirectives": 10,
+  "directives": [
+    {
+      "id": "CX01",
+      "nom": "Contexte suisse romand prioritaire",
+      "description": "Exemples de Suisse romande privilégiés",
+      "exemples": {
+        "prefere": [
+          "Villes romandes (Genève, Lausanne, Neuchâtel)",
+          "Francs suisses (CHF)",
+          "Géographie romande (Lac Léman, Jura)",
+          "Histoire suisse (1291, 1848)"
+        ],
+        "acceptable": ["exemples européens francophones"],
+        "eviter": ["exemples français ou belges uniquement"]
+      }
+    },
+    {
+      "id": "CX02",
+      "nom": "Nombres suisses",
+      "description": "Utiliser septante, huitante/octante, nonante",
+      "exemples": {
+        "suisseRomand": ["70 = septante", "80 = huitante ou octante", "90 = nonante"],
+        "eviter": ["soixante-dix", "quatre-vingts", "quatre-vingt-dix"]
+      }
+    },
+    {
+      "id": "CX03",
+      "nom": "Neutralité culturelle",
+      "description": "Éviter les biais régionaux/nationaux",
+      "principe": "Questions adaptées aux écoles internationales francophones"
+    },
+    {
+      "id": "CX04",
+      "nom": "Langage neutre genre",
+      "description": "Pronoms et exemples inclusifs",
+      "exemples": {
+        "bon": ["l'élève", "l'enfant", "les personnes"],
+        "eviter": ["assumer les rôles de genre"]
+      }
+    },
+    {
+      "id": "CX05",
+      "nom": "Conscience multilingue",
+      "description": "Respect des 4 langues nationales",
+      "note": "Ne pas supposer que le français est langue maternelle"
+    },
+    {
+      "id": "CX06",
+      "nom": "Système métrique",
+      "description": "Utiliser le système métrique",
+      "unites": ["mètres", "kilomètres", "litres", "kilogrammes", "Celsius"]
+    },
+    {
+      "id": "CX07",
+      "nom": "Monnaie",
+      "description": "Utiliser francs suisses",
+      "format": "CHF 10 ou 10 francs"
+    },
+    {
+      "id": "CX08",
+      "nom": "Exemples inclusifs",
+      "description": "Représenter la diversité",
+      "considerations": ["cultures différentes", "capacités différentes", "structures familiales différentes"]
+    },
+    {
+      "id": "CX09",
+      "nom": "Contenu adapté à l'âge",
+      "description": "Pas de violence, politique (sauf bases démocratie), sujets controversés"
+    }
+  ]
+}

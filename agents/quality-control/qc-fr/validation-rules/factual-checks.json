@@ -1,0 +1,82 @@
+{
+  "totalControles": 20,
+  "controles": [
+    {
+      "id": "F01",
+      "nom": "Exactitude mathématique",
+      "description": "Tous les calculs corrects",
+      "severite": "critical",
+      "autoReject": true,
+      "verification": "Calculer et vérifier la réponse"
+    },
+    {
+      "id": "F02",
+      "nom": "Faits géographiques",
+      "description": "Pays, capitales, monuments corrects",
+      "severite": "critical",
+      "autoReject": true,
+      "sources": ["Atlas officiels", "Données gouvernementales suisses"]
+    },
+    {
+      "id": "F03",
+      "nom": "Dates historiques",
+      "description": "Dates et événements exacts",
+      "severite": "critical",
+      "autoReject": true,
+      "sources": ["Archives historiques", "Bases de données éducatives"]
+    },
+    {
+      "id": "F04",
+      "nom": "Faits scientifiques",
+      "description": "Biologie, physique, chimie corrects",
+      "severite": "critical",
+      "autoReject": true,
+      "sources": ["Manuels scientifiques", "Ressources pédagogiques"]
+    },
+    {
+      "id": "F05",
+      "nom": "Règles de langue",
+      "description": "Règles grammaticales énoncées correctement",
+      "severite": "high",
+      "autoReject": true
+    },
+    {
+      "id": "F06",
+      "nom": "Informations actuelles",
+      "description": "Pas de faits obsolètes",
+      "severite": "high",
+      "autoReject": false,
+      "note": "Signaler si l'information pourrait changer"
+    },
+    {
+      "id": "F07",
+      "nom": "Faits spécifiques à la Suisse",
+      "description": "Géographie, histoire, politique suisses exactes",
+      "severite": "critical",
+      "autoReject": true,
+      "exemples": ["26 cantons", "Capitale: Berne", "Fondation: 1291"]
+    },
+    {
+      "id": "F08",
+      "nom": "Unités de mesure",
+      "description": "Conversions et unités correctes",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "F09",
+      "nom": "Une seule réponse correcte",
+      "description": "Pas d'ambiguïté sur la justesse",
+      "severite": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "F10",
+      "nom": "Tous les distracteurs incorrects",
+      "description": "Les mauvaises réponses sont clairement fausses",
+      "severite": "critical",
+      "autoReject": true
+    }
+  ],
+  "autoReject": ["F01", "F02", "F03", "F04", "F05", "F07", "F08", "F09", "F10"]
+}

@@ -1,0 +1,65 @@
+{
+  "context": "International English with Swiss relevance",
+  "totalGuidelines": 10,
+  "guidelines": [
+    {
+      "id": "CX01",
+      "name": "Swiss context preferred",
+      "description": "Use Swiss examples where relevant",
+      "examples": {
+        "preferred": [
+          "Swiss cities (Zürich, Geneva, Basel)",
+          "Swiss Francs (CHF)",
+          "Swiss geography (Alps, Lake Geneva)",
+          "Swiss history (1291, 1848)"
+        ],
+        "acceptable": ["European examples", "international examples"],
+        "avoid": ["US-centric examples", "unfamiliar cultural references"]
+      }
+    },
+    {
+      "id": "CX02",
+      "name": "Culturally neutral",
+      "description": "Avoid regional/national bias",
+      "principle": "Questions should work for international schools"
+    },
+    {
+      "id": "CX03",
+      "name": "Gender-neutral language",
+      "description": "Use inclusive pronouns and examples",
+      "examples": {
+        "good": ["they", "the student", "the child", "people"],
+        "avoid": ["assuming gender roles", "he/she exclusively"]
+      }
+    },
+    {
+      "id": "CX04",
+      "name": "Multilingual awareness",
+      "description": "Respect Switzerland's 4 languages",
+      "note": "Avoid assuming English is native language"
+    },
+    {
+      "id": "CX05",
+      "name": "Measurement units",
+      "description": "Use metric system",
+      "units": ["metres", "kilometres", "litres", "kilograms", "Celsius"]
+    },
+    {
+      "id": "CX06",
+      "name": "Currency",
+      "description": "Use Swiss Francs when money mentioned",
+      "format": "CHF 10 or 10 francs"
+    },
+    {
+      "id": "CX07",
+      "name": "Inclusive examples",
+      "description": "Represent diverse backgrounds",
+      "considerations": ["different cultures", "different abilities", "different family structures"]
+    },
+    {
+      "id": "CX08",
+      "name": "Age-appropriate content",
+      "description": "No violence, politics (except democracy basics), or controversial topics"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "language": "de",
+  "totalChecks": 30,
+  "checks": [
+    {
+      "id": "G01",
+      "name": "Großschreibung Nomen",
+      "description": "Alle Nomen müssen großgeschrieben sein",
+      "severity": "critical",
+      "examples": {
+        "correct": ["der Apfel", "die Schule", "das Haus"],
+        "incorrect": ["der apfel", "die schule", "das haus"]
+      }
+    },
+    {
+      "id": "G02",
+      "name": "Artikel Korrektheit",
+      "description": "Korrekte Artikel (der/die/das)",
+      "severity": "critical"
+    },
+    {
+      "id": "G03",
+      "name": "Verb Konjugation",
+      "description": "Verben korrekt konjugiert",
+      "severity": "critical"
+    },
+    {
+      "id": "G04",
+      "name": "Satzzeichen",
+      "description": "Fragen enden mit ?, Aussagen mit .",
+      "severity": "critical"
+    },
+    {
+      "id": "G05",
+      "name": "Schweizer Rechtschreibung",
+      "description": "ss statt ß verwenden",
+      "severity": "high",
+      "swiss_specific": true
+    },
+    {
+      "id": "G06",
+      "name": "Umlaute",
+      "description": "ä, ö, ü korrekt verwendet",
+      "severity": "critical"
+    },
+    {
+      "id": "G07",
+      "name": "Komposita",
+      "description": "Zusammengesetzte Wörter korrekt",
+      "severity": "medium"
+    },
+    {
+      "id": "G08",
+      "name": "Kasus",
+      "description": "Nominativ, Akkusativ, Dativ, Genitiv korrekt",
+      "severity": "high"
+    },
+    {
+      "id": "G09",
+      "name": "Zeitformen",
+      "description": "Präsens, Perfekt, Präteritum korrekt",
+      "severity": "high"
+    },
+    {
+      "id": "G10",
+      "name": "Keine Anglizismen",
+      "description": "Deutsche Wörter bevorzugen (außer Klasse 5-6)",
+      "severity": "low"
+    }
+  ],
+  "autoReject": [
+    "G01", "G02", "G03", "G04", "G06"
+  ]
+}

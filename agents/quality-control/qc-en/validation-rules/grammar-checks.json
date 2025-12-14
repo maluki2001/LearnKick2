@@ -1,0 +1,79 @@
+{
+  "language": "en",
+  "variant": "British English",
+  "totalChecks": 30,
+  "checks": [
+    {
+      "id": "G01",
+      "name": "British spelling",
+      "description": "Use British spellings (colour, organisation)",
+      "severity": "high",
+      "autoReject": false,
+      "common": ["colour", "favourite", "honour", "labour", "organisation", "realise"]
+    },
+    {
+      "id": "G02",
+      "name": "Subject-verb agreement",
+      "description": "Verbs must match subject number",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G03",
+      "name": "Article usage (a/an/the)",
+      "description": "Correct article before nouns",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G04",
+      "name": "Capitalisation",
+      "description": "Proper nouns, sentence starts capitalised",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G05",
+      "name": "Sentence punctuation",
+      "description": "Period or question mark at end",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G06",
+      "name": "Question mark for questions",
+      "description": "Questions end with ?",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G07",
+      "name": "No spelling errors",
+      "description": "All words spelled correctly",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "G08",
+      "name": "Tense consistency",
+      "description": "Same tense throughout question",
+      "severity": "high",
+      "autoReject": false
+    },
+    {
+      "id": "G09",
+      "name": "Plural forms correct",
+      "description": "Regular and irregular plurals",
+      "severity": "high",
+      "autoReject": true
+    },
+    {
+      "id": "G10",
+      "name": "Pronoun agreement",
+      "description": "Pronouns match antecedents",
+      "severity": "high",
+      "autoReject": true
+    }
+  ],
+  "autoReject": ["G02", "G03", "G04", "G05", "G06", "G07", "G09", "G10"]
+}

@@ -1,0 +1,22 @@
+{
+  "grades": [1, 2],
+  "level": "Anfänger (Beginner)",
+  "wordCount": "~500 Wörter",
+  "vocabulary": {
+    "numbers": ["eins", "zwei", "drei", "vier", "fünf", "zehn", "zwanzig"],
+    "colors": ["rot", "blau", "grün", "gelb", "schwarz", "weiß"],
+    "animals": ["Hund", "Katze", "Vogel", "Fisch", "Maus"],
+    "family": ["Mama", "Papa", "Bruder", "Schwester", "Oma", "Opa"],
+    "school": ["Schule", "Lehrer", "Klasse", "Buch", "Stift"],
+    "body": ["Kopf", "Hand", "Fuß", "Auge", "Ohr"],
+    "food": ["Apfel", "Brot", "Milch", "Wasser"],
+    "verbs": ["sein", "haben", "gehen", "sehen", "essen"],
+    "adjectives": ["groß", "klein", "schön", "gut", "neu"]
+  },
+  "complexity": {
+    "sentence_length": "3-5 Wörter",
+    "tenses": ["Präsens"],
+    "grammar": ["einfache Sätze", "Subjekt + Verb"],
+    "avoid": ["Nebensätze", "Konjunktiv", "Fremdwörter"]
+  }
+}

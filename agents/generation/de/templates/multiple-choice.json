@@ -1,0 +1,48 @@
+{
+  "type": "multiple-choice",
+  "language": "de",
+  "template": {
+    "id": "de_{subject}_grade{grade}_{number}",
+    "type": "multiple-choice",
+    "subject": "{subject}",
+    "grade": "{grade}",
+    "difficulty": "{difficulty}",
+    "language": "de",
+    "lehrplan21Code": "{curriculum_code}",
+    "question": "{question_text}",
+    "answers": [
+      "{answer_a}",
+      "{answer_b}",
+      "{answer_c}",
+      "{answer_d}"
+    ],
+    "correctIndex": "{0-3}",
+    "explanation": "{why_correct}",
+    "tags": ["{topic}", "{subtopic}"],
+    "timeLimit": "{calculated_based_on_grade_difficulty}"
+  },
+  "examples": [
+    {
+      "id": "de_math_grade2_001",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "de",
+      "lehrplan21Code": "MA.1.A.2",
+      "question": "Was ist 2 + 3?",
+      "answers": ["4", "5", "6", "7"],
+      "correctIndex": 1,
+      "explanation": "2 + 3 = 5 (zwei plus drei ist fünf)",
+      "tags": ["addition", "grundrechenarten"],
+      "timeLimit": 15000
+    }
+  ],
+  "validation": {
+    "required_fields": ["question", "answers", "correctIndex"],
+    "answers_count": 4,
+    "correctIndex_range": [0, 3],
+    "question_min_length": 10,
+    "question_max_length": 500
+  }
+}

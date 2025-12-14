@@ -1,0 +1,48 @@
+{
+  "matiere": "geographie",
+  "totalQuestions": 300,
+  "themes": [
+    {
+      "nom": "Géographie Suisse",
+      "lehrplan21Code": "NMG.8.1",
+      "degres": [3, 4, 5, 6],
+      "questions": 100,
+      "difficultes": [2, 3, 4],
+      "focus": ["cantons", "villes", "montagnes", "rivières", "lacs"]
+    },
+    {
+      "nom": "Pays Européens",
+      "lehrplan21Code": "NMG.8.2",
+      "degres": [4, 5, 6],
+      "questions": 80,
+      "difficultes": [3, 4, 5],
+      "focus": ["capitales", "drapeaux", "monuments"]
+    },
+    {
+      "nom": "Continents du Monde",
+      "lehrplan21Code": "NMG.8.3",
+      "degres": [5, 6],
+      "questions": 60,
+      "difficultes": [3, 4, 5]
+    },
+    {
+      "nom": "Cartes & Directions",
+      "lehrplan21Code": "NMG.8.4",
+      "degres": [2, 3, 4],
+      "questions": 40,
+      "difficultes": [2, 3]
+    },
+    {
+      "nom": "Zones Climatiques",
+      "lehrplan21Code": "NMG.8.5",
+      "degres": [5, 6],
+      "questions": 20,
+      "difficultes": [4, 5]
+    }
+  ],
+  "contexteSuisseRomand": {
+    "villes": ["Genève", "Lausanne", "Neuchâtel", "Fribourg", "Sion"],
+    "cantons": ["Genève", "Vaud", "Neuchâtel", "Fribourg", "Valais", "Jura"],
+    "lacs": ["Lac Léman", "Lac de Neuchâtel", "Lac de Morat"]
+  }
+}

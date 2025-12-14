@@ -1,0 +1,1054 @@
+[
+  {
+    "question": "Dein Freund wurde in der Pause ausgelacht. Was ist die beste Art, ihm zu helfen?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich lache auch mit, damit ich nicht ausgelacht werde",
+      "Ich gehe zu ihm und frage, ob es ihm gut geht",
+      "Ich ignoriere die Situation",
+      "Ich erzähle es allen anderen Kindern"
+    ],
+    "correctAnswer": "Ich gehe zu ihm und frage, ob es ihm gut geht",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In der Schweiz leben Menschen aus vielen verschiedenen Ländern zusammen. Das nennt man Vielfalt.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Zwei Kinder streiten sich um ein Spielzeug. Was ist eine faire Lösung?",
+    "type": "multiple-choice",
+    "options": [
+      "Das grössere Kind bekommt es automatisch",
+      "Sie werfen eine Münze oder spielen abwechselnd",
+      "Das Spielzeug wird versteckt",
+      "Beide dürfen nie mehr damit spielen"
+    ],
+    "correctAnswer": "Sie werfen eine Münze oder spielen abwechselnd",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Es ist wichtig, die Gefühle anderer Menschen zu respektieren, auch wenn wir sie nicht verstehen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Ein neues Kind aus einem anderen Land kommt in deine Klasse. Wie kannst du Toleranz zeigen?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich spreche nur mit meinen alten Freunden",
+      "Ich heisse es willkommen und helfe ihm, sich zurechtzufinden",
+      "Ich lache über seine Fehler beim Deutschsprechen",
+      "Ich ignoriere es komplett"
+    ],
+    "correctAnswer": "Ich heisse es willkommen und helfe ihm, sich zurechtzufinden",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Wenn jemand anders aussieht oder spricht als ich, darf ich ihn deshalb ausschliessen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet es, empathisch zu sein?",
+    "type": "multiple-choice",
+    "options": [
+      "Immer gewinnen wollen",
+      "Sich in die Gefühle anderer hineinversetzen können",
+      "Nur an sich selbst denken",
+      "Laut und deutlich sprechen"
+    ],
+    "correctAnswer": "Sich in die Gefühle anderer hineinversetzen können",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Du siehst, wie ein Kind auf dem Pausenplatz geschubst wird. Was solltest du tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Wegschauen, es geht mich nichts an",
+      "Mitschubsen, damit es lustiger wird",
+      "Einem Erwachsenen Bescheid sagen oder dem Kind helfen",
+      "Zuschauen und lachen"
+    ],
+    "correctAnswer": "Einem Erwachsenen Bescheid sagen oder dem Kind helfen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In der Schweiz haben alle Menschen das Recht, ihre Meinung frei zu sagen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein guter Weg, einen Konflikt zu lösen?",
+    "type": "multiple-choice",
+    "options": [
+      "Schreien und streiten, bis einer gewinnt",
+      "Ruhig miteinander reden und nach einer Lösung suchen",
+      "Einfach weglaufen",
+      "Andere Kinder bitten, für eine Seite zu kämpfen"
+    ],
+    "correctAnswer": "Ruhig miteinander reden und nach einer Lösung suchen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Alle Menschen in der Schweiz haben die gleichen Rechte, egal woher sie kommen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Deine Schwester hat aus Versehen dein Lieblingsspielzeug kaputt gemacht. Wie reagierst du am besten?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich schreie sie an und mache auch etwas von ihr kaputt",
+      "Ich bin traurig, aber ich weiss, es war ein Versehen und wir reden darüber",
+      "Ich rede nie wieder mit ihr",
+      "Ich beschwere mich bei allen anderen"
+    ],
+    "correctAnswer": "Ich bin traurig, aber ich weiss, es war ein Versehen und wir reden darüber",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Es ist in Ordnung, jemanden wegen seiner Hautfarbe, Religion oder Herkunft zu diskriminieren.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'Respekt' im Umgang mit anderen Menschen?",
+    "type": "multiple-choice",
+    "options": [
+      "Andere Menschen höflich und fair behandeln",
+      "Immer das bekommen, was ich will",
+      "Lauter sein als andere",
+      "Nur mit Erwachsenen nett sein"
+    ],
+    "correctAnswer": "Andere Menschen höflich und fair behandeln",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Du findest auf dem Pausenplatz 10 Franken. Was ist die richtige Entscheidung?",
+    "type": "multiple-choice",
+    "options": [
+      "Das Geld behalten und niemandem sagen",
+      "Das Geld dem Lehrer oder im Sekretariat abgeben",
+      "Das Geld ausgeben, bevor es jemand merkt",
+      "Das Geld mit meinen Freunden teilen"
+    ],
+    "correctAnswer": "Das Geld dem Lehrer oder im Sekretariat abgeben",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Jeder Mensch ist wertvoll und verdient es, mit Würde behandelt zu werden.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In deiner Klasse wird ein Kind gehänselt, weil es eine Brille trägt. Was kannst du tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Mitmachen, damit ich nicht als nächstes gehänselt werde",
+      "Das Kind in Schutz nehmen und sagen, dass Hänseln nicht okay ist",
+      "Nichts tun, es ist nicht mein Problem",
+      "Noch mehr Kinder zum Hänseln holen"
+    ],
+    "correctAnswer": "Das Kind in Schutz nehmen und sagen, dass Hänseln nicht okay ist",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweiz ist ein multikulturelles Land, in dem Menschen verschiedener Kulturen friedlich zusammenleben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein wichtiger Wert in der schweizerischen Gesellschaft?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur an sich selbst denken",
+      "Solidarität und gegenseitige Hilfe",
+      "Die Schwächeren ausschliessen",
+      "Nur mit reichen Menschen befreundet sein"
+    ],
+    "correctAnswer": "Solidarität und gegenseitige Hilfe",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Wenn ich einen Fehler gemacht habe, ist es mutig, ihn zuzugeben und sich zu entschuldigen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Deine Freundin erzählt dir ein Geheimnis. Was solltest du tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Es allen anderen Kindern erzählen",
+      "Das Geheimnis für mich behalten, wie versprochen",
+      "Es nur meinem besten Freund erzählen",
+      "Es im Internet posten"
+    ],
+    "correctAnswer": "Das Geheimnis für mich behalten, wie versprochen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Es ist wichtig, anderen zuzuhören, bevor ich meine eigene Meinung sage.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet Fairness im Sport und Spiel?",
+    "type": "multiple-choice",
+    "options": [
+      "Gewinnen ist das Einzige, was zählt",
+      "Sich an die Regeln halten und auch dem Gegner Respekt zeigen",
+      "Mogeln ist erlaubt, wenn niemand zuschaut",
+      "Der Stärkere soll immer gewinnen"
+    ],
+    "correctAnswer": "Sich an die Regeln halten und auch dem Gegner Respekt zeigen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Jeder Mensch hat das Recht auf Bildung, egal ob Junge oder Mädchen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Du siehst, wie jemand Abfall einfach auf den Boden wirft. Was ist die verantwortungsvolle Reaktion?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich werfe auch meinen Abfall auf den Boden",
+      "Ich sage der Person freundlich, dass sie den Abfall in den Mülleimer werfen soll",
+      "Ich ignoriere es komplett",
+      "Ich lache die Person aus"
+    ],
+    "correctAnswer": "Ich sage der Person freundlich, dass sie den Abfall in den Mülleimer werfen soll",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was sind Menschenrechte?",
+    "type": "multiple-choice",
+    "options": [
+      "Rechte, die nur reiche Menschen haben",
+      "Grundlegende Rechte, die allen Menschen zustehen",
+      "Rechte, die nur Erwachsene haben",
+      "Rechte, die man kaufen muss"
+    ],
+    "correctAnswer": "Grundlegende Rechte, die allen Menschen zustehen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die UN-Kinderrechtskonvention schützt die Rechte von Kindern weltweit.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet Gerechtigkeit in einer Gesellschaft?",
+    "type": "multiple-choice",
+    "options": [
+      "Dass alle Menschen die gleichen Chancen und Rechte haben",
+      "Dass nur die Stärksten überleben",
+      "Dass reiche Menschen mehr Rechte haben",
+      "Dass jeder machen kann, was er will"
+    ],
+    "correctAnswer": "Dass alle Menschen die gleichen Chancen und Rechte haben",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Umweltschutz ist nur die Aufgabe der Regierung, nicht von einzelnen Menschen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Deine Klasse plant einen Ausflug. Ein Kind im Rollstuhl kann nicht mitkommen, weil der Ort nicht barrierefrei ist. Was ist die gerechte Lösung?",
+    "type": "multiple-choice",
+    "options": [
+      "Wir gehen trotzdem, das Kind bleibt zu Hause",
+      "Wir suchen einen anderen Ort, der für alle zugänglich ist",
+      "Das Kind soll sich nicht so anstellen",
+      "Wir verschieben den Ausflug auf unbestimmte Zeit"
+    ],
+    "correctAnswer": "Wir suchen einen anderen Ort, der für alle zugänglich ist",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweiz setzt sich international für Menschenrechte und humanitäre Hilfe ein.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'Nachhaltig leben'?",
+    "type": "multiple-choice",
+    "options": [
+      "So leben, dass auch zukünftige Generationen eine gute Umwelt haben",
+      "Möglichst viel konsumieren",
+      "Nur an heute denken",
+      "Ressourcen verschwenden"
+    ],
+    "correctAnswer": "So leben, dass auch zukünftige Generationen eine gute Umwelt haben",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In der Schweiz haben Männer und Frauen die gleichen Rechte und Pflichten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Du erfährst, dass in einem anderen Land Kinder arbeiten müssen statt zur Schule zu gehen. Wie kannst du helfen?",
+    "type": "multiple-choice",
+    "options": [
+      "Das geht mich nichts an, ich lebe ja in der Schweiz",
+      "Ich informiere mich und unterstütze Organisationen, die sich für Kinderrechte einsetzen",
+      "Ich denke, das ist deren Problem",
+      "Ich vergesse es schnell wieder"
+    ],
+    "correctAnswer": "Ich informiere mich und unterstütze Organisationen, die sich für Kinderrechte einsetzen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Klimaschutz ist eine Verantwortung, die alle Menschen teilen, nicht nur einzelne Länder.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein wichtiges Merkmal der Demokratie in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur reiche Menschen dürfen abstimmen",
+      "Das Volk kann über wichtige Fragen mitbestimmen",
+      "Ein König trifft alle Entscheidungen",
+      "Niemand darf seine Meinung sagen"
+    ],
+    "correctAnswer": "Das Volk kann über wichtige Fragen mitbestimmen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Religionsfreiheit bedeutet, dass jeder Mensch seine Religion frei wählen und ausüben darf.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In deiner Schule gibt es eine Abstimmung über neue Pausenplatzregeln. Einige Kinder dürfen nicht mitstimmen. Was denkst du darüber?",
+    "type": "multiple-choice",
+    "options": [
+      "Das ist unfair, alle sollten mitbestimmen dürfen",
+      "Das ist in Ordnung, nicht alle müssen eine Meinung haben",
+      "Nur die älteren Kinder sollten entscheiden",
+      "Abstimmungen sind sowieso unnötig"
+    ],
+    "correctAnswer": "Das ist unfair, alle sollten mitbestimmen dürfen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Fairer Handel (Fair Trade) sorgt dafür, dass Bauern in ärmeren Ländern einen gerechten Lohn erhalten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'Zivilcourage'?",
+    "type": "multiple-choice",
+    "options": [
+      "Wegschauen, wenn jemand Unrecht geschieht",
+      "Mutig für das Richtige eintreten, auch wenn es unangenehm ist",
+      "Immer der Mehrheit folgen",
+      "Nur an sich selbst denken"
+    ],
+    "correctAnswer": "Mutig für das Richtige eintreten, auch wenn es unangenehm ist",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweiz ist bekannt für ihre Neutralität und ihre Rolle als Vermittlerin in Konflikten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Wie können wir im Alltag Verantwortung für die Umwelt übernehmen?",
+    "type": "multiple-choice",
+    "options": [
+      "Abfall trennen, weniger Plastik verwenden, mit dem Velo zur Schule fahren",
+      "Möglichst viel Wasser verschwenden",
+      "Jeden Tag neue Sachen kaufen und alte wegwerfen",
+      "Das Licht immer brennen lassen"
+    ],
+    "correctAnswer": "Abfall trennen, weniger Plastik verwenden, mit dem Velo zur Schule fahren",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Alle Menschen haben das Recht auf sauberes Trinkwasser und genug zu essen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein Beispiel für soziale Gerechtigkeit?",
+    "type": "multiple-choice",
+    "options": [
+      "Reiche Menschen zahlen keine Steuern",
+      "Alle Kinder haben Zugang zu Bildung und Gesundheitsversorgung",
+      "Nur bestimmte Menschen dürfen wählen",
+      "Arme Menschen haben weniger Rechte"
+    ],
+    "correctAnswer": "Alle Kinder haben Zugang zu Bildung und Gesundheitsversorgung",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In der Schweiz gibt es vier Landessprachen: Deutsch, Französisch, Italienisch und Rätoromanisch.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Deine Schule möchte Geld für ein Hilfsprojekt in Afrika sammeln. Warum ist das wichtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Es ist nicht wichtig, wir sollten das Geld für uns behalten",
+      "Es zeigt Solidarität und hilft Menschen in Not",
+      "Wir tun es nur, um gut auszusehen",
+      "Afrika braucht keine Hilfe"
+    ],
+    "correctAnswer": "Es zeigt Solidarität und hilft Menschen in Not",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Diskriminierung aufgrund von Geschlecht, Hautfarbe oder Religion ist in der Schweiz gesetzlich verboten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'Verantwortung für kommende Generationen'?",
+    "type": "multiple-choice",
+    "options": [
+      "Wir müssen die Erde so pflegen, dass auch unsere Kinder und Enkel gut leben können",
+      "Wir können alle Ressourcen jetzt verbrauchen",
+      "Kommende Generationen müssen sich selbst kümmern",
+      "Nur an heute denken ist wichtig"
+    ],
+    "correctAnswer": "Wir müssen die Erde so pflegen, dass auch unsere Kinder und Enkel gut leben können",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Das Rote Kreuz wurde in der Schweiz gegründet und hilft Menschen in Notlagen weltweit.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Eine Firma bietet sehr billige Kleider an, weil die Arbeiter in armen Ländern schlecht bezahlt werden. Was solltest du tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Möglichst viel kaufen, weil es billig ist",
+      "Überlegen, ob ich wirklich alle Kleider brauche und faire Alternativen suchen",
+      "Es ist egal, wo die Kleider herkommen",
+      "Noch mehr Leute überreden, dort zu kaufen"
+    ],
+    "correctAnswer": "Überlegen, ob ich wirklich alle Kleider brauche und faire Alternativen suchen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein ethisches Dilemma?",
+    "type": "multiple-choice",
+    "options": [
+      "Eine einfache Entscheidung mit klarer richtiger Antwort",
+      "Eine schwierige Situation, wo es keine perfekte Lösung gibt und man abwägen muss",
+      "Ein mathematisches Problem",
+      "Eine Frage ohne Bedeutung"
+    ],
+    "correctAnswer": "Eine schwierige Situation, wo es keine perfekte Lösung gibt und man abwägen muss",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Global Citizenship bedeutet, sich als Teil der weltweiten Gemeinschaft zu sehen und Verantwortung zu übernehmen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Du siehst im Internet ein Video, das eine Minderheit beleidigt. Es hat viele 'Likes'. Was ist die richtige Reaktion?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich like es auch, weil alle anderen es mögen",
+      "Ich melde das Video und spreche mit Erwachsenen darüber, dass dies nicht okay ist",
+      "Ich teile es mit meinen Freunden",
+      "Ich lache darüber und mache selbst ähnliche Videos"
+    ],
+    "correctAnswer": "Ich melde das Video und spreche mit Erwachsenen darüber, dass dies nicht okay ist",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweizer Verfassung garantiert die Würde des Menschen als höchstes Gut.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet der Begriff 'Solidarität' in einer Gesellschaft?",
+    "type": "multiple-choice",
+    "options": [
+      "Jeder ist nur für sich selbst verantwortlich",
+      "Menschen unterstützen einander und stehen füreinander ein",
+      "Nur die Familie ist wichtig",
+      "Starke Menschen brauchen keine Hilfe"
+    ],
+    "correctAnswer": "Menschen unterstützen einander und stehen füreinander ein",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "In einem demokratischen Staat wie der Schweiz ist Meinungsfreiheit unbegrenzt und erlaubt jede Art von Aussage.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Deine Schule plant eine Partnerschaft mit einer Schule in einem ärmeren Land. Welcher Ansatz ist am besten?",
+    "type": "multiple-choice",
+    "options": [
+      "Wir sind überlegen und helfen den armen Kindern",
+      "Wir begegnen uns auf Augenhöhe und lernen voneinander",
+      "Wir schicken alte Sachen, die wir nicht mehr brauchen",
+      "Wir erwarten Dankbarkeit für unsere Hilfe"
+    ],
+    "correctAnswer": "Wir begegnen uns auf Augenhöhe und lernen voneinander",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweiz nimmt Flüchtlinge auf, die in ihren Heimatländern verfolgt werden. Dies ist Teil der humanitären Tradition.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein Grundprinzip der UN-Nachhaltigkeitsziele (SDGs)?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur reiche Länder sollen sich entwickeln",
+      "Wirtschaftswachstum um jeden Preis",
+      "Niemanden zurücklassen und Armut weltweit beenden",
+      "Umweltzerstörung für wirtschaftlichen Fortschritt"
+    ],
+    "correctAnswer": "Niemanden zurücklassen und Armut weltweit beenden",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die direkte Demokratie in der Schweiz ermöglicht es den Bürgern, durch Initiativen und Referenden mitzubestimmen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Ein Unternehmen produziert billig, verschmutzt aber stark die Umwelt. Als Konsument kannst du was tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Nichts, Firmen machen was sie wollen",
+      "Bewusst Produkte von umweltfreundlichen Firmen kaufen und andere informieren",
+      "Möglichst viel von dieser Firma kaufen, weil es billig ist",
+      "Das ist nur Sache der Politik"
+    ],
+    "correctAnswer": "Bewusst Produkte von umweltfreundlichen Firmen kaufen und andere informieren",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Kinderarbeit ist in der Schweiz und den meisten Ländern der Welt verboten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'interkulturelle Kompetenz'?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur die eigene Kultur als richtig ansehen",
+      "Verschiedene Kulturen verstehen, respektieren und damit umgehen können",
+      "Alle Kulturen sollen gleich werden",
+      "Andere Kulturen ignorieren"
+    ],
+    "correctAnswer": "Verschiedene Kulturen verstehen, respektieren und damit umgehen können",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Der ökologische Fussabdruck misst, wie viel Ressourcen eine Person oder ein Land verbraucht.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Du erfährst, dass ein Freund regelmässig gehänselt wird, möchtest aber nicht als 'Petze' gelten. Was tust du?",
+    "type": "multiple-choice",
+    "options": [
+      "Nichts tun und hoffen, dass es aufhört",
+      "Mit dem Freund reden und gemeinsam Hilfe bei einem Vertrauenslehrer suchen",
+      "Mitmachen, damit ich nicht selbst zum Opfer werde",
+      "Den Freund auffordern, sich zu wehren und zurückzuschlagen"
+    ],
+    "correctAnswer": "Mit dem Freund reden und gemeinsam Hilfe bei einem Vertrauenslehrer suchen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweiz ist Mitglied der Vereinten Nationen (UNO) und setzt sich dort für Frieden und Menschenrechte ein.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein wichtiger Aspekt von Medienkompetenz in der digitalen Welt?",
+    "type": "multiple-choice",
+    "options": [
+      "Alles glauben, was im Internet steht",
+      "Informationen kritisch prüfen und Fake News erkennen können",
+      "Möglichst viel Zeit in sozialen Medien verbringen",
+      "Persönliche Daten mit jedem teilen"
+    ],
+    "correctAnswer": "Informationen kritisch prüfen und Fake News erkennen können",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Gleichstellung von Mann und Frau ist in der Schweizer Verfassung verankert.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'ethischer Konsum'?",
+    "type": "multiple-choice",
+    "options": [
+      "Möglichst viel und billig kaufen",
+      "Beim Kauf auf faire Arbeitsbedingungen, Umweltschutz und Nachhaltigkeit achten",
+      "Nur teure Markenprodukte kaufen",
+      "Konsum ohne nachzudenken"
+    ],
+    "correctAnswer": "Beim Kauf auf faire Arbeitsbedingungen, Umweltschutz und Nachhaltigkeit achten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Vorurteile gegenüber Menschen aufgrund ihrer Herkunft oder Religion können zu Diskriminierung führen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Deine Stadt diskutiert, ein Flüchtlingsheim zu bauen. Einige sind dagegen. Wie gehst du mit verschiedenen Meinungen um?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich beschimpfe alle, die anderer Meinung sind als ich",
+      "Ich höre verschiedene Argumente an und bilde mir eine fundierte eigene Meinung",
+      "Ich übernehme einfach die Meinung meiner Eltern",
+      "Mich interessiert Politik nicht"
+    ],
+    "correctAnswer": "Ich höre verschiedene Argumente an und bilde mir eine fundierte eigene Meinung",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Der Föderalismus in der Schweiz bedeutet, dass Kantone und Gemeinden eigene Entscheidungen treffen können.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was ist ein Beispiel für aktive Bürgerbeteiligung in der Demokratie?",
+    "type": "multiple-choice",
+    "options": [
+      "Zu Hause bleiben und nichts tun",
+      "An Abstimmungen teilnehmen, sich informieren und in Vereinen engagieren",
+      "Nur meckern, aber nicht handeln",
+      "Politik den Politikern überlassen"
+    ],
+    "correctAnswer": "An Abstimmungen teilnehmen, sich informieren und in Vereinen engagieren",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Cybermobbing ist genauso schlimm wie Mobbing im echten Leben und kann ernste Folgen haben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Ein Pharmaunternehmen entwickelt ein lebensrettendes Medikament, verkauft es aber so teuer, dass arme Menschen es nicht kaufen können. Was ist ethisch richtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Firma darf machen was sie will, Profit ist wichtiger",
+      "Medikamente sollten für alle Menschen zugänglich und bezahlbar sein",
+      "Nur reiche Menschen verdienen gute Medizin",
+      "Arme Menschen sollen halt sparen"
+    ],
+    "correctAnswer": "Medikamente sollten für alle Menschen zugänglich und bezahlbar sein",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Die Schweiz hat eine lange Tradition der Neutralität, was bedeutet, dass sie in militärischen Konflikten keine Seite ergreift.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  },
+  {
+    "question": "Was bedeutet 'soziale Verantwortung' für Unternehmen?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur Profit machen ist wichtig",
+      "Auch auf faire Löhne, Umweltschutz und gesellschaftliches Wohl achten",
+      "Arbeiter so billig wie möglich bezahlen",
+      "Steuern vermeiden, wo immer möglich"
+    ],
+    "correctAnswer": "Auch auf faire Löhne, Umweltschutz und gesellschaftliches Wohl achten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.11.3"
+  }
+]

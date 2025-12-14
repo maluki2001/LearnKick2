@@ -1,0 +1,2263 @@
+[
+  {
+    "question": "Which sentence uses the correct verb tense?",
+    "options": [
+      "She has went to the shop",
+      "She has gone to the shop",
+      "She have gone to the shop",
+      "She going to the shop"
+    ],
+    "correct_answer": "She has gone to the shop",
+    "explanation": "The present perfect tense requires 'has/have' + past participle. The past participle of 'go' is 'gone', not 'went'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'happy'?",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "correct_answer": "Joyful",
+    "explanation": "A synonym is a word with a similar meaning. 'Joyful' means happy or full of joy.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which punctuation mark goes at the end of a question?",
+    "options": [
+      "Full stop (.)",
+      "Question mark (?)",
+      "Exclamation mark (!)",
+      "Comma (,)"
+    ],
+    "correct_answer": "Question mark (?)",
+    "explanation": "Questions always end with a question mark (?) to show that an answer is expected.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'difficult'?",
+    "options": [
+      "Hard",
+      "Easy",
+      "Challenging",
+      "Tough"
+    ],
+    "correct_answer": "Easy",
+    "explanation": "An antonym is a word with the opposite meaning. 'Easy' is the opposite of 'difficult'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence is in the past tense?",
+    "options": [
+      "I walk to school every day",
+      "I walked to school yesterday",
+      "I am walking to school now",
+      "I will walk to school tomorrow"
+    ],
+    "correct_answer": "I walked to school yesterday",
+    "explanation": "The past tense shows something that already happened. 'Walked' is the past tense of 'walk'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where should the comma go in this sentence? 'After lunch we played football.'",
+    "options": [
+      "After lunch, we played football.",
+      "After, lunch we played football.",
+      "After lunch we, played football.",
+      "After lunch we played, football."
+    ],
+    "correct_answer": "After lunch, we played football.",
+    "explanation": "A comma is used after an introductory phrase like 'After lunch' to separate it from the main clause.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'big'?",
+    "options": [
+      "Tiny",
+      "Large",
+      "Small",
+      "Little"
+    ],
+    "correct_answer": "Large",
+    "explanation": "'Large' means big or of great size, making it a synonym.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "The dogs runs fast",
+      "The dogs run fast",
+      "The dog run fast",
+      "The dogs is running fast"
+    ],
+    "correct_answer": "The dogs run fast",
+    "explanation": "Plural subjects like 'dogs' need plural verbs like 'run', not singular verbs like 'runs'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the future tense of 'I eat'?",
+    "options": [
+      "I ate",
+      "I eaten",
+      "I will eat",
+      "I am eating"
+    ],
+    "correct_answer": "I will eat",
+    "explanation": "The future tense uses 'will' + base verb to show something that hasn't happened yet.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'hot'?",
+    "options": [
+      "Warm",
+      "Cold",
+      "Boiling",
+      "Heated"
+    ],
+    "correct_answer": "Cold",
+    "explanation": "'Cold' is the opposite temperature to 'hot', making it an antonym.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a proper noun and should be capitalised?",
+    "options": [
+      "city",
+      "london",
+      "river",
+      "mountain"
+    ],
+    "correct_answer": "london",
+    "explanation": "Proper nouns name specific people, places, or things and must be capitalised. London is a specific city.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses an apostrophe correctly?",
+    "options": [
+      "The cats toy is missing",
+      "The cat's toy is missing",
+      "The cats' toy's is missing",
+      "The cat's toy's is missing"
+    ],
+    "correct_answer": "The cat's toy is missing",
+    "explanation": "Use an apostrophe before 's' to show possession for singular nouns. The toy belongs to the cat.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'quick'?",
+    "options": [
+      "Slow",
+      "Fast",
+      "Lazy",
+      "Tired"
+    ],
+    "correct_answer": "Fast",
+    "explanation": "'Fast' and 'quick' both mean moving or happening at high speed.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which is a complete sentence?",
+    "options": [
+      "Running in the park",
+      "Because it was raining",
+      "The children played outside",
+      "After the game finished"
+    ],
+    "correct_answer": "The children played outside",
+    "explanation": "A complete sentence needs a subject and a verb and expresses a complete thought.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'swim'?",
+    "options": [
+      "Swam",
+      "Swum",
+      "Swimming",
+      "Swimmed"
+    ],
+    "correct_answer": "Swam",
+    "explanation": "'Swam' is the simple past tense of 'swim'. 'Swum' is the past participle used with 'has' or 'have'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses quotation marks correctly?",
+    "options": [
+      "\"Come here, said Tom.\"",
+      "Come here, \"said Tom.\"",
+      "\"Come here,\" said Tom.",
+      "Come \"here,\" said Tom."
+    ],
+    "correct_answer": "\"Come here,\" said Tom.",
+    "explanation": "Quotation marks go around the exact words spoken. The comma goes inside the closing quotation mark.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'empty'?",
+    "options": [
+      "Vacant",
+      "Full",
+      "Hollow",
+      "Bare"
+    ],
+    "correct_answer": "Full",
+    "explanation": "'Full' means containing as much as possible, which is the opposite of 'empty'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is an adjective?",
+    "options": [
+      "Quickly",
+      "Beautiful",
+      "Run",
+      "Happiness"
+    ],
+    "correct_answer": "Beautiful",
+    "explanation": "An adjective describes a noun. 'Beautiful' describes how something looks.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'brave'?",
+    "options": [
+      "Scared",
+      "Courageous",
+      "Timid",
+      "Fearful"
+    ],
+    "correct_answer": "Courageous",
+    "explanation": "'Courageous' and 'brave' both mean showing courage in the face of danger.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence is in the present continuous tense?",
+    "options": [
+      "She reads a book",
+      "She is reading a book",
+      "She read a book",
+      "She will read a book"
+    ],
+    "correct_answer": "She is reading a book",
+    "explanation": "The present continuous uses 'am/is/are' + verb-ing to show an action happening now.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where should the apostrophe go in 'the girls bikes' (multiple girls, multiple bikes)?",
+    "options": [
+      "the girl's bikes",
+      "the girls' bikes",
+      "the girls bike's",
+      "the girl's bike's"
+    ],
+    "correct_answer": "the girls' bikes",
+    "explanation": "For plural nouns ending in 's', add only an apostrophe after the 's' to show possession.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'generous'?",
+    "options": [
+      "Kind",
+      "Selfish",
+      "Giving",
+      "Friendly"
+    ],
+    "correct_answer": "Selfish",
+    "explanation": "'Selfish' means thinking only of oneself, which is the opposite of 'generous'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence has a compound subject?",
+    "options": [
+      "Tom and Jerry played together",
+      "Tom played in the garden",
+      "The cat chased the mouse",
+      "She ran quickly"
+    ],
+    "correct_answer": "Tom and Jerry played together",
+    "explanation": "A compound subject has two or more subjects joined by 'and' or 'or' doing the same action.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'smart'?",
+    "options": [
+      "Foolish",
+      "Intelligent",
+      "Silly",
+      "Dull"
+    ],
+    "correct_answer": "Intelligent",
+    "explanation": "'Intelligent' and 'smart' both mean having good mental ability or being clever.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is an adverb?",
+    "options": [
+      "Happy",
+      "Slowly",
+      "Jump",
+      "Table"
+    ],
+    "correct_answer": "Slowly",
+    "explanation": "An adverb describes how an action is done. 'Slowly' describes how something moves.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past participle of 'write'?",
+    "options": [
+      "Wrote",
+      "Written",
+      "Writing",
+      "Writed"
+    ],
+    "correct_answer": "Written",
+    "explanation": "'Written' is the past participle used with 'has', 'have', or 'had'. 'Wrote' is the simple past.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses a colon correctly?",
+    "options": [
+      "I need: bread, milk, and eggs",
+      "I need three things: bread, milk, and eggs",
+      "I: need bread, milk, and eggs",
+      "I need bread: milk, and eggs"
+    ],
+    "correct_answer": "I need three things: bread, milk, and eggs",
+    "explanation": "A colon introduces a list after a complete sentence. The part before the colon must be a full sentence.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'ancient'?",
+    "options": [
+      "Old",
+      "Modern",
+      "Historic",
+      "Antique"
+    ],
+    "correct_answer": "Modern",
+    "explanation": "'Modern' means relating to the present or recent times, opposite of 'ancient'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which is a complex sentence?",
+    "options": [
+      "I went home and ate dinner",
+      "The sun was shining",
+      "Because it was cold, I wore a coat",
+      "She ran fast"
+    ],
+    "correct_answer": "Because it was cold, I wore a coat",
+    "explanation": "A complex sentence has one independent clause and at least one dependent clause starting with words like 'because', 'when', or 'although'.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'beautiful'?",
+    "options": [
+      "Ugly",
+      "Gorgeous",
+      "Plain",
+      "Dull"
+    ],
+    "correct_answer": "Gorgeous",
+    "explanation": "'Gorgeous' means very beautiful or attractive, making it a synonym for 'beautiful'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the present perfect tense correctly?",
+    "options": [
+      "I have saw that film",
+      "I have seen that film",
+      "I has seen that film",
+      "I seeing that film"
+    ],
+    "correct_answer": "I have seen that film",
+    "explanation": "Present perfect uses 'have/has' + past participle. The past participle of 'see' is 'seen'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence needs a semicolon?",
+    "options": [
+      "I like apples and oranges",
+      "She was tired she went to bed early",
+      "When it rains, I stay inside",
+      "The dog barked loudly"
+    ],
+    "correct_answer": "She was tired she went to bed early",
+    "explanation": "A semicolon joins two related independent clauses: 'She was tired; she went to bed early.'",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'strong'?",
+    "options": [
+      "Powerful",
+      "Weak",
+      "Mighty",
+      "Robust"
+    ],
+    "correct_answer": "Weak",
+    "explanation": "'Weak' means lacking strength or power, which is the opposite of 'strong'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a conjunction?",
+    "options": [
+      "Quickly",
+      "Beautiful",
+      "But",
+      "Run"
+    ],
+    "correct_answer": "But",
+    "explanation": "A conjunction joins words, phrases, or clauses. Common conjunctions are 'and', 'but', 'or', 'because'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'tiny'?",
+    "options": [
+      "Huge",
+      "Minuscule",
+      "Giant",
+      "Large"
+    ],
+    "correct_answer": "Minuscule",
+    "explanation": "'Minuscule' means extremely small, similar to 'tiny'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'run'?",
+    "options": [
+      "Runned",
+      "Ran",
+      "Running",
+      "Runs"
+    ],
+    "correct_answer": "Ran",
+    "explanation": "'Ran' is the simple past tense of 'run'. Regular verbs add -ed, but 'run' is irregular.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence has correct comma usage in a list?",
+    "options": [
+      "I bought apples oranges and bananas",
+      "I bought apples, oranges and bananas",
+      "I bought apples, oranges, and bananas",
+      "I bought, apples oranges and bananas"
+    ],
+    "correct_answer": "I bought apples, oranges, and bananas",
+    "explanation": "In British English, commas separate items in a list. The Oxford comma before 'and' is optional but clear.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'bright'?",
+    "options": [
+      "Shiny",
+      "Dim",
+      "Brilliant",
+      "Gleaming"
+    ],
+    "correct_answer": "Dim",
+    "explanation": "'Dim' means not bright or lacking light, making it the opposite of 'bright'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence has a compound predicate?",
+    "options": [
+      "Tom ran and jumped",
+      "Tom and Jerry ran",
+      "The dog barked",
+      "She is happy"
+    ],
+    "correct_answer": "Tom ran and jumped",
+    "explanation": "A compound predicate has two or more verbs sharing the same subject. Tom did two things: ran and jumped.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'angry'?",
+    "options": [
+      "Happy",
+      "Furious",
+      "Calm",
+      "Peaceful"
+    ],
+    "correct_answer": "Furious",
+    "explanation": "'Furious' means extremely angry, making it a synonym with stronger intensity.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a preposition?",
+    "options": [
+      "Under",
+      "Quickly",
+      "Happy",
+      "Jump"
+    ],
+    "correct_answer": "Under",
+    "explanation": "A preposition shows the relationship between a noun and other words. Examples: under, over, in, on, at.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past participle of 'break'?",
+    "options": [
+      "Broke",
+      "Broken",
+      "Breaking",
+      "Breaked"
+    ],
+    "correct_answer": "Broken",
+    "explanation": "'Broken' is the past participle used with 'has', 'have', or 'had'. 'Broke' is the simple past.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses brackets correctly?",
+    "options": [
+      "The [dog ran] quickly",
+      "The museum (built in 1850) is very old",
+      "She said (hello) to me",
+      "I like [apples]"
+    ],
+    "correct_answer": "The museum (built in 1850) is very old",
+    "explanation": "Brackets (parentheses) add extra information that could be removed without changing the sentence's meaning.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'wide'?",
+    "options": [
+      "Broad",
+      "Narrow",
+      "Thick",
+      "Large"
+    ],
+    "correct_answer": "Narrow",
+    "explanation": "'Narrow' means having a small distance from side to side, opposite of 'wide'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which is a simple sentence?",
+    "options": [
+      "I went home, and I ate dinner",
+      "Because it was late, I went home",
+      "The dog barked loudly",
+      "When the bell rang, class started"
+    ],
+    "correct_answer": "The dog barked loudly",
+    "explanation": "A simple sentence has one independent clause with a subject and verb, expressing one complete thought.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'sad'?",
+    "options": [
+      "Happy",
+      "Unhappy",
+      "Joyful",
+      "Excited"
+    ],
+    "correct_answer": "Unhappy",
+    "explanation": "'Unhappy' means not happy or sad, making it a synonym for 'sad'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence is in the past continuous tense?",
+    "options": [
+      "I ate breakfast",
+      "I was eating breakfast",
+      "I eat breakfast",
+      "I will eat breakfast"
+    ],
+    "correct_answer": "I was eating breakfast",
+    "explanation": "Past continuous uses 'was/were' + verb-ing to show an action in progress in the past.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where should the comma go? 'Yes I would like some tea.'",
+    "options": [
+      "Yes, I would like some tea.",
+      "Yes I, would like some tea.",
+      "Yes I would, like some tea.",
+      "Yes I would like, some tea."
+    ],
+    "correct_answer": "Yes, I would like some tea.",
+    "explanation": "A comma goes after introductory words like 'yes', 'no', or 'well' at the start of a sentence.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'early'?",
+    "options": [
+      "Soon",
+      "Late",
+      "Quick",
+      "First"
+    ],
+    "correct_answer": "Late",
+    "explanation": "'Late' means after the expected time, which is the opposite of 'early'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a pronoun?",
+    "options": [
+      "Book",
+      "They",
+      "Running",
+      "Beautiful"
+    ],
+    "correct_answer": "They",
+    "explanation": "A pronoun replaces a noun. Examples: I, you, he, she, it, we, they, them, him, her.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'scared'?",
+    "options": [
+      "Brave",
+      "Frightened",
+      "Bold",
+      "Confident"
+    ],
+    "correct_answer": "Frightened",
+    "explanation": "'Frightened' means feeling fear, which is the same as being 'scared'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the future continuous tense of 'I study'?",
+    "options": [
+      "I will study",
+      "I will be studying",
+      "I studied",
+      "I am studying"
+    ],
+    "correct_answer": "I will be studying",
+    "explanation": "Future continuous uses 'will be' + verb-ing to show an action that will be in progress at a future time.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses an exclamation mark correctly?",
+    "options": [
+      "What time is it!",
+      "Watch out!",
+      "I went to school!",
+      "The book is on the table!"
+    ],
+    "correct_answer": "Watch out!",
+    "explanation": "Exclamation marks show strong emotion, surprise, or urgency. 'Watch out!' is a warning showing urgency.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'soft'?",
+    "options": [
+      "Gentle",
+      "Hard",
+      "Smooth",
+      "Tender"
+    ],
+    "correct_answer": "Hard",
+    "explanation": "'Hard' means firm and solid, which is the opposite texture to 'soft'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence is a compound sentence?",
+    "options": [
+      "The sun was shining",
+      "It was raining, so I took my umbrella",
+      "Because it was cold",
+      "Running in the park"
+    ],
+    "correct_answer": "It was raining, so I took my umbrella",
+    "explanation": "A compound sentence joins two independent clauses with a conjunction like 'and', 'but', 'so', or 'or'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'old'?",
+    "options": [
+      "Young",
+      "Elderly",
+      "New",
+      "Fresh"
+    ],
+    "correct_answer": "Elderly",
+    "explanation": "'Elderly' means old, especially when referring to people in a respectful way.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the subjunctive mood correctly?",
+    "options": [
+      "I wish I was taller",
+      "I wish I were taller",
+      "I wish I am taller",
+      "I wish I be taller"
+    ],
+    "correct_answer": "I wish I were taller",
+    "explanation": "The subjunctive mood uses 'were' (not 'was') with 'I wish' to express hypothetical or contrary-to-fact situations.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'see'?",
+    "options": [
+      "Seed",
+      "Saw",
+      "Seen",
+      "Seeing"
+    ],
+    "correct_answer": "Saw",
+    "explanation": "'Saw' is the simple past tense of 'see'. 'Seen' is the past participle used with 'have' or 'has'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence needs a hyphen?",
+    "options": [
+      "She is twenty years old",
+      "My twenty year old sister",
+      "The car is fast",
+      "I have a new book"
+    ],
+    "correct_answer": "My twenty year old sister",
+    "explanation": "Compound adjectives before a noun need hyphens: 'My twenty-year-old sister'.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'clean'?",
+    "options": [
+      "Tidy",
+      "Dirty",
+      "Neat",
+      "Pure"
+    ],
+    "correct_answer": "Dirty",
+    "explanation": "'Dirty' means not clean or covered with unwanted matter, opposite of 'clean'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What type of sentence is this? 'Did you finish your homework?'",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Imperative",
+      "Exclamatory"
+    ],
+    "correct_answer": "Interrogative",
+    "explanation": "An interrogative sentence asks a question and ends with a question mark.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'quiet'?",
+    "options": [
+      "Loud",
+      "Silent",
+      "Noisy",
+      "Boisterous"
+    ],
+    "correct_answer": "Silent",
+    "explanation": "'Silent' means making no sound, which is similar to 'quiet' (making little or no noise).",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the past perfect tense correctly?",
+    "options": [
+      "I have finished my work before you arrived",
+      "I had finished my work before you arrived",
+      "I finished my work before you arrived",
+      "I finishing my work before you arrived"
+    ],
+    "correct_answer": "I had finished my work before you arrived",
+    "explanation": "Past perfect uses 'had' + past participle to show an action completed before another past action.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where should apostrophes go in \"its a lovely day\"?",
+    "options": [
+      "It's a lovely day",
+      "Its' a lovely day",
+      "Its a lovely day",
+      "It's' a lovely day"
+    ],
+    "correct_answer": "It's a lovely day",
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' (no apostrophe) shows possession.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'rich'?",
+    "options": [
+      "Wealthy",
+      "Poor",
+      "Prosperous",
+      "Affluent"
+    ],
+    "correct_answer": "Poor",
+    "explanation": "'Poor' means having little money or few possessions, opposite of 'rich'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": [
+      "Happiness",
+      "Beautiful",
+      "Run",
+      "Quickly"
+    ],
+    "correct_answer": "Run",
+    "explanation": "A verb is an action word or state of being. 'Run' is an action verb.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'start'?",
+    "options": [
+      "Finish",
+      "Begin",
+      "End",
+      "Stop"
+    ],
+    "correct_answer": "Begin",
+    "explanation": "'Begin' and 'start' both mean to commence or initiate something.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the present tense of 'They were running'?",
+    "options": [
+      "They run",
+      "They are running",
+      "They will run",
+      "They have run"
+    ],
+    "correct_answer": "They are running",
+    "explanation": "To change past continuous to present continuous, use 'are' instead of 'were' with the -ing verb.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses a dash correctly?",
+    "options": [
+      "I need to buy - apples and oranges",
+      "My favourite colour - is blue",
+      "There's only one thing I want - chocolate",
+      "The dog - ran away"
+    ],
+    "correct_answer": "There's only one thing I want - chocolate",
+    "explanation": "A dash can emphasise or add information dramatically. It shows a pause or break in thought.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'thick'?",
+    "options": [
+      "Dense",
+      "Thin",
+      "Heavy",
+      "Solid"
+    ],
+    "correct_answer": "Thin",
+    "explanation": "'Thin' means having little distance through, opposite of 'thick'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What type of sentence is this? 'Close the door.'",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Imperative",
+      "Exclamatory"
+    ],
+    "correct_answer": "Imperative",
+    "explanation": "An imperative sentence gives a command or instruction. The subject 'you' is understood.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'cold'?",
+    "options": [
+      "Hot",
+      "Chilly",
+      "Warm",
+      "Burning"
+    ],
+    "correct_answer": "Chilly",
+    "explanation": "'Chilly' means uncomfortably cool or cold, making it a synonym for 'cold'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "The team are playing well",
+      "The team is playing well",
+      "The teams is playing well",
+      "The team were playing well"
+    ],
+    "correct_answer": "The team is playing well",
+    "explanation": "Collective nouns like 'team' are usually treated as singular in British English and take a singular verb.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past participle of 'eat'?",
+    "options": [
+      "Ate",
+      "Eaten",
+      "Eating",
+      "Eated"
+    ],
+    "correct_answer": "Eaten",
+    "explanation": "'Eaten' is the past participle used with 'has', 'have', or 'had'. 'Ate' is the simple past.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses ellipsis correctly?",
+    "options": [
+      "I was thinking... maybe we could go to the park",
+      "I... was thinking maybe we could go",
+      "... I was thinking maybe we could go",
+      "I was thinking maybe... we could go"
+    ],
+    "correct_answer": "I was thinking... maybe we could go to the park",
+    "explanation": "Ellipsis (...) shows a pause, hesitation, or trailing off in speech or thought.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'rough'?",
+    "options": [
+      "Bumpy",
+      "Smooth",
+      "Coarse",
+      "Jagged"
+    ],
+    "correct_answer": "Smooth",
+    "explanation": "'Smooth' means having an even surface, opposite of 'rough' (uneven or bumpy).",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence is a fragment (not complete)?",
+    "options": [
+      "The dog barked",
+      "Running fast",
+      "She went home",
+      "I like apples"
+    ],
+    "correct_answer": "Running fast",
+    "explanation": "A sentence fragment lacks a subject or a complete verb. 'Running fast' has no subject doing the action.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'happy'?",
+    "options": [
+      "Miserable",
+      "Cheerful",
+      "Gloomy",
+      "Sorrowful"
+    ],
+    "correct_answer": "Cheerful",
+    "explanation": "'Cheerful' means happy and positive, making it a synonym for 'happy'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the passive voice?",
+    "options": [
+      "The cat chased the mouse",
+      "The mouse was chased by the cat",
+      "The cat is chasing the mouse",
+      "The cat will chase the mouse"
+    ],
+    "correct_answer": "The mouse was chased by the cat",
+    "explanation": "Passive voice focuses on the action's receiver. It uses 'be' verb + past participle.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'drink'?",
+    "options": [
+      "Drank",
+      "Drunk",
+      "Drinking",
+      "Drinked"
+    ],
+    "correct_answer": "Drank",
+    "explanation": "'Drank' is the simple past tense of 'drink'. 'Drunk' is the past participle.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where do capital letters belong? 'my friend sarah lives in london.'",
+    "options": [
+      "My friend Sarah lives in London.",
+      "my friend sarah lives in london.",
+      "My Friend Sarah Lives In London.",
+      "my Friend sarah Lives in london."
+    ],
+    "correct_answer": "My friend Sarah lives in London.",
+    "explanation": "Capitalise the first word of a sentence and all proper nouns (names of specific people and places).",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'sweet'?",
+    "options": [
+      "Sugary",
+      "Bitter",
+      "Tasty",
+      "Delicious"
+    ],
+    "correct_answer": "Bitter",
+    "explanation": "'Bitter' is a sharp, unpleasant taste that is the opposite of 'sweet'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a common noun?",
+    "options": [
+      "London",
+      "River Thames",
+      "City",
+      "Sarah"
+    ],
+    "correct_answer": "City",
+    "explanation": "A common noun names any person, place, or thing (not specific). Proper nouns name specific ones and are capitalised.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'laugh'?",
+    "options": [
+      "Cry",
+      "Giggle",
+      "Frown",
+      "Weep"
+    ],
+    "correct_answer": "Giggle",
+    "explanation": "'Giggle' means to laugh in a light, silly way, making it a synonym for 'laugh'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the conditional tense correctly?",
+    "options": [
+      "If it rains, I will take my umbrella",
+      "If it will rain, I take my umbrella",
+      "If it rain, I will take my umbrella",
+      "If it raining, I will take my umbrella"
+    ],
+    "correct_answer": "If it rains, I will take my umbrella",
+    "explanation": "In first conditional, use present tense in the 'if' clause and 'will' + base verb in the main clause.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence needs a full stop (period)?",
+    "options": [
+      "Watch out",
+      "The sky is blue",
+      "What time is it",
+      "How wonderful"
+    ],
+    "correct_answer": "The sky is blue",
+    "explanation": "Declarative sentences (statements) end with a full stop. Questions use ?, exclamations use !.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'light' (weight)?",
+    "options": [
+      "Bright",
+      "Heavy",
+      "Airy",
+      "Pale"
+    ],
+    "correct_answer": "Heavy",
+    "explanation": "When 'light' refers to weight, 'heavy' (weighing a lot) is its opposite.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What type of sentence is this? 'What a beautiful day!'",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Imperative",
+      "Exclamatory"
+    ],
+    "correct_answer": "Exclamatory",
+    "explanation": "An exclamatory sentence expresses strong feeling or emotion and ends with an exclamation mark.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'shout'?",
+    "options": [
+      "Whisper",
+      "Yell",
+      "Murmur",
+      "Mumble"
+    ],
+    "correct_answer": "Yell",
+    "explanation": "'Yell' means to shout loudly, making it a synonym for 'shout'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past participle of 'sing'?",
+    "options": [
+      "Sang",
+      "Sung",
+      "Singing",
+      "Singed"
+    ],
+    "correct_answer": "Sung",
+    "explanation": "'Sung' is the past participle used with 'has', 'have', or 'had'. 'Sang' is the simple past.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses commas correctly with an appositive?",
+    "options": [
+      "My friend Sarah is coming over",
+      "My friend, Sarah is coming over",
+      "My friend Sarah, is coming over",
+      "My friend, Sarah, is coming over"
+    ],
+    "correct_answer": "My friend, Sarah, is coming over",
+    "explanation": "An appositive (extra information about a noun) is set off with commas on both sides if it's non-essential.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'remember'?",
+    "options": [
+      "Recall",
+      "Forget",
+      "Recollect",
+      "Memorise"
+    ],
+    "correct_answer": "Forget",
+    "explanation": "'Forget' means to fail to remember, making it the opposite of 'remember'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is an abstract noun?",
+    "options": [
+      "Table",
+      "Happiness",
+      "Apple",
+      "Dog"
+    ],
+    "correct_answer": "Happiness",
+    "explanation": "An abstract noun names something you cannot touch or see (feelings, ideas, qualities). Concrete nouns are physical.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'small'?",
+    "options": [
+      "Large",
+      "Tiny",
+      "Huge",
+      "Giant"
+    ],
+    "correct_answer": "Tiny",
+    "explanation": "'Tiny' means very small, making it a synonym with stronger emphasis.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses reported speech correctly?",
+    "options": [
+      "She said that she is happy",
+      "She said that she was happy",
+      "She said that she will be happy",
+      "She said that she be happy"
+    ],
+    "correct_answer": "She said that she was happy",
+    "explanation": "In reported speech, the tense usually shifts back one step. 'I am' becomes 'she was'.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'fly'?",
+    "options": [
+      "Flied",
+      "Flew",
+      "Flown",
+      "Flying"
+    ],
+    "correct_answer": "Flew",
+    "explanation": "'Flew' is the simple past tense of 'fly'. 'Flown' is the past participle.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses inverted commas (quotation marks) for a title correctly?",
+    "options": [
+      "I read the book Harry Potter",
+      "I read the book 'Harry Potter'",
+      "I read the 'book' Harry Potter",
+      "I 'read' the book Harry Potter"
+    ],
+    "correct_answer": "I read the book 'Harry Potter'",
+    "explanation": "Book titles, song titles, and other works should be in quotation marks or italics.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'polite'?",
+    "options": [
+      "Courteous",
+      "Rude",
+      "Respectful",
+      "Well-mannered"
+    ],
+    "correct_answer": "Rude",
+    "explanation": "'Rude' means showing bad manners or disrespect, opposite of 'polite'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence has parallel structure?",
+    "options": [
+      "I like swimming, to run, and cycling",
+      "I like swimming, running, and cycling",
+      "I like to swim, running, and to cycle",
+      "I like swimming, to run, and to cycle"
+    ],
+    "correct_answer": "I like swimming, running, and cycling",
+    "explanation": "Parallel structure uses the same grammatical form for items in a list (all -ing verbs here).",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'talk'?",
+    "options": [
+      "Listen",
+      "Speak",
+      "Hear",
+      "Silent"
+    ],
+    "correct_answer": "Speak",
+    "explanation": "'Speak' and 'talk' both mean to say words or communicate verbally.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the present perfect continuous tense correctly?",
+    "options": [
+      "I am reading for two hours",
+      "I have reading for two hours",
+      "I have been reading for two hours",
+      "I had been reading for two hours"
+    ],
+    "correct_answer": "I have been reading for two hours",
+    "explanation": "Present perfect continuous uses 'have/has been' + verb-ing to show an action that started in the past and continues.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the correct plural of 'child'?",
+    "options": [
+      "Childs",
+      "Children",
+      "Childrens",
+      "Childes"
+    ],
+    "correct_answer": "Children",
+    "explanation": "'Children' is the irregular plural form of 'child'. Not all plurals add -s or -es.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses a comma correctly after a subordinate clause?",
+    "options": [
+      "When it rains I stay inside",
+      "When it rains, I stay inside",
+      "When, it rains I stay inside",
+      "When it, rains I stay inside"
+    ],
+    "correct_answer": "When it rains, I stay inside",
+    "explanation": "When a subordinate clause comes first, use a comma before the main clause.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'laugh'?",
+    "options": [
+      "Smile",
+      "Cry",
+      "Giggle",
+      "Chuckle"
+    ],
+    "correct_answer": "Cry",
+    "explanation": "'Cry' means to shed tears (usually from sadness), opposite of 'laugh' (usually from happiness).",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a collective noun?",
+    "options": [
+      "Dog",
+      "Flock",
+      "Bird",
+      "Tree"
+    ],
+    "correct_answer": "Flock",
+    "explanation": "A collective noun names a group of people, animals, or things as one unit (flock, team, herd, class).",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'look'?",
+    "options": [
+      "Close",
+      "Gaze",
+      "Hear",
+      "Touch"
+    ],
+    "correct_answer": "Gaze",
+    "explanation": "'Gaze' means to look steadily at something, making it a synonym for 'look'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the imperative mood?",
+    "options": [
+      "You should close the window",
+      "Close the window",
+      "Are you closing the window?",
+      "The window is closed"
+    ],
+    "correct_answer": "Close the window",
+    "explanation": "The imperative mood gives commands or instructions. The subject 'you' is understood but not stated.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'bring'?",
+    "options": [
+      "Brang",
+      "Brought",
+      "Bringed",
+      "Brung"
+    ],
+    "correct_answer": "Brought",
+    "explanation": "'Brought' is the past tense and past participle of 'bring'. It's an irregular verb.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where should the apostrophe go in \"theyre going home\"?",
+    "options": [
+      "They're going home",
+      "Their going home",
+      "Theyr'e going home",
+      "They'r'e going home"
+    ],
+    "correct_answer": "They're going home",
+    "explanation": "'They're' is the contraction of 'they are'. 'Their' (no apostrophe) shows possession.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'safe'?",
+    "options": [
+      "Secure",
+      "Dangerous",
+      "Protected",
+      "Sheltered"
+    ],
+    "correct_answer": "Dangerous",
+    "explanation": "'Dangerous' means involving or causing danger, opposite of 'safe'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a possessive pronoun?",
+    "options": [
+      "Their",
+      "They",
+      "Them",
+      "There"
+    ],
+    "correct_answer": "Their",
+    "explanation": "Possessive pronouns show ownership: my, your, his, her, its, our, their. They replace nouns.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'pretty'?",
+    "options": [
+      "Ugly",
+      "Lovely",
+      "Plain",
+      "Dull"
+    ],
+    "correct_answer": "Lovely",
+    "explanation": "'Lovely' means attractive or beautiful, making it a synonym for 'pretty'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the second conditional correctly?",
+    "options": [
+      "If I have time, I will help you",
+      "If I had time, I would help you",
+      "If I will have time, I help you",
+      "If I have time, I would help you"
+    ],
+    "correct_answer": "If I had time, I would help you",
+    "explanation": "Second conditional uses past tense in the 'if' clause and 'would' + base verb to describe hypothetical situations.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the correct plural of 'tooth'?",
+    "options": [
+      "Tooths",
+      "Teeth",
+      "Toothes",
+      "Teeths"
+    ],
+    "correct_answer": "Teeth",
+    "explanation": "'Teeth' is the irregular plural form of 'tooth'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses a rhetorical question?",
+    "options": [
+      "What time is it?",
+      "Isn't it obvious that we should help others?",
+      "Where is my book?",
+      "Can you pass the salt?"
+    ],
+    "correct_answer": "Isn't it obvious that we should help others?",
+    "explanation": "A rhetorical question is asked for effect, not expecting an answer. The answer is implied.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'friend'?",
+    "options": [
+      "Companion",
+      "Enemy",
+      "Ally",
+      "Mate"
+    ],
+    "correct_answer": "Enemy",
+    "explanation": "'Enemy' is a person who is opposed or hostile to someone, opposite of 'friend'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'fast'?",
+    "options": [
+      "Slow",
+      "Rapid",
+      "Sluggish",
+      "Leisurely"
+    ],
+    "correct_answer": "Rapid",
+    "explanation": "'Rapid' means happening quickly or at high speed, making it a synonym for 'fast'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past participle of 'choose'?",
+    "options": [
+      "Chose",
+      "Chosen",
+      "Choosing",
+      "Choosed"
+    ],
+    "correct_answer": "Chosen",
+    "explanation": "'Chosen' is the past participle used with 'has', 'have', or 'had'. 'Chose' is the simple past.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses British spelling correctly?",
+    "options": [
+      "The color of the car is red",
+      "The colour of the car is red",
+      "The color of the carr is red",
+      "The coloure of the car is red"
+    ],
+    "correct_answer": "The colour of the car is red",
+    "explanation": "British English uses 'colour' (with 'u'), whilst American English uses 'color'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Where should the comma go? 'Before eating the cat washed its paws.'",
+    "options": [
+      "Before eating, the cat washed its paws.",
+      "Before, eating the cat washed its paws.",
+      "Before eating the cat, washed its paws.",
+      "Before eating the cat washed, its paws."
+    ],
+    "correct_answer": "Before eating, the cat washed its paws.",
+    "explanation": "A comma after 'Before eating' prevents confusion and separates the time phrase from the main clause.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "punctuation",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'victory'?",
+    "options": [
+      "Win",
+      "Defeat",
+      "Success",
+      "Triumph"
+    ],
+    "correct_answer": "Defeat",
+    "explanation": "'Defeat' means losing or being beaten, opposite of 'victory' (winning).",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which is a declarative sentence?",
+    "options": [
+      "Stop that!",
+      "The sky is blue.",
+      "Where are you going?",
+      "How amazing!"
+    ],
+    "correct_answer": "The sky is blue.",
+    "explanation": "A declarative sentence makes a statement and ends with a full stop (period).",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'silly'?",
+    "options": [
+      "Serious",
+      "Foolish",
+      "Wise",
+      "Sensible"
+    ],
+    "correct_answer": "Foolish",
+    "explanation": "'Foolish' means lacking good sense, similar to 'silly'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses the past perfect continuous tense correctly?",
+    "options": [
+      "I was studying for three hours when you called",
+      "I have been studying for three hours when you called",
+      "I had been studying for three hours when you called",
+      "I am studying for three hours when you called"
+    ],
+    "correct_answer": "I had been studying for three hours when you called",
+    "explanation": "Past perfect continuous uses 'had been' + verb-ing to show an action that was ongoing before another past action.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the past tense of 'catch'?",
+    "options": [
+      "Catched",
+      "Caught",
+      "Catching",
+      "Cought"
+    ],
+    "correct_answer": "Caught",
+    "explanation": "'Caught' is the past tense and past participle of 'catch'. It's an irregular verb.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "verb_tenses",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses British spelling correctly?",
+    "options": [
+      "I need to organize the files",
+      "I need to organise the files",
+      "I need to organisze the files",
+      "I need to organice the files"
+    ],
+    "correct_answer": "I need to organise the files",
+    "explanation": "British English uses 'organise' (with 's'), whilst American English uses 'organize' (with 'z').",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'question'?",
+    "options": [
+      "Query",
+      "Answer",
+      "Enquiry",
+      "Ask"
+    ],
+    "correct_answer": "Answer",
+    "explanation": "'Answer' is a response or reply, opposite of 'question' (something asked).",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which word is a relative pronoun?",
+    "options": [
+      "And",
+      "Who",
+      "Very",
+      "Happy"
+    ],
+    "correct_answer": "Who",
+    "explanation": "Relative pronouns (who, whom, whose, which, that) introduce relative clauses and refer back to a noun.",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is a synonym for 'wonderful'?",
+    "options": [
+      "Terrible",
+      "Marvellous",
+      "Awful",
+      "Dreadful"
+    ],
+    "correct_answer": "Marvellous",
+    "explanation": "'Marvellous' means extremely good or wonderful, making it a synonym.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "synonyms",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence correctly uses 'fewer' vs 'less'?",
+    "options": [
+      "There are less people here today",
+      "There are fewer people here today",
+      "There is fewer water in the glass",
+      "There are less chairs in the room"
+    ],
+    "correct_answer": "There are fewer people here today",
+    "explanation": "Use 'fewer' for countable nouns (people, chairs). Use 'less' for uncountable nouns (water, time).",
+    "difficulty": "hard",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 6,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is the correct plural of 'mouse'?",
+    "options": [
+      "Mouses",
+      "Mice",
+      "Meese",
+      "Mooses"
+    ],
+    "correct_answer": "Mice",
+    "explanation": "'Mice' is the irregular plural form of 'mouse'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "grammar",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "Which sentence uses a double negative incorrectly?",
+    "options": [
+      "I don't have any money",
+      "I don't have no money",
+      "I have no money",
+      "I haven't any money"
+    ],
+    "correct_answer": "I don't have no money",
+    "explanation": "Double negatives (don't + no) are incorrect in standard English. Use 'don't have any' or 'have no'.",
+    "difficulty": "medium",
+    "subject": "english",
+    "topic": "sentence_structure",
+    "grade": 5,
+    "language": "en",
+    "question_type": "multiple-choice"
+  },
+  {
+    "question": "What is an antonym for 'success'?",
+    "options": [
+      "Achievement",
+      "Failure",
+      "Victory",
+      "Accomplishment"
+    ],
+    "correct_answer": "Failure",
+    "explanation": "'Failure' means lack of success, making it the opposite of 'success'.",
+    "difficulty": "easy",
+    "subject": "english",
+    "topic": "antonyms",
+    "grade": 4,
+    "language": "en",
+    "question_type": "multiple-choice"
+  }
+]

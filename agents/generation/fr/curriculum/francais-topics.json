@@ -1,0 +1,53 @@
+{
+  "matiere": "francais",
+  "totalQuestions": 500,
+  "themes": [
+    {
+      "nom": "Alphabet & Phonétique",
+      "lehrplan21Code": "D.1.A.1",
+      "degres": [1, 2],
+      "questions": 80,
+      "difficultes": [1, 2]
+    },
+    {
+      "nom": "Orthographe",
+      "lehrplan21Code": "D.2.A.1",
+      "degres": [2, 3, 4],
+      "questions": 100,
+      "difficultes": [1, 2, 3]
+    },
+    {
+      "nom": "Grammaire - Classes de Mots",
+      "lehrplan21Code": "D.2.B.1",
+      "degres": [3, 4, 5, 6],
+      "questions": 120,
+      "difficultes": [2, 3, 4, 5]
+    },
+    {
+      "nom": "Vocabulaire",
+      "lehrplan21Code": "D.2.C.1",
+      "degres": [1, 2, 3, 4, 5, 6],
+      "questions": 100,
+      "difficultes": [1, 2, 3, 4, 5]
+    },
+    {
+      "nom": "Compréhension de Lecture",
+      "lehrplan21Code": "D.3.A.1",
+      "degres": [2, 3, 4, 5, 6],
+      "questions": 80,
+      "difficultes": [2, 3, 4, 5]
+    },
+    {
+      "nom": "Ponctuation",
+      "lehrplan21Code": "D.2.B.2",
+      "degres": [3, 4, 5, 6],
+      "questions": 20,
+      "difficultes": [3, 4]
+    }
+  ],
+  "francaisSuisse": true,
+  "exemples": {
+    "vocabulaire": ["septante", "huitante/octante", "nonante"],
+    "orthographe": ["français standard", "accord du participe passé"]
+  }
+}

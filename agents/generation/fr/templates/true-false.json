@@ -1,0 +1,55 @@
+{
+  "typeTemplate": "true-false",
+  "langue": "fr",
+  "champsRequis": [
+    "id",
+    "type",
+    "subject",
+    "grade",
+    "difficulty",
+    "language",
+    "question",
+    "answers",
+    "correctIndex",
+    "lehrplan21Code",
+    "competencyLevel",
+    "timeLimit",
+    "tags"
+  ],
+  "schema": {
+    "id": {
+      "format": "fr_{matiere}_grade{1-6}_vf_{numero}",
+      "exemple": "fr_sciences_grade4_vf_001"
+    },
+    "type": {
+      "valeur": "true-false",
+      "fixe": true
+    },
+    "answers": {
+      "valeur": ["Vrai", "Faux"],
+      "fixe": true,
+      "note": "Toujours exactement ces 2 options dans cet ordre"
+    },
+    "correctIndex": {
+      "type": "integer",
+      "enum": [0, 1],
+      "note": "0 pour Vrai, 1 pour Faux"
+    },
+    "question": {
+      "type": "string",
+      "format": "affirmation déclarative",
+      "exemples": [
+        "La capitale de la Suisse est Berne.",
+        "Tous les mammifères pondent des œufs."
+      ]
+    },
+    "timeLimit": {
+      "recommande": {
+        "grade1-2": 15000,
+        "grade3-4": 12000,
+        "grade5-6": 10000
+      },
+      "note": "Questions vrai/faux nécessitent généralement moins de temps"
+    }
+  }
+}

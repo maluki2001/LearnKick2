@@ -1,0 +1,43 @@
+{
+  "matiere": "general",
+  "totalQuestions": 200,
+  "themes": [
+    {
+      "nom": "Histoire Suisse",
+      "lehrplan21Code": "NMG.9.1",
+      "degres": [4, 5, 6],
+      "questions": 60,
+      "difficultes": [3, 4, 5],
+      "focus": ["Confédération suisse", "dates clés", "personnages historiques"]
+    },
+    {
+      "nom": "Temps & Calendrier",
+      "lehrplan21Code": "NMG.9.2",
+      "degres": [2, 3, 4],
+      "questions": 40,
+      "difficultes": [2, 3]
+    },
+    {
+      "nom": "Monnaie & Argent",
+      "lehrplan21Code": "NMG.6.1",
+      "degres": [3, 4, 5],
+      "questions": 40,
+      "difficultes": [2, 3, 4],
+      "focus": ["CHF", "pièces", "billets", "transactions de base"]
+    },
+    {
+      "nom": "Communauté & Société",
+      "lehrplan21Code": "NMG.10.1",
+      "degres": [4, 5, 6],
+      "questions": 30,
+      "difficultes": [3, 4]
+    },
+    {
+      "nom": "Technologie & Médias",
+      "lehrplan21Code": "MI.1.1",
+      "degres": [5, 6],
+      "questions": 30,
+      "difficultes": [4, 5]
+    }
+  ]
+}

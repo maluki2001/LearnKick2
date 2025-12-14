@@ -1,0 +1,1765 @@
+{
+  "total": 100,
+  "passed": 47,
+  "failed": 53,
+  "questions": [
+    {
+      "id": "c78f032a-25c1-4bcb-8aeb-3754c14fb09e",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quelle ponctuation précède une liste ou une explication ?",
+      "answers": [
+        "Le point-virgule (;)",
+        "Les deux-points (:)",
+        "La virgule (,)",
+        "Le point (.)"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "b29bd2d9-cccb-4dca-aa1b-5dddb07968d5",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Dans le mot 'fraise', combien y a-t-il de consonnes ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "f817996d-d8b4-4151-b9fb-ba19f8b276b8",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Comment s'écrit le chiffre après un ?",
+      "answers": [
+        "deu",
+        "deux",
+        "doux",
+        "deuh"
+      ],
+      "correct_answer": "deux",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "7421ebac-8e54-4a43-9670-c2584fc17275",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'souris' ?",
+      "answers": [
+        "chat",
+        "ami",
+        "oiseau",
+        "chien"
+      ],
+      "correct_answer": "ami",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "58f4741b-02b3-452e-ad16-52a8aa4ccbab",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quelle est la 10ème lettre de l'alphabet ?",
+      "answers": [
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "correct_answer": "J",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "6162f7f0-f0a1-407e-bed1-a251342f0c63",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour le lac entre la France et la Suisse ?",
+      "answers": [
+        "Léman",
+        "Leman",
+        "Lémain",
+        "Lèman"
+      ],
+      "correct_answer": "Léman",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "7baa7577-3e3d-4164-99d0-c82d67785a8c",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour une grande étendue d'eau salée ?",
+      "answers": [
+        "océan",
+        "océin",
+        "ossian",
+        "ocian"
+      ],
+      "correct_answer": "océan",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "48f19926-79fc-4a3c-b76f-5f628bd28a09",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Dans 'très gentil', 'très' modifie l'adjectif 'gentil'.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "793591ed-15bc-48fd-b64a-c3e64e813397",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Quelle phrase contient une proposition subordonnée relative ?",
+      "answers": [
+        "Le livre que je lis est captivant.",
+        "Je lis un livre captivant.",
+        "Le livre est captivant.",
+        "J'aime lire."
+      ],
+      "correct_answer": "Le livre que je lis est captivant.",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "a2f96f60-14dc-45e3-9600-88db4a954c37",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'histoire' ?",
+      "answers": [
+        "livre",
+        "mémoire",
+        "conte",
+        "récit"
+      ],
+      "correct_answer": "mémoire",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "d4d1d8af-ab46-4ef0-af35-9598b7382a8b",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quelle conjonction de coordination complète : 'mais, ou, et, ...' ?",
+      "answers": [
+        "donc",
+        "que",
+        "si",
+        "quand"
+      ],
+      "correct_answer": "donc",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "0c8a7e8b-1089-4769-ab87-e64eabd364ac",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Dans le mot 'éducation', combien y a-t-il de voyelles ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "5",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "2776e732-f87c-487e-b7c2-40cc1ee2f099",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'village' ?",
+      "answers": [
+        "ville",
+        "fromage",
+        "campagne",
+        "route"
+      ],
+      "correct_answer": "fromage",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "f7b4f231-75cc-4f1b-9313-7cb723217405",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quelle est la nature du mot 'et' ?",
+      "answers": [
+        "Un verbe",
+        "Une conjonction",
+        "Un adjectif",
+        "Un adverbe"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "0e286ecf-28ec-4dc3-ad43-42f1ef467269",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Le mot 'gentil' au féminin devient 'gentille'.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "9605f321-9e3f-4f34-9488-94b3ed92082b",
+      "grade": 1,
+      "difficulty": 1,
+      "question": "Le mot 'papa' a deux syllabes identiques.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "00970bd3-0d11-4733-92c5-353ab169078d",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est l'antonyme de 'long' ?",
+      "answers": [
+        "Étendu",
+        "Court",
+        "Grand",
+        "Large"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "b6816544-3c84-493c-80cf-d0b3196d383d",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quel est le passé composé de 'manger' à la première personne du singulier ?",
+      "answers": [
+        "J'ai mangé",
+        "Je mangeais",
+        "Je mange",
+        "J'ai manger"
+      ],
+      "correct_answer": "",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "241c9523-fb9c-461f-9b60-769636488b97",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Conjugue le verbe 'être' à la première personne du singulier au présent.",
+      "answers": [
+        "Je suis",
+        "Tu es",
+        "Il est",
+        "Je étais"
+      ],
+      "correct_answer": "",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "1161099b-6bb2-425f-96ed-f689fcdad16d",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Dans 'Elles sont parties', le participe passé s'accorde au féminin pluriel.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "c97d38d9-2e42-42ee-a978-c8f61a0d9605",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Quelle est la terminaison de l'imparfait pour 'nous' ?",
+      "answers": [
+        "-ions",
+        "-ons",
+        "-ez",
+        "-ent"
+      ],
+      "correct_answer": "-ions",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "0dfcc6aa-217f-4b10-8e22-e6f6721c85d5",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Le discours direct utilise des guillemets pour rapporter les paroles.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "fe516cbf-25c0-4d51-8cc1-9a7d848fb180",
+      "grade": 1,
+      "difficulty": 1,
+      "question": "Le mot 'arbre' désigne un végétal.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "3b41b5f3-0e78-478e-909f-f12d8edcec43",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Le mot 'eau' commence par une voyelle.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "45402f3a-b4ff-4a24-85ff-a8d2bf9f32dc",
+      "grade": 1,
+      "difficulty": 1,
+      "question": "Le mot 'lune' commence par la lettre L.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "4cc68638-ea2a-4961-8d05-50712a899a66",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel mot est un synonyme de 'joli' ?",
+      "answers": [
+        "Laid",
+        "Beau",
+        "Grand",
+        "Petit"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "b61db33e-9eb5-4335-830a-2f7d4e7b5088",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Quel est le futur simple de 'aller' à la première personne du singulier ?",
+      "answers": [
+        "Je vais",
+        "J'irai",
+        "J'irais",
+        "J'allai"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "a3790dc6-3c17-4f8b-bbf7-f1301ea44bab",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour un grand magasin à Genève ?",
+      "answers": [
+        "magasin",
+        "magazin",
+        "magasain",
+        "magazan"
+      ],
+      "correct_answer": "magasin",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "c8a01606-baa6-4753-a70f-5149da134ff6",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est le genre du mot 'chaise' ?",
+      "answers": [
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Les deux"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "9b330e29-1401-47db-ab4f-ca03e2b39cb0",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Le mot 'fondue' désigne un plat traditionnel suisse au fromage.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "af3f6944-eae4-4f33-87a1-5441a24d0fdf",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour le père de papa ou maman ?",
+      "answers": [
+        "grand-père",
+        "grand-pair",
+        "grandpère",
+        "gran-père"
+      ],
+      "correct_answer": "grand-père",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "3a978c87-62b8-4e0a-8608-55becab3c312",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Le mot 'rouge' est un adjectif de couleur.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "c081f32e-aebc-4648-a05f-0509bd91f792",
+      "grade": 6,
+      "difficulty": 3,
+      "question": "Dans 'Quoi qu'il arrive', 'quoi que' s'écrit en deux mots.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "57b3e390-1d31-406b-abc4-0cabc8926a45",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'magique' ?",
+      "answers": [
+        "magie",
+        "fantastique",
+        "merveilleux",
+        "extraordinaire"
+      ],
+      "correct_answer": "fantastique",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "0336792a-70b6-4826-9ac0-eace94c590b8",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Le mot 'école' est-il masculin ou féminin ?",
+      "answers": [
+        "féminin",
+        "masculin",
+        "neutre",
+        "les deux"
+      ],
+      "correct_answer": "féminin",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "4515d6a8-e663-47ea-adbf-d372310b4c8e",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour la sœur de maman ?",
+      "answers": [
+        "tante",
+        "tant",
+        "taunte",
+        "tente"
+      ],
+      "correct_answer": "tante",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "16aa6a55-6ef6-4932-9ded-4df918d7b194",
+      "grade": 1,
+      "difficulty": 1,
+      "question": "Quel mot désigne un animal ?",
+      "answers": [
+        "chien",
+        "table",
+        "livre",
+        "crayon"
+      ],
+      "correct_answer": "chien",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "4fe477a5-ceca-49e9-8ec7-9964b34021b1",
+      "grade": 6,
+      "difficulty": 4,
+      "question": "Le mot 'œuvre' est généralement féminin, sauf dans certains contextes artistiques.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "c7b149a4-9037-43c3-87f4-70cc70899acc",
+      "grade": 6,
+      "difficulty": 4,
+      "question": "Dans 'Elle s'est lavé les mains', le participe ne s'accorde pas car 'les mains' est COD.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "87a214bf-4268-47de-aacd-d49ecbd282f0",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour le véhicule avec quatre roues ?",
+      "answers": [
+        "voiture",
+        "voitur",
+        "vouture",
+        "vwature"
+      ],
+      "correct_answer": "voiture",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "e26f2a96-c04a-49d1-9efc-5dd27fbc8bf7",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour le repas du midi ?",
+      "answers": [
+        "déjeuner",
+        "déjeunez",
+        "déjeuné",
+        "dejeuner"
+      ],
+      "correct_answer": "déjeuner",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "1055a98a-a51c-4f51-a8ba-f20c89deaa9c",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'bonheur' ?",
+      "answers": [
+        "joie",
+        "couleur",
+        "rire",
+        "plaisir"
+      ],
+      "correct_answer": "couleur",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "375b8982-fbf2-45d7-b761-92fbe47810a5",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Dans 'rapidement', quel est le suffixe ?",
+      "answers": [
+        "-ment",
+        "rapide-",
+        "-ement",
+        "rapid-"
+      ],
+      "correct_answer": "",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "b7c192fe-5e0b-4154-99e9-1f6d56924648",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Combien de lettres y a-t-il dans le mot 'papa' ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "37644b15-48f0-4e3f-b641-b7d33c80dd59",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Dans le mot 'chocolat', combien y a-t-il de consonnes ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "5",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "a3df8403-50d6-485d-b44f-09c017ce9231",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Dans le mot 'bonbon', combien y a-t-il de consonnes ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "4",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "e3f96ebb-e5f1-459c-b3d4-a718ea2033b7",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est le pluriel de 'gâteau' ?",
+      "answers": [
+        "Gâteaus",
+        "Gâteaux",
+        "Gâtaus",
+        "Gâteauxs"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "08d10dd0-a88a-4f1a-a857-0a8594a09847",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Dans 'Ils sont allés à Genève', le verbe est conjugué à l'imparfait.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "false",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "4a918821-7c3e-45b7-bf83-af5daf279bc7",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Dans 'incroyable', quel est le préfixe ?",
+      "answers": [
+        "in-",
+        "-croyable",
+        "incr-",
+        "i-"
+      ],
+      "correct_answer": "",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "7066682f-2cfd-476c-b6ad-213022406231",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quelle ponctuation sépare des mots dans une liste ?",
+      "answers": [
+        "Le point (.)",
+        "La virgule (,)",
+        "Le point d'exclamation (!)",
+        "Les guillemets (\"\")"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "67f8493e-ee26-4f69-b35c-d012fd978709",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quel mot est un synonyme de 'fatigué' ?",
+      "answers": [
+        "Reposé",
+        "Épuisé",
+        "Énergique",
+        "Vigoureux"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "446fca9e-b8ff-45b4-9c9d-eb799623a894",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Le verbe 'manger' se conjugue avec l'auxiliaire 'avoir' au passé composé.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "060ac1cc-44ee-46e3-bfa0-017dd6395e16",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Quel est l'imparfait de 'avoir' à la troisième personne du pluriel ?",
+      "answers": [
+        "Ils ont",
+        "Ils avaient",
+        "Ils auront",
+        "Ils eurent"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "0e74ee3a-9917-4ea0-a93e-f76c8fc31f06",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour le contraire de toujours ?",
+      "answers": [
+        "jamais",
+        "jamer",
+        "jamé",
+        "jamès"
+      ],
+      "correct_answer": "jamais",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "df6c4f93-6c81-4107-845c-a0a641bf1b73",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'lion' ?",
+      "answers": [
+        "tigre",
+        "avion",
+        "éléphant",
+        "girafe"
+      ],
+      "correct_answer": "avion",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "79959fda-cddb-4176-a2c2-d95f67a98d37",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour quatre-vingts en Suisse romande ?",
+      "answers": [
+        "quatre-vingts",
+        "huitante",
+        "octante",
+        "witante"
+      ],
+      "correct_answer": "huitante",
+      "validation": {
+        "passed": true,
+        "issues": [
+          "Use Swiss French numbers: \"quatre-vingts\" should use septante/huitante/nonante"
+        ]
+      }
+    },
+    {
+      "id": "7fc1ab1e-3750-42bb-9dd9-22bb1b55783b",
+      "grade": 6,
+      "difficulty": 4,
+      "question": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "4ca88ffa-d009-46b1-b87a-871050f9bafb",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Dans le mot 'maison', combien y a-t-il de consonnes ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "9235fc3d-57a6-4b6e-add8-eb4065b75d96",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Quel signe de ponctuation utilise-t-on pour rapporter les paroles de quelqu'un ?",
+      "answers": [
+        "Les parenthèses ()",
+        "Les guillemets \"\"",
+        "Les crochets []",
+        "Les tirets --"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "4e7bfe68-38d7-48d7-94d7-aa30eb0e853c",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Dans 'Elle lui parle', 'lui' est un pronom complément d'objet indirect.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "42d78e18-ebda-4adf-b85a-0df880f26aca",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel mot est un synonyme de 'ami' ?",
+      "answers": [
+        "Ennemi",
+        "Copain",
+        "Étranger",
+        "Inconnu"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "dcba5676-1bd1-4f97-b130-eb6eadffc369",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'admiration' ?",
+      "answers": [
+        "respect",
+        "observation",
+        "estime",
+        "honneur"
+      ],
+      "correct_answer": "observation",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "ead03818-2a65-4eb7-9461-ff219641df4b",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel signe de ponctuation utilise-t-on à la fin d'une question ?",
+      "answers": [
+        "Un point (.)",
+        "Un point d'interrogation (?)",
+        "Un point d'exclamation (!)",
+        "Une virgule (,)"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "30d50d53-0d6d-4685-a232-7c4891dadfdd",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'journée' ?",
+      "answers": [
+        "jour",
+        "matinée",
+        "soir",
+        "midi"
+      ],
+      "correct_answer": "matinée",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "e1505d54-2664-449f-bd2e-c9a322316ff3",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Combien y a-t-il de consonnes dans l'alphabet français ?",
+      "answers": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct_answer": "20",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "9e435dc4-753d-47bd-b552-9785ca9af89a",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Le mot 'cornet' peut désigner un sac en papier en Suisse romande.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "51e19799-7dcc-40c8-8377-33b6ad032629",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Quel mot est un synonyme de 'commencer' ?",
+      "answers": [
+        "Finir",
+        "Débuter",
+        "Continuer",
+        "Arrêter"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "02fd8a03-a529-42c5-89fe-f77fd0e85654",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Dans 'J'ai mangé', le verbe est au passé composé.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "53c24324-eff7-4278-9c8d-9886620172c4",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quelle phrase est correctement ponctuée ?",
+      "answers": [
+        "Comment vas tu",
+        "Comment vas-tu?",
+        "Comment vas-tu ?",
+        "comment vas-tu?"
+      ],
+      "correct_answer": "Comment vas-tu ?",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Duplicate answers detected"
+        ]
+      }
+    },
+    {
+      "id": "8a751f0d-c2f3-4b59-882b-abdeb756f582",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quelle phrase est correcte ?",
+      "answers": [
+        "Elle est gentille.",
+        "Elle est gentil.",
+        "Elles est gentille.",
+        "Elle sont gentille."
+      ],
+      "correct_answer": "Elle est gentille.",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "16ccc1e0-a6eb-40ae-bccb-3c5e1c553757",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Dans le mot 'famille', combien y a-t-il de voyelles ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "1912eb14-aed1-44a6-b507-ea0749a277d9",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Quel est l'antonyme de 'riche' ?",
+      "answers": [
+        "Fortuné",
+        "Pauvre",
+        "Aisé",
+        "Prospère"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "418fe1a7-67dd-47f5-966f-84308bc63588",
+      "grade": 4,
+      "difficulty": 4,
+      "question": "Quelle phrase utilise correctement le subjonctif ?",
+      "answers": [
+        "Il faut que tu viennes.",
+        "Il faut que tu viens.",
+        "Il faut que tu venir.",
+        "Il faut que tu venais."
+      ],
+      "correct_answer": "Il faut que tu viennes.",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "64d1a107-a9c7-4c20-a7cf-978dd09d4da2",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quel est le pluriel de 'caillou' ?",
+      "answers": [
+        "Caillous",
+        "Cailloux",
+        "Cailloues",
+        "Caillouxs"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "4ac64bcb-31bb-4802-bb74-eadb4880ec5a",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'sapin' ?",
+      "answers": [
+        "arbre",
+        "lapin",
+        "forêt",
+        "vert"
+      ],
+      "correct_answer": "lapin",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "b5e8af6d-165b-4328-ab42-4be246c9646b",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Le passé simple est un temps littéraire rarement utilisé à l'oral.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "10295ee0-cd65-43a8-a896-792f91b670dc",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Conjugue 'avoir' à la première personne du singulier au présent.",
+      "answers": [
+        "J'ai",
+        "Je suis",
+        "J'aie",
+        "J'avais"
+      ],
+      "correct_answer": "",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "bd047f09-85f2-4354-9089-eda6cbdc11fd",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Le point d'interrogation se place à la fin d'une question.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "b8f661ff-47b2-4341-b460-62f19a70624a",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'lune' ?",
+      "answers": [
+        "deux",
+        "une",
+        "trois",
+        "quatre"
+      ],
+      "correct_answer": "une",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "b894c3a2-6973-4811-a7a7-672888eb25a3",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Le mot 'souris' peut désigner un animal et un objet informatique.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "58e5781e-9da7-4cbd-a84d-133109b46cfc",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Le Y est-il une voyelle ou une consonne ?",
+      "answers": [
+        "voyelle",
+        "consonne",
+        "ni l'un ni l'autre",
+        "les deux"
+      ],
+      "correct_answer": "voyelle",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "f02eb372-9da7-4da7-9b30-0b1b1e2a01e9",
+      "grade": 6,
+      "difficulty": 2,
+      "question": "Dans 'Julie mange une pomme', quel est le COD ?",
+      "answers": [
+        "Julie",
+        "mange",
+        "une pomme",
+        "une"
+      ],
+      "correct_answer": "2",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "70d6ee2c-204f-49ca-8795-645cf3b24a72",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quel mot est un synonyme de 'erreur' ?",
+      "answers": [
+        "Réussite",
+        "Faute",
+        "Succès",
+        "Victoire"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "e609826c-553d-4363-8c68-acaad2e3e3c5",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'château' ?",
+      "answers": [
+        "roi",
+        "gâteau",
+        "prince",
+        "couronne"
+      ],
+      "correct_answer": "gâteau",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "2ee7fbeb-65fa-4114-991d-c2cd7186f1cb",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Quel est le participe passé de 'vivre' ?",
+      "answers": [
+        "vécu",
+        "vit",
+        "vivé",
+        "vivré"
+      ],
+      "correct_answer": "vécu",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "8ca57968-4ce8-4e32-994f-9cce81550d5f",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Quel mot rime avec 'bateau' ?",
+      "answers": [
+        "mer",
+        "cadeau",
+        "voile",
+        "port"
+      ],
+      "correct_answer": "cadeau",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "717db9de-bfb6-4891-a165-d7229716450d",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Le plus-que-parfait indique une action antérieure à une autre action passée.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "da904c0d-3518-4bf9-b07f-46ca8f41bf9f",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Dans 'il mange', qui est 'il' ?",
+      "answers": [
+        "un garçon ou un homme",
+        "une fille",
+        "moi",
+        "toi"
+      ],
+      "correct_answer": "un garçon ou un homme",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "8e48a963-d342-4b7c-a9c2-77a97f4adfdc",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Laquelle de ces lettres est une voyelle ?",
+      "answers": [
+        "B",
+        "E",
+        "F",
+        "M"
+      ],
+      "correct_answer": "E",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "d77bcdb2-8946-4769-b586-939d93b93764",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Dans 'Les oiseaux chantent', le verbe est au pluriel.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "15837ba8-205d-40f4-bee1-1506c53a2a6a",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est l'antonyme de 'vieux' ?",
+      "answers": [
+        "Ancien",
+        "Jeune",
+        "Âgé",
+        "Usé"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "59427050-2d15-4210-b400-1ec6873a71b1",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quel est le pluriel de 'genou' ?",
+      "answers": [
+        "Genous",
+        "Genoux",
+        "Genoues",
+        "Genouxs"
+      ],
+      "correct_answer": "1",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "a9e457c7-edaf-4d25-8a8e-0e53f0f40a17",
+      "grade": 6,
+      "difficulty": 3,
+      "question": "Le pronom relatif composé 'auquel' remplace 'à + lequel'.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct_answer": "Vrai",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Answers must be an array of 4 options"
+        ]
+      }
+    },
+    {
+      "id": "8a025aac-d9d5-45c1-ab27-0ab2d29a0756",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Dans le mot 'université', combien y a-t-il de voyelles ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "5",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "d870339f-a5f3-459d-be21-13e28af7a88e",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Comment s'écrit le mot pour un véhicule à deux roues ?",
+      "answers": [
+        "vélo",
+        "velo",
+        "vélow",
+        "vélau"
+      ],
+      "correct_answer": "vélo",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "8e2a1470-f183-47a4-9e5c-ab86bf2c4859",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Dans la phrase 'Le chat dort', quel est le verbe ?",
+      "answers": [
+        "Le",
+        "chat",
+        "dort",
+        "Le chat"
+      ],
+      "correct_answer": "dort",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "d86d9297-8458-46de-8d92-111382eb6cdb",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est l'infinitif du verbe dans 'Je mange' ?",
+      "answers": [
+        "Manger",
+        "Mangé",
+        "Mangeant",
+        "Mangeons"
+      ],
+      "correct_answer": "",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    },
+    {
+      "id": "ba2e894e-7251-42c9-b021-06b8d2eebaa5",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Quel mot est un verbe ?",
+      "answers": [
+        "courir",
+        "rouge",
+        "maison",
+        "grand"
+      ],
+      "correct_answer": "courir",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "c8055b29-cfcd-4faa-967b-bf4f5038960e",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Quelle est la 20ème lettre de l'alphabet ?",
+      "answers": [
+        "R",
+        "S",
+        "T",
+        "U"
+      ],
+      "correct_answer": "T",
+      "validation": {
+        "passed": true,
+        "issues": []
+      }
+    },
+    {
+      "id": "bfa9ba9c-f3ac-42d7-873b-e98d1d4fdad0",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Dans 'Paul offre un cadeau à Marie', quel est le COI ?",
+      "answers": [
+        "Paul",
+        "offre",
+        "un cadeau",
+        "à Marie"
+      ],
+      "correct_answer": "3",
+      "validation": {
+        "passed": false,
+        "issues": [
+          "Correct answer not found in answer options"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "grades": [5, 6],
+  "level": "Fortgeschritten (Advanced)",
+  "wordCount": "~3000 Wörter",
+  "vocabulary": {
+    "advanced_topics": [
+      "Europäische Geschichte",
+      "Naturwissenschaften",
+      "Technologie",
+      "Literatur",
+      "Gesellschaft und Politik"
+    ],
+    "abstract_concepts": [
+      "Demokratie",
+      "Gerechtigkeit",
+      "Umweltschutz",
+      "Gleichberechtigung"
+    ],
+    "complex_grammar": [
+      "Relativsätze",
+      "Genitiv",
+      "Passiv",
+      "Konjunktiv I (indirekte Rede)"
+    ]
+  },
+  "complexity": {
+    "sentence_length": "8-12 Wörter",
+    "tenses": ["alle Zeitformen"],
+    "grammar": ["Nebensätze", "Relativsätze", "indirekte Rede"],
+    "allow": ["Fremdwörter", "Fachbegriffe", "Redewendungen"],
+    "style": ["präzise Formulierungen", "differenzierte Ausdrücke"]
+  }
+}

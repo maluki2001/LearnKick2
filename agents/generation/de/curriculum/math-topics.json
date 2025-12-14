@@ -1,0 +1,79 @@
+{
+  "subject": "math",
+  "language": "de",
+  "targetQuestions": 1200,
+  "topics": [
+    {
+      "code": "MA.1.A.1",
+      "name": "Zahlen 0-20",
+      "grades": [1, 2],
+      "difficulty": [1, 2],
+      "keywords": ["zählen", "zahlen", "zahlenwert", "vergleichen"],
+      "questionCount": 100
+    },
+    {
+      "code": "MA.1.A.2",
+      "name": "Addition und Subtraktion bis 20",
+      "grades": [1, 2],
+      "difficulty": [1, 2],
+      "keywords": ["plus", "minus", "addieren", "subtrahieren"],
+      "questionCount": 150
+    },
+    {
+      "code": "MA.2.A.1",
+      "name": "Zahlenraum bis 1000",
+      "grades": [3, 4],
+      "difficulty": [2, 3],
+      "keywords": ["hundert", "tausend", "stellenwert"],
+      "questionCount": 100
+    },
+    {
+      "code": "MA.2.A.2",
+      "name": "Multiplikation",
+      "grades": [3, 4, 5],
+      "difficulty": [2, 3, 4],
+      "keywords": ["mal", "multiplizieren", "einmaleins"],
+      "questionCount": 200
+    },
+    {
+      "code": "MA.2.A.2",
+      "name": "Division",
+      "grades": [3, 4, 5],
+      "difficulty": [2, 3, 4],
+      "keywords": ["geteilt", "dividieren", "rest"],
+      "questionCount": 150
+    },
+    {
+      "code": "MA.2.A.3",
+      "name": "Brüche",
+      "grades": [5, 6],
+      "difficulty": [3, 4, 5],
+      "keywords": ["bruch", "nenner", "zähler", "halb", "viertel"],
+      "questionCount": 200
+    },
+    {
+      "code": "MA.2.A.3",
+      "name": "Dezimalzahlen",
+      "grades": [5, 6],
+      "difficulty": [3, 4, 5],
+      "keywords": ["komma", "dezimal", "zehntel"],
+      "questionCount": 150
+    },
+    {
+      "code": "MA.2.B.1",
+      "name": "Geometrie Formen",
+      "grades": [3, 4, 5, 6],
+      "difficulty": [2, 3],
+      "keywords": ["kreis", "quadrat", "dreieck", "rechteck"],
+      "questionCount": 100
+    },
+    {
+      "code": "MA.2.B.1",
+      "name": "Fläche und Umfang",
+      "grades": [5, 6],
+      "difficulty": [4, 5],
+      "keywords": ["fläche", "umfang", "berechnen", "formel"],
+      "questionCount": 150
+    }
+  ]
+}

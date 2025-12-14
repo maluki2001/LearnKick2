@@ -1,0 +1,123 @@
+FAILED QUESTIONS - DETAILED TECHNICAL REPORT
+================================================================================
+
+1. ID: 69e99c10-a89e-4fbb-939c-a47e4bebc57d
+   Question: Le lac Léman se trouve en Suisse romande.
+   Grade: 3 | Difficulty: 1
+   Answers: ["Richtig","Falsch"]
+   Correct Answer: "true"
+   Failure Reason: Invalid correct_answer: "true" (not an index or matching answer)
+
+2. ID: fcb0f212-8049-49c0-9705-286c5006d3b0
+   Question: Quel animal donne du lait?
+   Grade: 1 | Difficulty: 1
+   Answers: ["La vache","Le chat","Le poisson","L'oiseau"]
+   Correct Answer: ""
+   Failure Reason: Invalid correct_answer: "" (not an index or matching answer)
+
+3. ID: f46a1753-5bbd-4053-952b-c4a4a2b10045
+   Question: Quel objet utilise-t-on quand il pleut?
+   Grade: 1 | Difficulty: 1
+   Answers: ["Un parapluie","Des lunettes de soleil","Un maillot de bain","Une casquette"]
+   Correct Answer: ""
+   Failure Reason: Invalid correct_answer: "" (not an index or matching answer)
+
+4. ID: f017a9ab-eb77-422d-8cfd-cc5227225ee9
+   Question: Le cycle de l'eau comprend l'évaporation, la condensation et les précipitations.
+   Grade: 5 | Difficulty: 3
+   Answers: ["Richtig","Falsch"]
+   Correct Answer: "true"
+   Failure Reason: Invalid correct_answer: "true" (not an index or matching answer)
+
+5. ID: 1dd36a14-e90e-49d3-9a90-92d4a0926536
+   Question: La Terre tourne autour du Soleil.
+   Grade: 4 | Difficulty: 2
+   Answers: ["Richtig","Falsch"]
+   Correct Answer: "true"
+   Failure Reason: Invalid correct_answer: "true" (not an index or matching answer)
+
+6. ID: 938713d3-ddc9-431c-8f3a-17511ad58da7
+   Question: Les insectes ont six pattes.
+   Grade: 3 | Difficulty: 2
+   Answers: ["Richtig","Falsch"]
+   Correct Answer: "true"
+   Failure Reason: Invalid correct_answer: "true" (not an index or matching answer)
+
+7. ID: f5eae6bf-240f-4fb2-96aa-c9432f467991
+   Question: Quelle forme d'énergie est stockée dans les aliments ?
+   Grade: 5 | Difficulty: 2
+   Answers: ["Énergie chimique","Énergie lumineuse","Énergie sonore","Énergie magnétique"]
+   Correct Answer: ""
+   Failure Reason: Invalid correct_answer: "" (not an index or matching answer)
+
+8. ID: 669e0967-5262-4825-aba7-c9953f1e56ec
+   Question: Qu'est-ce qu'un levier ?
+   Grade: 5 | Difficulty: 2
+   Answers: ["Une machine simple qui aide à soulever des objets","Un type de plante","Un animal","Une planète"]
+   Correct Answer: ""
+   Failure Reason: Invalid correct_answer: "" (not an index or matching answer)
+
+9. ID: 87931946-3c32-4f1d-ab96-15deb9abd0f2
+   Question: Qu'est-ce que la photosynthèse ?
+   Grade: 5 | Difficulty: 2
+   Answers: ["Le processus par lequel les plantes fabriquent leur nourriture","La respiration des animaux","La croissance des champignons","Le sommeil des plantes"]
+   Correct Answer: ""
+   Failure Reason: Invalid correct_answer: "" (not an index or matching answer)
+
+10. ID: 1104f83e-87bf-4fd6-975b-0e42c138d666
+   Question: La température se mesure en degrés Celsius.
+   Grade: 3 | Difficulty: 1
+   Answers: ["Richtig","Falsch"]
+   Correct Answer: "true"
+   Failure Reason: Invalid correct_answer: "true" (not an index or matching answer)
+
+================================================================================
+SUMMARY BY FAILURE TYPE:
+================================================================================
+
+Empty correct_answer: 5 questions
+Format mismatch (true vs array): 5 questions
+
+SQL UPDATE SCRIPT TO FIX ISSUES:
+================================================================================
+
+-- 1. Le lac Léman se trouve en Suisse romande.
+-- Convert "true" to index "0" (Vrai/True)
+UPDATE questions SET correct_answer = '0' WHERE id = '69e99c10-a89e-4fbb-939c-a47e4bebc57d';
+
+-- 2. Quel animal donne du lait?
+-- TODO: Determine correct answer from: ["La vache","Le chat","Le poisson","L'oiseau"]
+UPDATE questions SET correct_answer = '?' WHERE id = 'fcb0f212-8049-49c0-9705-286c5006d3b0';
+
+-- 3. Quel objet utilise-t-on quand il pleut?
+-- TODO: Determine correct answer from: ["Un parapluie","Des lunettes de soleil","Un maillot de bain","Une casquette"]
+UPDATE questions SET correct_answer = '?' WHERE id = 'f46a1753-5bbd-4053-952b-c4a4a2b10045';
+
+-- 4. Le cycle de l'eau comprend l'évaporation, la condensation et les précipitations.
+-- Convert "true" to index "0" (Vrai/True)
+UPDATE questions SET correct_answer = '0' WHERE id = 'f017a9ab-eb77-422d-8cfd-cc5227225ee9';
+
+-- 5. La Terre tourne autour du Soleil.
+-- Convert "true" to index "0" (Vrai/True)
+UPDATE questions SET correct_answer = '0' WHERE id = '1dd36a14-e90e-49d3-9a90-92d4a0926536';
+
+-- 6. Les insectes ont six pattes.
+-- Convert "true" to index "0" (Vrai/True)
+UPDATE questions SET correct_answer = '0' WHERE id = '938713d3-ddc9-431c-8f3a-17511ad58da7';
+
+-- 7. Quelle forme d'énergie est stockée dans les aliments ?
+-- TODO: Determine correct answer from: ["Énergie chimique","Énergie lumineuse","Énergie sonore","Énergie magnétique"]
+UPDATE questions SET correct_answer = '?' WHERE id = 'f5eae6bf-240f-4fb2-96aa-c9432f467991';
+
+-- 8. Qu'est-ce qu'un levier ?
+-- TODO: Determine correct answer from: ["Une machine simple qui aide à soulever des objets","Un type de plante","Un animal","Une planète"]
+UPDATE questions SET correct_answer = '?' WHERE id = '669e0967-5262-4825-aba7-c9953f1e56ec';
+
+-- 9. Qu'est-ce que la photosynthèse ?
+-- TODO: Determine correct answer from: ["Le processus par lequel les plantes fabriquent leur nourriture","La respiration des animaux","La croissance des champignons","Le sommeil des plantes"]
+UPDATE questions SET correct_answer = '?' WHERE id = '87931946-3c32-4f1d-ab96-15deb9abd0f2';
+
+-- 10. La température se mesure en degrés Celsius.
+-- Convert "true" to index "0" (Vrai/True)
+UPDATE questions SET correct_answer = '0' WHERE id = '1104f83e-87bf-4fd6-975b-0e42c138d666';
+

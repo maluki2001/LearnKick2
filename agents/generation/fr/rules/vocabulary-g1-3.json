@@ -1,0 +1,41 @@
+{
+  "degres": [1, 2, 3],
+  "trancheAge": "6-9 ans",
+  "tailleVocabulaire": "~1000 mots",
+  "longueurPhrase": {
+    "min": 3,
+    "max": 8,
+    "recommande": "4-6 mots"
+  },
+  "complexite": "simple",
+  "categories": [
+    "nombres (0-100)",
+    "couleurs",
+    "animaux",
+    "famille",
+    "objets scolaires",
+    "nourriture",
+    "parties du corps",
+    "jours de la semaine",
+    "mois",
+    "météo",
+    "verbes courants (être, avoir, aller, voir, manger, jouer)",
+    "adjectifs de base (grand, petit, content, triste)"
+  ],
+  "grammaire": {
+    "temps": ["présent"],
+    "phrases": ["phrases simples", "questions de base"],
+    "eviter": ["subordonnées", "voix passive", "conditionnels complexes"]
+  },
+  "exemples": {
+    "appropries": [
+      "Quelle est la couleur du ciel?",
+      "Combien y a-t-il de pommes?",
+      "Le chat dort."
+    ],
+    "tropComplexe": [
+      "S'il pleut, nous resterons à l'intérieur.",
+      "Le livre que j'ai lu hier était intéressant."
+    ]
+  }
+}

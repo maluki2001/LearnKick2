@@ -1,0 +1,39 @@
+{
+  "subject": "others",
+  "language": "de",
+  "targetQuestions": 400,
+  "topics": [
+    {
+      "code": "MU.1.A.1",
+      "name": "Lieder und Rhythmen",
+      "grades": [1, 2, 3],
+      "difficulty": [1, 2],
+      "keywords": ["lieder", "rhythmus", "melodie"],
+      "questionCount": 100
+    },
+    {
+      "code": "MU.2.A.1",
+      "name": "Instrumente",
+      "grades": [3, 4, 5, 6],
+      "difficulty": [2, 3, 4],
+      "keywords": ["instrumente", "orchester", "noten"],
+      "questionCount": 100
+    },
+    {
+      "code": "BS.1.A.1",
+      "name": "Bewegung und Spiel",
+      "grades": [1, 2, 3],
+      "difficulty": [1, 2],
+      "keywords": ["bewegung", "sport", "spiele"],
+      "questionCount": 100
+    },
+    {
+      "code": "BS.2.A.1",
+      "name": "Sportarten und Regeln",
+      "grades": [4, 5, 6],
+      "difficulty": [2, 3, 4],
+      "keywords": ["sportarten", "regeln", "mannschaft", "fair play"],
+      "questionCount": 100
+    }
+  ]
+}

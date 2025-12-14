@@ -1,0 +1,1664 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la capitale de la Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Berne", "Zurich", "Genève", "Lausanne"],
+      "correctAnswer": "Berne"
+    },
+    {
+      "question": "Dans quel pays vivons-nous?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Suisse", "France", "Allemagne", "Italie"],
+      "correctAnswer": "Suisse"
+    },
+    {
+      "question": "Quel est le plus grand lac de Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Lac Léman", "Lac de Neuchâtel", "Lac de Zurich", "Lac des Quatre-Cantons"],
+      "correctAnswer": "Lac Léman"
+    },
+    {
+      "question": "La Suisse a des montagnes.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Genève se trouve au bord de quel lac?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Lac Léman", "Lac de Neuchâtel", "Lac de Zurich", "Lac de Constance"],
+      "correctAnswer": "Lac Léman"
+    },
+    {
+      "question": "La Suisse est au milieu de l'océan.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quelle ville suisse est connue pour son jet d'eau?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Genève", "Lausanne", "Berne", "Fribourg"],
+      "correctAnswer": "Genève"
+    },
+    {
+      "question": "Les Alpes sont des montagnes.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de langues nationales a la Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Quatre", "Deux", "Trois", "Cinq"],
+      "correctAnswer": "Quatre"
+    },
+    {
+      "question": "Lausanne est une ville suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle couleur n'est PAS dans le drapeau suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Bleu", "Rouge", "Blanc"],
+      "correctAnswer": "Bleu"
+    },
+    {
+      "question": "Le Rhin est une rivière suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville est la plus grande de Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Zurich", "Genève", "Bâle", "Berne"],
+      "correctAnswer": "Zurich"
+    },
+    {
+      "question": "La France est un pays voisin de la Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Dans quelle partie de la Suisse se trouve le Jura?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Nord-ouest", "Sud", "Est", "Centre"],
+      "correctAnswer": "Nord-ouest"
+    },
+    {
+      "question": "L'Italie touche la Suisse au sud.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle montagne est la plus haute de Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Pointe Dufour", "Cervin", "Jungfrau", "Eiger"],
+      "correctAnswer": "Pointe Dufour"
+    },
+    {
+      "question": "Neuchâtel a un lac qui porte son nom.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel fleuve passe par Bâle?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le Rhin", "Le Rhône", "L'Aar", "La Reuss"],
+      "correctAnswer": "Le Rhin"
+    },
+    {
+      "question": "La Suisse a un accès à la mer.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Combien de cantons compte la Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["26", "20", "23", "30"],
+      "correctAnswer": "26"
+    },
+    {
+      "question": "Fribourg est une ville suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville suisse est connue pour ses horloges?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Berne", "Genève", "Lausanne", "Sion"],
+      "correctAnswer": "Berne"
+    },
+    {
+      "question": "Le Rhône traverse la Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel canton a pour capitale Sion?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Valais", "Vaud", "Genève", "Fribourg"],
+      "correctAnswer": "Valais"
+    },
+    {
+      "question": "Quel canton suisse parle principalement français?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vaud", "Zurich", "Berne", "Lucerne"],
+      "correctAnswer": "Vaud"
+    },
+    {
+      "question": "Le Cervin est situé dans les Alpes.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale du canton de Vaud?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Lausanne", "Genève", "Montreux", "Nyon"],
+      "correctAnswer": "Lausanne"
+    },
+    {
+      "question": "L'Allemagne partage une frontière avec la Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien de pays touchent la Suisse?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Cinq", "Quatre", "Six", "Trois"],
+      "correctAnswer": "Cinq"
+    },
+    {
+      "question": "Le Jura est une chaîne de montagnes suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville est la capitale du canton de Genève?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Genève", "Lausanne", "Nyon", "Carouge"],
+      "correctAnswer": "Genève"
+    },
+    {
+      "question": "La Suisse fait partie de l'Union européenne.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel lac se trouve entre la Suisse et l'Allemagne?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Lac de Constance", "Lac Léman", "Lac de Zurich", "Lac de Neuchâtel"],
+      "correctAnswer": "Lac de Constance"
+    },
+    {
+      "question": "Bâle se trouve au nord de la Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle région suisse est connue pour ses vignobles?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Lavaux", "Jura", "Plateau", "Alpes"],
+      "correctAnswer": "Lavaux"
+    },
+    {
+      "question": "Le Tessin est un canton italophone.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville accueille le siège de l'ONU en Europe?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Genève", "Berne", "Zurich", "Lausanne"],
+      "correctAnswer": "Genève"
+    },
+    {
+      "question": "L'Autriche est un pays voisin de la Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le point culminant des Alpes?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Mont Blanc", "Cervin", "Jungfrau", "Eiger"],
+      "correctAnswer": "Mont Blanc"
+    },
+    {
+      "question": "Le Plateau suisse est la région la plus peuplée.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle rivière coule à Berne?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["L'Aar", "Le Rhin", "Le Rhône", "La Reuss"],
+      "correctAnswer": "L'Aar"
+    },
+    {
+      "question": "Lugano se trouve dans le canton du Tessin.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville suisse est connue pour son carnaval?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Bâle", "Genève", "Lausanne", "Fribourg"],
+      "correctAnswer": "Bâle"
+    },
+    {
+      "question": "La Suisse romande est la partie francophone.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel lac est partagé entre la Suisse et la France?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Lac Léman", "Lac de Neuchâtel", "Lac de Zurich", "Lac de Constance"],
+      "correctAnswer": "Lac Léman"
+    },
+    {
+      "question": "Montreux est célèbre pour son festival de jazz.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale du canton de Neuchâtel?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Neuchâtel", "La Chaux-de-Fonds", "Yverdon", "Lausanne"],
+      "correctAnswer": "Neuchâtel"
+    },
+    {
+      "question": "Le Liechtenstein touche la Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville est surnommée la capitale olympique?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Lausanne", "Genève", "Berne", "Zurich"],
+      "correctAnswer": "Lausanne"
+    },
+    {
+      "question": "Quel continent se trouve au sud de l'Europe?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Afrique", "Asie", "Amérique", "Océanie"],
+      "correctAnswer": "Afrique"
+    },
+    {
+      "question": "La Tour Eiffel se trouve en France.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la France?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Paris", "Lyon", "Marseille", "Toulouse"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Le Rhône se jette dans la mer Méditerranée.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Combien y a-t-il de continents sur Terre?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Sept", "Cinq", "Six", "Huit"],
+      "correctAnswer": "Sept"
+    },
+    {
+      "question": "L'Italie a la forme d'une botte.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Italie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Rome", "Milan", "Venise", "Florence"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "question": "Le canton de Fribourg est bilingue français-allemand.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel océan se trouve à l'ouest de l'Europe?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Océan Atlantique", "Océan Pacifique", "Océan Indien", "Océan Arctique"],
+      "correctAnswer": "Océan Atlantique"
+    },
+    {
+      "question": "Le désert du Sahara est en Afrique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Allemagne?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Berlin", "Munich", "Hambourg", "Francfort"],
+      "correctAnswer": "Berlin"
+    },
+    {
+      "question": "La Jungfrau se trouve dans les Alpes bernoises.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel fleuve est le plus long d'Europe?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["La Volga", "Le Danube", "Le Rhin", "La Seine"],
+      "correctAnswer": "La Volga"
+    },
+    {
+      "question": "Londres est la capitale du Royaume-Uni.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle mer borde l'Italie au sud?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Mer Méditerranée", "Mer du Nord", "Mer Baltique", "Mer Noire"],
+      "correctAnswer": "Mer Méditerranée"
+    },
+    {
+      "question": "Le Pôle Nord est recouvert de glace.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays a pour capitale Madrid?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Espagne", "Portugal", "Italie", "France"],
+      "correctAnswer": "Espagne"
+    },
+    {
+      "question": "Le Grand Canyon se trouve aux États-Unis.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle chaîne de montagnes sépare la France de l'Espagne?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Les Pyrénées", "Les Alpes", "Les Apennins", "Le Jura"],
+      "correctAnswer": "Les Pyrénées"
+    },
+    {
+      "question": "Le Nil est le plus long fleuve d'Afrique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Espagne?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Madrid", "Barcelone", "Séville", "Valence"],
+      "correctAnswer": "Madrid"
+    },
+    {
+      "question": "La Grisons est le plus grand canton suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Antarctique", "Sahara", "Gobi", "Arabie"],
+      "correctAnswer": "Antarctique"
+    },
+    {
+      "question": "L'Amazone coule en Amérique du Sud.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville est connue comme la Cité des Doges?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Venise", "Rome", "Florence", "Milan"],
+      "correctAnswer": "Venise"
+    },
+    {
+      "question": "Le Mont-Blanc est entièrement en Suisse.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel canton suisse a trois langues officielles?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Grisons", "Berne", "Fribourg", "Valais"],
+      "correctAnswer": "Grisons"
+    },
+    {
+      "question": "L'Équateur traverse l'Afrique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale du Portugal?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Lisbonne", "Porto", "Faro", "Coimbra"],
+      "correctAnswer": "Lisbonne"
+    },
+    {
+      "question": "Quelle est la capitale du Canada?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Ottawa", "Toronto", "Montréal", "Vancouver"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "question": "L'Everest est la plus haute montagne du monde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays est appelé le Pays du Soleil Levant?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Japon", "Chine", "Corée du Sud", "Thaïlande"],
+      "correctAnswer": "Japon"
+    },
+    {
+      "question": "La Chine est le pays le plus peuplé du monde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "question": "Le Danube traverse plusieurs pays européens.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel est le plus grand pays du monde par superficie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Russie", "Canada", "États-Unis", "Chine"],
+      "correctAnswer": "Russie"
+    },
+    {
+      "question": "Le Groenland appartient au Danemark.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville est la capitale de la Belgique?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Bruxelles", "Anvers", "Bruges", "Liège"],
+      "correctAnswer": "Bruxelles"
+    },
+    {
+      "question": "La forêt amazonienne produit beaucoup d'oxygène.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel fleuve coule à travers l'Égypte?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le Nil", "Le Congo", "Le Niger", "Le Zambèze"],
+      "correctAnswer": "Le Nil"
+    },
+    {
+      "question": "La Suisse alémanique est la partie germanophone.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale des Pays-Bas?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Amsterdam", "La Haye", "Rotterdam", "Utrecht"],
+      "correctAnswer": "Amsterdam"
+    },
+    {
+      "question": "L'Islande est connue pour ses volcans et geysers.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel océan est le plus grand?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Océan Pacifique", "Océan Atlantique", "Océan Indien", "Océan Arctique"],
+      "correctAnswer": "Océan Pacifique"
+    },
+    {
+      "question": "Le Mékong coule en Asie du Sud-Est.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Grèce?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Athènes", "Thessalonique", "Patras", "Héraklion"],
+      "correctAnswer": "Athènes"
+    },
+    {
+      "question": "Le Kilimandjaro est en Afrique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel détroit sépare l'Europe de l'Afrique?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Détroit de Gibraltar", "Détroit de Bosphore", "Détroit de Béring", "Détroit de Magellan"],
+      "correctAnswer": "Détroit de Gibraltar"
+    },
+    {
+      "question": "La Nouvelle-Zélande compte deux îles principales.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle ville est surnommée la Grosse Pomme?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["New York", "Los Angeles", "Chicago", "Boston"],
+      "correctAnswer": "New York"
+    },
+    {
+      "question": "Le canal de Suez relie la Méditerranée à la mer Rouge.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Suède?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Stockholm", "Oslo", "Copenhague", "Helsinki"],
+      "correctAnswer": "Stockholm"
+    },
+    {
+      "question": "Le lac Baïkal est le plus profond du monde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays a la plus grande population en Afrique?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Nigeria", "Éthiopie", "Égypte", "Afrique du Sud"],
+      "correctAnswer": "Nigeria"
+    },
+    {
+      "question": "Le Röstigraben divise la Suisse linguistiquement.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Norvège?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Oslo", "Bergen", "Stavanger", "Trondheim"],
+      "correctAnswer": "Oslo"
+    },
+    {
+      "question": "Les Andes sont en Amérique du Sud.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle île est la plus grande du monde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Groenland", "Nouvelle-Guinée", "Bornéo", "Madagascar"],
+      "correctAnswer": "Groenland"
+    },
+    {
+      "question": "Quelle est la capitale du Brésil?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+      "correctAnswer": "Brasília"
+    },
+    {
+      "question": "Le canal de Panama relie deux océans.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Inde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["New Delhi", "Mumbai", "Calcutta", "Bangalore"],
+      "correctAnswer": "New Delhi"
+    },
+    {
+      "question": "Le fleuve Yangtsé se trouve en Chine.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays européen a le plus de fuseaux horaires?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["France", "Russie", "Royaume-Uni", "Espagne"],
+      "correctAnswer": "France"
+    },
+    {
+      "question": "La mer Morte est le point le plus bas de la Terre.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Turquie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Ankara", "Istanbul", "Izmir", "Antalya"],
+      "correctAnswer": "Ankara"
+    },
+    {
+      "question": "Le Bosphore sépare l'Europe de l'Asie.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays possède le plus de lacs au monde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Canada", "Finlande", "Suède", "Russie"],
+      "correctAnswer": "Canada"
+    },
+    {
+      "question": "Le Grand Rift africain est une faille géologique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Argentine?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+      "correctAnswer": "Buenos Aires"
+    },
+    {
+      "question": "La Finlande est surnommée le pays aux mille lacs.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays a la plus longue côte au monde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Canada", "Indonésie", "Russie", "Norvège"],
+      "correctAnswer": "Canada"
+    },
+    {
+      "question": "Le Mont Kilimandjaro est un volcan.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle chaîne de montagnes traverse l'Amérique du Sud?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Les Andes", "Les Rocheuses", "L'Himalaya", "Les Alpes"],
+      "correctAnswer": "Les Andes"
+    },
+    {
+      "question": "Le lac Victoria est en Afrique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale du Mexique?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Mexico", "Guadalajara", "Monterrey", "Cancún"],
+      "correctAnswer": "Mexico"
+    },
+    {
+      "question": "Les îles Galápagos appartiennent à l'Équateur.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Londres?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["La Tamise", "La Seine", "Le Rhin", "Le Danube"],
+      "correctAnswer": "La Tamise"
+    },
+    {
+      "question": "Madagascar est une île au large de l'Afrique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Autriche?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vienne", "Salzbourg", "Innsbruck", "Graz"],
+      "correctAnswer": "Vienne"
+    },
+    {
+      "question": "Le Sahara s'agrandit chaque année.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays compte le plus d'îles au monde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Suède", "Indonésie", "Philippines", "Japon"],
+      "correctAnswer": "Suède"
+    },
+    {
+      "question": "L'Oural sépare l'Europe de l'Asie.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Pologne?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Varsovie", "Cracovie", "Gdansk", "Wroclaw"],
+      "correctAnswer": "Varsovie"
+    },
+    {
+      "question": "Le désert d'Atacama est l'un des plus secs du monde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel fleuve traverse Paris?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["La Seine", "La Loire", "Le Rhône", "La Garonne"],
+      "correctAnswer": "La Seine"
+    },
+    {
+      "question": "Les chutes du Niagara sont partagées entre le Canada et les États-Unis.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la République tchèque?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Prague", "Brno", "Ostrava", "Pilsen"],
+      "correctAnswer": "Prague"
+    },
+    {
+      "question": "Quelle est la capitale de la Chine?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Pékin", "Shanghai", "Hong Kong", "Canton"],
+      "correctAnswer": "Pékin"
+    },
+    {
+      "question": "La Grande Muraille de Chine est visible depuis l'espace.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vatican", "Monaco", "Saint-Marin", "Liechtenstein"],
+      "correctAnswer": "Vatican"
+    },
+    {
+      "question": "Le Gange est un fleuve sacré en Inde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Corée du Sud?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Séoul", "Busan", "Incheon", "Daegu"],
+      "correctAnswer": "Séoul"
+    },
+    {
+      "question": "L'Islande se trouve sur la dorsale médio-atlantique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Égypte?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Le Caire", "Alexandrie", "Louxor", "Assouan"],
+      "correctAnswer": "Le Caire"
+    },
+    {
+      "question": "Le cercle polaire arctique traverse la Norvège.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays a pour capitale Islamabad?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Pakistan", "Afghanistan", "Bangladesh", "Iran"],
+      "correctAnswer": "Pakistan"
+    },
+    {
+      "question": "Le tropique du Cancer passe par le Mexique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Thaïlande?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Bangkok", "Phuket", "Chiang Mai", "Pattaya"],
+      "correctAnswer": "Bangkok"
+    },
+    {
+      "question": "Le détroit de Malacca est une route maritime importante.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays a le plus de volcans actifs?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Indonésie", "Japon", "Philippines", "Islande"],
+      "correctAnswer": "Indonésie"
+    },
+    {
+      "question": "La mer Caspienne est le plus grand lac du monde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Afrique du Sud?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Pretoria", "Le Cap", "Johannesburg", "Durban"],
+      "correctAnswer": "Pretoria"
+    },
+    {
+      "question": "Le Congo possède la deuxième plus grande forêt tropicale.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Malaisie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Kuala Lumpur", "Singapour", "Jakarta", "Manille"],
+      "correctAnswer": "Kuala Lumpur"
+    },
+    {
+      "question": "Les monts Oural marquent la limite Europe-Asie.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel pays possède la forêt amazonienne sur son territoire?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Brésil", "Argentine", "Chili", "Uruguay"],
+      "correctAnswer": "Brésil"
+    },
+    {
+      "question": "Le lac Titicaca est le plus haut lac navigable du monde.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Indonésie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Jakarta", "Bali", "Surabaya", "Bandung"],
+      "correctAnswer": "Jakarta"
+    },
+    {
+      "question": "Le fleuve Colorado a creusé le Grand Canyon.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale du Vietnam?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Hanoï", "Hô Chi Minh-Ville", "Da Nang", "Hué"],
+      "correctAnswer": "Hanoï"
+    },
+    {
+      "question": "Les îles Maldives risquent de disparaître à cause du réchauffement climatique.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quel désert se trouve en Mongolie et Chine?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Gobi", "Sahara", "Kalahari", "Atacama"],
+      "correctAnswer": "Gobi"
+    },
+    {
+      "question": "La Patagonie se trouve en Argentine et au Chili.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de la Hongrie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Budapest", "Prague", "Varsovie", "Bucarest"],
+      "correctAnswer": "Budapest"
+    },
+    {
+      "question": "Le mont Fuji est un volcan au Japon.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai"
+    },
+    {
+      "question": "Quelle est la capitale de l'Éthiopie?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["Addis-Abeba", "Nairobi", "Kampala", "Khartoum"],
+      "correctAnswer": "Addis-Abeba"
+    }
+  ]
+}

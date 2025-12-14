@@ -1,0 +1,44 @@
+{
+  "country": "Schweiz",
+  "cultural_references": {
+    "geography": {
+      "cities": ["Zürich", "Bern", "Basel", "Genf", "Lausanne", "Luzern"],
+      "mountains": ["Matterhorn", "Jungfrau", "Eiger", "Pilatus"],
+      "lakes": ["Bodensee", "Genfersee", "Vierwaldstättersee", "Zürichsee"],
+      "rivers": ["Rhein", "Aare", "Rhone", "Reuss"],
+      "cantons": ["26 Kantone", "Zürich", "Bern", "Luzern", "Uri"]
+    },
+    "traditions": {
+      "holidays": ["Bundesfeiertag (1. August)", "Fasnacht", "Sechseläuten"],
+      "food": ["Fondue", "Raclette", "Rösti", "Schokolade", "Käse"],
+      "symbols": ["Schweizerkreuz", "Edelweiss", "Murmeltier", "Kuh mit Glocke"]
+    },
+    "swiss_specifics": {
+      "language_note": "Hochdeutsch mit Schweizer Besonderheiten",
+      "spelling": ["ss statt ß", "Strasse nicht Straße"],
+      "vocabulary": [
+        "Velo (nicht Fahrrad)",
+        "parkieren (nicht parken)",
+        "Trottoir (nicht Bürgersteig)"
+      ],
+      "currency": "Schweizer Franken (CHF)",
+      "politics": ["Direkte Demokratie", "Bundesrat", "Neutralität"]
+    },
+    "education_system": {
+      "grades": "1. bis 6. Klasse = Primarschule",
+      "languages": ["Deutsch", "Französisch", "Italienisch", "Rätoromanisch"],
+      "curriculum": "Lehrplan 21"
+    }
+  },
+  "avoid": {
+    "german_specific": ["Bundesländer", "Euro", "Deutschland-zentrische Beispiele"],
+    "austrian_specific": ["Schilling", "österreichische Begriffe"],
+    "inappropriate": ["Stereotype", "regionale Vorurteile", "politische Themen"]
+  },
+  "preferred_examples": [
+    "Schweizer Städte statt deutscher Städte",
+    "CHF statt EUR",
+    "Schweizer Geschichte und Persönlichkeiten",
+    "Alpen-Bezug wo möglich"
+  ]
+}

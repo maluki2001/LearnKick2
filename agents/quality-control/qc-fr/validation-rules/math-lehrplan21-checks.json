@@ -1,0 +1,314 @@
+{
+  "curriculum": "Lehrplan 21",
+  "subject": "math",
+  "description": "Swiss Lehrplan 21 Mathematics Grade-Specific Rules",
+  "totalChecks": 25,
+  "autoReject": ["M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08"],
+
+  "gradeRules": {
+    "1": {
+      "description": "1. Klasse (6-7 Jahre)",
+      "addition": {
+        "maxSum": 20,
+        "description": "Addition im Zahlenraum bis 20"
+      },
+      "subtraction": {
+        "maxMinuend": 20,
+        "description": "Subtraktion im Zahlenraum bis 20"
+      },
+      "multiplication": {
+        "allowed": false,
+        "description": "Keine Multiplikation in Klasse 1"
+      },
+      "division": {
+        "allowed": false,
+        "description": "Keine Division in Klasse 1"
+      },
+      "numberRange": {
+        "max": 20,
+        "description": "Zahlenraum bis 20"
+      }
+    },
+
+    "2": {
+      "description": "2. Klasse (7-8 Jahre)",
+      "addition": {
+        "maxSum": 100,
+        "description": "Addition im Zahlenraum bis 100"
+      },
+      "subtraction": {
+        "maxMinuend": 100,
+        "description": "Subtraktion im Zahlenraum bis 100"
+      },
+      "multiplication": {
+        "allowed": true,
+        "allowedTables": [2, 5, 10],
+        "description": "NUR 2er, 5er und 10er Reihe (Lehrplan 21)",
+        "note": "Grade 2 introduces concept of multiplication with ONLY 2x, 5x, 10x tables",
+        "validPairs": [
+          [2,1], [2,2], [2,3], [2,4], [2,5], [2,6], [2,7], [2,8], [2,9], [2,10],
+          [1,2], [3,2], [4,2], [5,2], [6,2], [7,2], [8,2], [9,2], [10,2],
+          [5,1], [5,2], [5,3], [5,4], [5,5], [5,6], [5,7], [5,8], [5,9], [5,10],
+          [1,5], [3,5], [4,5], [6,5], [7,5], [8,5], [9,5],
+          [10,1], [10,2], [10,3], [10,4], [10,5], [10,6], [10,7], [10,8], [10,9], [10,10],
+          [1,10], [3,10], [4,10], [6,10], [7,10], [8,10], [9,10]
+        ]
+      },
+      "division": {
+        "allowed": true,
+        "allowedDivisors": [2, 5, 10],
+        "maxDividend": 100,
+        "description": "Division NUR durch 2, 5 oder 10 (entsprechend den erlaubten Multiplikationstabellen)"
+      },
+      "numberRange": {
+        "max": 100,
+        "description": "Zahlenraum bis 100"
+      }
+    },
+
+    "3": {
+      "description": "3. Klasse (8-9 Jahre)",
+      "addition": {
+        "maxSum": 1000,
+        "description": "Addition im Zahlenraum bis 1000"
+      },
+      "subtraction": {
+        "maxMinuend": 1000,
+        "description": "Subtraktion im Zahlenraum bis 1000"
+      },
+      "multiplication": {
+        "allowed": true,
+        "maxFactor": 10,
+        "description": "Das kleine Einmaleins (1x1 bis 10x10)",
+        "note": "Vollständiges kleines Einmaleins"
+      },
+      "division": {
+        "allowed": true,
+        "maxDividend": 100,
+        "maxDivisor": 10,
+        "description": "Division entsprechend dem kleinen Einmaleins"
+      },
+      "numberRange": {
+        "max": 1000,
+        "description": "Zahlenraum bis 1000"
+      }
+    },
+
+    "4": {
+      "description": "4. Klasse (9-10 Jahre)",
+      "addition": {
+        "maxSum": 10000,
+        "description": "Addition im Zahlenraum bis 10'000"
+      },
+      "subtraction": {
+        "maxMinuend": 10000,
+        "description": "Subtraktion im Zahlenraum bis 10'000"
+      },
+      "multiplication": {
+        "allowed": true,
+        "maxFactor": 12,
+        "twoDigitAllowed": true,
+        "description": "Erweitertes Einmaleins, zweistellige Faktoren"
+      },
+      "division": {
+        "allowed": true,
+        "maxDividend": 1000,
+        "maxDivisor": 12,
+        "description": "Division mit grösseren Zahlen"
+      },
+      "numberRange": {
+        "max": 10000,
+        "description": "Zahlenraum bis 10'000"
+      },
+      "decimals": {
+        "allowed": true,
+        "maxPlaces": 1,
+        "description": "Einführung Dezimalzahlen (Zehntel)"
+      }
+    },
+
+    "5": {
+      "description": "5. Klasse (10-11 Jahre)",
+      "addition": {
+        "maxSum": 100000,
+        "description": "Addition im Zahlenraum bis 100'000"
+      },
+      "subtraction": {
+        "maxMinuend": 100000,
+        "description": "Subtraktion im Zahlenraum bis 100'000"
+      },
+      "multiplication": {
+        "allowed": true,
+        "multiDigitAllowed": true,
+        "description": "Schriftliche Multiplikation"
+      },
+      "division": {
+        "allowed": true,
+        "longDivision": true,
+        "description": "Schriftliche Division"
+      },
+      "numberRange": {
+        "max": 100000,
+        "description": "Zahlenraum bis 100'000"
+      },
+      "decimals": {
+        "allowed": true,
+        "maxPlaces": 2,
+        "description": "Dezimalzahlen (Hundertstel)"
+      },
+      "fractions": {
+        "allowed": true,
+        "description": "Bruchrechnen Grundlagen"
+      }
+    },
+
+    "6": {
+      "description": "6. Klasse (11-12 Jahre)",
+      "addition": {
+        "maxSum": 1000000,
+        "description": "Addition im Zahlenraum bis 1'000'000"
+      },
+      "subtraction": {
+        "maxMinuend": 1000000,
+        "description": "Subtraktion im Zahlenraum bis 1'000'000"
+      },
+      "multiplication": {
+        "allowed": true,
+        "multiDigitAllowed": true,
+        "description": "Alle Multiplikationsformen"
+      },
+      "division": {
+        "allowed": true,
+        "longDivision": true,
+        "description": "Alle Divisionsformen"
+      },
+      "numberRange": {
+        "max": 1000000,
+        "description": "Zahlenraum bis 1'000'000"
+      },
+      "decimals": {
+        "allowed": true,
+        "maxPlaces": 3,
+        "description": "Dezimalzahlen (Tausendstel)"
+      },
+      "fractions": {
+        "allowed": true,
+        "operations": ["add", "subtract", "multiply", "divide"],
+        "description": "Bruchrechnen alle Operationen"
+      },
+      "percentages": {
+        "allowed": true,
+        "description": "Prozentrechnen"
+      }
+    }
+  },
+
+  "checks": [
+    {
+      "id": "M01",
+      "name": "Multiplikation Faktor-Limit",
+      "description": "Multiplikationsfaktoren müssen dem Klassenstufenlimit entsprechen",
+      "severity": "critical",
+      "rule": "For multiplication questions, both factors must be <= gradeRules[grade].multiplication.maxFactor",
+      "examples": {
+        "grade2_pass": "3 × 4 = 12 (beide Faktoren ≤ 5)",
+        "grade2_fail": "9 × 3 = 27 (9 > 5, gehört in Klasse 3)"
+      }
+    },
+    {
+      "id": "M02",
+      "name": "Addition Summen-Limit",
+      "description": "Additionssummen müssen im Zahlenraum der Klassenstufe liegen",
+      "severity": "critical",
+      "rule": "For addition questions, the sum must be <= gradeRules[grade].addition.maxSum",
+      "examples": {
+        "grade1_pass": "7 + 8 = 15 (≤ 20)",
+        "grade1_fail": "15 + 12 = 27 (> 20, gehört in Klasse 2)"
+      }
+    },
+    {
+      "id": "M03",
+      "name": "Subtraktion Minuend-Limit",
+      "description": "Subtraktionen müssen im Zahlenraum der Klassenstufe liegen",
+      "severity": "critical",
+      "rule": "For subtraction, the minuend must be <= gradeRules[grade].subtraction.maxMinuend"
+    },
+    {
+      "id": "M04",
+      "name": "Division Dividend-Limit",
+      "description": "Divisionen müssen dem Klassenstufenlimit entsprechen",
+      "severity": "critical",
+      "rule": "For division, dividend <= gradeRules[grade].division.maxDividend AND divisor <= gradeRules[grade].division.maxDivisor"
+    },
+    {
+      "id": "M05",
+      "name": "Operation erlaubt für Klasse",
+      "description": "Die mathematische Operation muss für die Klassenstufe erlaubt sein",
+      "severity": "critical",
+      "rule": "Check if operation (multiplication, division, etc.) is allowed for grade",
+      "examples": {
+        "fail": "Multiplikation in Klasse 1 ist nicht erlaubt"
+      }
+    },
+    {
+      "id": "M06",
+      "name": "Zahlenraum-Limit",
+      "description": "Alle Zahlen müssen im Zahlenraum der Klassenstufe liegen",
+      "severity": "critical",
+      "rule": "All numbers in question must be <= gradeRules[grade].numberRange.max"
+    },
+    {
+      "id": "M07",
+      "name": "Dezimalzahlen-Limit",
+      "description": "Dezimalstellen müssen dem Klassenstufenlimit entsprechen",
+      "severity": "critical",
+      "rule": "Decimal places must be <= gradeRules[grade].decimals.maxPlaces (if allowed)"
+    },
+    {
+      "id": "M08",
+      "name": "Bruchrechnen erlaubt",
+      "description": "Bruchrechnen nur wenn für Klassenstufe erlaubt",
+      "severity": "critical",
+      "rule": "Fractions only allowed if gradeRules[grade].fractions.allowed === true"
+    },
+    {
+      "id": "M09",
+      "name": "Kopfrechnen angemessen",
+      "description": "Aufgaben sollten mental lösbar sein für die Klassenstufe",
+      "severity": "high"
+    },
+    {
+      "id": "M10",
+      "name": "Keine negativen Ergebnisse",
+      "description": "Subtraktion darf keine negativen Ergebnisse haben (Klasse 1-4)",
+      "severity": "high",
+      "rule": "For grades 1-4, subtraction results must be >= 0"
+    }
+  ],
+
+  "autoFix": {
+    "enabled": true,
+    "rules": [
+      {
+        "condition": "multiplication.factor > 5 AND multiplication.factor <= 10",
+        "action": "Move question to grade 3",
+        "newGrade": 3
+      },
+      {
+        "condition": "multiplication.factor > 10",
+        "action": "Move question to grade 4",
+        "newGrade": 4
+      },
+      {
+        "condition": "addition.sum > 20 AND addition.sum <= 100",
+        "action": "Move question to grade 2",
+        "newGrade": 2
+      },
+      {
+        "condition": "addition.sum > 100 AND addition.sum <= 1000",
+        "action": "Move question to grade 3",
+        "newGrade": 3
+      }
+    ]
+  }
+}

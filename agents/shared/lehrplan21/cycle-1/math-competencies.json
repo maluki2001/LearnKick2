@@ -1,0 +1,59 @@
+{
+  "cycle": 1,
+  "grades": [1, 2],
+  "subject": "Mathematik",
+  "code": "MA",
+  "competencies": [
+    {
+      "code": "MA.1.A.1",
+      "title": "Zählen und Zahlen",
+      "description": "Zahlen bis 20 lesen, schreiben und vergleichen",
+      "topics": [
+        "Zahlen 0-20 erkennen",
+        "Zahlen ordnen (größer/kleiner)",
+        "Zählen in Schritten (2er, 5er)",
+        "Zahlenstrahl bis 20"
+      ],
+      "difficulty": [1, 2],
+      "grades": [1, 2]
+    },
+    {
+      "code": "MA.1.A.2",
+      "title": "Addition und Subtraktion",
+      "description": "Grundrechenarten im Zahlenraum bis 20",
+      "topics": [
+        "Addition bis 10",
+        "Subtraktion bis 10",
+        "Addition bis 20",
+        "Subtraktion bis 20",
+        "Tauschaufgaben (3+2 = 2+3)"
+      ],
+      "difficulty": [1, 2],
+      "grades": [1, 2]
+    },
+    {
+      "code": "MA.1.B.1",
+      "title": "Formen erkennen",
+      "description": "Geometrische Grundformen identifizieren",
+      "topics": [
+        "Kreis, Quadrat, Dreieck",
+        "Formen in der Umgebung",
+        "Symmetrie erkennen"
+      ],
+      "difficulty": [1, 2],
+      "grades": [1, 2]
+    },
+    {
+      "code": "MA.1.C.1",
+      "title": "Messen und Vergleichen",
+      "description": "Größen einschätzen und vergleichen",
+      "topics": [
+        "Längen vergleichen (länger/kürzer)",
+        "Gewichte vergleichen (schwerer/leichter)",
+        "Zeit (Tagesablauf, Uhr)"
+      ],
+      "difficulty": [1, 2],
+      "grades": [1, 2]
+    }
+  ]
+}

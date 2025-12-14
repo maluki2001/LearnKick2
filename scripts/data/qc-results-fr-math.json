@@ -1,0 +1,1810 @@
+{
+  "timestamp": "2025-12-07T04:18:28.625Z",
+  "total": 100,
+  "passed": 2,
+  "failed": 98,
+  "questions": [
+    {
+      "id": "946c0859-03af-46e5-a91a-2273f300b343",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien de grammes y a-t-il dans 1 kilogramme ?",
+      "answers": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "correct_answer": "1000",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 1000 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "333fbb04-a22d-4c8f-8af6-e38a2007360f",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Un carré a une aire de 49 cm². Quelle est la longueur d'un côté?",
+      "answers": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "4c6ba4bc-7720-416a-a22d-d215d952e78a",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Quel est le double de 25 ?",
+      "answers": [
+        "45",
+        "48",
+        "50",
+        "52"
+      ],
+      "correct_answer": "50",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 50 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ff1caed9-3973-4a0d-843c-c620d58704a8",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Si 40% d'un nombre est 24, quel est ce nombre?",
+      "answers": [
+        "48",
+        "60",
+        "72",
+        "96"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "cd04a6fa-26de-4bb2-931f-34534ab78e10",
+      "grade": 1,
+      "difficulty": 1,
+      "question": "3 + 3 = 6",
+      "answers": null,
+      "correct_answer": "true",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "17a207c6-44e8-49aa-8b82-026f0eda9efe",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Combien font 6.8 + 4.5?",
+      "answers": [
+        "10.3",
+        "11.3",
+        "11.8",
+        "12.3"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "a13145f7-a86c-43b2-8b1b-e6eb206be8fa",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Quelle est la différence entre 5/6 et 1/3?",
+      "answers": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "4/6"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "9273855c-02d6-4a69-bab1-4168beca3a0b",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 100 - 37 ?",
+      "answers": null,
+      "correct_answer": "63",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "e64663a6-ae79-402d-8ce9-889650871611",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Combien font 13 + 17 ?",
+      "answers": null,
+      "correct_answer": "30",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "83963777-23c6-4212-9b0f-c4f4eacbb27a",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Combien font 216 ÷ 18?",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "549a5094-d947-408f-9bff-74947d8237f0",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Combien font 8.5 - 3.7?",
+      "answers": [
+        "4.2",
+        "4.8",
+        "5.2",
+        "5.8"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "2a26af02-3482-4875-aaaa-3fdaebd1db5e",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est le périmètre d'un carré de 9 cm de côté ?",
+      "answers": null,
+      "correct_answer": "36",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "58406512-9d60-49a9-aa57-6cf7b4477d53",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Combien font huitante moins quinze ?",
+      "answers": [
+        "60",
+        "65",
+        "70",
+        "75"
+      ],
+      "correct_answer": "65",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 65 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "cae3f7a2-732d-479c-a0d7-2a26e3a3acb3",
+      "grade": 1,
+      "difficulty": 3,
+      "question": "Combien font 6 + 8 ?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct_answer": "14",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 14 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "653a5005-3d13-4db6-b893-78048b87d40d",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Marie a 8 pommes. Elle en mange 3. Combien lui en reste-t-il ?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "5",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 5 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "57041bc9-9dbd-48e3-9251-c16ee5122f8a",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Quel est le nombre le plus grand : 12 ou 8 ?",
+      "answers": [
+        "8",
+        "12",
+        "Ils sont égaux",
+        "On ne peut pas comparer"
+      ],
+      "correct_answer": "12",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 12 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "e2dbd325-e2fc-4dd0-9b3f-209ba5dd3fd9",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 234 + 456 ?",
+      "answers": null,
+      "correct_answer": "690",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "05803acf-2053-413b-a743-f010bcbc3f30",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Un carré a un côté de 5 cm. Quelle est son aire?",
+      "answers": [
+        "10 cm²",
+        "20 cm²",
+        "25 cm²",
+        "30 cm²"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "7df0c511-29a4-4137-8f0c-982b12d13146",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 468 + 235 ?",
+      "answers": [
+        "701",
+        "702",
+        "703",
+        "704"
+      ],
+      "correct_answer": "703",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 703 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "1d727768-f0a4-4f7a-b833-4f8b5bbf09a2",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Combien font 3.6 × 5?",
+      "answers": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "651b47f4-01b9-4736-8ee6-87b20738efe2",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "5000 - 2345 = 2655",
+      "answers": null,
+      "correct_answer": "true",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "f35e57e9-636e-47e6-b283-3fe14805ebbe",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Un losange a 4 côtés égaux.",
+      "answers": null,
+      "correct_answer": "true",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ec0f7347-8987-463f-9781-3040b9e91efe",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Combien font 40 - 15 ?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct_answer": "25",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 25 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "02bbf892-730b-40fe-abd1-bc50a44d453c",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Combien font 4 + 6 ?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct_answer": "10",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 10 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "f668fd2d-0144-4c89-a89b-91cb1f45304d",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Combien de centimètres y a-t-il dans 1 mètre ?",
+      "answers": [
+        "10",
+        "50",
+        "100",
+        "1000"
+      ],
+      "correct_answer": "100",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 100 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "88b1f76d-176e-4185-bea4-29e7b082b6dd",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Combien font 4 × 2 ?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "8",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 8 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ba007889-d5ca-4add-9232-200a0915f233",
+      "grade": 1,
+      "difficulty": 3,
+      "question": "Combien font 9 + 9 ?",
+      "answers": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "correct_answer": "18",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 18 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "4c853b0b-1ad8-46b5-b3ac-9ee0de98abf4",
+      "grade": 3,
+      "difficulty": 1,
+      "question": "Combien font 8 × 5 ?",
+      "answers": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_answer": "40",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 40 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "09b1449a-b9c9-4bb8-b370-c082642ddcf3",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font nonante-sept + 156 ?",
+      "answers": [
+        "251",
+        "252",
+        "253",
+        "254"
+      ],
+      "correct_answer": "253",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 253 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b31a9683-f536-46fa-8518-256b05b83c7d",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 7 × 6 ?",
+      "answers": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "correct_answer": "42",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 42 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "744cb9bf-08df-4700-afd3-42bd5db6d76d",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Quel nombre s'écrit nonante ?",
+      "answers": [
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correct_answer": "90",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 90 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "1b6edb71-1213-4952-936a-aa7d2625216e",
+      "grade": 2,
+      "difficulty": 3,
+      "question": "Combien font 4 × 8 ?",
+      "answers": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correct_answer": "32",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 32 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "22246a15-ffd9-4af0-aa1d-75d9d365a32d",
+      "grade": 2,
+      "difficulty": 3,
+      "question": "Emma achète 4 boîtes de 9 crayons. Combien a-t-elle de crayons au total ?",
+      "answers": [
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "correct_answer": "36",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 36 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "9e529066-3776-45d5-a866-9618a76b26fa",
+      "grade": 3,
+      "difficulty": 4,
+      "question": "Un magasin vend des cahiers par paquets de 12. Si l'école achète 25 paquets, combien de cahiers ?",
+      "answers": [
+        "298",
+        "299",
+        "300",
+        "301"
+      ],
+      "correct_answer": "300",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 300 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "4f0b346c-41ee-483d-9055-991c3ccf38b7",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Quelle fraction est équivalente à 0.625?",
+      "answers": [
+        "1/2",
+        "5/8",
+        "3/5",
+        "2/3"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "d0e8d98e-182a-43e6-913d-42f90e372c3b",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 4 × 5 ?",
+      "answers": [
+        "15",
+        "18",
+        "20",
+        "25"
+      ],
+      "correct_answer": "20",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 20 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "7f9982cc-fbe3-4b3c-b460-dd085fe38bd5",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 18 ÷ 3 ?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "6",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 6 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "29e208a5-8291-41d3-b8f4-cd1d324fbe1f",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Combien font 6 + 3 ?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct_answer": "9",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 9 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "cf624188-8bf9-4f36-a6e9-ff19d8c3ef47",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "36 pommes sont mises dans des sacs de 9. Combien de sacs faut-il ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 4 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "1cf35590-3a4b-477b-96c3-fbffe5878713",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Quelle est la valeur de 3/4 en décimales ?",
+      "answers": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.0"
+      ],
+      "correct_answer": "0.75",
+      "correct_answer_text": "0.25",
+      "status": "FAIL",
+      "issues": [
+        "division error: Quelle est la valeur de 3/4 en décimales ? - Expected 0.75, but correct answer is 0.25",
+        "Wrong answer \"0.75\" (index 2) equals the correct answer 0.75"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "9fcbe906-4cf8-4d8e-9ec2-eabae3414ad9",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Un rectangle a un périmètre de 46 cm et une longueur de 14 cm. Quelle est son aire?",
+      "answers": [
+        "126 cm²",
+        "140 cm²",
+        "168 cm²",
+        "252 cm²"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "6e7c6d70-49ac-4757-9304-5397763ad9d7",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Combien font 2 + 8 ?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct_answer": "10",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 10 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "9d6bcdc4-55c5-4240-81df-1b72efe6af82",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Le périmètre d'un cercle (circonférence) avec un rayon de 7 cm est environ: (π ≈ 3.14)",
+      "answers": [
+        "22 cm",
+        "44 cm",
+        "66 cm",
+        "88 cm"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "63d9ea0a-0978-4769-a39a-5cef0f0f26e4",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Quelle est la somme de 1/3 + 1/6?",
+      "answers": [
+        "1/4",
+        "2/9",
+        "1/2",
+        "2/3"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "80198fb1-0ce1-48f3-a41e-c3a328af6f78",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Combien font 50 - 20 ?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct_answer": "30",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 30 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "8d52feaf-17b2-4a60-82de-9d6e4fcc4b4d",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Un angle obtus mesure plus de 90 degrés.",
+      "answers": null,
+      "correct_answer": "true",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "ca686d56-d78a-4624-a640-569e8fc4c874",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 6 × 8 ?",
+      "answers": [
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "correct_answer": "48",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 48 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "6efea7ae-2e8a-48ec-b0d0-7600f9e5ff54",
+      "grade": 5,
+      "difficulty": 2,
+      "question": "Combien de faces a un cube ?",
+      "answers": null,
+      "correct_answer": "6",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "3bfb3e7c-daf8-4362-82e4-0c87c908c6d3",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Si un trajet de Genève à Lausanne fait 62 km et que tu as déjà parcouru 38 km, combien de km reste-t-il ?",
+      "answers": null,
+      "correct_answer": "24",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "fbb5c200-1b0e-48b3-8879-c91d27cc39de",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Combien font nonante-deux × 8 ?",
+      "answers": [
+        "734",
+        "735",
+        "736",
+        "737"
+      ],
+      "correct_answer": "736",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 736 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "cfcdbd56-791b-4a5f-a8ca-a30f363fec2b",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Combien font 10 × 5 ?",
+      "answers": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "correct_answer": "50",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 50 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "2da3db1f-7394-4313-a0c6-be742fb2cac7",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Combien font 11 × 5 ?",
+      "answers": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correct_answer": "55",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 55 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b7a5eeb3-a6be-4026-8831-aa4f0d882618",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Un rectangle a une longueur de 8 cm et une largeur de 3 cm. Quel est son périmètre?",
+      "answers": [
+        "11 cm",
+        "22 cm",
+        "24 cm",
+        "32 cm"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "f689426c-2988-4aa4-bfd0-da902dbeae11",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Combien font 71 - 29 ?",
+      "answers": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "correct_answer": "42",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 42 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "27fb6e2d-7c0b-4335-835c-4ec7bfc4e36e",
+      "grade": 1,
+      "difficulty": 3,
+      "question": "Combien font 8 + 8 ?",
+      "answers": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct_answer": "16",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 16 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "941384fa-3571-48c4-a9d3-11f37032c335",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Arrondis 842 à la centaine la plus proche.",
+      "answers": [
+        "700",
+        "750",
+        "800",
+        "850"
+      ],
+      "correct_answer": "800",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 800 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "8eea367a-6402-4c6b-a7fd-814c14dd4063",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Combien font 28 × 14 ?",
+      "answers": null,
+      "correct_answer": "392",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "621d78df-f0c4-4232-be95-f5dae6d6e049",
+      "grade": 2,
+      "difficulty": 3,
+      "question": "Combien font 5 × 8 ?",
+      "answers": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_answer": "40",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 40 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "156e3e85-c9fb-42a9-8b85-cdc66cac367c",
+      "grade": 6,
+      "difficulty": 5,
+      "question": "Si un article coûte CHF 200 et a une augmentation de 12%, quel est le nouveau prix?",
+      "answers": [
+        "CHF 212",
+        "CHF 220",
+        "CHF 224",
+        "CHF 232"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "f3f808d3-7bed-481b-9722-23ad61dc27c4",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Combien font 144 ÷ 12?",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "a9552604-3249-4dae-a1bc-b614a7fb6df1",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Combien font 3 × 2 ?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "6",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 6 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "2b1efb7c-0c46-4ee5-8010-723b7e1623f7",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Si un train roule à 60 km/h, quelle distance parcourt-il en 3 heures ?",
+      "answers": null,
+      "correct_answer": "180",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "216107b4-bf66-4dee-9bea-4e6240823eb3",
+      "grade": 2,
+      "difficulty": 4,
+      "question": "Combien font huitante-sept - 39 ?",
+      "answers": [
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "correct_answer": "48",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 48 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "14593015-1204-4962-8968-b0d6fc2372b7",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Combien font 5 + 4 ?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct_answer": "9",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 9 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "10c3abfc-84e2-43ad-8c56-52f209bae604",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Marie a acheté 3 croissants à CHF 2.50 chacun. Combien a-t-elle payé en tout?",
+      "answers": [
+        "CHF 5.50",
+        "CHF 6.50",
+        "CHF 7.50",
+        "CHF 8.50"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "27eab2a9-c95f-4926-9e48-9c77d405cdaf",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Quelle fraction obtiens-tu si tu additionnes 1/4 + 2/4?",
+      "answers": [
+        "1/4",
+        "2/4",
+        "3/4",
+        "4/4"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "7858e254-db43-44c4-92a6-6d80b405bc68",
+      "grade": 6,
+      "difficulty": 4,
+      "question": "Un triangle a des angles de 60°, 60° et combien de degrés pour le troisième angle ?",
+      "answers": null,
+      "correct_answer": "60",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "657b251e-e8ca-43d8-967e-c4a1cb018aac",
+      "grade": 3,
+      "difficulty": 1,
+      "question": "Un triangle a combien de côtés ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "correct_answer_text": "5",
+      "status": "PASS",
+      "issues": [],
+      "warnings": [
+        "Complex word problem - manual verification recommended"
+      ]
+    },
+    {
+      "id": "273382ec-1cbe-428d-89be-2508c13ce84e",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Il y a 7 oiseaux sur une branche. 2 s'envolent. Combien en reste-t-il ?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "5",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 5 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b05adccc-8507-41d2-b843-98f6ba080a6b",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Combien font 10.5 - 6.8?",
+      "answers": [
+        "3.3",
+        "3.7",
+        "4.3",
+        "4.7"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b6359e93-f65c-4089-8b3f-f99d8978f622",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Combien font 81 ÷ 9 ?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct_answer": "9",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 9 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "14598481-7587-4772-9b99-8277c82071cc",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Un rectangle a une aire de 60 cm² et une longueur de 12 cm. Quelle est sa largeur?",
+      "answers": [
+        "3 cm",
+        "4 cm",
+        "5 cm",
+        "6 cm"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "5dcc8a9e-7df4-479b-bb86-91327b4477c8",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Si 5 croissants coûtent CHF 7.50, combien coûte un croissant ?",
+      "answers": null,
+      "correct_answer": "1.5",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "7ff464a6-130d-4d02-9b4e-108f8cb36f9b",
+      "grade": 1,
+      "difficulty": 1,
+      "question": "Quel nombre vient juste avant 10 ?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "correct_answer": "9",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 9 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "be8eeb48-daa3-41a0-992b-172ac93b8194",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "Combien font 2.5 × 8 ?",
+      "answers": null,
+      "correct_answer": "20",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "aaaaad7d-a5f5-475d-9ce2-aa36dd9e9ad5",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Léa achète 3 croissants à CHF 2.50 pièce. Combien paie-t-elle ?",
+      "answers": [
+        "CHF 6.-",
+        "CHF 6.50",
+        "CHF 7.-",
+        "CHF 7.50"
+      ],
+      "correct_answer": "CHF 7.50",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index CHF 7.50 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "aaedf1a3-a488-4963-95b7-e15e014a9efa",
+      "grade": 6,
+      "difficulty": 3,
+      "question": "Quelle est la valeur de x dans l'équation 5x = 45 ?",
+      "answers": null,
+      "correct_answer": "9",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "015d1feb-3ff8-46a3-b86b-d92c7e104e6b",
+      "grade": 2,
+      "difficulty": 2,
+      "question": "Combien font 42 + 23 ?",
+      "answers": [
+        "63",
+        "64",
+        "65",
+        "66"
+      ],
+      "correct_answer": "65",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 65 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "1cb6274e-e1e8-49c0-83f7-b3518b723176",
+      "grade": 2,
+      "difficulty": 3,
+      "question": "Combien font 4 × 7 ?",
+      "answers": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "correct_answer": "28",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 28 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "c88d360f-7df0-442f-90bb-afdb4c65b466",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Un carré a tous ses côtés égaux.",
+      "answers": null,
+      "correct_answer": "true",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "d0e2fdd2-976d-45d8-96c6-ffb7e1c36677",
+      "grade": 4,
+      "difficulty": 2,
+      "question": "Quel est le quart de 100 ?",
+      "answers": null,
+      "correct_answer": "25",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "eb8f2180-c814-46f4-a1e4-0b2b884cc341",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "24 élèves sont divisés en groupes de 6. Combien de groupes y a-t-il ?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 4 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "2f113d7f-e1fc-4a3e-abe0-0e11f6745183",
+      "grade": 3,
+      "difficulty": 3,
+      "question": "Quel est le périmètre d'un carré de 5 cm de côté ?",
+      "answers": [
+        "15 cm",
+        "20 cm",
+        "25 cm",
+        "30 cm"
+      ],
+      "correct_answer": "20 cm",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 20 cm out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "0089fc31-6ad3-40b8-b34f-6706c82af446",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Tu as 6 bonbons et ton ami t'en donne 4. Combien en as-tu maintenant ?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct_answer": "10",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 10 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "16b40058-5177-420c-9348-bc1f98e11b10",
+      "grade": 2,
+      "difficulty": 1,
+      "question": "Combien font 3 × 10 ?",
+      "answers": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correct_answer": "30",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 30 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b3029689-36a5-45ee-b618-11c1f4618082",
+      "grade": 1,
+      "difficulty": 2,
+      "question": "Combien font 10 - 7 ?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "correct_answer_text": "5",
+      "status": "FAIL",
+      "issues": [
+        "subtraction error: Combien font 10 - 7 ? - Expected 3, but correct answer is 5",
+        "Wrong answer \"3\" (index 1) equals the correct answer 3"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "c310bbe1-e2ae-45d1-8d9b-b1e4a0d63f54",
+      "grade": 1,
+      "difficulty": 3,
+      "question": "Combien font 7 + 7 ?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct_answer": "14",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 14 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "20e1123a-7154-40c4-82c9-2ae7895d3353",
+      "grade": 4,
+      "difficulty": 4,
+      "question": "Combien font 5/8 de 64 ?",
+      "answers": null,
+      "correct_answer": "40",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "6d5cb26f-2348-4dc9-9ddd-e9c90b3bfbf6",
+      "grade": 1,
+      "difficulty": 3,
+      "question": "Combien font 7 + 9 ?",
+      "answers": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct_answer": "16",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 16 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b8c7c1b6-614d-467d-8e7c-a0d85c187537",
+      "grade": 6,
+      "difficulty": 3,
+      "question": "Si un train part de Fribourg à 14h30 et arrive à Berne à 15h15, combien de temps a duré le trajet ?",
+      "answers": [
+        "35 minutes",
+        "40 minutes",
+        "45 minutes",
+        "50 minutes"
+      ],
+      "correct_answer": "45 minutes",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 45 minutes out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "7e2b7301-0a36-4dc6-a2fa-941e071fd3f4",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Emma a CHF 75. Elle dépense CHF 38. Combien lui reste-t-il?",
+      "answers": [
+        "CHF 33",
+        "CHF 37",
+        "CHF 43",
+        "CHF 47"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "f6c9fcbb-5009-454b-9c84-387a687207aa",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Un vélo coûte CHF 450.- en promotion avec une réduction de 10%. Quel est le nouveau prix ?",
+      "answers": [
+        "CHF 400.-",
+        "CHF 405.-",
+        "CHF 410.-",
+        "CHF 440.-"
+      ],
+      "correct_answer": "CHF 405.-",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index CHF 405.- out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "b0c207f9-ff46-4c61-8ae0-da18746e7921",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Quel est 25% de 80?",
+      "answers": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "0e4dc7a2-9cd5-44b2-ab64-46e73d50b2d5",
+      "grade": 3,
+      "difficulty": 1,
+      "question": "Combien font 9 × 5 ?",
+      "answers": [
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "correct_answer": "45",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 45 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "cac4c3b4-82cf-44a5-ac27-62ca22aa1a94",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Un pentagone a combien de côtés?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "27d211a5-755a-413c-a256-6664e0337c2a",
+      "grade": 5,
+      "difficulty": 4,
+      "question": "Un rectangle a une aire de 84 cm² et une longueur de 12 cm. Quelle est sa largeur?",
+      "answers": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "correct_answer": "",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index is invalid: \"\""
+      ],
+      "warnings": []
+    },
+    {
+      "id": "1e3fb8d6-1087-438d-9314-88b9b7ba9b8a",
+      "grade": 3,
+      "difficulty": 4,
+      "question": "Quelle fraction est plus grande : 2/3 ou 1/3 ?",
+      "answers": [
+        "2/3",
+        "1/3",
+        "Elles sont égales",
+        "On ne peut pas comparer"
+      ],
+      "correct_answer": "2/3",
+      "correct_answer_text": "Elles sont égales",
+      "status": "PASS",
+      "issues": [],
+      "warnings": [
+        "Could not extract number from correct answer: \"Elles sont égales\""
+      ]
+    },
+    {
+      "id": "7546bc38-0377-45e0-b8a9-6e2f5a2d1b8f",
+      "grade": 5,
+      "difficulty": 3,
+      "question": "La circonférence d'un cercle se calcule avec la formule 2πr.",
+      "answers": null,
+      "correct_answer": "true",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Answers is not an array"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "5384dcd2-d03b-4276-a889-c3dd52949e22",
+      "grade": 4,
+      "difficulty": 3,
+      "question": "Quel nombre multiplié par 12 donne 156 ?",
+      "answers": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct_answer": "13",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 13 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    },
+    {
+      "id": "8d189d96-5b3a-4ce5-a021-b4caecc3a20f",
+      "grade": 3,
+      "difficulty": 2,
+      "question": "Combien font 6 × 7 ?",
+      "answers": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "correct_answer": "42",
+      "correct_answer_text": null,
+      "status": "FAIL",
+      "issues": [
+        "Correct answer index 42 out of bounds (only 4 answers)"
+      ],
+      "warnings": []
+    }
+  ]
+}

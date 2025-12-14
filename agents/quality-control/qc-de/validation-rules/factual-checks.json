@@ -1,0 +1,66 @@
+{
+  "totalChecks": 20,
+  "checks": [
+    {
+      "id": "F01",
+      "name": "Mathematische Korrektheit",
+      "description": "Alle Rechenoperationen korrekt",
+      "severity": "critical",
+      "verifyWith": "calculation"
+    },
+    {
+      "id": "F02",
+      "name": "Geografische Fakten",
+      "description": "Städte, Länder, Berge korrekt",
+      "severity": "critical",
+      "sources": ["REST Countries API", "Schweizer Geografie DB"]
+    },
+    {
+      "id": "F03",
+      "name": "Historische Daten",
+      "description": "Jahreszahlen und Ereignisse korrekt",
+      "severity": "critical",
+      "sources": ["Schweizer Geschichte Datenbank"]
+    },
+    {
+      "id": "F04",
+      "name": "Wissenschaftliche Fakten",
+      "description": "Naturgesetze, Biologie, Physik korrekt",
+      "severity": "critical"
+    },
+    {
+      "id": "F05",
+      "name": "Schweizer Kantone",
+      "description": "26 Kantone korrekt benannt",
+      "severity": "high",
+      "knownFacts": {
+        "totalCantons": 26,
+        "examples": ["Zürich", "Bern", "Luzern", "Uri", "Schwyz"]
+      }
+    },
+    {
+      "id": "F06",
+      "name": "Schweizer Städte",
+      "description": "Hauptstädte und große Städte",
+      "severity": "high",
+      "knownFacts": {
+        "capital": "Bern",
+        "largest": "Zürich",
+        "major": ["Basel", "Genf", "Lausanne", "Luzern"]
+      }
+    },
+    {
+      "id": "F07",
+      "name": "Falsche Antworten plausibel",
+      "description": "Falsche Optionen sind plausibel falsch",
+      "severity": "medium"
+    },
+    {
+      "id": "F08",
+      "name": "Nur eine richtige Antwort",
+      "description": "Keine zwei richtigen Antworten",
+      "severity": "critical"
+    }
+  ],
+  "autoReject": ["F01", "F02", "F03", "F04", "F08"]
+}

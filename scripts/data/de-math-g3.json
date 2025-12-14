@@ -1,0 +1,3690 @@
+[
+  {
+    "question": "Was ist 3 × 4?",
+    "type": "multiple-choice",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "12",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 7 × 5",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "35",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "8 × 6 = 48",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 9 × 3?",
+    "type": "multiple-choice",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "21"
+    ],
+    "correctAnswer": "27",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 6 × 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "4 × 9 = 36",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 5 × 8?",
+    "type": "multiple-choice",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswer": "40",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 10 × 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "70",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "3 × 3 = 9",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 2 × 9?",
+    "type": "multiple-choice",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctAnswer": "18",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 8 × 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "64",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "6 × 6 = 36",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 7 × 7?",
+    "type": "multiple-choice",
+    "options": [
+      "42",
+      "49",
+      "56",
+      "63"
+    ],
+    "correctAnswer": "49",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 4 × 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "9 × 9 = 81",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 5 × 5?",
+    "type": "multiple-choice",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": "25",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 3 × 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "7 × 4 = 28",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 6 × 9?",
+    "type": "multiple-choice",
+    "options": [
+      "48",
+      "54",
+      "60",
+      "63"
+    ],
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 2 × 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "16",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "5 × 6 = 30",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 10 × 10?",
+    "type": "multiple-choice",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "correctAnswer": "100",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 9 × 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "63",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "8 × 5 = 40",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 4 × 8?",
+    "type": "multiple-choice",
+    "options": [
+      "28",
+      "32",
+      "36",
+      "40"
+    ],
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 7 × 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "3 × 10 = 30",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Lisa kauft 4 Schokoladen zu je CHF 3. Wie viel bezahlt sie?",
+    "type": "multiple-choice",
+    "options": [
+      "CHF 9",
+      "CHF 12",
+      "CHF 15",
+      "CHF 18"
+    ],
+    "correctAnswer": "CHF 12",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 6 × 4",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "2 × 7 = 14",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 9 × 6?",
+    "type": "multiple-choice",
+    "options": [
+      "45",
+      "54",
+      "63",
+      "72"
+    ],
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 5 × 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "45",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "10 × 8 = 80",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 8 × 7?",
+    "type": "multiple-choice",
+    "options": [
+      "48",
+      "54",
+      "56",
+      "64"
+    ],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 3 × 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "18",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "4 × 5 = 20",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 7 × 9?",
+    "type": "multiple-choice",
+    "options": [
+      "56",
+      "63",
+      "70",
+      "72"
+    ],
+    "correctAnswer": "63",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 8 × 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "6 × 5 = 30",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 9 × 10?",
+    "type": "multiple-choice",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "correctAnswer": "90",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 7 × 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "5 × 7 = 35",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Ein Fussballteam hat 6 Spieler. Jeder Spieler bekommt 3 Trinkflaschen. Wie viele Flaschen sind das insgesamt?",
+    "type": "multiple-choice",
+    "options": [
+      "15",
+      "18",
+      "21",
+      "24"
+    ],
+    "correctAnswer": "18",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 2 × 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "12",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "9 × 5 = 45",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 10 × 6?",
+    "type": "multiple-choice",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": "60",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 4 × 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "28",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "8 × 4 = 32",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 3 × 9?",
+    "type": "multiple-choice",
+    "options": [
+      "21",
+      "24",
+      "27",
+      "30"
+    ],
+    "correctAnswer": "27",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 6 × 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "7 × 3 = 21",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 5 × 4?",
+    "type": "multiple-choice",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 9 × 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "10 × 9 = 90",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 8 × 3?",
+    "type": "multiple-choice",
+    "options": [
+      "21",
+      "24",
+      "27",
+      "30"
+    ],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 7 × 10",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "70",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "6 × 3 = 18",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "In einer Schulklasse in Zürich sind 5 Tische. An jedem Tisch sitzen 4 Kinder. Wie viele Kinder sind das?",
+    "type": "multiple-choice",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 2 × 5",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "4 × 10 = 40",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 3 × 7?",
+    "type": "multiple-choice",
+    "options": [
+      "18",
+      "21",
+      "24",
+      "27"
+    ],
+    "correctAnswer": "21",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 9 × 4",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "5 × 10 = 50",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 6 × 10?",
+    "type": "multiple-choice",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": "60",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 8 × 10",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "80",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "3 × 5 = 15",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 20 ÷ 4?",
+    "type": "multiple-choice",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 15 ÷ 3",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "24 ÷ 6 = 4",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 18 ÷ 2?",
+    "type": "multiple-choice",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 28 ÷ 4",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "7",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "30 ÷ 5 = 6",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 36 ÷ 6?",
+    "type": "multiple-choice",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 40 ÷ 5",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "16 ÷ 4 = 4",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 45 ÷ 5?",
+    "type": "multiple-choice",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 42 ÷ 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "7",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "35 ÷ 7 = 5",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Anna verteilt 32 Äpfel gleichmässig auf 8 Körbe. Wie viele Äpfel sind in jedem Korb?",
+    "type": "multiple-choice",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 54 ÷ 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "48 ÷ 8 = 6",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 63 ÷ 7?",
+    "type": "multiple-choice",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 56 ÷ 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "7",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "72 ÷ 9 = 8",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 27 ÷ 3?",
+    "type": "multiple-choice",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 49 ÷ 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "7",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "81 ÷ 9 = 9",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 64 ÷ 8?",
+    "type": "multiple-choice",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 21 ÷ 3",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "7",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "12 ÷ 4 = 3",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 50 ÷ 5?",
+    "type": "multiple-choice",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 60 ÷ 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "70 ÷ 7 = 10",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 80 ÷ 8?",
+    "type": "multiple-choice",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 90 ÷ 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "100 ÷ 10 = 10",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 300 + 200?",
+    "type": "multiple-choice",
+    "options": [
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 450 + 250",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "600 - 200 = 400",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 700 - 300?",
+    "type": "multiple-choice",
+    "options": [
+      "300",
+      "400",
+      "500",
+      "600"
+    ],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 800 - 350",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "450",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "350 + 450 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ergibt 250 + 350?",
+    "type": "multiple-choice",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswer": "600",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 900 - 400",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "1000 - 500 = 500",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 550 + 250?",
+    "type": "multiple-choice",
+    "options": [
+      "700",
+      "750",
+      "800",
+      "850"
+    ],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 650 + 150",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "750 - 250 = 500",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "In Bern kostet ein Velo CHF 450 und ein Helm CHF 150. Wie viel kosten beide zusammen?",
+    "type": "multiple-choice",
+    "options": [
+      "CHF 500",
+      "CHF 550",
+      "CHF 600",
+      "CHF 650"
+    ],
+    "correctAnswer": "CHF 600",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 320 + 480",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "850 - 350 = 500",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ist 275 + 325?",
+    "type": "multiple-choice",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswer": "600",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 725 - 225",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "400 + 400 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 950 - 450?",
+    "type": "multiple-choice",
+    "options": [
+      "400",
+      "450",
+      "500",
+      "550"
+    ],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 380 + 420",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "675 + 225 = 900",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ergibt 560 + 240?",
+    "type": "multiple-choice",
+    "options": [
+      "700",
+      "750",
+      "800",
+      "850"
+    ],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 890 - 390",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "525 + 275 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 625 - 125?",
+    "type": "multiple-choice",
+    "options": [
+      "400",
+      "450",
+      "500",
+      "550"
+    ],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 475 + 325",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "780 - 280 = 500",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Eine Schule in Basel hat 365 Schüler. 135 sind in der Unterstufe. Wie viele sind nicht in der Unterstufe?",
+    "type": "multiple-choice",
+    "options": [
+      "200",
+      "230",
+      "250",
+      "280"
+    ],
+    "correctAnswer": "230",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 290 + 310",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "600",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "825 - 325 = 500",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ist 435 + 265?",
+    "type": "multiple-choice",
+    "options": [
+      "600",
+      "650",
+      "700",
+      "750"
+    ],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 955 - 455",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "370 + 430 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 685 - 185?",
+    "type": "multiple-choice",
+    "options": [
+      "400",
+      "450",
+      "500",
+      "550"
+    ],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 510 + 190",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "920 - 420 = 500",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Ein Rechteck hat die Länge 8 cm und die Breite 5 cm. Was ist der Umfang?",
+    "type": "multiple-choice",
+    "options": [
+      "20 cm",
+      "22 cm",
+      "24 cm",
+      "26 cm"
+    ],
+    "correctAnswer": "26 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 10 cm und Breite 6 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 7 cm ist 28 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Quadrats mit Seitenlänge 9 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "32 cm",
+      "34 cm",
+      "36 cm",
+      "38 cm"
+    ],
+    "correctAnswer": "36 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 12 cm und Breite 4 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Rechteck mit Länge 7 cm und Breite 3 cm hat einen Umfang von 20 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Rechtecks mit Länge 15 cm und Breite 5 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "35 cm",
+      "40 cm",
+      "45 cm",
+      "50 cm"
+    ],
+    "correctAnswer": "40 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 8 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 5 cm ist 20 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Rechtecks mit Länge 9 cm und Breite 7 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "28 cm",
+      "30 cm",
+      "32 cm",
+      "34 cm"
+    ],
+    "correctAnswer": "32 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 11 cm und Breite 3 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "28",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Quadrat mit Seitenlänge 10 cm hat einen Umfang von 40 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Lenas Garten in Luzern ist rechteckig: 14 m lang und 8 m breit. Was ist der Umfang?",
+    "type": "multiple-choice",
+    "options": [
+      "40 m",
+      "42 m",
+      "44 m",
+      "46 m"
+    ],
+    "correctAnswer": "44 m",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 6 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Rechtecks mit Länge 13 cm und Breite 7 cm ist 40 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Quadrats mit Seitenlänge 12 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "44 cm",
+      "46 cm",
+      "48 cm",
+      "50 cm"
+    ],
+    "correctAnswer": "48 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 16 cm und Breite 4 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "40",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Rechteck mit Länge 20 cm und Breite 10 cm hat einen Umfang von 60 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Rechtecks mit Länge 18 cm und Breite 6 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "42 cm",
+      "44 cm",
+      "46 cm",
+      "48 cm"
+    ],
+    "correctAnswer": "48 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 11 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "44",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 4 cm ist 16 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Rechtecks mit Länge 17 cm und Breite 3 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "36 cm",
+      "38 cm",
+      "40 cm",
+      "42 cm"
+    ],
+    "correctAnswer": "40 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 19 cm und Breite 5 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Quadrat mit Seitenlänge 15 cm hat einen Umfang von 60 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Rechtecks mit Länge 14 cm und Breite 6 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "36 cm",
+      "38 cm",
+      "40 cm",
+      "42 cm"
+    ],
+    "correctAnswer": "40 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 13 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "52",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Rechtecks mit Länge 22 cm und Breite 8 cm ist 60 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist 4 × 3?",
+    "type": "multiple-choice",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "12",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 5 × 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "35",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "10 × 4 = 40",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 6 × 8?",
+    "type": "multiple-choice",
+    "options": [
+      "42",
+      "46",
+      "48",
+      "50"
+    ],
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 9 × 2",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "18",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "3 × 7 = 21",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 8 × 4?",
+    "type": "multiple-choice",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 7 × 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "49",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "6 × 7 = 42",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 2 × 4?",
+    "type": "multiple-choice",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 10 × 5",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "50",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "4 × 4 = 16",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 18 ÷ 6?",
+    "type": "multiple-choice",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "3",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 25 ÷ 5",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "36 ÷ 4 = 9",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Marco hat 24 Fussballkarten und verteilt sie gleichmässig auf 4 Freunde. Wie viele bekommt jeder?",
+    "type": "multiple-choice",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 32 ÷ 8",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "14 ÷ 2 = 7",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 45 ÷ 9?",
+    "type": "multiple-choice",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 30 ÷ 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "28 ÷ 7 = 4",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 40 ÷ 8?",
+    "type": "multiple-choice",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 54 ÷ 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "20 ÷ 5 = 4",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 240 + 360?",
+    "type": "multiple-choice",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswer": "600",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 580 - 180",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "410 + 290 = 700",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ist 780 - 380?",
+    "type": "multiple-choice",
+    "options": [
+      "300",
+      "350",
+      "400",
+      "450"
+    ],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 335 + 465",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "630 - 230 = 400",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 215 + 385?",
+    "type": "multiple-choice",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctAnswer": "600",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 845 - 345",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "560 + 240 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ergibt 495 + 305?",
+    "type": "multiple-choice",
+    "options": [
+      "700",
+      "750",
+      "800",
+      "850"
+    ],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 715 - 215",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "445 + 355 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Ein Spielplatz in St. Gallen ist 25 m lang und 15 m breit. Was ist der Umfang?",
+    "type": "multiple-choice",
+    "options": [
+      "70 m",
+      "75 m",
+      "80 m",
+      "85 m"
+    ],
+    "correctAnswer": "80 m",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 21 cm und Breite 9 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "60",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 14 cm ist 56 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Rechtecks mit Länge 23 cm und Breite 7 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "56 cm",
+      "58 cm",
+      "60 cm",
+      "62 cm"
+    ],
+    "correctAnswer": "60 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 16 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "64",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Rechteck mit Länge 26 cm und Breite 4 cm hat einen Umfang von 60 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Rechtecks mit Länge 24 cm und Breite 8 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "60 cm",
+      "62 cm",
+      "64 cm",
+      "66 cm"
+    ],
+    "correctAnswer": "64 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 28 cm und Breite 6 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "68",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 17 cm ist 68 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist 5 × 3?",
+    "type": "multiple-choice",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "15",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 6 × 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "9 × 4 = 36",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 8 × 2?",
+    "type": "multiple-choice",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "16",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 7 × 4",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "28",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "10 × 3 = 30",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 4 × 9?",
+    "type": "multiple-choice",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "45"
+    ],
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 5 × 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "30",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "2 × 10 = 20",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Eine Bäckerei verkauft 7 Brote zu je CHF 5. Wie viel kostet das insgesamt?",
+    "type": "multiple-choice",
+    "options": [
+      "CHF 30",
+      "CHF 35",
+      "CHF 40",
+      "CHF 45"
+    ],
+    "correctAnswer": "CHF 35",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 3 × 3",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "8 × 10 = 80",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 10 ÷ 2?",
+    "type": "multiple-choice",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 36 ÷ 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "18 ÷ 3 = 6",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 24 ÷ 8?",
+    "type": "multiple-choice",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 35 ÷ 7",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "42 ÷ 7 = 6",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 27 ÷ 9?",
+    "type": "multiple-choice",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 48 ÷ 6",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "63 ÷ 9 = 7",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 360 + 440?",
+    "type": "multiple-choice",
+    "options": [
+      "700",
+      "750",
+      "800",
+      "850"
+    ],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 610 - 110",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "255 + 545 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie viel ist 870 - 370?",
+    "type": "multiple-choice",
+    "options": [
+      "400",
+      "450",
+      "500",
+      "550"
+    ],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 195 + 505",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "740 - 340 = 400",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ist 485 + 215?",
+    "type": "multiple-choice",
+    "options": [
+      "600",
+      "650",
+      "700",
+      "750"
+    ],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 960 - 460",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "415 + 385 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Ein Museum in Genf hatte im Januar 540 Besucher und im Februar 260 Besucher. Wie viele insgesamt?",
+    "type": "multiple-choice",
+    "options": [
+      "700",
+      "750",
+      "800",
+      "850"
+    ],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 805 - 305",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "590 + 210 = 800",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Rechtecks mit Länge 30 cm und Breite 10 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "70 cm",
+      "75 cm",
+      "80 cm",
+      "85 cm"
+    ],
+    "correctAnswer": "80 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 18 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Rechtecks mit Länge 27 cm und Breite 3 cm ist 60 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Rechtecks mit Länge 32 cm und Breite 8 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "70 cm",
+      "75 cm",
+      "80 cm",
+      "85 cm"
+    ],
+    "correctAnswer": "80 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 29 cm und Breite 11 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "80",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Quadrat mit Seitenlänge 20 cm hat einen Umfang von 80 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Rechtecks mit Länge 35 cm und Breite 5 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "70 cm",
+      "75 cm",
+      "80 cm",
+      "85 cm"
+    ],
+    "correctAnswer": "80 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 31 cm und Breite 9 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "80",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 19 cm ist 76 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist 2 × 3?",
+    "type": "multiple-choice",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 10 × 2?",
+    "type": "multiple-choice",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "20",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ergibt 4 × 2?",
+    "type": "multiple-choice",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 9 × 9?",
+    "type": "multiple-choice",
+    "options": [
+      "72",
+      "81",
+      "90",
+      "99"
+    ],
+    "correctAnswer": "81",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Was ist 10 ÷ 5?",
+    "type": "multiple-choice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Wie viel ist 450 + 350?",
+    "type": "multiple-choice",
+    "options": [
+      "700",
+      "750",
+      "800",
+      "850"
+    ],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Was ist 900 - 200?",
+    "type": "multiple-choice",
+    "options": [
+      "600",
+      "650",
+      "700",
+      "750"
+    ],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Wie gross ist der Umfang eines Quadrats mit Seitenlänge 22 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "80 cm",
+      "84 cm",
+      "88 cm",
+      "92 cm"
+    ],
+    "correctAnswer": "88 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Was ist der Umfang eines Rechtecks mit Länge 40 cm und Breite 10 cm?",
+    "type": "multiple-choice",
+    "options": [
+      "90 cm",
+      "95 cm",
+      "100 cm",
+      "110 cm"
+    ],
+    "correctAnswer": "100 cm",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Ein Tisch kostet CHF 320 und ein Stuhl CHF 180. Wie viel kosten beide zusammen?",
+    "type": "multiple-choice",
+    "options": [
+      "CHF 400",
+      "CHF 450",
+      "CHF 500",
+      "CHF 550"
+    ],
+    "correctAnswer": "CHF 500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 1 × 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 10 × 9",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "90",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 2 × 2",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 4 × 10",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "40",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 8 ÷ 2",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "Berechne: 200 + 300",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 1000 - 600",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne: 550 + 150",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Quadrat mit Seitenlänge 21 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "84",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "Berechne den Umfang: Rechteck mit Länge 25 cm und Breite 15 cm",
+    "type": "number-input",
+    "options": [],
+    "correctAnswer": "80",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  },
+  {
+    "question": "1 × 1 = 1",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "6 ÷ 2 = 3",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.3"
+  },
+  {
+    "question": "500 + 500 = 1000",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.1.A.2"
+  },
+  {
+    "question": "Der Umfang eines Quadrats mit Seitenlänge 25 cm ist 100 cm.",
+    "type": "true-false",
+    "options": [
+      "Wahr",
+      "Falsch"
+    ],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "MA.2.A.2"
+  }
+]

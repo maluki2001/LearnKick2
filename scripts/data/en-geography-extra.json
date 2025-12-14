@@ -1,0 +1,1564 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Bern", "Zürich", "Geneva", "Basel"],
+      "correctAnswer": "Bern"
+    },
+    {
+      "question": "Which continent is Switzerland located on?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Europe", "Asia", "Africa", "North America"],
+      "correctAnswer": "Europe"
+    },
+    {
+      "question": "The Matterhorn is a famous Swiss mountain.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "How many continents are there in the world?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Seven", "Five", "Six", "Eight"],
+      "correctAnswer": "Seven"
+    },
+    {
+      "question": "Which is the largest ocean in the world?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "Switzerland has a coastline on the Mediterranean Sea.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the name of the lake in Geneva?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Lake Geneva", "Lake Zürich", "Lake Constance", "Lake Lucerne"],
+      "correctAnswer": "Lake Geneva"
+    },
+    {
+      "question": "Which colour appears on the Swiss flag?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Red and white", "Blue and white", "Red and yellow", "Green and white"],
+      "correctAnswer": "Red and white"
+    },
+    {
+      "question": "Mount Everest is located in Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the capital of France?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Paris", "Lyon", "Marseille", "Nice"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "The River Rhine flows through Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which mountain range is found in Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["The Alps", "The Andes", "The Himalayas", "The Rockies"],
+      "correctAnswer": "The Alps"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Rome", "Milan", "Venice", "Florence"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "question": "Africa is the smallest continent.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which neighbouring country is to the north of Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Germany", "Spain", "France", "Austria"],
+      "correctAnswer": "Germany"
+    },
+    {
+      "question": "Zürich is the largest city in Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which ocean is closest to Europe?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+      "correctAnswer": "Atlantic Ocean"
+    },
+    {
+      "question": "Lake Constance is shared by Switzerland, Germany, and which other country?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Austria", "France", "Italy", "Liechtenstein"],
+      "correctAnswer": "Austria"
+    },
+    {
+      "question": "Switzerland has exactly 20 cantons.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+      "correctAnswer": "Berlin"
+    },
+    {
+      "question": "Which Swiss city is famous for its international organisations?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Geneva", "Bern", "Zürich", "Lausanne"],
+      "correctAnswer": "Geneva"
+    },
+    {
+      "question": "The River Aare flows through Bern.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "How many countries border Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Five", "Three", "Four", "Six"],
+      "correctAnswer": "Five"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+      "correctAnswer": "Madrid"
+    },
+    {
+      "question": "Asia is the largest continent.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which canton is Zürich in?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["Canton of Zürich", "Canton of Bern", "Canton of Geneva", "Canton of Vaud"],
+      "correctAnswer": "Canton of Zürich"
+    },
+    {
+      "question": "The Jungfrau is a famous Swiss mountain.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Austria?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Vienna", "Salzburg", "Innsbruck", "Graz"],
+      "correctAnswer": "Vienna"
+    },
+    {
+      "question": "Which continent is Egypt located in?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Africa", "Asia", "Europe", "South America"],
+      "correctAnswer": "Africa"
+    },
+    {
+      "question": "Liechtenstein is a neighbour of Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which river is the longest in Europe?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Volga", "Danube", "Rhine", "Thames"],
+      "correctAnswer": "Volga"
+    },
+    {
+      "question": "Basel is located in the north of Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of the United Kingdom?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["London", "Manchester", "Edinburgh", "Birmingham"],
+      "correctAnswer": "London"
+    },
+    {
+      "question": "Which ocean surrounds Antarctica?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Southern Ocean", "Atlantic Ocean", "Pacific Ocean", "Indian Ocean"],
+      "correctAnswer": "Southern Ocean"
+    },
+    {
+      "question": "Switzerland uses the Euro as its currency.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which Swiss canton has French as its main language?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Geneva", "Zürich", "Bern", "Basel"],
+      "correctAnswer": "Geneva"
+    },
+    {
+      "question": "Lake Lucerne is located in Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of the Netherlands?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht"],
+      "correctAnswer": "Amsterdam"
+    },
+    {
+      "question": "The Sahara is the world's largest hot desert.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which canton is Lugano located in?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Ticino", "Graubünden", "Valais", "Uri"],
+      "correctAnswer": "Ticino"
+    },
+    {
+      "question": "The Canton of Bern is the largest canton by area.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the highest mountain in Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Dufourspitze", "Matterhorn", "Jungfrau", "Eiger"],
+      "correctAnswer": "Dufourspitze"
+    },
+    {
+      "question": "Which continent is Brazil located in?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["South America", "North America", "Africa", "Europe"],
+      "correctAnswer": "South America"
+    },
+    {
+      "question": "The River Rhône flows through Lake Geneva.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Lisbon", "Porto", "Faro", "Coimbra"],
+      "correctAnswer": "Lisbon"
+    },
+    {
+      "question": "Which Swiss city hosted the first Winter Olympics?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Chamonix (France, but near Switzerland)", "St. Moritz", "Davos", "Zermatt"],
+      "correctAnswer": "Chamonix (France, but near Switzerland)"
+    },
+    {
+      "question": "Australia is both a country and a continent.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Stockholm", "Oslo", "Copenhagen", "Helsinki"],
+      "correctAnswer": "Stockholm"
+    },
+    {
+      "question": "Which language is NOT an official language of Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["English", "German", "French", "Italian"],
+      "correctAnswer": "English"
+    },
+    {
+      "question": "The Nile is the longest river in the world.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which Swiss canton is known for its watchmaking industry?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Neuchâtel", "Appenzell", "Schaffhausen", "Glarus"],
+      "correctAnswer": "Neuchâtel"
+    },
+    {
+      "question": "What is the capital of Greece?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Athens", "Thessaloniki", "Crete", "Sparta"],
+      "correctAnswer": "Athens"
+    },
+    {
+      "question": "The Canton of Valais is known for the Matterhorn.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sea is between Europe and Africa?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Mediterranean Sea", "Red Sea", "Black Sea", "Caspian Sea"],
+      "correctAnswer": "Mediterranean Sea"
+    },
+    {
+      "question": "St. Gallen is a canton in eastern Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Oslo", "Bergen", "Trondheim", "Stavanger"],
+      "correctAnswer": "Oslo"
+    },
+    {
+      "question": "Which continent has the most countries?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Africa", "Asia", "Europe", "South America"],
+      "correctAnswer": "Africa"
+    },
+    {
+      "question": "The Swiss Plateau lies between the Alps and the Jura Mountains.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Denmark?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Copenhagen", "Aarhus", "Odense", "Aalborg"],
+      "correctAnswer": "Copenhagen"
+    },
+    {
+      "question": "Which canton has Romansh as one of its official languages?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Graubünden", "Uri", "Schwyz", "Glarus"],
+      "correctAnswer": "Graubünden"
+    },
+    {
+      "question": "The Great Barrier Reef is located off the coast of Australia.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Poland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Warsaw", "Kraków", "Gdańsk", "Wrocław"],
+      "correctAnswer": "Warsaw"
+    },
+    {
+      "question": "Lausanne is located on the shores of Lake Geneva.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which is the smallest continent by land area?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Australia", "Europe", "Antarctica", "South America"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "The Canton of Jura is one of Switzerland's newest cantons.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Belgium?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Brussels", "Bruges", "Antwerp", "Ghent"],
+      "correctAnswer": "Brussels"
+    },
+    {
+      "question": "Which mountain pass connects Switzerland and Italy?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["St. Gotthard Pass", "Brenner Pass", "Mont Blanc Pass", "Simplon Pass"],
+      "correctAnswer": "St. Gotthard Pass"
+    },
+    {
+      "question": "Mount Kilimanjaro is located in Tanzania.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "question": "Which Swiss city is known as the 'Olympic Capital'?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Lausanne", "Geneva", "Bern", "Zürich"],
+      "correctAnswer": "Lausanne"
+    },
+    {
+      "question": "The Amazon Rainforest is located in South America.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Tokyo", "Osaka", "Kyoto", "Yokohama"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "question": "Which canton is the smallest in Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Basel-Stadt", "Zug", "Schaffhausen", "Appenzell Innerrhoden"],
+      "correctAnswer": "Basel-Stadt"
+    },
+    {
+      "question": "The equator passes through Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 1,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Moscow", "St. Petersburg", "Kazan", "Novosibirsk"],
+      "correctAnswer": "Moscow"
+    },
+    {
+      "question": "Which Swiss canton is entirely surrounded by other cantons?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Appenzell Innerrhoden", "Zug", "Nidwalden", "Basel-Stadt"],
+      "correctAnswer": "Appenzell Innerrhoden"
+    },
+    {
+      "question": "The Andes Mountains are the longest mountain range in the world.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of China?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Beijing", "Shanghai", "Hong Kong", "Guangzhou"],
+      "correctAnswer": "Beijing"
+    },
+    {
+      "question": "Which river forms part of the border between Switzerland and Germany?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Rhine", "Danube", "Elbe", "Main"],
+      "correctAnswer": "Rhine"
+    },
+    {
+      "question": "Iceland is located in the Arctic Circle.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of India?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["New Delhi", "Mumbai", "Bangalore", "Kolkata"],
+      "correctAnswer": "New Delhi"
+    },
+    {
+      "question": "Which canton is Interlaken located in?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Bern", "Lucerne", "Uri", "Valais"],
+      "correctAnswer": "Bern"
+    },
+    {
+      "question": "The Dead Sea is the lowest point on Earth's surface.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+      "correctAnswer": "Cairo"
+    },
+    {
+      "question": "Which Swiss city is home to the United Nations Office?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Geneva", "Bern", "Zürich", "Basel"],
+      "correctAnswer": "Geneva"
+    },
+    {
+      "question": "New Zealand is located in the Southern Hemisphere.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+      "correctAnswer": "Brasília"
+    },
+    {
+      "question": "The Rhine Falls, Europe's largest waterfall, is located in Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which continent is the driest inhabited continent?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Australia", "Africa", "South America", "Asia"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Pretoria (executive)", "Johannesburg", "Durban", "Cape Town"],
+      "correctAnswer": "Pretoria (executive)"
+    },
+    {
+      "question": "The Canton of Uri is one of the three founding cantons of Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Ankara", "Istanbul", "Izmir", "Antalya"],
+      "correctAnswer": "Ankara"
+    },
+    {
+      "question": "Lake Zürich is entirely within the Canton of Zürich.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Which is the longest river in South America?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Amazon", "Paraná", "Orinoco", "São Francisco"],
+      "correctAnswer": "Amazon"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "question": "The Canton of Schwyz gave Switzerland its name.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which mountain is known as the 'Roof of Africa'?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Mount Kilimanjaro", "Mount Kenya", "Mount Elgon", "Mount Meru"],
+      "correctAnswer": "Mount Kilimanjaro"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+      "correctAnswer": "Buenos Aires"
+    },
+    {
+      "question": "The Aletsch Glacier is the largest glacier in the Alps.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which country has the most time zones?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["France", "Russia", "United States", "China"],
+      "correctAnswer": "France"
+    },
+    {
+      "question": "The Canton of Ticino is the only canton where Italian is the sole official language.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Mexico City", "Guadalajara", "Monterrey", "Cancún"],
+      "correctAnswer": "Mexico City"
+    },
+    {
+      "question": "Which Swiss canton has the highest population?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Zürich", "Bern", "Vaud", "Geneva"],
+      "correctAnswer": "Zürich"
+    },
+    {
+      "question": "The Tropic of Cancer passes through the Sahara Desert.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+      "correctAnswer": "Seoul"
+    },
+    {
+      "question": "Which Swiss city is famous for its annual jazz festival?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Montreux", "Zürich", "Bern", "Lucerne"],
+      "correctAnswer": "Montreux"
+    },
+    {
+      "question": "The Panama Canal connects the Atlantic and Pacific Oceans.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Indonesia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Jakarta", "Bali", "Surabaya", "Bandung"],
+      "correctAnswer": "Jakarta"
+    },
+    {
+      "question": "Which canton was created in 1979?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Jura", "Neuchâtel", "Vaud", "Geneva"],
+      "correctAnswer": "Jura"
+    },
+    {
+      "question": "The Strait of Gibraltar separates Europe from Africa.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Bangkok", "Phuket", "Chiang Mai", "Pattaya"],
+      "correctAnswer": "Bangkok"
+    },
+    {
+      "question": "Which Swiss lake is the largest lake entirely within Switzerland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Lake Neuchâtel", "Lake Zürich", "Lake Lucerne", "Lake Thun"],
+      "correctAnswer": "Lake Neuchâtel"
+    },
+    {
+      "question": "Greenland is part of the Kingdom of Denmark.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Chile?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Santiago", "Valparaíso", "Concepción", "Antofagasta"],
+      "correctAnswer": "Santiago"
+    },
+    {
+      "question": "The St. Gotthard Base Tunnel is the world's longest railway tunnel.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which is the second-largest country in the world by area?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Canada", "United States", "China", "Brazil"],
+      "correctAnswer": "Canada"
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+      "correctAnswer": "Wellington"
+    },
+    {
+      "question": "Switzerland has a total of 26 cantons.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which river flows through the Grand Canyon?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Colorado River", "Mississippi River", "Missouri River", "Rio Grande"],
+      "correctAnswer": "Colorado River"
+    },
+    {
+      "question": "What is the capital of Nigeria?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Abuja", "Lagos", "Kano", "Ibadan"],
+      "correctAnswer": "Abuja"
+    },
+    {
+      "question": "The Matterhorn is located on the border between Switzerland and Italy.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which sea is the saltiest body of water in the world?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Dead Sea", "Red Sea", "Black Sea", "Caspian Sea"],
+      "correctAnswer": "Dead Sea"
+    },
+    {
+      "question": "What is the capital of Kenya?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"],
+      "correctAnswer": "Nairobi"
+    },
+    {
+      "question": "The River Inn flows through Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "What is the capital of Finland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Helsinki", "Espoo", "Tampere", "Turku"],
+      "correctAnswer": "Helsinki"
+    },
+    {
+      "question": "The Bernina Express is a famous Swiss scenic railway.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which European country has the most UNESCO World Heritage Sites?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Italy", "Spain", "France", "Germany"],
+      "correctAnswer": "Italy"
+    },
+    {
+      "question": "What is the capital of Peru?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+      "correctAnswer": "Lima"
+    },
+    {
+      "question": "Lake Maggiore is shared between Switzerland and Italy.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which continent has the highest average elevation?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Antarctica", "Asia", "South America", "Africa"],
+      "correctAnswer": "Antarctica"
+    },
+    {
+      "question": "What is the capital of Colombia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Bogotá", "Medellín", "Cali", "Cartagena"],
+      "correctAnswer": "Bogotá"
+    },
+    {
+      "question": "The Eiger, Mönch, and Jungfrau are three famous peaks in the Bernese Alps.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which country is both in Europe and Asia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Turkey", "Egypt", "Kazakhstan", "Russia"],
+      "correctAnswer": "Turkey"
+    },
+    {
+      "question": "What is the capital of the Czech Republic?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Prague", "Brno", "Ostrava", "Plzeň"],
+      "correctAnswer": "Prague"
+    },
+    {
+      "question": "The Swiss National Park is located in the Canton of Graubünden.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which is the world's largest island?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+      "correctAnswer": "Greenland"
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hue"],
+      "correctAnswer": "Hanoi"
+    },
+    {
+      "question": "Chillon Castle is located on the shores of Lake Geneva.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which African country was never colonised by Europeans?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Ethiopia", "Morocco", "Algeria", "Sudan"],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "question": "What is the capital of Hungary?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Budapest", "Debrecen", "Szeged", "Pécs"],
+      "correctAnswer": "Budapest"
+    },
+    {
+      "question": "The Canton of Vaud is the largest French-speaking canton in Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which river is the longest in Asia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Yangtze", "Yellow River", "Mekong", "Ganges"],
+      "correctAnswer": "Yangtze"
+    },
+    {
+      "question": "What is the capital of Ireland?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Dublin", "Cork", "Galway", "Limerick"],
+      "correctAnswer": "Dublin"
+    },
+    {
+      "question": "The Gotthard Massif is a mountain range in central Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which desert is the largest hot desert in the world?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Sahara", "Arabian", "Gobi", "Kalahari"],
+      "correctAnswer": "Sahara"
+    },
+    {
+      "question": "What is the capital of Malaysia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Kuala Lumpur", "Penang", "Johor Bahru", "Malacca"],
+      "correctAnswer": "Kuala Lumpur"
+    },
+    {
+      "question": "The Simplon Tunnel connects Switzerland with Italy.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which mountain range separates Europe from Asia?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Ural Mountains", "Caucasus Mountains", "Altai Mountains", "Tian Shan"],
+      "correctAnswer": "Ural Mountains"
+    },
+    {
+      "question": "What is the capital of the Philippines?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Manila", "Cebu", "Davao", "Quezon City"],
+      "correctAnswer": "Manila"
+    },
+    {
+      "question": "The Rütli Meadow is considered the birthplace of Switzerland.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which ocean is the smallest?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Arctic Ocean", "Southern Ocean", "Indian Ocean", "Atlantic Ocean"],
+      "correctAnswer": "Arctic Ocean"
+    },
+    {
+      "question": "What is the capital of Morocco?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["Rabat", "Casablanca", "Marrakech", "Fez"],
+      "correctAnswer": "Rabat"
+    },
+    {
+      "question": "The Pilatus mountain overlooks Lucerne.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Which country has the longest coastline in the world?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["Canada", "Russia", "Indonesia", "Norway"],
+      "correctAnswer": "Canada"
+    },
+    {
+      "question": "What is the capital of Romania?",
+      "type": "multiple-choice",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "en",
+      "options": ["Bucharest", "Cluj-Napoca", "Timișoara", "Brașov"],
+      "correctAnswer": "Bucharest"
+    },
+    {
+      "question": "The Lauterbrunnental valley has 72 waterfalls.",
+      "type": "true-false",
+      "subject": "geography",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "en",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    }
+  ]
+}

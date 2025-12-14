@@ -1,0 +1,2322 @@
+[
+  {
+    "question": "Combien font 5 + 3 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 + 4 ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 - 3 ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 - 5 ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 + 4 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 + 3 ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 - 2 ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 + 1 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 4 + 5 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 - 3 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "7",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre vient après 7 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre vient avant 10 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 + 2 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 - 2 ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 + 5 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 + 2 ?",
+    "type": "multiple-choice",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 - 4 ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 + 7 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 - 6 ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 4 + 6 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Marie a 8 pommes. Elle en mange 3. Combien lui en reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Tu as 6 bonbons et ton ami t'en donne 4. Combien en as-tu maintenant ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 + 3 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 - 2 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 + 4 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 - 3 ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 + 8 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 - 7 ?",
+    "type": "multiple-choice",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "3",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 + 3 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 - 5 ?",
+    "type": "multiple-choice",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "3",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Il y a 7 oiseaux sur une branche. 2 s'envolent. Combien en reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 1 + 9 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 - 4 ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le nombre le plus grand : 12 ou 8 ?",
+    "type": "multiple-choice",
+    "options": ["8", "12", "Ils sont égaux", "On ne peut pas comparer"],
+    "correctAnswer": "12",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le nombre le plus petit : 15 ou 20 ?",
+    "type": "multiple-choice",
+    "options": ["15", "20", "Ils sont égaux", "On ne peut pas comparer"],
+    "correctAnswer": "15",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 + 7 ?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 + 5 ?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 + 6 ?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 15 - 7 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 13 - 5 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Pierre a 9 francs. Il achète un livre à 4 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["4 francs", "5 francs", "6 francs", "7 francs"],
+    "correctAnswer": "5 francs",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Sophie a 7 billes. Son frère lui en donne 6. Combien en a-t-elle maintenant ?",
+    "type": "multiple-choice",
+    "options": ["11", "12", "13", "14"],
+    "correctAnswer": "13",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 + 8 ?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 17 - 9 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 + 9 ?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 20 - 8 ?",
+    "type": "multiple-choice",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": "12",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 + 8 ?",
+    "type": "multiple-choice",
+    "options": ["14", "15", "16", "17"],
+    "correctAnswer": "16",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 14 - 6 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 + 9 ?",
+    "type": "multiple-choice",
+    "options": ["14", "15", "16", "17"],
+    "correctAnswer": "16",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 18 - 9 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 20 + 15 ?",
+    "type": "multiple-choice",
+    "options": ["30", "35", "40", "45"],
+    "correctAnswer": "35",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 50 - 20 ?",
+    "type": "multiple-choice",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 25 + 25 ?",
+    "type": "multiple-choice",
+    "options": ["40", "45", "50", "55"],
+    "correctAnswer": "50",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 40 - 15 ?",
+    "type": "multiple-choice",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswer": "25",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 30 + 20 ?",
+    "type": "multiple-choice",
+    "options": ["40", "45", "50", "55"],
+    "correctAnswer": "50",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 60 - 30 ?",
+    "type": "multiple-choice",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 35 + 15 ?",
+    "type": "multiple-choice",
+    "options": ["45", "50", "55", "60"],
+    "correctAnswer": "50",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 45 - 20 ?",
+    "type": "multiple-choice",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswer": "25",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 2 ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 4 × 2 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 2 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 × 10 ?",
+    "type": "multiple-choice",
+    "options": ["15", "18", "20", "22"],
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 10 ?",
+    "type": "multiple-choice",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 42 + 23 ?",
+    "type": "multiple-choice",
+    "options": ["63", "64", "65", "66"],
+    "correctAnswer": "65",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 58 - 34 ?",
+    "type": "multiple-choice",
+    "options": ["22", "23", "24", "25"],
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 37 + 28 ?",
+    "type": "multiple-choice",
+    "options": ["63", "64", "65", "66"],
+    "correctAnswer": "65",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 71 - 29 ?",
+    "type": "multiple-choice",
+    "options": ["40", "41", "42", "43"],
+    "correctAnswer": "42",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font septante + 15 ?",
+    "type": "multiple-choice",
+    "options": ["83", "84", "85", "86"],
+    "correctAnswer": "85",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font huitante - 25 ?",
+    "type": "multiple-choice",
+    "options": ["53", "54", "55", "56"],
+    "correctAnswer": "55",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font nonante - 18 ?",
+    "type": "multiple-choice",
+    "options": ["70", "71", "72", "73"],
+    "correctAnswer": "72",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Julie a 45 francs. Elle achète un jouet à 28 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["15 francs", "16 francs", "17 francs", "18 francs"],
+    "correctAnswer": "17 francs",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": "12",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["14", "15", "16", "17"],
+    "correctAnswer": "16",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 2 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 3 ?",
+    "type": "multiple-choice",
+    "options": ["13", "14", "15", "16"],
+    "correctAnswer": "15",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["18", "19", "20", "21"],
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["20", "23", "25", "30"],
+    "correctAnswer": "25",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["30", "35", "40", "45"],
+    "correctAnswer": "40",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["40", "45", "50", "55"],
+    "correctAnswer": "50",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Marc achète 3 paquets de 10 bonbons. Combien a-t-il de bonbons au total ?",
+    "type": "multiple-choice",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Une boîte contient 5 rangées de 6 œufs. Combien y a-t-il d'œufs en tout ?",
+    "type": "multiple-choice",
+    "options": ["25", "28", "30", "32"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre est plus grand : septante-cinq ou huitante-deux ?",
+    "type": "multiple-choice",
+    "options": ["75", "82", "Ils sont égaux", "On ne peut pas comparer"],
+    "correctAnswer": "82",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 54 + 37 ?",
+    "type": "multiple-choice",
+    "options": ["89", "90", "91", "92"],
+    "correctAnswer": "91",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 83 - 47 ?",
+    "type": "multiple-choice",
+    "options": ["34", "35", "36", "37"],
+    "correctAnswer": "36",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 68 + 29 ?",
+    "type": "multiple-choice",
+    "options": ["95", "96", "97", "98"],
+    "correctAnswer": "97",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font nonante-cinq - 48 ?",
+    "type": "multiple-choice",
+    "options": ["45", "46", "47", "48"],
+    "correctAnswer": "47",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Sarah a septante-deux francs. Elle achète un livre à 38 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["32 francs", "33 francs", "34 francs", "35 francs"],
+    "correctAnswer": "34 francs",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Thomas a 27 billes. Il en gagne 45 de plus. Combien en a-t-il maintenant ?",
+    "type": "multiple-choice",
+    "options": ["70", "71", "72", "73"],
+    "correctAnswer": "72",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["19", "20", "21", "22"],
+    "correctAnswer": "21",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["22", "23", "24", "25"],
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 4 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["22", "23", "24", "25"],
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 4 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["26", "27", "28", "29"],
+    "correctAnswer": "28",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 4 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["30", "31", "32", "33"],
+    "correctAnswer": "32",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["28", "29", "30", "31"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["33", "34", "35", "36"],
+    "correctAnswer": "35",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 5 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["38", "39", "40", "41"],
+    "correctAnswer": "40",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Un fermier a 6 poules. Chaque poule pond 3 œufs par semaine. Combien d'œufs en tout ?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Emma achète 4 boîtes de 9 crayons. Combien a-t-elle de crayons au total ?",
+    "type": "multiple-choice",
+    "options": ["34", "35", "36", "37"],
+    "correctAnswer": "36",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 76 + septante-neuf ?",
+    "type": "multiple-choice",
+    "options": ["153", "154", "155", "156"],
+    "correctAnswer": "155",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font huitante-sept - 39 ?",
+    "type": "multiple-choice",
+    "options": ["46", "47", "48", "49"],
+    "correctAnswer": "48",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Lucas a 100 francs. Il achète un ballon à 35 francs et un livre à 28 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["35 francs", "36 francs", "37 francs", "38 francs"],
+    "correctAnswer": "37 francs",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 150 + 250 ?",
+    "type": "multiple-choice",
+    "options": ["300", "350", "400", "450"],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 500 - 200 ?",
+    "type": "multiple-choice",
+    "options": ["250", "300", "350", "400"],
+    "correctAnswer": "300",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 350 + 150 ?",
+    "type": "multiple-choice",
+    "options": ["400", "450", "500", "550"],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 600 - 250 ?",
+    "type": "multiple-choice",
+    "options": ["300", "325", "350", "375"],
+    "correctAnswer": "350",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 3 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": "12",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 3 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["13", "14", "15", "16"],
+    "correctAnswer": "15",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["32", "34", "36", "38"],
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["45", "47", "49", "51"],
+    "correctAnswer": "49",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["60", "62", "64", "66"],
+    "correctAnswer": "64",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["79", "80", "81", "82"],
+    "correctAnswer": "81",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 10 × 10 ?",
+    "type": "multiple-choice",
+    "options": ["90", "95", "100", "110"],
+    "correctAnswer": "100",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 3 ?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["22", "23", "24", "25"],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["28", "29", "30", "31"],
+    "correctAnswer": "30",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 3 ?",
+    "type": "multiple-choice",
+    "options": ["19", "20", "21", "22"],
+    "correctAnswer": "21",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["26", "27", "28", "29"],
+    "correctAnswer": "28",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["33", "34", "35", "36"],
+    "correctAnswer": "35",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 3 ?",
+    "type": "multiple-choice",
+    "options": ["22", "23", "24", "25"],
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["30", "31", "32", "33"],
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["38", "39", "40", "41"],
+    "correctAnswer": "40",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 3 ?",
+    "type": "multiple-choice",
+    "options": ["25", "26", "27", "28"],
+    "correctAnswer": "27",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["34", "35", "36", "37"],
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["43", "44", "45", "46"],
+    "correctAnswer": "45",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 245 + 327 ?",
+    "type": "multiple-choice",
+    "options": ["570", "571", "572", "573"],
+    "correctAnswer": "572",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 583 - 276 ?",
+    "type": "multiple-choice",
+    "options": ["305", "306", "307", "308"],
+    "correctAnswer": "307",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 468 + 235 ?",
+    "type": "multiple-choice",
+    "options": ["701", "702", "703", "704"],
+    "correctAnswer": "703",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 752 - 388 ?",
+    "type": "multiple-choice",
+    "options": ["362", "363", "364", "365"],
+    "correctAnswer": "364",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Une école a 6 classes. Chaque classe a 24 élèves. Combien y a-t-il d'élèves en tout ?",
+    "type": "multiple-choice",
+    "options": ["142", "143", "144", "145"],
+    "correctAnswer": "144",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["40", "41", "42", "43"],
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["46", "47", "48", "49"],
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 6 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["52", "53", "54", "55"],
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["40", "41", "42", "43"],
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["54", "55", "56", "57"],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 7 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["61", "62", "63", "64"],
+    "correctAnswer": "63",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["46", "47", "48", "49"],
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["54", "55", "56", "57"],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 8 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["70", "71", "72", "73"],
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["52", "53", "54", "55"],
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["61", "62", "63", "64"],
+    "correctAnswer": "63",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 9 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["70", "71", "72", "73"],
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Marie a 450 francs. Elle achète un vélo à 285 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["163 francs", "164 francs", "165 francs", "166 francs"],
+    "correctAnswer": "165 francs",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Un fermier récolte 8 caisses de 45 pommes. Combien a-t-il de pommes ?",
+    "type": "multiple-choice",
+    "options": ["358", "359", "360", "361"],
+    "correctAnswer": "360",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle fraction représente une moitié ?",
+    "type": "multiple-choice",
+    "options": ["1/3", "1/2", "1/4", "2/3"],
+    "correctAnswer": "1/2",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle fraction représente un quart ?",
+    "type": "multiple-choice",
+    "options": ["1/2", "1/3", "1/4", "1/5"],
+    "correctAnswer": "1/4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle fraction représente un tiers ?",
+    "type": "multiple-choice",
+    "options": ["1/2", "1/3", "1/4", "2/3"],
+    "correctAnswer": "1/3",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Tu as une pizza coupée en 4 parts égales. Tu manges 1 part. Quelle fraction as-tu mangée ?",
+    "type": "multiple-choice",
+    "options": ["1/2", "1/3", "1/4", "2/4"],
+    "correctAnswer": "1/4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Tu as une tablette de chocolat avec 8 carrés. Tu en manges 4. Quelle fraction as-tu mangée ?",
+    "type": "multiple-choice",
+    "options": ["1/4", "1/3", "1/2", "2/3"],
+    "correctAnswer": "1/2",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font septante-cinq + 348 ?",
+    "type": "multiple-choice",
+    "options": ["421", "422", "423", "424"],
+    "correctAnswer": "423",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font huitante-quatre - 39 ?",
+    "type": "multiple-choice",
+    "options": ["43", "44", "45", "46"],
+    "correctAnswer": "45",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font nonante-sept + 156 ?",
+    "type": "multiple-choice",
+    "options": ["251", "252", "253", "254"],
+    "correctAnswer": "253",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 12 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["58", "59", "60", "61"],
+    "correctAnswer": "60",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 11 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["64", "65", "66", "67"],
+    "correctAnswer": "66",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 12 × 7 ?",
+    "type": "multiple-choice",
+    "options": ["82", "83", "84", "85"],
+    "correctAnswer": "84",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 11 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["86", "87", "88", "89"],
+    "correctAnswer": "88",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 12 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["106", "107", "108", "109"],
+    "correctAnswer": "108",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 647 + 358 ?",
+    "type": "multiple-choice",
+    "options": ["1003", "1004", "1005", "1006"],
+    "correctAnswer": "1005",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 824 - 567 ?",
+    "type": "multiple-choice",
+    "options": ["255", "256", "257", "258"],
+    "correctAnswer": "257",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 739 + 486 ?",
+    "type": "multiple-choice",
+    "options": ["1223", "1224", "1225", "1226"],
+    "correctAnswer": "1225",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 915 - 678 ?",
+    "type": "multiple-choice",
+    "options": ["235", "236", "237", "238"],
+    "correctAnswer": "237",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Une bibliothèque a 12 étagères. Chaque étagère contient 48 livres. Combien y a-t-il de livres ?",
+    "type": "multiple-choice",
+    "options": ["574", "575", "576", "577"],
+    "correctAnswer": "576",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Luc a 800 francs. Il achète un ordinateur à 575 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["223 francs", "224 francs", "225 francs", "226 francs"],
+    "correctAnswer": "225 francs",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Sophie achète 15 paquets de 32 autocollants. Combien a-t-elle d'autocollants ?",
+    "type": "multiple-choice",
+    "options": ["478", "479", "480", "481"],
+    "correctAnswer": "480",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle est la moitié de 100 ?",
+    "type": "multiple-choice",
+    "options": ["40", "45", "50", "55"],
+    "correctAnswer": "50",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle est la moitié de 80 ?",
+    "type": "multiple-choice",
+    "options": ["35", "38", "40", "42"],
+    "correctAnswer": "40",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle est la moitié de 60 ?",
+    "type": "multiple-choice",
+    "options": ["25", "28", "30", "32"],
+    "correctAnswer": "30",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Tu as 12 bonbons. Tu en donnes 1/3 à ton ami. Combien lui en donnes-tu ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Tu as 20 billes. Tu en perds 1/4. Combien en perds-tu ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Une tarte est coupée en 6 parts égales. Tu manges 2 parts. Quelle fraction as-tu mangée ?",
+    "type": "multiple-choice",
+    "options": ["1/6", "2/6", "3/6", "4/6"],
+    "correctAnswer": "2/6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Une classe de 24 élèves part en excursion. 1/3 des élèves prennent le bus A. Combien d'élèves dans le bus A ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font septante-huit × 6 ?",
+    "type": "multiple-choice",
+    "options": ["466", "467", "468", "469"],
+    "correctAnswer": "468",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font huitante-cinq × 7 ?",
+    "type": "multiple-choice",
+    "options": ["593", "594", "595", "596"],
+    "correctAnswer": "595",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font nonante-deux × 8 ?",
+    "type": "multiple-choice",
+    "options": ["734", "735", "736", "737"],
+    "correctAnswer": "736",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 25 × 4 ?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 15 × 6 ?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 18 × 5 ?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 20 × 12 ?",
+    "type": "multiple-choice",
+    "options": ["238", "239", "240", "241"],
+    "correctAnswer": "240",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 35 × 8 ?",
+    "type": "multiple-choice",
+    "options": ["278", "279", "280", "281"],
+    "correctAnswer": "280",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 45 × 9 ?",
+    "type": "multiple-choice",
+    "options": ["403", "404", "405", "406"],
+    "correctAnswer": "405",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Un magasin vend des cahiers par paquets de 12. Si l'école achète 25 paquets, combien de cahiers ?",
+    "type": "multiple-choice",
+    "options": ["298", "299", "300", "301"],
+    "correctAnswer": "300",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Emma économise 15 francs par semaine. Combien aura-t-elle après 12 semaines ?",
+    "type": "multiple-choice",
+    "options": ["178 francs", "179 francs", "180 francs", "181 francs"],
+    "correctAnswer": "180 francs",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Un cinéma a 18 rangées de 24 sièges. Combien de sièges au total ?",
+    "type": "multiple-choice",
+    "options": ["430", "431", "432", "433"],
+    "correctAnswer": "432",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 1000 - 347 ?",
+    "type": "multiple-choice",
+    "options": ["651", "652", "653", "654"],
+    "correctAnswer": "653",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 1000 - 568 ?",
+    "type": "multiple-choice",
+    "options": ["430", "431", "432", "433"],
+    "correctAnswer": "432",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 856 + 379 + 248 ?",
+    "type": "multiple-choice",
+    "options": ["1481", "1482", "1483", "1484"],
+    "correctAnswer": "1483",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 1500 - 756 ?",
+    "type": "multiple-choice",
+    "options": ["742", "743", "744", "745"],
+    "correctAnswer": "744",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Thomas a 1200 francs. Il achète un vélo à 485 francs et un casque à 65 francs. Combien lui reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["648 francs", "649 francs", "650 francs", "651 francs"],
+    "correctAnswer": "650 francs",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle fraction est plus grande : 1/2 ou 1/4 ?",
+    "type": "multiple-choice",
+    "options": ["1/2", "1/4", "Elles sont égales", "On ne peut pas comparer"],
+    "correctAnswer": "1/2",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Quelle fraction est plus grande : 2/3 ou 1/3 ?",
+    "type": "multiple-choice",
+    "options": ["2/3", "1/3", "Elles sont égales", "On ne peut pas comparer"],
+    "correctAnswer": "2/3",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Tu as une barre de chocolat de 24 carrés. Tu en manges 1/4. Combien de carrés manges-tu ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Une bouteille contient 2 litres d'eau. Tu bois 1/4. Combien de litres bois-tu ?",
+    "type": "multiple-choice",
+    "options": ["0,25 L", "0,5 L", "0,75 L", "1 L"],
+    "correctAnswer": "0,5 L",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Un gâteau est coupé en 8 parts égales. Pierre mange 3 parts. Quelle fraction reste-t-il ?",
+    "type": "multiple-choice",
+    "options": ["3/8", "4/8", "5/8", "6/8"],
+    "correctAnswer": "5/8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Un parking a 150 places. 2/3 des places sont occupées. Combien de places sont occupées ?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 48 ÷ 6 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 63 ÷ 7 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 72 ÷ 8 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 81 ÷ 9 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 56 ÷ 7 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 54 ÷ 6 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "24 élèves sont divisés en groupes de 6. Combien de groupes y a-t-il ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "40 bonbons sont partagés entre 5 enfants. Combien chaque enfant en reçoit-il ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre multiplié par 7 donne 42 ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre multiplié par 8 donne 64 ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "36 pommes sont mises dans des sacs de 9. Combien de sacs faut-il ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 100 ÷ 10 ?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 60 ÷ 10 ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 90 ÷ 10 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 16 ÷ 4 ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 20 ÷ 5 ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 18 ÷ 3 ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 12 ÷ 2 ?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "30 crayons sont distribués à 5 élèves. Combien chaque élève en reçoit-il ?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Un paquet de 32 biscuits est partagé entre 4 enfants. Combien chacun en reçoit-il ?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien font 45 ÷ 5 ?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Combien de dizaines y a-t-il dans 150 ?",
+    "type": "multiple-choice",
+    "options": ["13", "14", "15", "16"],
+    "correctAnswer": "15",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Combien de centaines y a-t-il dans 500 ?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "5",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre est 10 de plus que 345 ?",
+    "type": "multiple-choice",
+    "options": ["353", "354", "355", "356"],
+    "correctAnswer": "355",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel nombre est 100 de moins que 650 ?",
+    "type": "multiple-choice",
+    "options": ["548", "549", "550", "551"],
+    "correctAnswer": "550",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Arrondis 47 à la dizaine la plus proche.",
+    "type": "multiple-choice",
+    "options": ["40", "45", "50", "55"],
+    "correctAnswer": "50",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Arrondis 83 à la dizaine la plus proche.",
+    "type": "multiple-choice",
+    "options": ["75", "80", "85", "90"],
+    "correctAnswer": "80",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Arrondis 128 à la centaine la plus proche.",
+    "type": "multiple-choice",
+    "options": ["100", "120", "150", "200"],
+    "correctAnswer": "100",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Arrondis 365 à la centaine la plus proche.",
+    "type": "multiple-choice",
+    "options": ["300", "350", "400", "450"],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Arrondis 842 à la centaine la plus proche.",
+    "type": "multiple-choice",
+    "options": ["700", "750", "800", "850"],
+    "correctAnswer": "800",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le double de 25 ?",
+    "type": "multiple-choice",
+    "options": ["45", "48", "50", "52"],
+    "correctAnswer": "50",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le double de 35 ?",
+    "type": "multiple-choice",
+    "options": ["68", "69", "70", "71"],
+    "correctAnswer": "70",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le double de 45 ?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le triple de 20 ?",
+    "type": "multiple-choice",
+    "options": ["58", "59", "60", "61"],
+    "correctAnswer": "60",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  },
+  {
+    "question": "Quel est le triple de 30 ?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "fr"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "cycle": 2,
+  "grades": [3, 4, 5, 6],
+  "subject": "Mathematik",
+  "code": "MA",
+  "competencies": [
+    {
+      "code": "MA.2.A.1",
+      "title": "Zahlenraum erweitern",
+      "description": "Zahlen bis 1000 und darüber hinaus",
+      "topics": [
+        "Zahlen bis 100 (Klasse 3)",
+        "Zahlen bis 1000 (Klasse 4)",
+        "Zahlen bis 10'000 (Klasse 5)",
+        "Zahlen bis 1'000'000 (Klasse 6)"
+      ],
+      "difficulty": [2, 3, 4],
+      "grades": [3, 4, 5, 6]
+    },
+    {
+      "code": "MA.2.A.2",
+      "title": "Multiplikation und Division",
+      "description": "Grundrechenarten erweitern",
+      "topics": [
+        "Kleines Einmaleins (Klasse 3)",
+        "Großes Einmaleins (Klasse 4)",
+        "Division mit Rest",
+        "Schriftliche Multiplikation",
+        "Schriftliche Division"
+      ],
+      "difficulty": [2, 3, 4],
+      "grades": [3, 4, 5, 6]
+    },
+    {
+      "code": "MA.2.A.3",
+      "title": "Brüche und Dezimalzahlen",
+      "description": "Rationale Zahlen verstehen",
+      "topics": [
+        "Brüche darstellen (1/2, 1/4)",
+        "Brüche vergleichen",
+        "Dezimalzahlen (0.5, 0.25)",
+        "Brüche in Dezimalzahlen umwandeln"
+      ],
+      "difficulty": [3, 4, 5],
+      "grades": [5, 6]
+    },
+    {
+      "code": "MA.2.B.1",
+      "title": "Geometrie",
+      "description": "Flächen, Körper und Symmetrie",
+      "topics": [
+        "Rechteck, Quadrat, Dreieck",
+        "Würfel, Quader, Kugel",
+        "Umfang und Fläche berechnen",
+        "Symmetrieachsen"
+      ],
+      "difficulty": [2, 3, 4],
+      "grades": [3, 4, 5, 6]
+    }
+  ]
+}

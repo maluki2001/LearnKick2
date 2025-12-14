@@ -1,0 +1,1453 @@
+{
+  "questions": [
+    {
+      "question": "Combien font 3 + 2 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Combien de pommes as-tu si tu en as 4 et que tu en reçois 3 de plus ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "7"
+    },
+    {
+      "question": "5 - 2 = 3",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel nombre vient après 7 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Combien font 10 - 4 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "6"
+    },
+    {
+      "question": "8 est plus grand que 5.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si tu as 6 billes et que tu en perds 2, combien t'en reste-t-il ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Combien font 7 + 3 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Le nombre 4 est pair.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle forme a 3 côtés ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["Carré", "Triangle", "Cercle", "Rectangle"],
+      "correctAnswer": "Triangle"
+    },
+    {
+      "question": "Combien font 9 - 5 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "4"
+    },
+    {
+      "question": "3 + 3 = 6",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de doigts as-tu sur une main ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Si Marie a 8 bonbons et en mange 3, combien lui en reste-t-il ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "5"
+    },
+    {
+      "question": "10 est le plus grand nombre entre 1 et 10.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font 6 + 4 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Combien font 5 + 5 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Le nombre 7 est impair.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de roues a une bicyclette ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Si tu comptes de 2 en 2 à partir de 2, quel nombre vient après 6 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Un carré a 4 côtés égaux.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font 15 + 12 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["25", "26", "27", "28"],
+      "correctAnswer": "27"
+    },
+    {
+      "question": "Combien font 23 - 8 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "15"
+    },
+    {
+      "question": "20 + 30 = 50",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si un livre coûte CHF 12.50 et que tu as CHF 20, combien te reste-t-il ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["CHF 7", "CHF 7.50", "CHF 8", "CHF 8.50"],
+      "correctAnswer": "CHF 7.50"
+    },
+    {
+      "question": "Combien font 5 × 3 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "15"
+    },
+    {
+      "question": "Dans 1 heure, il y a 60 minutes.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la moitié de 20 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Combien font 18 + 14 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "32"
+    },
+    {
+      "question": "45 - 15 = 30",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font 4 × 5 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["15", "18", "20", "25"],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "Si tu as 3 paquets de 6 crayons, combien de crayons as-tu en tout ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "18"
+    },
+    {
+      "question": "Un rectangle a 4 côtés.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de centimètres y a-t-il dans 1 mètre ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["10", "50", "100", "1000"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Combien font 36 - 19 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "17"
+    },
+    {
+      "question": "7 × 2 = 14",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la table de multiplication de 2 × 8 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["12", "14", "16", "18"],
+      "correctAnswer": "16"
+    },
+    {
+      "question": "Si une pomme coûte CHF 0.50, combien coûtent 6 pommes ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "3"
+    },
+    {
+      "question": "24 divisé par 6 égale 4.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font 40 + 35 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["70", "72", "75", "80"],
+      "correctAnswer": "75"
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans une demi-heure ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "30"
+    },
+    {
+      "question": "9 × 3 = 27",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font septante plus vingt ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["80", "85", "90", "95"],
+      "correctAnswer": "90"
+    },
+    {
+      "question": "Combien font 125 + 248 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "373"
+    },
+    {
+      "question": "300 - 125 = 175",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si un cahier coûte CHF 3.50 et que tu en achètes 4, combien paies-tu ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["CHF 12", "CHF 13", "CHF 14", "CHF 15"],
+      "correctAnswer": "CHF 14"
+    },
+    {
+      "question": "Combien font 12 × 7 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "84"
+    },
+    {
+      "question": "Un triangle a 3 angles.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la moitié de 150 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["70", "75", "80", "85"],
+      "correctAnswer": "75"
+    },
+    {
+      "question": "Combien font 560 - 235 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "325"
+    },
+    {
+      "question": "1 kilomètre = 1000 mètres",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font 15 × 6 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["80", "85", "90", "95"],
+      "correctAnswer": "90"
+    },
+    {
+      "question": "Si un trajet de Genève à Lausanne fait 62 km et que tu as déjà parcouru 38 km, combien de km reste-t-il ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "24"
+    },
+    {
+      "question": "48 divisé par 6 égale 8.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de grammes y a-t-il dans 1 kilogramme ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["10", "100", "1000", "10000"],
+      "correctAnswer": "1000"
+    },
+    {
+      "question": "Combien font 234 + 456 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "690"
+    },
+    {
+      "question": "Un carré a tous ses côtés égaux.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel est le périmètre d'un carré de 5 cm de côté ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["15 cm", "20 cm", "25 cm", "30 cm"],
+      "correctAnswer": "20 cm"
+    },
+    {
+      "question": "Combien font 9 × 11 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "99"
+    },
+    {
+      "question": "72 divisé par 9 égale 8.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si tu achètes 3 livres à CHF 15.50 chacun, combien dépenses-tu ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["CHF 45", "CHF 46", "CHF 46.50", "CHF 47"],
+      "correctAnswer": "CHF 46.50"
+    },
+    {
+      "question": "Quelle fraction représente la moitié ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "1/2"
+    },
+    {
+      "question": "3/4 est plus grand que 1/2.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font huitante moins quinze ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["60", "65", "70", "75"],
+      "correctAnswer": "65"
+    },
+    {
+      "question": "Combien font 1245 + 3678 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "4923"
+    },
+    {
+      "question": "5000 - 2345 = 2655",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est l'aire d'un rectangle de 8 cm de long et 5 cm de large ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["26 cm²", "32 cm²", "40 cm²", "45 cm²"],
+      "correctAnswer": "40 cm²"
+    },
+    {
+      "question": "Combien font 25 × 16 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "400"
+    },
+    {
+      "question": "Un angle droit mesure 90 degrés.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de centilitres y a-t-il dans 1 litre ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["10", "50", "100", "1000"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Combien font 144 divisé par 12 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "2/5 + 1/5 = 3/5",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel nombre multiplié par 12 donne 156 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "Si un train roule à 60 km/h, quelle distance parcourt-il en 3 heures ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "180"
+    },
+    {
+      "question": "0.5 est égal à 1/2.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de millimètres y a-t-il dans 5 centimètres ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["5", "50", "500", "5000"],
+      "correctAnswer": "50"
+    },
+    {
+      "question": "Combien font 3456 - 1789 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "1667"
+    },
+    {
+      "question": "Le périmètre d'un carré de 7 cm de côté est 28 cm.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la valeur de 5² (5 au carré) ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswer": "25"
+    },
+    {
+      "question": "Combien font 18 × 15 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "270"
+    },
+    {
+      "question": "3/4 de 100 égale 75.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si une pizza est divisée en 8 parts égales et que tu en manges 3, quelle fraction as-tu mangée ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["1/8", "2/8", "3/8", "4/8"],
+      "correctAnswer": "3/8"
+    },
+    {
+      "question": "Combien de secondes y a-t-il dans 2 minutes ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "120"
+    },
+    {
+      "question": "Un losange a 4 côtés égaux.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font nonante-cinq plus quinze ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["105", "110", "115", "120"],
+      "correctAnswer": "110"
+    },
+    {
+      "question": "Combien font 2.5 × 8 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "20"
+    },
+    {
+      "question": "0.75 est égal à 3/4.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est l'aire d'un triangle avec une base de 10 cm et une hauteur de 6 cm ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["20 cm²", "25 cm²", "30 cm²", "35 cm²"],
+      "correctAnswer": "30 cm²"
+    },
+    {
+      "question": "Combien font 15% de 200 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "30"
+    },
+    {
+      "question": "Le volume d'un cube de 3 cm d'arête est 27 cm³.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si un article coûte CHF 120 et qu'il y a une réduction de 25%, quel est le nouveau prix ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["CHF 80", "CHF 85", "CHF 90", "CHF 95"],
+      "correctAnswer": "CHF 90"
+    },
+    {
+      "question": "Combien font 5/6 + 1/3 ? (Donne la réponse en sixièmes)",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "7/6"
+    },
+    {
+      "question": "Un hexagone a 6 côtés.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la moyenne de 12, 15, 18 et 19 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["14", "15", "16", "17"],
+      "correctAnswer": "16"
+    },
+    {
+      "question": "Combien font 345 divisé par 15 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "23"
+    },
+    {
+      "question": "2³ (2 au cube) égale 8.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de mètres carrés y a-t-il dans un terrain rectangulaire de 25 m de long et 12 m de large ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["250 m²", "280 m²", "300 m²", "320 m²"],
+      "correctAnswer": "300 m²"
+    },
+    {
+      "question": "Si 3 kg de pommes coûtent CHF 9.60, combien coûte 1 kg ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "3.2"
+    },
+    {
+      "question": "La circonférence d'un cercle se calcule avec la formule 2πr.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel est le PGCD (Plus Grand Commun Diviseur) de 24 et 36 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["6", "8", "12", "18"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Combien font 4.8 ÷ 0.6 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Un angle obtus mesure plus de 90 degrés.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si un cycliste parcourt 18 km en 45 minutes, quelle est sa vitesse moyenne en km/h ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["20 km/h", "22 km/h", "24 km/h", "26 km/h"],
+      "correctAnswer": "24 km/h"
+    },
+    {
+      "question": "Combien de faces a un cube ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "6"
+    },
+    {
+      "question": "5/8 est plus grand que 1/2.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien font septante-huit multiplié par onze ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["848", "858", "868", "878"],
+      "correctAnswer": "858"
+    },
+    {
+      "question": "Combien font 3/5 × 2/3 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "2/5"
+    },
+    {
+      "question": "(-5) + (+8) = +3",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si un rectangle a une longueur de 15 cm et un périmètre de 46 cm, quelle est sa largeur ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["6 cm", "7 cm", "8 cm", "9 cm"],
+      "correctAnswer": "8 cm"
+    },
+    {
+      "question": "Combien font 20% de 450 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "90"
+    },
+    {
+      "question": "Le volume d'un cylindre se calcule avec πr²h.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la valeur de x dans l'équation 3x + 7 = 22 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Combien font 2.5² (2.5 au carré) ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "6.25"
+    },
+    {
+      "question": "Un nombre premier n'a que deux diviseurs : 1 et lui-même.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel est le PPCM (Plus Petit Commun Multiple) de 6 et 8 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["12", "18", "24", "48"],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "Si un article de CHF 80 augmente de 15%, quel est son nouveau prix ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "92"
+    },
+    {
+      "question": "(-3) × (-4) = +12",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est l'aire d'un cercle de rayon 5 cm ? (Utilise π ≈ 3.14)",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["62.8 cm²", "68.5 cm²", "78.5 cm²", "85.2 cm²"],
+      "correctAnswer": "78.5 cm²"
+    },
+    {
+      "question": "Convertis 3.2 km en mètres.",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "3200"
+    },
+    {
+      "question": "7/12 - 1/4 = 1/3",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Si un train part de Fribourg à 14h30 et arrive à Berne à 15h15, combien de temps a duré le trajet ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["35 minutes", "40 minutes", "45 minutes", "50 minutes"],
+      "correctAnswer": "45 minutes"
+    },
+    {
+      "question": "Quelle est la valeur de y dans l'équation 2y - 5 = 13 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Un trapèze a exactement une paire de côtés parallèles.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quelle est la racine carrée de 144 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Un rectangle a une aire de 84 cm² et une largeur de 7 cm. Quelle est sa longueur ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Combien font 8 + 6 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["12", "13", "14", "15"],
+      "correctAnswer": "14"
+    },
+    {
+      "question": "Si Pierre a 9 billes et qu'il en donne 4 à son ami, combien lui en reste-t-il ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "5"
+    },
+    {
+      "question": "2 + 2 = 4",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel nombre vient juste avant 10 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 1,
+      "language": "fr",
+      "options": ["7", "8", "9", "11"],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Combien font 10 - 3 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 1,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Combien font 25 + 17 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["40", "41", "42", "43"],
+      "correctAnswer": "42"
+    },
+    {
+      "question": "Combien font 30 - 12 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "18"
+    },
+    {
+      "question": "6 × 4 = 24",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de pattes ont 3 chats ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["8", "10", "12", "14"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Si un gâteau est coupé en 4 parts égales, quelle fraction représente 1 part ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 2,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "1/4"
+    },
+    {
+      "question": "Combien font 180 + 145 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["315", "320", "325", "330"],
+      "correctAnswer": "325"
+    },
+    {
+      "question": "Combien font 11 × 9 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "99"
+    },
+    {
+      "question": "100 divisé par 10 égale 10.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Combien de centimètres y a-t-il dans 2.5 mètres ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["25 cm", "125 cm", "250 cm", "2500 cm"],
+      "correctAnswer": "250 cm"
+    },
+    {
+      "question": "Si 5 croissants coûtent CHF 7.50, combien coûte un croissant ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 3,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "1.5"
+    },
+    {
+      "question": "Combien font 2345 + 1876 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["4211", "4221", "4231", "4241"],
+      "correctAnswer": "4221"
+    },
+    {
+      "question": "Combien font 28 × 14 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "392"
+    },
+    {
+      "question": "Un parallélogramme a 4 côtés.",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel est le double de septante-cinq ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 2,
+      "language": "fr",
+      "options": ["140", "145", "150", "155"],
+      "correctAnswer": "150"
+    },
+    {
+      "question": "Combien font 5/8 de 64 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 4,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "40"
+    },
+    {
+      "question": "Combien font 12.5 × 8 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["90", "95", "100", "105"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Combien font 35% de 180 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "63"
+    },
+    {
+      "question": "1 tonne = 1000 kilogrammes",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 2,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Quel est le triple de huitante-quatre ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["242", "248", "252", "258"],
+      "correctAnswer": "252"
+    },
+    {
+      "question": "Si un livre de 240 pages a été lu aux 3/5, combien de pages ont été lues ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 5,
+      "difficulty": 4,
+      "language": "fr",
+      "correctAnswer": "144"
+    },
+    {
+      "question": "Combien font 4/7 + 2/7 ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "options": ["5/7", "6/7", "6/14", "8/7"],
+      "correctAnswer": "6/7"
+    },
+    {
+      "question": "Quelle est la valeur de x dans l'équation 5x = 45 ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "9"
+    },
+    {
+      "question": "(-7) - (-3) = -4",
+      "type": "true-false",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "true"
+    },
+    {
+      "question": "Un article de CHF 150 est soldé à 40% de réduction. Quel est le montant de la réduction ?",
+      "type": "multiple-choice",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 4,
+      "language": "fr",
+      "options": ["CHF 50", "CHF 55", "CHF 60", "CHF 65"],
+      "correctAnswer": "CHF 60"
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans 2.5 heures ?",
+      "type": "number-input",
+      "subject": "math",
+      "grade": 6,
+      "difficulty": 3,
+      "language": "fr",
+      "correctAnswer": "150"
+    }
+  ]
+}

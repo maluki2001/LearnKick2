@@ -1,0 +1,75 @@
+{
+  "langue": "fr",
+  "variante": "Français standard (Suisse romande)",
+  "totalRegles": 10,
+  "regles": [
+    {
+      "id": "G01",
+      "regle": "Accord sujet-verbe",
+      "description": "Le verbe s'accorde avec le sujet",
+      "exemples": {
+        "correct": ["Le chat mange", "Les chats mangent"],
+        "incorrect": ["Le chat mangent", "Les chats mange"]
+      }
+    },
+    {
+      "id": "G02",
+      "regle": "Accord nom-adjectif",
+      "description": "L'adjectif s'accorde en genre et nombre",
+      "exemples": {
+        "correct": ["Une grande maison", "Des grands arbres"],
+        "incorrect": ["Une grand maison", "Des grande arbres"]
+      }
+    },
+    {
+      "id": "G03",
+      "regle": "Articles (le/la/les/un/une)",
+      "description": "Utilisation correcte des articles",
+      "exemples": {
+        "correct": ["le soleil", "la lune", "les étoiles"],
+        "incorrect": ["la soleil", "le lune"]
+      }
+    },
+    {
+      "id": "G04",
+      "regle": "Majuscules",
+      "description": "Noms propres et début de phrase",
+      "exemples": {
+        "correct": ["Genève", "Lundi", "Les Alpes"],
+        "incorrect": ["genève", "alpes"]
+      }
+    },
+    {
+      "id": "G05",
+      "regle": "Ponctuation",
+      "description": "Point, virgule, point d'interrogation",
+      "requis": true
+    },
+    {
+      "id": "G06",
+      "regle": "Cohérence temporelle",
+      "description": "Même temps verbal",
+      "specifiqueDegre": {
+        "1-2": "présent uniquement",
+        "3-4": "présent et passé",
+        "5-6": "tous les temps"
+      }
+    },
+    {
+      "id": "G07",
+      "regle": "Nombres suisses",
+      "description": "Septante, huitante/octante, nonante",
+      "suisseRomand": true,
+      "exemples": {
+        "suisse": ["septante (70)", "huitante/octante (80)", "nonante (90)"],
+        "france": ["soixante-dix", "quatre-vingts", "quatre-vingt-dix"]
+      }
+    },
+    {
+      "id": "G08",
+      "regle": "Élision",
+      "description": "l' devant voyelle",
+      "exemples": ["l'arbre", "l'école", "l'homme"]
+    }
+  ]
+}

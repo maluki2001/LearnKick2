@@ -1,0 +1,265 @@
+import 'server-only'
+import OpenAI from 'openai'
+import { Question, Subject, Language, Grade, Difficulty } from '@/types/questions'
+
+// Initialize OpenAI client - server-side only
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+})
+
+// Debug API key availability
+console.log('🔑 OpenAI API Key status:', {
+  hasPublicKey: !!process.env.NEXT_PUBLIC_OPENAI_API_KEY,
+  hasPrivateKey: !!process.env.OPENAI_API_KEY,
+  keyPrefix: (process.env.NEXT_PUBLIC_OPENAI_API_KEY || process.env.OPENAI_API_KEY)?.substring(0, 7) || 'none'
+})
+
+export interface QuestionGenerationParams {
+  subject: Subject
+  grade: Grade
+  difficulty: Difficulty
+  language: Language
+  count: number
+  topic?: string
+  questionType?: 'multiple-choice' | 'true-false' | 'number-input'
+}
+
+export class OpenAIQuestionGenerator {
+  
+  async generateQuestions(params: QuestionGenerationParams): Promise<Question[]> {
+    const {
+      subject,
+      grade,
+      difficulty,
+      language,
+      topic
+    } = params
+
+    // Build the prompt based on parameters
+    const prompt = this.buildPrompt(params)
+    
+    try {
+      const response = await openai.chat.completions.create({
+        model: 'gpt-4o-mini', // Cost-effective for question generation
+        messages: [
+          {
+            role: 'system',
+            content: 'You are an expert educational content creator specializing in curriculum-aligned questions for children. Generate questions that are age-appropriate, engaging, and pedagogically sound.'
+          },
+          {
+            role: 'user',
+            content: prompt
+          }
+        ],
+        temperature: 0.8, // Some creativity but still structured
+        max_tokens: 2000,
+      })
+
+      const content = response.choices[0]?.message?.content
+      if (!content) {
+        throw new Error('No content received from OpenAI')
+      }
+
+      // Parse the JSON response
+      const questionsData = JSON.parse(content)
+      
+      // Convert to our Question type with proper IDs and metadata
+      return questionsData.questions.map((q: Record<string, unknown>, index: number) => ({
+        ...q,
+        id: `ai_${Date.now()}_${index}`,
+        subject,
+        grade,
+        difficulty,
+        language,
+        timeLimit: this.calculateTimeLimit(grade, difficulty),
+        tags: this.generateTags(subject, String(q.question || ''), topic),
+        lehrplan21Topic: this.getLehrplan21Topic(subject, grade)
+      }))
+
+    } catch (error) {
+      console.error('OpenAI Question Generation Error:', error)
+      
+      // Fallback to sample questions if OpenAI fails
+      return this.getFallbackQuestions(params)
+    }
+  }
+
+  private buildPrompt(params: QuestionGenerationParams): string {
+    const {
+      subject,
+      grade,
+      difficulty,
+      language,
+      count,
+      topic,
+      questionType
+    } = params
+
+    const languageMap: Record<string, string> = {
+      'en': 'English',
+      'de': 'German',
+      'fr': 'French'
+    }
+
+    const subjectMap: Record<string, string> = {
+      'math': 'Mathematics',
+      'geography': 'Geography',
+      'language': 'Language Arts',
+      'general-knowledge': 'General Knowledge'
+    }
+
+    const difficultyDescriptions: Record<number, string> = {
+      1: 'very easy - basic concepts',
+      2: 'easy - fundamental understanding',
+      3: 'medium - applying concepts',
+      4: 'challenging - deeper understanding',
+      5: 'advanced - complex problem solving'
+    }
+
+    const topicSection = topic ? `\nSpecific topic focus: ${topic}` : ''
+    
+    const prompt = `Generate ${count} ${questionType} questions for ${subjectMap[subject]} suitable for grade ${grade} students (ages ${grade + 5}-${grade + 6}).
+
+Requirements:
+- Language: ${languageMap[language]}
+- Difficulty level: ${difficulty}/5 (${difficultyDescriptions[difficulty]})
+- Subject: ${subjectMap[subject]}
+- Question type: ${questionType}
+- Follow Swiss education standards (Lehrplan21) where applicable${topicSection}
+
+For each question, provide:
+- Clear, age-appropriate question text
+- ${questionType === 'multiple-choice' ? '4 answer options with exactly one correct answer' : questionType === 'true-false' ? 'A statement that is either true or false' : 'A numerical answer with optional unit'}
+- Brief educational explanation
+- Appropriate tags for categorization
+
+Format your response as valid JSON:
+{
+  "questions": [
+    {
+      "type": "${questionType}",
+      "question": "Question text here",
+      ${questionType === 'multiple-choice' ? '"answers": ["Option A", "Option B", "Option C", "Option D"],\n      "correctIndex": 0,' : questionType === 'true-false' ? '"statement": "Statement here",\n      "correct": true,' : '"correctAnswer": 42,\n      "unit": "cm",\n      "tolerance": 1,'}
+      "explanation": "Educational explanation here"
+    }
+  ]
+}
+
+Make questions engaging, relevant to children's experiences, and educationally valuable. Avoid controversial topics and ensure cultural sensitivity.`
+
+    return prompt
+  }
+
+  private calculateTimeLimit(grade: Grade, difficulty: Difficulty): number {
+    // Base time decreases with grade, increases with difficulty
+    const baseTime = Math.max(5000, 20000 - (grade * 2000)) // 18s for grade 1, 8s for grade 6
+    const difficultyMultiplier = 0.5 + (difficulty * 0.3) // 0.8x to 2.0x
+    
+    return Math.round(baseTime * difficultyMultiplier)
+  }
+
+  private generateTags(subject: Subject, question: string, topic?: string): string[] {
+    const tags = [subject]
+    
+    if (topic) {
+      tags.push(topic.toLowerCase())
+    }
+
+    // Generate tags based on question content (simple keyword matching)
+    const keywords: Record<string, string[]> = {
+      math: ['addition', 'subtraction', 'multiplication', 'division', 'fractions', 'geometry', 'measurement'],
+      geography: ['countries', 'capitals', 'continents', 'oceans', 'mountains', 'rivers'],
+      language: ['grammar', 'vocabulary', 'spelling', 'reading', 'writing'],
+      'general-knowledge': ['animals', 'nature', 'science', 'history', 'culture']
+    }
+
+    const subjectKeywords = keywords[subject] || []
+    const questionLower = question.toLowerCase()
+    
+    subjectKeywords.forEach(keyword => {
+      if (questionLower.includes(keyword)) {
+        tags.push(keyword)
+      }
+    })
+
+    return tags
+  }
+
+  private getLehrplan21Topic(subject: Subject, grade: Grade): string {
+    // Map to Swiss curriculum codes
+    const topicMap: Record<string, string> = {
+      math: `MA.${Math.min(3, Math.ceil(grade / 2))}.A.${grade}`,
+      geography: `NMG.8.${Math.min(4, grade)}`,
+      language: `D.${Math.min(6, grade + 1)}.A.1`,
+      'general-knowledge': `NMG.${Math.min(12, grade + 1)}.1`
+    }
+
+    return topicMap[subject] || `${subject.toUpperCase()}.${grade}.1`
+  }
+
+  private getFallbackQuestions(params: QuestionGenerationParams): Question[] {
+    // Return some basic fallback questions if OpenAI fails
+    const fallbackQuestion: Question = {
+      id: `fallback_${Date.now()}`,
+      type: 'multiple-choice',
+      subject: params.subject,
+      grade: params.grade,
+      difficulty: params.difficulty,
+      language: params.language,
+      timeLimit: this.calculateTimeLimit(params.grade, params.difficulty),
+      tags: [params.subject, 'fallback'],
+      question: 'What is 2 + 2?',
+      answers: ['3', '4', '5', '6'],
+      correctIndex: 1,
+      explanation: '2 + 2 equals 4',
+      lehrplan21Topic: this.getLehrplan21Topic(params.subject, params.grade)
+    }
+
+    return [fallbackQuestion]
+  }
+
+  // Method to generate questions in batches to avoid rate limits
+  async generateQuestionBatch(
+    params: QuestionGenerationParams,
+    batchSize: number = 5
+  ): Promise<Question[]> {
+    const allQuestions: Question[] = []
+    const batches = Math.ceil(params.count / batchSize)
+
+    for (let i = 0; i < batches; i++) {
+      const remainingQuestions = params.count - allQuestions.length
+      const currentBatchSize = Math.min(batchSize, remainingQuestions)
+      
+      if (currentBatchSize <= 0) break
+
+      try {
+        const batchParams = { ...params, count: currentBatchSize }
+        const batchQuestions = await this.generateQuestions(batchParams)
+        allQuestions.push(...batchQuestions)
+
+        // Small delay between batches to respect rate limits
+        if (i < batches - 1) {
+          await new Promise(resolve => setTimeout(resolve, 1000))
+        }
+      } catch (error) {
+        console.error(`Batch ${i + 1} failed:`, error)
+        // Continue with next batch
+      }
+    }
+
+    return allQuestions
+  }
+
+  // Check if OpenAI is available (API key configured)
+  static isAvailable(): boolean {
+    // Temporarily disabled for testing - uncomment the line below when OpenAI quota is resolved
+    // return !!(process.env.NEXT_PUBLIC_OPENAI_API_KEY || process.env.OPENAI_API_KEY)
+    
+    // For now, return false to test static questions with variety
+    console.log('🚧 OpenAI temporarily disabled for testing - using enhanced static question bank')
+    return false
+  }
+}
+
+// Singleton instance
+export const openaiQuestionGenerator = new OpenAIQuestionGenerator()

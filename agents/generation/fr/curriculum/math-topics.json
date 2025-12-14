@@ -1,0 +1,69 @@
+{
+  "matiere": "math",
+  "totalQuestions": 600,
+  "themes": [
+    {
+      "nom": "Nombres 0-20",
+      "lehrplan21Code": "MA.1.A.1",
+      "degres": [1, 2],
+      "questions": 80,
+      "difficultes": [1, 2]
+    },
+    {
+      "nom": "Addition & Soustraction",
+      "lehrplan21Code": "MA.1.A.2",
+      "degres": [2, 3, 4],
+      "questions": 120,
+      "difficultes": [1, 2, 3]
+    },
+    {
+      "nom": "Tables de Multiplication",
+      "lehrplan21Code": "MA.1.A.3",
+      "degres": [3, 4, 5],
+      "questions": 100,
+      "difficultes": [2, 3, 4]
+    },
+    {
+      "nom": "Division",
+      "lehrplan21Code": "MA.1.A.4",
+      "degres": [4, 5, 6],
+      "questions": 80,
+      "difficultes": [3, 4, 5]
+    },
+    {
+      "nom": "Fractions",
+      "lehrplan21Code": "MA.1.B.1",
+      "degres": [4, 5, 6],
+      "questions": 70,
+      "difficultes": [3, 4, 5]
+    },
+    {
+      "nom": "Décimaux",
+      "lehrplan21Code": "MA.1.B.2",
+      "degres": [5, 6],
+      "questions": 50,
+      "difficultes": [4, 5]
+    },
+    {
+      "nom": "Géométrie - Formes",
+      "lehrplan21Code": "MA.2.A.1",
+      "degres": [1, 2, 3],
+      "questions": 40,
+      "difficultes": [1, 2]
+    },
+    {
+      "nom": "Mesures",
+      "lehrplan21Code": "MA.2.B.1",
+      "degres": [3, 4, 5],
+      "questions": 40,
+      "difficultes": [2, 3, 4]
+    },
+    {
+      "nom": "Aire & Périmètre",
+      "lehrplan21Code": "MA.2.C.1",
+      "degres": [5, 6],
+      "questions": 20,
+      "difficultes": [4, 5]
+    }
+  ]
+}

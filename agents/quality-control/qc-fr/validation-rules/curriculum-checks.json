@@ -1,0 +1,71 @@
+{
+  "curriculum": "Plan d'études romand (Lehrplan 21)",
+  "totalControles": 15,
+  "controles": [
+    {
+      "id": "C01",
+      "nom": "Code Lehrplan 21 valide",
+      "description": "Le code existe et est correctement formaté",
+      "severite": "critical",
+      "autoReject": true,
+      "codesValides": [
+        "MA.1.A.*", "MA.2.A.*", "MA.*.B.*", "MA.*.C.*",
+        "D.1.*", "D.2.*", "D.*.A.*", "D.*.B.*",
+        "NMG.*", "BG.*", "TG.*", "MU.*", "BS.*", "MI.*"
+      ]
+    },
+    {
+      "id": "C02",
+      "nom": "Difficulté adaptée au degré",
+      "description": "Niveau de difficulté approprié pour le degré",
+      "severite": "high",
+      "autoReject": true,
+      "regles": {
+        "degre1-2": [1, 2],
+        "degre3-4": [2, 3, 4],
+        "degre5-6": [3, 4, 5]
+      }
+    },
+    {
+      "id": "C03",
+      "nom": "Contenu correspond au code",
+      "description": "La question teste la compétence spécifiée par le code",
+      "severite": "high",
+      "autoReject": false
+    },
+    {
+      "id": "C04",
+      "nom": "Contenu adapté à l'âge",
+      "description": "Approprié pour le groupe d'âge",
+      "severite": "critical",
+      "autoReject": true,
+      "groupesAge": {
+        "1-2": "6-8 ans",
+        "3-4": "8-10 ans",
+        "5-6": "10-12 ans"
+      }
+    },
+    {
+      "id": "C05",
+      "nom": "Ni trop facile ni trop difficile",
+      "description": "Niveau de défi approprié",
+      "severite": "high",
+      "autoReject": false
+    },
+    {
+      "id": "C06",
+      "nom": "Objectif d'apprentissage clair",
+      "description": "Teste une compétence spécifique",
+      "severite": "medium",
+      "autoReject": false
+    },
+    {
+      "id": "C07",
+      "nom": "S'appuie sur les acquis antérieurs",
+      "description": "Suppose des prérequis appropriés",
+      "severite": "medium",
+      "autoReject": false
+    }
+  ],
+  "autoReject": ["C01", "C02", "C04"]
+}

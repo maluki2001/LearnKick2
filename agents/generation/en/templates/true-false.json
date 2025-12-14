@@ -1,0 +1,55 @@
+{
+  "templateType": "true-false",
+  "language": "en",
+  "requiredFields": [
+    "id",
+    "type",
+    "subject",
+    "grade",
+    "difficulty",
+    "language",
+    "question",
+    "answers",
+    "correctIndex",
+    "lehrplan21Code",
+    "competencyLevel",
+    "timeLimit",
+    "tags"
+  ],
+  "schema": {
+    "id": {
+      "format": "en_{subject}_grade{1-6}_tf_{number}",
+      "example": "en_science_grade4_tf_001"
+    },
+    "type": {
+      "value": "true-false",
+      "fixed": true
+    },
+    "answers": {
+      "value": ["True", "False"],
+      "fixed": true,
+      "note": "Always exactly these 2 options in this order"
+    },
+    "correctIndex": {
+      "type": "integer",
+      "enum": [0, 1],
+      "note": "0 for True, 1 for False"
+    },
+    "question": {
+      "type": "string",
+      "format": "declarative statement",
+      "examples": [
+        "The capital of Switzerland is Bern.",
+        "All mammals lay eggs."
+      ]
+    },
+    "timeLimit": {
+      "recommended": {
+        "grade1-2": 15000,
+        "grade3-4": 12000,
+        "grade5-6": 10000
+      },
+      "note": "True/false questions typically need less time"
+    }
+  }
+}

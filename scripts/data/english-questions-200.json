@@ -1,0 +1,1808 @@
+[
+  {
+    "question": "What is 5 + 3?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Which letter comes after B in the alphabet?",
+    "type": "multiple-choice",
+    "options": ["A", "C", "D", "E"],
+    "correctAnswer": "C",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 10 - 4?",
+    "type": "number-input",
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "A cat is a type of animal.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Which word is a colour?",
+    "type": "multiple-choice",
+    "options": ["table", "blue", "run", "happy"],
+    "correctAnswer": "blue",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 + 2?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "The Sun is a star.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many days are in one week?",
+    "type": "number-input",
+    "correctAnswer": "7",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Which word rhymes with 'cat'?",
+    "type": "multiple-choice",
+    "options": ["dog", "hat", "pig", "bird"],
+    "correctAnswer": "hat",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 15 - 8?",
+    "type": "number-input",
+    "correctAnswer": "7",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Water freezes at 0 degrees Celsius.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "type": "multiple-choice",
+    "options": ["childs", "children", "childes", "child"],
+    "correctAnswer": "children",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 12 + 13?",
+    "type": "multiple-choice",
+    "options": ["24", "25", "26", "27"],
+    "correctAnswer": "25",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "type": "number-input",
+    "correctAnswer": "7",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is a verb?",
+    "type": "multiple-choice",
+    "options": ["table", "jump", "happy", "blue"],
+    "correctAnswer": "jump",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 20 - 12?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Plants need sunlight to grow.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is the correct spelling?",
+    "type": "multiple-choice",
+    "options": ["frend", "friend", "freind", "friende"],
+    "correctAnswer": "friend",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 2?",
+    "type": "multiple-choice",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": "12",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 24 + 17?",
+    "type": "number-input",
+    "correctAnswer": "41",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "The capital of Switzerland is Bern.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence uses the correct past tense?",
+    "type": "multiple-choice",
+    "options": ["I goed to school", "I go to school", "I went to school", "I going to school"],
+    "correctAnswer": "I went to school",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 4?",
+    "type": "multiple-choice",
+    "options": ["32", "34", "36", "38"],
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many metres are in 1 kilometre?",
+    "type": "number-input",
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["color", "colour", "coler", "collour"],
+    "correctAnswer": "colour",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 56 - 29?",
+    "type": "number-input",
+    "correctAnswer": "27",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "The Matterhorn is a famous Swiss mountain.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is a synonym for 'happy'?",
+    "type": "multiple-choice",
+    "options": ["sad", "joyful", "angry", "tired"],
+    "correctAnswer": "joyful",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 8?",
+    "type": "multiple-choice",
+    "options": ["54", "56", "58", "60"],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "type": "number-input",
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Mammals are warm-blooded animals.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is an adjective?",
+    "type": "multiple-choice",
+    "options": ["run", "quickly", "beautiful", "jumping"],
+    "correctAnswer": "beautiful",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 100 - 47?",
+    "type": "number-input",
+    "correctAnswer": "53",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 12 × 5?",
+    "type": "multiple-choice",
+    "options": ["50", "55", "60", "65"],
+    "correctAnswer": "60",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Lake Geneva is located partially in Switzerland.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "type": "multiple-choice",
+    "options": ["The cat chased the mouse", "The mouse was chased by the cat", "The cat is chasing", "The cat chases mice"],
+    "correctAnswer": "The mouse was chased by the cat",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 144 ÷ 12?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many millimetres are in 1 metre?",
+    "type": "number-input",
+    "correctAnswer": "1000",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["favorite", "favourite", "favorit", "favourit"],
+    "correctAnswer": "favourite",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 15 × 8?",
+    "type": "multiple-choice",
+    "options": ["110", "115", "120", "125"],
+    "correctAnswer": "120",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The Rhine River flows through Switzerland.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is an antonym for 'difficult'?",
+    "type": "multiple-choice",
+    "options": ["hard", "easy", "challenging", "complex"],
+    "correctAnswer": "easy",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 250 - 87?",
+    "type": "number-input",
+    "correctAnswer": "163",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+    "type": "number-input",
+    "correctAnswer": "40",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "All insects have exactly 6 legs.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is a conjunction?",
+    "type": "multiple-choice",
+    "options": ["quickly", "and", "happy", "running"],
+    "correctAnswer": "and",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 18 × 6?",
+    "type": "multiple-choice",
+    "options": ["96", "102", "108", "114"],
+    "correctAnswer": "108",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 0.5 + 0.3?",
+    "type": "number-input",
+    "correctAnswer": "0.8",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Switzerland has four official languages.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is the superlative form of 'good'?",
+    "type": "multiple-choice",
+    "options": ["gooder", "goodest", "better", "best"],
+    "correctAnswer": "best",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 25% of 200?",
+    "type": "number-input",
+    "correctAnswer": "50",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many centimetres are in 2.5 metres?",
+    "type": "number-input",
+    "correctAnswer": "250",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["theater", "theatre", "theatr", "theetre"],
+    "correctAnswer": "theatre",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 324 ÷ 18?",
+    "type": "number-input",
+    "correctAnswer": "18",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The human body has 206 bones.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What type of word is 'quickly' in 'She ran quickly'?",
+    "type": "multiple-choice",
+    "options": ["noun", "verb", "adjective", "adverb"],
+    "correctAnswer": "adverb",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 2/5 + 1/5?",
+    "type": "multiple-choice",
+    "options": ["2/5", "3/5", "3/10", "1/5"],
+    "correctAnswer": "3/5",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is the perimeter of a square with side length 7 cm?",
+    "type": "number-input",
+    "correctAnswer": "28",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Zurich is the largest city in Switzerland.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence uses correct punctuation?",
+    "type": "multiple-choice",
+    "options": ["Whats your name", "What's your name?", "Whats your name.", "What's your name"],
+    "correctAnswer": "What's your name?",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 15² (15 squared)?",
+    "type": "number-input",
+    "correctAnswer": "225",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 3/4 - 1/4?",
+    "type": "multiple-choice",
+    "options": ["1/2", "2/4", "1/4", "2/8"],
+    "correctAnswer": "1/2",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The Alps mountain range extends through Switzerland.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 6,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence uses the subjunctive mood correctly?",
+    "type": "multiple-choice",
+    "options": ["If I was rich, I'd travel", "If I were rich, I'd travel", "If I am rich, I'd travel", "If I be rich, I'd travel"],
+    "correctAnswer": "If I were rich, I'd travel",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "What is 40% of 150?",
+    "type": "number-input",
+    "correctAnswer": "60",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many grams are in 3.5 kilograms?",
+    "type": "number-input",
+    "correctAnswer": "3500",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["analyze", "analyse", "analize", "analysse"],
+    "correctAnswer": "analyse",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is the value of x in: 3x + 7 = 22?",
+    "type": "number-input",
+    "correctAnswer": "5",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "Photosynthesis requires sunlight, water, and carbon dioxide.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 6,
+    "subject": "science",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is a metaphor?",
+    "type": "multiple-choice",
+    "options": ["A direct comparison using 'like' or 'as'", "A comparison without using 'like' or 'as'", "An exaggeration", "A sound word"],
+    "correctAnswer": "A comparison without using 'like' or 'as'",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 2.5 × 4?",
+    "type": "number-input",
+    "correctAnswer": "10",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 + 5?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "A triangle has four sides.",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is the first letter of the word 'apple'?",
+    "type": "multiple-choice",
+    "options": ["B", "A", "C", "P"],
+    "correctAnswer": "A",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 - 3?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Birds have feathers.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "How many fingers do you have on one hand?",
+    "type": "number-input",
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Which word means the opposite of 'big'?",
+    "type": "multiple-choice",
+    "options": ["small", "large", "huge", "tall"],
+    "correctAnswer": "small",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 4 + 4?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "The Moon orbits around Earth.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 11 + 9?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which season comes after summer?",
+    "type": "multiple-choice",
+    "options": ["spring", "winter", "autumn", "summer"],
+    "correctAnswer": "autumn",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is the plural of 'box'?",
+    "type": "multiple-choice",
+    "options": ["boxs", "boxes", "boxies", "boxen"],
+    "correctAnswer": "boxes",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 3?",
+    "type": "multiple-choice",
+    "options": ["21", "24", "27", "30"],
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Fish can breathe underwater.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 30 - 14?",
+    "type": "number-input",
+    "correctAnswer": "16",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is a noun?",
+    "type": "multiple-choice",
+    "options": ["run", "quickly", "book", "happy"],
+    "correctAnswer": "book",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 5?",
+    "type": "number-input",
+    "correctAnswer": "25",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A square has four equal sides.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 45 + 28?",
+    "type": "number-input",
+    "correctAnswer": "73",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many hours are in one day?",
+    "type": "number-input",
+    "correctAnswer": "24",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence has correct capitalization?",
+    "type": "multiple-choice",
+    "options": ["i live in switzerland", "I live in switzerland", "I Live In Switzerland", "I live in Switzerland"],
+    "correctAnswer": "I live in Switzerland",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 72 ÷ 8?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "The Earth revolves around the Sun.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 11 × 7?",
+    "type": "multiple-choice",
+    "options": ["70", "77", "84", "88"],
+    "correctAnswer": "77",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is spelled correctly?",
+    "type": "multiple-choice",
+    "options": ["beautifull", "beutiful", "beautiful", "beatiful"],
+    "correctAnswer": "beautiful",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 80 - 35?",
+    "type": "number-input",
+    "correctAnswer": "45",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many minutes are in one hour?",
+    "type": "number-input",
+    "correctAnswer": "60",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 13 × 4?",
+    "type": "multiple-choice",
+    "options": ["48", "52", "56", "60"],
+    "correctAnswer": "52",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many languages are official in Switzerland?",
+    "type": "number-input",
+    "correctAnswer": "4",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is a preposition?",
+    "type": "multiple-choice",
+    "options": ["run", "under", "happy", "quickly"],
+    "correctAnswer": "under",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 180 ÷ 15?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Water boils at 100 degrees Celsius at sea level.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 16 × 9?",
+    "type": "multiple-choice",
+    "options": ["134", "140", "144", "150"],
+    "correctAnswer": "144",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["center", "centre", "centr", "centere"],
+    "correctAnswer": "centre",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 425 - 178?",
+    "type": "number-input",
+    "correctAnswer": "247",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many sides does an octagon have?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 0.25 + 0.75?",
+    "type": "number-input",
+    "correctAnswer": "1",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Switzerland is a landlocked country.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is the comparative form of 'bad'?",
+    "type": "multiple-choice",
+    "options": ["badder", "worse", "worst", "more bad"],
+    "correctAnswer": "worse",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 20% of 80?",
+    "type": "number-input",
+    "correctAnswer": "16",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many litres are in 5000 millilitres?",
+    "type": "number-input",
+    "correctAnswer": "5",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence uses a simile?",
+    "type": "multiple-choice",
+    "options": ["The stars are diamonds", "She runs like the wind", "Time is money", "He is a lion"],
+    "correctAnswer": "She runs like the wind",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 456 ÷ 24?",
+    "type": "number-input",
+    "correctAnswer": "19",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The heart pumps blood throughout the body.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 3/4 + 1/4?",
+    "type": "number-input",
+    "correctAnswer": "1",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["honor", "honour", "honur", "honnour"],
+    "correctAnswer": "honour",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 12² (12 squared)?",
+    "type": "number-input",
+    "correctAnswer": "144",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 5/8 - 1/8?",
+    "type": "multiple-choice",
+    "options": ["4/8", "1/2", "6/8", "4/16"],
+    "correctAnswer": "1/2",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Mount Everest is the tallest mountain in the world.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 6,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is alliteration?",
+    "type": "multiple-choice",
+    "options": ["Repetition of vowel sounds", "Repetition of consonant sounds at the start of words", "A comparison", "An exaggeration"],
+    "correctAnswer": "Repetition of consonant sounds at the start of words",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 60% of 250?",
+    "type": "number-input",
+    "correctAnswer": "150",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many seconds are in 5 minutes?",
+    "type": "number-input",
+    "correctAnswer": "300",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["realize", "realise", "realisze", "realice"],
+    "correctAnswer": "realise",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is the value of x in: 2x - 4 = 10?",
+    "type": "number-input",
+    "correctAnswer": "7",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "The average human body temperature is approximately 37 degrees Celsius.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 6,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 1.5 × 8?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which word is an interjection?",
+    "type": "multiple-choice",
+    "options": ["run", "wow", "beautiful", "quickly"],
+    "correctAnswer": "wow",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 + 4?",
+    "type": "number-input",
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "How many vowels are in the English alphabet?",
+    "type": "number-input",
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Penguins can fly.",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 - 2?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Which shape has three sides?",
+    "type": "multiple-choice",
+    "options": ["square", "circle", "triangle", "rectangle"],
+    "correctAnswer": "triangle",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 14 + 6?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence is a question?",
+    "type": "multiple-choice",
+    "options": ["The sky is blue", "What colour is the sky", "The sky is blue.", "What colour is the sky?"],
+    "correctAnswer": "What colour is the sky?",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Dolphins are mammals.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 4?",
+    "type": "multiple-choice",
+    "options": ["24", "26", "28", "30"],
+    "correctAnswer": "28",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 25 - 9?",
+    "type": "number-input",
+    "correctAnswer": "16",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 64 + 28?",
+    "type": "number-input",
+    "correctAnswer": "92",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which word is a pronoun?",
+    "type": "multiple-choice",
+    "options": ["book", "run", "she", "quickly"],
+    "correctAnswer": "she",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 54 ÷ 6?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "The largest ocean on Earth is the Pacific Ocean.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 9?",
+    "type": "multiple-choice",
+    "options": ["72", "81", "90", "99"],
+    "correctAnswer": "81",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many centimetres are in 1 metre?",
+    "type": "number-input",
+    "correctAnswer": "100",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 17 × 6?",
+    "type": "number-input",
+    "correctAnswer": "102",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["gray", "grey", "grei", "grae"],
+    "correctAnswer": "grey",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Geneva is located on the shore of which lake?",
+    "type": "multiple-choice",
+    "options": ["Lake Zurich", "Lake Geneva", "Lake Constance", "Lake Lucerne"],
+    "correctAnswer": "Lake Geneva",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 216 ÷ 12?",
+    "type": "number-input",
+    "correctAnswer": "18",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "A year has 365 days except in a leap year.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is the area of a square with side length 9 cm?",
+    "type": "number-input",
+    "correctAnswer": "81",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 0.6 + 0.4?",
+    "type": "number-input",
+    "correctAnswer": "1",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is a homophone?",
+    "type": "multiple-choice",
+    "options": ["Words that sound the same but have different meanings", "Words that look the same", "Words that rhyme", "Words from another language"],
+    "correctAnswer": "Words that sound the same but have different meanings",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 30% of 120?",
+    "type": "number-input",
+    "correctAnswer": "36",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The Red Cross was founded in Switzerland.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 2/3 + 1/6?",
+    "type": "multiple-choice",
+    "options": ["3/6", "5/6", "3/9", "4/6"],
+    "correctAnswer": "5/6",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "How many millilitres are in 2 litres?",
+    "type": "number-input",
+    "correctAnswer": "2000",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 10² (10 squared)?",
+    "type": "number-input",
+    "correctAnswer": "100",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["defense", "defence", "defens", "defance"],
+    "correctAnswer": "defence",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 50% of 90?",
+    "type": "number-input",
+    "correctAnswer": "45",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is personification?",
+    "type": "multiple-choice",
+    "options": ["Giving human qualities to non-human things", "A comparison using 'like'", "An exaggeration", "A rhyme scheme"],
+    "correctAnswer": "Giving human qualities to non-human things",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The speed of light is approximately 300,000 kilometres per second.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 6,
+    "subject": "science",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is the value of x in: 5x + 3 = 28?",
+    "type": "number-input",
+    "correctAnswer": "5",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "What is 3.6 ÷ 4?",
+    "type": "number-input",
+    "correctAnswer": "0.9",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence uses correct grammar?",
+    "type": "multiple-choice",
+    "options": ["She don't like apples", "She doesn't likes apples", "She doesn't like apples", "She don't likes apples"],
+    "correctAnswer": "She doesn't like apples",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 1/2 × 1/4?",
+    "type": "multiple-choice",
+    "options": ["1/6", "1/8", "2/4", "1/4"],
+    "correctAnswer": "1/8",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "What is 11 - 5?",
+    "type": "number-input",
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Which animal lives in water?",
+    "type": "multiple-choice",
+    "options": ["dog", "cat", "fish", "bird"],
+    "correctAnswer": "fish",
+    "grade": 1,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "The word 'run' is a verb.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "english",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 3 + 6?",
+    "type": "multiple-choice",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 18 - 7?",
+    "type": "number-input",
+    "correctAnswer": "11",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "type": "multiple-choice",
+    "options": ["becuz", "because", "becaus", "becose"],
+    "correctAnswer": "because",
+    "grade": 2,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Frogs are amphibians.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 3?",
+    "type": "multiple-choice",
+    "options": ["24", "27", "30", "33"],
+    "correctAnswer": "27",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 35 + 19?",
+    "type": "number-input",
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is the plural of 'tooth'?",
+    "type": "multiple-choice",
+    "options": ["tooths", "teeth", "toothes", "teeths"],
+    "correctAnswer": "teeth",
+    "grade": 3,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 42 ÷ 7?",
+    "type": "number-input",
+    "correctAnswer": "6",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Snakes are reptiles.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 12 × 11?",
+    "type": "multiple-choice",
+    "options": ["120", "126", "132", "138"],
+    "correctAnswer": "132",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 315 - 127?",
+    "type": "number-input",
+    "correctAnswer": "188",
+    "grade": 4,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is a synonym for 'quick'?",
+    "type": "multiple-choice",
+    "options": ["slow", "fast", "lazy", "tired"],
+    "correctAnswer": "fast",
+    "grade": 4,
+    "subject": "english",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Basel is a city in Switzerland.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 4,
+    "subject": "science",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 0.7 + 0.8?",
+    "type": "number-input",
+    "correctAnswer": "1.5",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "type": "number-input",
+    "correctAnswer": "30",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Which is the correct British spelling?",
+    "type": "multiple-choice",
+    "options": ["organize", "organise", "organisze", "organice"],
+    "correctAnswer": "organise",
+    "grade": 5,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "The human skeleton has more than 200 bones.",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 5,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 3/5 + 1/5?",
+    "type": "multiple-choice",
+    "options": ["3/5", "4/5", "4/10", "2/5"],
+    "correctAnswer": "4/5",
+    "grade": 5,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 75% of 80?",
+    "type": "number-input",
+    "correctAnswer": "60",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is the value of x in: 4x - 2 = 18?",
+    "type": "number-input",
+    "correctAnswer": "5",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "Which sentence uses a metaphor?",
+    "type": "multiple-choice",
+    "options": ["She's as brave as a lion", "She is a shining star", "She runs quickly", "She sings like an angel"],
+    "correctAnswer": "She is a shining star",
+    "grade": 6,
+    "subject": "english",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Switzerland uses the Euro as its currency.",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 6,
+    "subject": "science",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 2.4 × 5?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 6,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  }
+]

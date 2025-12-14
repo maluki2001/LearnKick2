@@ -1,0 +1,2501 @@
+[
+  {
+    "question": "What is 5 + 3?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 10 - 4?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "How many fingers do you have on both hands?",
+    "type": "number-input",
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 + 2?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 15 - 5?",
+    "type": "multiple-choice",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": "10",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "Is 12 greater than 8?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 4 + 4?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 - 3?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "How many wheels does a bicycle have?",
+    "type": "number-input",
+    "correctAnswer": "2",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 + 5?",
+    "type": "multiple-choice",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": "11",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 5 + 5 equal to 10?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 13 - 7?",
+    "type": "multiple-choice",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 + 6?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 17 - 9?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 20 the biggest number below 30?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You have 3 red apples and 5 green apples. How many apples do you have in total?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 11 - 6?",
+    "type": "multiple-choice",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "5",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 + 7?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 16 - 8?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 3 + 4 equal to 8?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 + 8?",
+    "type": "multiple-choice",
+    "options": ["15", "16", "17", "18"],
+    "correctAnswer": "17",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 14 - 6?",
+    "type": "multiple-choice",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What number comes after 19?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "You have CHF 10. You buy a toy for CHF 3. How much money do you have left?",
+    "type": "multiple-choice",
+    "options": ["CHF 5", "CHF 6", "CHF 7", "CHF 8"],
+    "correctAnswer": "CHF 7",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 15 - 10 equal to 5?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 12 + 3?",
+    "type": "multiple-choice",
+    "options": ["13", "14", "15", "16"],
+    "correctAnswer": "15",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 18 - 9?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many days are in one week?",
+    "type": "number-input",
+    "correctAnswer": "7",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 + 9?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 10 - 3 equal to 6?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 11 + 4?",
+    "type": "multiple-choice",
+    "options": ["13", "14", "15", "16"],
+    "correctAnswer": "15",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 19 - 10?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You read 6 books in January and 7 books in February. How many books did you read in total?",
+    "type": "number-input",
+    "correctAnswer": "13",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 + 9?",
+    "type": "multiple-choice",
+    "options": ["15", "16", "17", "18"],
+    "correctAnswer": "17",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 7 less than 5?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 13 + 5?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 20 - 11?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "There are 12 children in the playground. 5 children go home. How many children are left?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 + 8?",
+    "type": "multiple-choice",
+    "options": ["12", "13", "14", "15"],
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 9 + 9 equal to 18?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 15 + 4?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 20 - 8?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You have 14 stickers. You give 6 stickers to your friend. How many stickers do you have left?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 10 + 7?",
+    "type": "multiple-choice",
+    "options": ["15", "16", "17", "18"],
+    "correctAnswer": "17",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 4 + 5 equal to 10?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 12 + 7?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 20 - 12?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "A pencil costs CHF 2. How much do 3 pencils cost?",
+    "type": "multiple-choice",
+    "options": ["CHF 4", "CHF 5", "CHF 6", "CHF 7"],
+    "correctAnswer": "CHF 6",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 11 + 8?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 16 greater than 20?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 14 + 5?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 20 - 7?",
+    "type": "number-input",
+    "correctAnswer": "13",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "There are 18 birds on a tree. 9 birds fly away. How many birds are left?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 + 7?",
+    "type": "multiple-choice",
+    "options": ["14", "15", "16", "17"],
+    "correctAnswer": "16",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 8 + 8 equal to 16?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 13 + 6?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 19 - 8?",
+    "type": "number-input",
+    "correctAnswer": "11",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "You have CHF 15. You spend CHF 7. How much money do you have left?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 10 + 9?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 20 - 5 equal to 15?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 16 + 3?",
+    "type": "multiple-choice",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "19",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 18 - 10?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "There are 15 sweets in a jar. You eat 8 sweets. How many sweets are left?",
+    "type": "number-input",
+    "correctAnswer": "7",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 12 + 8?",
+    "type": "multiple-choice",
+    "options": ["18", "19", "20", "21"],
+    "correctAnswer": "20",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "Is 11 + 9 equal to 20?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 17 + 3?",
+    "type": "multiple-choice",
+    "options": ["18", "19", "20", "21"],
+    "correctAnswer": "20",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 20 - 6?",
+    "type": "number-input",
+    "correctAnswer": "14",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A ruler is 20 centimetres long. You break off 4 centimetres. How long is the ruler now?",
+    "type": "number-input",
+    "correctAnswer": "16",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 14 + 6?",
+    "type": "multiple-choice",
+    "options": ["18", "19", "20", "21"],
+    "correctAnswer": "20",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "Is 6 + 7 equal to 14?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 15 + 5?",
+    "type": "multiple-choice",
+    "options": ["18", "19", "20", "21"],
+    "correctAnswer": "20",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 19 - 7?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "You collect 13 shells at the beach. You give 5 shells to your sister. How many shells do you have?",
+    "type": "number-input",
+    "correctAnswer": "8",
+    "grade": 1,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 25 + 15?",
+    "type": "multiple-choice",
+    "options": ["35", "40", "45", "50"],
+    "correctAnswer": "40",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 50 - 20?",
+    "type": "multiple-choice",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 3 × 4?",
+    "type": "number-input",
+    "correctAnswer": "12",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 42 + 28?",
+    "type": "multiple-choice",
+    "options": ["68", "69", "70", "71"],
+    "correctAnswer": "70",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 67 - 35?",
+    "type": "multiple-choice",
+    "options": ["30", "31", "32", "33"],
+    "correctAnswer": "32",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 55 greater than 45?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 2?",
+    "type": "number-input",
+    "correctAnswer": "10",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 88 - 44?",
+    "type": "multiple-choice",
+    "options": ["42", "43", "44", "45"],
+    "correctAnswer": "44",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many centimetres are in 1 metre?",
+    "type": "number-input",
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 36 + 24?",
+    "type": "multiple-choice",
+    "options": ["58", "59", "60", "61"],
+    "correctAnswer": "60",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 30 + 30 equal to 60?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 2 × 8?",
+    "type": "multiple-choice",
+    "options": ["14", "15", "16", "17"],
+    "correctAnswer": "16",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 74 - 29?",
+    "type": "multiple-choice",
+    "options": ["43", "44", "45", "46"],
+    "correctAnswer": "45",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 53 + 37?",
+    "type": "number-input",
+    "correctAnswer": "90",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 100 - 50 equal to 50?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "You have 4 bags with 5 sweets in each bag. How many sweets do you have in total?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 48 + 32?",
+    "type": "multiple-choice",
+    "options": ["78", "79", "80", "81"],
+    "correctAnswer": "80",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 3 × 7?",
+    "type": "multiple-choice",
+    "options": ["18", "19", "20", "21"],
+    "correctAnswer": "21",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 95 - 48?",
+    "type": "number-input",
+    "correctAnswer": "47",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 40 less than 80?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 64 + 26?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 4 × 5?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 82 - 37?",
+    "type": "multiple-choice",
+    "options": ["43", "44", "45", "46"],
+    "correctAnswer": "45",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A book costs CHF 12. You buy 3 books. How much do you spend in total?",
+    "type": "number-input",
+    "correctAnswer": "36",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 57 + 23?",
+    "type": "multiple-choice",
+    "options": ["78", "79", "80", "81"],
+    "correctAnswer": "80",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 6 × 2 equal to 12?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 2 × 9?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 91 - 56?",
+    "type": "number-input",
+    "correctAnswer": "35",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "There are 45 students in Year 2. 18 students are boys. How many students are girls?",
+    "type": "number-input",
+    "correctAnswer": "27",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 39 + 41?",
+    "type": "multiple-choice",
+    "options": ["78", "79", "80", "81"],
+    "correctAnswer": "80",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 5 × 5 equal to 25?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 3 × 6?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 76 - 38?",
+    "type": "number-input",
+    "correctAnswer": "38",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You have CHF 50. You buy a game for CHF 23. How much money do you have left?",
+    "type": "number-input",
+    "correctAnswer": "27",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 44 + 46?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 2?",
+    "type": "number-input",
+    "correctAnswer": "14",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 85 - 47?",
+    "type": "multiple-choice",
+    "options": ["36", "37", "38", "39"],
+    "correctAnswer": "38",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 90 greater than 100?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "There are 8 tables in the classroom. Each table has 4 chairs. How many chairs are there in total?",
+    "type": "number-input",
+    "correctAnswer": "32",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 62 + 38?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 4 × 4?",
+    "type": "number-input",
+    "correctAnswer": "16",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 93 - 58?",
+    "type": "multiple-choice",
+    "options": ["33", "34", "35", "36"],
+    "correctAnswer": "35",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 3 × 3 equal to 9?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 56 + 34?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 6?",
+    "type": "number-input",
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 100 - 63?",
+    "type": "number-input",
+    "correctAnswer": "37",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A packet of crayons costs CHF 8. How much do 5 packets cost?",
+    "type": "number-input",
+    "correctAnswer": "40",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 73 + 27?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 8 × 2 equal to 18?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 3?",
+    "type": "multiple-choice",
+    "options": ["16", "17", "18", "19"],
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 87 - 49?",
+    "type": "number-input",
+    "correctAnswer": "38",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "There are 60 apples. You put them into 6 baskets equally. How many apples are in each basket?",
+    "type": "number-input",
+    "correctAnswer": "10",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 45 + 55?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 2?",
+    "type": "number-input",
+    "correctAnswer": "18",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 96 - 58?",
+    "type": "multiple-choice",
+    "options": ["36", "37", "38", "39"],
+    "correctAnswer": "38",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 50 + 50 equal to 100?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 68 + 32?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 4?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 100 - 45?",
+    "type": "number-input",
+    "correctAnswer": "55",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You measure a table. It is 80 centimetres wide. Your friend has a table that is 95 centimetres wide. How much wider is your friend's table?",
+    "type": "number-input",
+    "correctAnswer": "15",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 77 + 23?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 4 × 6 equal to 24?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 3?",
+    "type": "multiple-choice",
+    "options": ["22", "23", "24", "25"],
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 92 - 47?",
+    "type": "number-input",
+    "correctAnswer": "45",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A shop has 72 toy cars. They sell 28 toy cars. How many toy cars are left?",
+    "type": "number-input",
+    "correctAnswer": "44",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 54 + 36?",
+    "type": "multiple-choice",
+    "options": ["88", "89", "90", "91"],
+    "correctAnswer": "90",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 3?",
+    "type": "number-input",
+    "correctAnswer": "21",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 89 - 54?",
+    "type": "multiple-choice",
+    "options": ["33", "34", "35", "36"],
+    "correctAnswer": "35",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 100 - 25 equal to 75?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 84 + 16?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 4?",
+    "type": "number-input",
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 97 - 39?",
+    "type": "number-input",
+    "correctAnswer": "58",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "You save CHF 10 every week. How much money do you save in 7 weeks?",
+    "type": "number-input",
+    "correctAnswer": "70",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 65 + 35?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 9 × 3 equal to 27?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 8?",
+    "type": "multiple-choice",
+    "options": ["38", "39", "40", "41"],
+    "correctAnswer": "40",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 100 - 58?",
+    "type": "number-input",
+    "correctAnswer": "42",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "There are 48 students going on a school trip. They travel in minibuses. Each minibus holds 8 students. How many minibuses do they need?",
+    "type": "number-input",
+    "correctAnswer": "6",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 49 + 51?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 4?",
+    "type": "number-input",
+    "correctAnswer": "28",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 94 - 67?",
+    "type": "multiple-choice",
+    "options": ["25", "26", "27", "28"],
+    "correctAnswer": "27",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 8 × 4 equal to 32?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 71 + 29?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 5?",
+    "type": "number-input",
+    "correctAnswer": "30",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 100 - 76?",
+    "type": "number-input",
+    "correctAnswer": "24",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A rope is 75 centimetres long. You cut off 38 centimetres. How long is the rope now?",
+    "type": "number-input",
+    "correctAnswer": "37",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 58 + 42?",
+    "type": "multiple-choice",
+    "options": ["98", "99", "100", "101"],
+    "correctAnswer": "100",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 7 × 5 equal to 35?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 4?",
+    "type": "multiple-choice",
+    "options": ["34", "35", "36", "37"],
+    "correctAnswer": "36",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 86 - 59?",
+    "type": "number-input",
+    "correctAnswer": "27",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "You have 81 marbles. You share them equally among 9 friends. How many marbles does each friend get?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 2,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 125 + 275?",
+    "type": "multiple-choice",
+    "options": ["350", "375", "400", "425"],
+    "correctAnswer": "400",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 500 - 250?",
+    "type": "multiple-choice",
+    "options": ["200", "225", "250", "275"],
+    "correctAnswer": "250",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 7?",
+    "type": "number-input",
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 342 + 158?",
+    "type": "multiple-choice",
+    "options": ["480", "490", "500", "510"],
+    "correctAnswer": "500",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 627 - 384?",
+    "type": "multiple-choice",
+    "options": ["241", "242", "243", "244"],
+    "correctAnswer": "243",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 750 greater than 700?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 6?",
+    "type": "number-input",
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 888 - 444?",
+    "type": "multiple-choice",
+    "options": ["442", "443", "444", "445"],
+    "correctAnswer": "444",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "How many millimetres are in 1 centimetre?",
+    "type": "number-input",
+    "correctAnswer": "10",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 456 + 244?",
+    "type": "multiple-choice",
+    "options": ["680", "690", "700", "710"],
+    "correctAnswer": "700",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 300 + 400 equal to 700?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 7?",
+    "type": "multiple-choice",
+    "options": ["61", "62", "63", "64"],
+    "correctAnswer": "63",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 734 - 289?",
+    "type": "multiple-choice",
+    "options": ["443", "444", "445", "446"],
+    "correctAnswer": "445",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 563 + 437?",
+    "type": "number-input",
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 1000 - 500 equal to 500?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is half of 100?",
+    "type": "number-input",
+    "correctAnswer": "50",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 648 + 352?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 8?",
+    "type": "multiple-choice",
+    "options": ["54", "55", "56", "57"],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 945 - 478?",
+    "type": "number-input",
+    "correctAnswer": "467",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 450 less than 850?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 764 + 236?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 6?",
+    "type": "number-input",
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 832 - 387?",
+    "type": "multiple-choice",
+    "options": ["443", "444", "445", "446"],
+    "correctAnswer": "445",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A bicycle costs CHF 450. A scooter costs CHF 320. How much more does the bicycle cost?",
+    "type": "number-input",
+    "correctAnswer": "130",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 575 + 425?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 8 × 7 equal to 56?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 9?",
+    "type": "multiple-choice",
+    "options": ["52", "53", "54", "55"],
+    "correctAnswer": "54",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 921 - 556?",
+    "type": "number-input",
+    "correctAnswer": "365",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is one quarter of 80?",
+    "type": "number-input",
+    "correctAnswer": "20",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 439 + 561?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 9 × 9 equal to 81?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 8?",
+    "type": "multiple-choice",
+    "options": ["62", "63", "64", "65"],
+    "correctAnswer": "64",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 876 - 398?",
+    "type": "number-input",
+    "correctAnswer": "478",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A school has 365 students. 148 students are in Years 1 and 2. How many students are in Years 3 and above?",
+    "type": "number-input",
+    "correctAnswer": "217",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 694 + 306?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 7?",
+    "type": "number-input",
+    "correctAnswer": "49",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 638?",
+    "type": "multiple-choice",
+    "options": ["360", "361", "362", "363"],
+    "correctAnswer": "362",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 600 greater than 900?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "There are 72 biscuits. You want to share them equally among 8 children. How many biscuits does each child get?",
+    "type": "number-input",
+    "correctAnswer": "9",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 528 + 472?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 8?",
+    "type": "number-input",
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 853 - 487?",
+    "type": "multiple-choice",
+    "options": ["364", "365", "366", "367"],
+    "correctAnswer": "366",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 7 × 9 equal to 63?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 865 + 135?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 8?",
+    "type": "number-input",
+    "correctAnswer": "48",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 745?",
+    "type": "number-input",
+    "correctAnswer": "255",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You save CHF 15 every week for 8 weeks. How much money do you save in total?",
+    "type": "number-input",
+    "correctAnswer": "120",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 713 + 287?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 8 × 9 equal to 72?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 6?",
+    "type": "multiple-choice",
+    "options": ["40", "41", "42", "43"],
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 942 - 587?",
+    "type": "number-input",
+    "correctAnswer": "355",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is half of 240?",
+    "type": "number-input",
+    "correctAnswer": "120",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 645 + 355?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 5?",
+    "type": "number-input",
+    "correctAnswer": "40",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 856?",
+    "type": "multiple-choice",
+    "options": ["142", "143", "144", "145"],
+    "correctAnswer": "144",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 500 + 500 equal to 1000?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "A factory makes 56 toys per day. How many toys does it make in one week (7 days)?",
+    "type": "number-input",
+    "correctAnswer": "392",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 482 + 518?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 5?",
+    "type": "number-input",
+    "correctAnswer": "45",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 987 - 598?",
+    "type": "multiple-choice",
+    "options": ["387", "388", "389", "390"],
+    "correctAnswer": "389",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 6 × 6 equal to 36?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 796 + 204?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 5?",
+    "type": "number-input",
+    "correctAnswer": "35",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 467?",
+    "type": "number-input",
+    "correctAnswer": "533",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A swimming pool holds 850 litres of water. You add 275 litres. How much water is in the pool now?",
+    "type": "number-input",
+    "correctAnswer": "1125",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 827 + 173?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 9 × 4 equal to 36?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 7?",
+    "type": "multiple-choice",
+    "options": ["54", "55", "56", "57"],
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 914 - 679?",
+    "type": "number-input",
+    "correctAnswer": "235",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is one quarter of 200?",
+    "type": "number-input",
+    "correctAnswer": "50",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 551 + 449?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 6?",
+    "type": "number-input",
+    "correctAnswer": "36",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 523?",
+    "type": "multiple-choice",
+    "options": ["475", "476", "477", "478"],
+    "correctAnswer": "477",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 1000 - 250 equal to 750?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You buy 9 boxes of chocolates. Each box has 8 chocolates. How many chocolates do you have in total?",
+    "type": "number-input",
+    "correctAnswer": "72",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 684 + 316?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 9?",
+    "type": "number-input",
+    "correctAnswer": "45",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 865 - 478?",
+    "type": "multiple-choice",
+    "options": ["385", "386", "387", "388"],
+    "correctAnswer": "387",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 8 × 8 equal to 64?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 738 + 262?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 7 × 4?",
+    "type": "number-input",
+    "correctAnswer": "28",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 614?",
+    "type": "number-input",
+    "correctAnswer": "386",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "A book has 356 pages. You have read 189 pages. How many pages do you still need to read?",
+    "type": "number-input",
+    "correctAnswer": "167",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 912 + 88?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 7 × 7 equal to 49?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 6 × 7?",
+    "type": "multiple-choice",
+    "options": ["40", "41", "42", "43"],
+    "correctAnswer": "42",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 953 - 687?",
+    "type": "number-input",
+    "correctAnswer": "266",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is half of 360?",
+    "type": "number-input",
+    "correctAnswer": "180",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "What is 619 + 381?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 9 × 3?",
+    "type": "number-input",
+    "correctAnswer": "27",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 728?",
+    "type": "multiple-choice",
+    "options": ["270", "271", "272", "273"],
+    "correctAnswer": "272",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "Is 900 greater than 1000?",
+    "type": "true-false",
+    "correctAnswer": "false",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "A farmer has 448 apples. He packs them into boxes of 8 apples each. How many boxes does he need?",
+    "type": "number-input",
+    "correctAnswer": "56",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 4,
+    "language": "en"
+  },
+  {
+    "question": "What is 847 + 153?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 8 × 4?",
+    "type": "number-input",
+    "correctAnswer": "32",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 876 - 589?",
+    "type": "multiple-choice",
+    "options": ["285", "286", "287", "288"],
+    "correctAnswer": "287",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  },
+  {
+    "question": "Is 6 × 9 equal to 54?",
+    "type": "true-false",
+    "correctAnswer": "true",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 775 + 225?",
+    "type": "multiple-choice",
+    "options": ["980", "990", "1000", "1010"],
+    "correctAnswer": "1000",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "What is 5 × 7?",
+    "type": "number-input",
+    "correctAnswer": "35",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 1,
+    "language": "en"
+  },
+  {
+    "question": "What is 1000 - 835?",
+    "type": "number-input",
+    "correctAnswer": "165",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 2,
+    "language": "en"
+  },
+  {
+    "question": "You measure a rope. It is 725 centimetres long. Your friend's rope is 468 centimetres long. How much longer is your rope?",
+    "type": "number-input",
+    "correctAnswer": "257",
+    "grade": 3,
+    "subject": "math",
+    "difficulty": 3,
+    "language": "en"
+  }
+]

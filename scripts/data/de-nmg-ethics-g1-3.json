@@ -1,0 +1,1271 @@
+[
+  {
+    "question": "Dein Freund ist traurig. Was machst du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich tröste ihn",
+      "Ich lache ihn aus",
+      "Ich gehe weg",
+      "Ich ignoriere ihn"
+    ],
+    "correctAnswer": "Ich tröste ihn",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Teilen bedeutet, dass man etwas zusammen benutzt.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du hast zwei Äpfel. Dein Freund hat keinen. Was ist freundlich?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich esse beide Äpfel",
+      "Ich gebe ihm einen Apfel",
+      "Ich verstecke die Äpfel",
+      "Ich werfe einen Apfel weg"
+    ],
+    "correctAnswer": "Ich gebe ihm einen Apfel",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Ein guter Freund hilft dir.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was bedeutet 'freundlich sein'?",
+    "type": "multiple-choice",
+    "options": [
+      "Nett zu anderen sein",
+      "Anderen wehtun",
+      "Alleine spielen",
+      "Laut schreien"
+    ],
+    "correctAnswer": "Nett zu anderen sein",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist okay, andere Kinder zu ärgern.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Ein Kind fällt hin. Was tust du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich helfe ihm aufzustehen",
+      "Ich lache es aus",
+      "Ich renne weg",
+      "Ich schaue nicht hin"
+    ],
+    "correctAnswer": "Ich helfe ihm aufzustehen",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Danke sagen ist höflich.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Welches Wort ist ein 'Zauberwort'?",
+    "type": "multiple-choice",
+    "options": [
+      "Bitte",
+      "Gib her",
+      "Schnell",
+      "Weg da"
+    ],
+    "correctAnswer": "Bitte",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du solltest deine Spielsachen mit anderen Kindern teilen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist wichtig in einer Freundschaft?",
+    "type": "multiple-choice",
+    "options": [
+      "Sich gegenseitig helfen",
+      "Sich streiten",
+      "Alleine sein",
+      "Nicht sprechen"
+    ],
+    "correctAnswer": "Sich gegenseitig helfen",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte 'Entschuldigung' sagen, wenn man einen Fehler macht.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du möchtest mit einem Spielzeug spielen, das ein anderes Kind hat. Was sagst du?",
+    "type": "multiple-choice",
+    "options": [
+      "Darf ich bitte mitspielen?",
+      "Gib mir das sofort!",
+      "Ich nehme es einfach",
+      "Das ist jetzt meins"
+    ],
+    "correctAnswer": "Darf ich bitte mitspielen?",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Lächeln und nett sein macht andere Menschen glücklich.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was zeigt, dass du ein guter Freund bist?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich höre zu, wenn mein Freund spricht",
+      "Ich nehme alle Spielsachen",
+      "Ich will immer gewinnen",
+      "Ich bin gemein"
+    ],
+    "correctAnswer": "Ich höre zu, wenn mein Freund spricht",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist gut, wenn alle Kinder mitspielen dürfen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Ein neues Kind kommt in die Klasse. Was machst du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich sage Hallo und bin freundlich",
+      "Ich ignoriere es",
+      "Ich lache es aus",
+      "Ich verstecke mich"
+    ],
+    "correctAnswer": "Ich sage Hallo und bin freundlich",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte anderen zuhören, wenn sie sprechen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Welche Handlung ist freundlich?",
+    "type": "multiple-choice",
+    "options": [
+      "Jemandem die Tür aufhalten",
+      "Die Tür zuknallen",
+      "Vordrängeln",
+      "Schubsen"
+    ],
+    "correctAnswer": "Jemandem die Tür aufhalten",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Zusammen spielen macht mehr Spass als alleine.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 1,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was bedeutet 'fair sein'?",
+    "type": "multiple-choice",
+    "options": [
+      "Alle gleich behandeln",
+      "Nur an sich selbst denken",
+      "Immer gewinnen wollen",
+      "Anderen nichts geben"
+    ],
+    "correctAnswer": "Alle gleich behandeln",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Regeln helfen uns, gut zusammenzuleben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Im Schulhaus darf man nicht rennen. Warum gibt es diese Regel?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit niemand verletzt wird",
+      "Um langsam zu sein",
+      "Weil Lehrer das mögen",
+      "Es gibt keinen Grund"
+    ],
+    "correctAnswer": "Damit niemand verletzt wird",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist okay, bei einem Spiel zu schummeln, wenn man gewinnen will.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Zwei Kinder streiten um ein Spielzeug. Was ist eine faire Lösung?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie spielen abwechselnd damit",
+      "Der Stärkere bekommt es",
+      "Sie werfen es weg",
+      "Sie verstecken es"
+    ],
+    "correctAnswer": "Sie spielen abwechselnd damit",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Anderen zu helfen ist eine gute Eigenschaft.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was solltest du tun, wenn du siehst, dass jemand gemobbt wird?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich hole Hilfe von einem Erwachsenen",
+      "Ich schaue nur zu",
+      "Ich mache mit",
+      "Ich gehe einfach weg"
+    ],
+    "correctAnswer": "Ich hole Hilfe von einem Erwachsenen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte anderen nicht wegnehmen, was ihnen gehört.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was zeigt Respekt gegenüber anderen?",
+    "type": "multiple-choice",
+    "options": [
+      "Höflich sein und nicht unterbrechen",
+      "Laut reden und stören",
+      "Andere auslachen",
+      "Nicht grüssen"
+    ],
+    "correctAnswer": "Höflich sein und nicht unterbrechen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "In der Gruppe arbeiten bedeutet, dass alle zusammenhelfen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Deine Gruppe macht ein Poster. Ein Kind arbeitet nicht mit. Was tust du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich frage freundlich, ob es helfen möchte",
+      "Ich schreie es an",
+      "Ich sage dem Lehrer, es soll bestraft werden",
+      "Ich mache alles alleine"
+    ],
+    "correctAnswer": "Ich frage freundlich, ob es helfen möchte",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist wichtig, Versprechen zu halten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist ein Beispiel für Teamarbeit?",
+    "type": "multiple-choice",
+    "options": [
+      "Zusammen ein Puzzle lösen",
+      "Alleine spielen",
+      "Sich streiten",
+      "Andere ausschliessen"
+    ],
+    "correctAnswer": "Zusammen ein Puzzle lösen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Wenn man einen Fehler macht, sollte man ihn zugeben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du findest Geld auf dem Schulhof. Was solltest du tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Es beim Lehrer abgeben",
+      "Es behalten",
+      "Es verstecken",
+      "Es ausgeben"
+    ],
+    "correctAnswer": "Es beim Lehrer abgeben",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte die Meinung anderer respektieren, auch wenn man anderer Meinung ist.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was bedeutet 'Verantwortung übernehmen'?",
+    "type": "multiple-choice",
+    "options": [
+      "Auf seine Aufgaben achten",
+      "Alles vergessen",
+      "Andere die Arbeit machen lassen",
+      "Ausreden erfinden"
+    ],
+    "correctAnswer": "Auf seine Aufgaben achten",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Bei einem Streit sollte man ruhig bleiben und sprechen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Warum ist es wichtig, pünktlich zu sein?",
+    "type": "multiple-choice",
+    "options": [
+      "Man respektiert die Zeit der anderen",
+      "Man kann länger schlafen",
+      "Es ist nicht wichtig",
+      "Andere müssen warten"
+    ],
+    "correctAnswer": "Man respektiert die Zeit der anderen",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist okay, Lügen zu erzählen, wenn man Angst vor Ärger hat.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Wie kann man einen Konflikt friedlich lösen?",
+    "type": "multiple-choice",
+    "options": [
+      "Miteinander reden und eine Lösung finden",
+      "Laut schreien",
+      "Weglaufen",
+      "Andere beschuldigen"
+    ],
+    "correctAnswer": "Miteinander reden und eine Lösung finden",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Jeder Mensch verdient Respekt, egal wie er aussieht.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist eine gute Art, Danke zu sagen?",
+    "type": "multiple-choice",
+    "options": [
+      "Mit Worten und einem Lächeln",
+      "Gar nicht",
+      "Mit einem Schrei",
+      "Durch Wegrennen"
+    ],
+    "correctAnswer": "Mit Worten und einem Lächeln",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte nur mit Kindern spielen, die man mag.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Ein Klassenkamerad kann eine Aufgabe nicht lösen. Was tust du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich helfe ihm und erkläre es",
+      "Ich lache ihn aus",
+      "Ich sage, er ist dumm",
+      "Ich ignoriere ihn"
+    ],
+    "correctAnswer": "Ich helfe ihm und erkläre es",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 1,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Ordnung halten ist eine Form von Respekt gegenüber anderen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 2,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was bedeutet 'ehrlich sein'?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Wahrheit sagen",
+      "Lügen erzählen",
+      "Geheimnisse verraten",
+      "Nichts sagen"
+    ],
+    "correctAnswer": "Die Wahrheit sagen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Respekt bedeutet, andere so zu behandeln, wie man selbst behandelt werden möchte.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du hast ein Geheimnis versprochen zu bewahren. Deine Mutter fragt dich danach. Was tust du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich erkläre höflich, dass ich es versprochen habe",
+      "Ich verrate es sofort",
+      "Ich lüge",
+      "Ich renne weg"
+    ],
+    "correctAnswer": "Ich erkläre höflich, dass ich es versprochen habe",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte für seine Fehler die Verantwortung übernehmen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was zeigt, dass jemand verantwortungsbewusst ist?",
+    "type": "multiple-choice",
+    "options": [
+      "Er erledigt seine Aufgaben zuverlässig",
+      "Er vergisst alles",
+      "Er schiebt die Schuld auf andere",
+      "Er macht nichts"
+    ],
+    "correctAnswer": "Er erledigt seine Aufgaben zuverlässig",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist okay, andere auszulachen, wenn sie einen Fehler machen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Warum ist Ehrlichkeit wichtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Man kann anderen vertrauen und ihnen glauben",
+      "Man kann besser lügen",
+      "Es ist nicht wichtig",
+      "Man muss nichts erklären"
+    ],
+    "correctAnswer": "Man kann anderen vertrauen und ihnen glauben",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Zivilcourage bedeutet, für andere einzustehen, auch wenn es schwierig ist.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du siehst, wie ein Kind ausgeschlossen wird. Was solltest du tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich lade das Kind ein, mit uns zu spielen",
+      "Ich schaue weg",
+      "Ich mache mit beim Ausschliessen",
+      "Es ist mir egal"
+    ],
+    "correctAnswer": "Ich lade das Kind ein, mit uns zu spielen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte nur nett sein, wenn man dafür etwas bekommt.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist ein Beispiel für verantwortungsvolles Handeln in der Schule?",
+    "type": "multiple-choice",
+    "options": [
+      "Hausaufgaben machen und Material mitbringen",
+      "Alles vergessen",
+      "Andere stören",
+      "Zu spät kommen"
+    ],
+    "correctAnswer": "Hausaufgaben machen und Material mitbringen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Toleranz bedeutet, andere Meinungen und Unterschiede zu akzeptieren.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Wie zeigt man Respekt im Unterricht?",
+    "type": "multiple-choice",
+    "options": [
+      "Zuhören und nicht stören",
+      "Laut reden während andere sprechen",
+      "Mit Sachen werfen",
+      "Nicht aufpassen"
+    ],
+    "correctAnswer": "Zuhören und nicht stören",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist wichtiger, Recht zu haben, als die Gefühle anderer zu schonen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist eine gute Eigenschaft eines Teamleiters?",
+    "type": "multiple-choice",
+    "options": [
+      "Alle Meinungen anhören und gemeinsam entscheiden",
+      "Nur seine Ideen durchsetzen",
+      "Andere nicht sprechen lassen",
+      "Alleine alles bestimmen"
+    ],
+    "correctAnswer": "Alle Meinungen anhören und gemeinsam entscheiden",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Kompromisse eingehen bedeutet, dass beide Seiten etwas nachgeben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du hast aus Versehen die Brille eines Mitschülers kaputt gemacht. Was tust du?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich entschuldige mich und sage es meinen Eltern",
+      "Ich sage nichts",
+      "Ich gebe einem anderen die Schuld",
+      "Ich verstecke die Brille"
+    ],
+    "correctAnswer": "Ich entschuldige mich und sage es meinen Eltern",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte anderen nur helfen, wenn sie nett zu einem sind.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was bedeutet 'Rücksicht nehmen'?",
+    "type": "multiple-choice",
+    "options": [
+      "An die Bedürfnisse anderer denken",
+      "Nur an sich selbst denken",
+      "Laut sein",
+      "Andere ignorieren"
+    ],
+    "correctAnswer": "An die Bedürfnisse anderer denken",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Vorurteile sind unfair, weil man jemanden beurteilt, ohne ihn zu kennen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Warum ist es wichtig, verschiedene Kulturen zu respektieren?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil alle Menschen gleichwertig sind",
+      "Weil man das muss",
+      "Es ist nicht wichtig",
+      "Nur wenn sie wie wir sind"
+    ],
+    "correctAnswer": "Weil alle Menschen gleichwertig sind",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist okay, Regeln zu brechen, wenn niemand zuschaut.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Wie kann man Konflikte gewaltfrei lösen?",
+    "type": "multiple-choice",
+    "options": [
+      "Durch ruhiges Gespräch und Kompromisse",
+      "Durch Schreien und Schlagen",
+      "Durch Weglaufen",
+      "Durch Schweigen"
+    ],
+    "correctAnswer": "Durch ruhiges Gespräch und Kompromisse",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Gerechtigkeit bedeutet, dass alle Menschen die gleichen Rechte haben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist eine Form von Unehrlichkeit?",
+    "type": "multiple-choice",
+    "options": [
+      "Bei einem Test abschreiben",
+      "Fehler zugeben",
+      "Die Wahrheit sagen",
+      "Um Hilfe bitten"
+    ],
+    "correctAnswer": "Bei einem Test abschreiben",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte sich für schwächere Mitschüler einsetzen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist ein Beispiel für Solidarität?",
+    "type": "multiple-choice",
+    "options": [
+      "Einem Freund helfen, auch wenn es unbequem ist",
+      "Nur an sich selbst denken",
+      "Andere im Stich lassen",
+      "Nur mit Starken befreundet sein"
+    ],
+    "correctAnswer": "Einem Freund helfen, auch wenn es unbequem ist",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Empathie bedeutet, sich in die Gefühle anderer hineinzuversetzen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Wie zeigt man Dankbarkeit für die Hilfe eines Lehrers?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich bedanke mich und bemühe mich im Unterricht",
+      "Ich sage nichts",
+      "Ich störe weiter",
+      "Es ist selbstverständlich"
+    ],
+    "correctAnswer": "Ich bedanke mich und bemühe mich im Unterricht",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte nur mit Menschen freundlich sein, die einem nützlich sind.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Warum sind Klassenregeln wichtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit alle gut lernen können und sich wohlfühlen",
+      "Damit der Lehrer Macht hat",
+      "Sie sind nicht wichtig",
+      "Nur um zu strafen"
+    ],
+    "correctAnswer": "Damit alle gut lernen können und sich wohlfühlen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Fairness im Sport bedeutet, sich an die Regeln zu halten und fair zu spielen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Deine Gruppe soll ein Thema wählen. Zwei Vorschläge sind gleich beliebt. Wie entscheidet ihr fair?",
+    "type": "multiple-choice",
+    "options": [
+      "Wir diskutieren und stimmen demokratisch ab",
+      "Der Lauteste entscheidet",
+      "Wir streiten",
+      "Der Stärkste bestimmt"
+    ],
+    "correctAnswer": "Wir diskutieren und stimmen demokratisch ab",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Vertrauen muss man sich verdienen durch ehrliches Verhalten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was bedeutet 'Integrität'?",
+    "type": "multiple-choice",
+    "options": [
+      "Nach seinen Werten handeln, auch wenn niemand zuschaut",
+      "Nur nett sein, wenn andere zusehen",
+      "Regeln brechen",
+      "Anderen die Schuld geben"
+    ],
+    "correctAnswer": "Nach seinen Werten handeln, auch wenn niemand zuschaut",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Es ist wichtiger, beliebt zu sein, als das Richtige zu tun.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Wie kann man zum Klassenzusammenhalt beitragen?",
+    "type": "multiple-choice",
+    "options": [
+      "Alle einbeziehen und freundlich zu jedem sein",
+      "Gruppen bilden und andere ausschliessen",
+      "Nur mit besten Freunden sprechen",
+      "Sich nicht um andere kümmern"
+    ],
+    "correctAnswer": "Alle einbeziehen und freundlich zu jedem sein",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Gegenseitiger Respekt ist die Grundlage für gutes Zusammenleben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist wichtig für eine funktionierende Gemeinschaft?",
+    "type": "multiple-choice",
+    "options": [
+      "Dass alle ihre Verantwortung übernehmen",
+      "Dass alle machen, was sie wollen",
+      "Dass es keine Regeln gibt",
+      "Dass nur der Stärkste bestimmt"
+    ],
+    "correctAnswer": "Dass alle ihre Verantwortung übernehmen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man sollte anderen vergeben können, wenn sie sich entschuldigt haben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Du siehst, dass jemand etwas stiehlt. Was ist die richtige Reaktion?",
+    "type": "multiple-choice",
+    "options": [
+      "Ich spreche die Person darauf an oder hole einen Erwachsenen",
+      "Ich schaue weg",
+      "Ich mache mit",
+      "Es geht mich nichts an"
+    ],
+    "correctAnswer": "Ich spreche die Person darauf an oder hole einen Erwachsenen",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Höflichkeit und gute Manieren sind veraltet und nicht mehr wichtig.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was ist ein Zeichen von Mut und Zivilcourage?",
+    "type": "multiple-choice",
+    "options": [
+      "Für andere einzustehen, auch wenn man selbst Nachteile hat",
+      "Wegzuschauen bei Unrecht",
+      "Mit der Masse mitzumachen",
+      "Nur auf sich selbst zu achten"
+    ],
+    "correctAnswer": "Für andere einzustehen, auch wenn man selbst Nachteile hat",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "In einer Demokratie haben alle Menschen das Recht, ihre Meinung zu äussern.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Warum ist es wichtig, Versprechen zu halten?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil andere uns dann vertrauen können",
+      "Weil man sonst bestraft wird",
+      "Es ist nicht wichtig",
+      "Nur wenn es bequem ist"
+    ],
+    "correctAnswer": "Weil andere uns dann vertrauen können",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Man kann nur mit Menschen befreundet sein, die genau gleich sind wie man selbst.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Was zeigt soziale Kompetenz?",
+    "type": "multiple-choice",
+    "options": [
+      "Gut mit anderen zusammenarbeiten können",
+      "Immer alles alleine machen",
+      "Andere nicht mitspielen lassen",
+      "Konflikte ignorieren"
+    ],
+    "correctAnswer": "Gut mit anderen zusammenarbeiten können",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  },
+  {
+    "question": "Freundlichkeit und Respekt sollten auch gegenüber Menschen gezeigt werden, die anders sind als wir.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 3,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.11.1"
+  }
+]

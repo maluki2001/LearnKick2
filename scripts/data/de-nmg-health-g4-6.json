@@ -1,0 +1,1474 @@
+[
+  {
+    "question": "Welche Lebensmittelgruppe solltest du täglich am meisten essen?",
+    "type": "multiple-choice",
+    "options": [
+      "Süssigkeiten und Snacks",
+      "Getreide und Kartoffeln",
+      "Fleisch und Wurst",
+      "Butter und Öl"
+    ],
+    "correctAnswer": "Getreide und Kartoffeln",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Wie viele Portionen Obst und Gemüse solltest du pro Tag essen?",
+    "type": "multiple-choice",
+    "options": [
+      "1 Portion",
+      "3 Portionen",
+      "5 Portionen",
+      "10 Portionen"
+    ],
+    "correctAnswer": "5 Portionen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist Wasser trinken wichtig für deinen Körper?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit du schneller rennen kannst",
+      "Damit alle Körperfunktionen gut arbeiten",
+      "Damit du grösser wirst",
+      "Damit deine Haare schöner werden"
+    ],
+    "correctAnswer": "Damit alle Körperfunktionen gut arbeiten",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Milch und Milchprodukte sind wichtig für starke Knochen, weil sie viel Kalzium enthalten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welches Organ pumpt das Blut durch deinen Körper?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Lunge",
+      "Das Herz",
+      "Der Magen",
+      "Die Leber"
+    ],
+    "correctAnswer": "Das Herz",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Wie viele Stunden Schlaf brauchen Kinder in deinem Alter ungefähr pro Nacht?",
+    "type": "multiple-choice",
+    "options": [
+      "5-6 Stunden",
+      "7-8 Stunden",
+      "9-11 Stunden",
+      "12-14 Stunden"
+    ],
+    "correctAnswer": "9-11 Stunden",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum solltest du deine Zähne mindestens zweimal täglich putzen?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit sie weisser werden",
+      "Um Karies und Zahnfleischerkrankungen zu verhindern",
+      "Damit sie schneller wachsen",
+      "Um besser sprechen zu können"
+    ],
+    "correctAnswer": "Um Karies und Zahnfleischerkrankungen zu verhindern",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Es ist gesund, jeden Tag mindestens 60 Minuten aktiv zu sein.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was passiert, wenn du zu viel Zucker isst?",
+    "type": "multiple-choice",
+    "options": [
+      "Du wirst stärker",
+      "Du bekommst mehr Energie für den ganzen Tag",
+      "Du kannst Karies bekommen und zunehmen",
+      "Deine Knochen werden härter"
+    ],
+    "correctAnswer": "Du kannst Karies bekommen und zunehmen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welches Lebensmittel gehört zur Proteingruppe?",
+    "type": "multiple-choice",
+    "options": [
+      "Apfel",
+      "Brot",
+      "Käse",
+      "Karotte"
+    ],
+    "correctAnswer": "Käse",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Dein Körper kann alle Vitamine selbst herstellen, du musst sie nicht essen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist Frühstücken wichtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit du in der Schule nicht müde bist",
+      "Es gibt dir Energie für den Start in den Tag",
+      "Es ist nicht wichtig, man kann es auslassen",
+      "Damit du mehr wiegst"
+    ],
+    "correctAnswer": "Es gibt dir Energie für den Start in den Tag",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Körperteile gehören zum Skelett?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur die Knochen in den Armen",
+      "Alle Knochen im Körper",
+      "Nur der Schädel",
+      "Nur die Wirbelsäule"
+    ],
+    "correctAnswer": "Alle Knochen im Körper",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Bewegung hilft nur dem Körper, nicht dem Gehirn.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du tun, bevor du isst?",
+    "type": "multiple-choice",
+    "options": [
+      "Fernseher einschalten",
+      "Hände waschen",
+      "Hausaufgaben machen",
+      "Nichts Besonderes"
+    ],
+    "correctAnswer": "Hände waschen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welches Getränk ist am gesündesten?",
+    "type": "multiple-choice",
+    "options": [
+      "Cola",
+      "Energydrink",
+      "Wasser",
+      "Süsser Eistee"
+    ],
+    "correctAnswer": "Wasser",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Die Lunge hilft dir beim Atmen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine ausgewogene Mahlzeit?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur Pizza",
+      "Eine Mischung aus Gemüse, Protein und Kohlenhydraten",
+      "Nur Süssigkeiten",
+      "Nur Obst"
+    ],
+    "correctAnswer": "Eine Mischung aus Gemüse, Protein und Kohlenhydraten",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist es wichtig, verschiedene Farben von Obst und Gemüse zu essen?",
+    "type": "multiple-choice",
+    "options": [
+      "Damit es schöner aussieht",
+      "Weil verschiedene Farben verschiedene Nährstoffe bedeuten",
+      "Es ist nicht wichtig",
+      "Damit man mehr Hunger bekommt"
+    ],
+    "correctAnswer": "Weil verschiedene Farben verschiedene Nährstoffe bedeuten",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Du solltest nur Sport machen, wenn du gut darin bist.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist der Hauptunterschied zwischen Jungen und Mädchen in der Pubertät?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie bekommen unterschiedliche körperliche Veränderungen",
+      "Nur Mädchen verändern sich",
+      "Nur Jungen verändern sich",
+      "Es gibt keine Unterschiede"
+    ],
+    "correctAnswer": "Sie bekommen unterschiedliche körperliche Veränderungen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum schwitzen wir beim Sport?",
+    "type": "multiple-choice",
+    "options": [
+      "Um den Körper abzukühlen",
+      "Weil wir krank sind",
+      "Um stärker zu werden",
+      "Weil wir zu viel getrunken haben"
+    ],
+    "correctAnswer": "Um den Körper abzukühlen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Alle Menschen wachsen genau gleich schnell.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welches Organ verdaut dein Essen?",
+    "type": "multiple-choice",
+    "options": [
+      "Das Herz",
+      "Der Magen und der Darm",
+      "Die Nieren",
+      "Die Lunge"
+    ],
+    "correctAnswer": "Der Magen und der Darm",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine gute Gewohnheit für gesunde Augen?",
+    "type": "multiple-choice",
+    "options": [
+      "Den ganzen Tag auf einen Bildschirm schauen",
+      "Regelmässige Pausen beim Lesen und Bildschirmzeit",
+      "Im Dunkeln lesen",
+      "Nie eine Brille tragen, auch wenn man sie braucht"
+    ],
+    "correctAnswer": "Regelmässige Pausen beim Lesen und Bildschirmzeit",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Sonnencreme schützt die Haut vor schädlichen UV-Strahlen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist es wichtig, nach dem Sport zu duschen?",
+    "type": "multiple-choice",
+    "options": [
+      "Um sauber zu bleiben und Bakterien zu entfernen",
+      "Weil alle es tun",
+      "Um schneller zu laufen",
+      "Es ist nicht wichtig"
+    ],
+    "correctAnswer": "Um sauber zu bleiben und Bakterien zu entfernen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aktivität zählt als Bewegung?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur Fussball spielen",
+      "Fahrrad fahren, tanzen, Treppen steigen",
+      "Nur im Fitnessstudio trainieren",
+      "Nur rennen"
+    ],
+    "correctAnswer": "Fahrrad fahren, tanzen, Treppen steigen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Es ist normal, dass sich dein Körper während des Wachstums verändert.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du tun, wenn du merkst, dass du immer müde bist?",
+    "type": "multiple-choice",
+    "options": [
+      "Mehr Energydrinks trinken",
+      "Mit einem Erwachsenen darüber sprechen",
+      "Einfach weitermachen",
+      "Weniger schlafen"
+    ],
+    "correctAnswer": "Mit einem Erwachsenen darüber sprechen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum sind Ballaststoffe wichtig für die Verdauung?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie machen satt und helfen der Verdauung",
+      "Sie schmecken gut",
+      "Sie machen dick",
+      "Sie sind nicht wichtig"
+    ],
+    "correctAnswer": "Sie machen satt und helfen der Verdauung",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Muskeln werden nur durch Sport stärker, nicht durch alltägliche Aktivitäten.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aussage über Hygiene ist richtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Händewaschen ist nur wichtig, wenn sie schmutzig aussehen",
+      "Regelmässiges Händewaschen verhindert Krankheiten",
+      "Duschen ist nur einmal pro Woche nötig",
+      "Zahnpflege ist nicht so wichtig"
+    ],
+    "correctAnswer": "Regelmässiges Händewaschen verhindert Krankheiten",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 2,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was sind Anzeichen von Dehydration (Wassermangel)?",
+    "type": "multiple-choice",
+    "options": [
+      "Zu viel Energie",
+      "Durst, Müdigkeit, Kopfschmerzen",
+      "Hunger",
+      "Zu viel Schlaf"
+    ],
+    "correctAnswer": "Durst, Müdigkeit, Kopfschmerzen",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Der menschliche Körper besteht zu etwa 60% aus Wasser.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 4,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist der erste Schritt bei einer kleinen Schnittwunde?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Wunde mit sauberem Wasser reinigen",
+      "Ein Pflaster draufkleben ohne zu säubern",
+      "Nichts tun",
+      "Sofort ins Spital gehen"
+    ],
+    "correctAnswer": "Die Wunde mit sauberem Wasser reinigen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist die Notrufnummer in der Schweiz?",
+    "type": "multiple-choice",
+    "options": [
+      "110",
+      "911",
+      "112",
+      "144"
+    ],
+    "correctAnswer": "144",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Wenn jemand bewusstlos ist, solltest du sofort Hilfe holen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du tun, wenn du dich gestresst fühlst?",
+    "type": "multiple-choice",
+    "options": [
+      "Alle Gefühle in dir behalten",
+      "Mit jemandem darüber sprechen oder eine Pause machen",
+      "Mehr Aufgaben übernehmen",
+      "Weniger schlafen"
+    ],
+    "correctAnswer": "Mit jemandem darüber sprechen oder eine Pause machen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Entspannungstechnik kann bei Stress helfen?",
+    "type": "multiple-choice",
+    "options": [
+      "Tiefes Atmen",
+      "Mehr Süssigkeiten essen",
+      "Stundenlang fernsehen",
+      "Nie Pausen machen"
+    ],
+    "correctAnswer": "Tiefes Atmen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Wie lange sollten Kinder in deinem Alter maximal pro Tag Bildschirmzeit haben?",
+    "type": "multiple-choice",
+    "options": [
+      "Den ganzen Tag",
+      "1-2 Stunden für Freizeit",
+      "6 Stunden",
+      "Keine Begrenzung"
+    ],
+    "correctAnswer": "1-2 Stunden für Freizeit",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Zu viel Bildschirmzeit kann zu Schlafproblemen führen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine gesunde Art, mit Emotionen umzugehen?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie ignorieren",
+      "Über Gefühle sprechen oder sie aufschreiben",
+      "Andere beschuldigen",
+      "Alles in sich hineinfressen"
+    ],
+    "correctAnswer": "Über Gefühle sprechen oder sie aufschreiben",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist es wichtig, regelmässig Pausen beim Lernen zu machen?",
+    "type": "multiple-choice",
+    "options": [
+      "Um Zeit zu verschwenden",
+      "Damit das Gehirn Informationen verarbeiten kann",
+      "Weil man faul sein will",
+      "Es ist nicht wichtig"
+    ],
+    "correctAnswer": "Damit das Gehirn Informationen verarbeiten kann",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Bei einem Nasenbluten solltest du den Kopf nach hinten legen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was gehört zu einer gesunden Morgenroutine?",
+    "type": "multiple-choice",
+    "options": [
+      "Sofort ans Handy gehen",
+      "Frühstücken, duschen, Zähne putzen",
+      "Lange im Bett bleiben",
+      "Frühstück auslassen"
+    ],
+    "correctAnswer": "Frühstücken, duschen, Zähne putzen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du bei einer Verbrennung als Erstes tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Butter darauf schmieren",
+      "Die Stelle mit kaltem Wasser kühlen",
+      "Ein Pflaster draufkleben",
+      "Nichts tun"
+    ],
+    "correctAnswer": "Die Stelle mit kaltem Wasser kühlen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Gruppenzwang bedeutet, dass Freunde dich zu etwas überreden wollen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Wie kannst du Nein sagen, wenn Freunde dich zu etwas drängen, das du nicht willst?",
+    "type": "multiple-choice",
+    "options": [
+      "Einfach mitmachen, um dazuzugehören",
+      "Klar und bestimmt Nein sagen",
+      "Weglaufen ohne etwas zu sagen",
+      "Andere beschimpfen"
+    ],
+    "correctAnswer": "Klar und bestimmt Nein sagen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welches Verhalten zeigt gute Selbstfürsorge?",
+    "type": "multiple-choice",
+    "options": [
+      "Immer Ja sagen zu allem",
+      "Auf die eigenen Bedürfnisse achten und Grenzen setzen",
+      "Nie Pausen machen",
+      "Nur an andere denken"
+    ],
+    "correctAnswer": "Auf die eigenen Bedürfnisse achten und Grenzen setzen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Regelmässige Bewegung kann helfen, Stress abzubauen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein Zeichen von zu viel Stress?",
+    "type": "multiple-choice",
+    "options": [
+      "Guter Schlaf",
+      "Kopfschmerzen, Bauchschmerzen, Nervosität",
+      "Mehr Energie",
+      "Bessere Konzentration"
+    ],
+    "correctAnswer": "Kopfschmerzen, Bauchschmerzen, Nervosität",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist es wichtig, vor dem Bildschirm regelmässig zu blinzeln?",
+    "type": "multiple-choice",
+    "options": [
+      "Um schneller zu lesen",
+      "Um die Augen feucht zu halten und Trockenheit zu vermeiden",
+      "Es ist nicht wichtig",
+      "Um besser zu sehen"
+    ],
+    "correctAnswer": "Um die Augen feucht zu halten und Trockenheit zu vermeiden",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Ein ausgewogenes Frühstück hilft dir, dich in der Schule besser zu konzentrieren.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du bei einem Insektenstich tun?",
+    "type": "multiple-choice",
+    "options": [
+      "Die Stelle kühlen und beobachten",
+      "Kratzen bis es blutet",
+      "Heisses Wasser drauf giessen",
+      "Nichts tun"
+    ],
+    "correctAnswer": "Die Stelle kühlen und beobachten",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aussage über gesunde Snacks ist richtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Chips sind der beste Snack",
+      "Obst, Nüsse und Gemüse sind gesunde Snacks",
+      "Süssigkeiten geben am meisten Energie",
+      "Snacks sind ungesund"
+    ],
+    "correctAnswer": "Obst, Nüsse und Gemüse sind gesunde Snacks",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Es ist okay, Hilfe zu suchen, wenn man sich überfordert fühlt.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was bedeutet Cybermobbing?",
+    "type": "multiple-choice",
+    "options": [
+      "Online Spiele spielen",
+      "Jemanden über Internet oder Handy belästigen",
+      "Im Internet surfen",
+      "E-Mails schreiben"
+    ],
+    "correctAnswer": "Jemanden über Internet oder Handy belästigen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum solltest du nicht direkt vor dem Schlafen auf einen Bildschirm schauen?",
+    "type": "multiple-choice",
+    "options": [
+      "Weil es langweilig ist",
+      "Weil das blaue Licht den Schlaf stören kann",
+      "Es ist egal",
+      "Weil der Akku leer wird"
+    ],
+    "correctAnswer": "Weil das blaue Licht den Schlaf stören kann",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Sport und Bewegung können die Stimmung verbessern.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine gute Strategie bei Konflikten mit Freunden?",
+    "type": "multiple-choice",
+    "options": [
+      "Schreien und streiten",
+      "Ruhig bleiben und über das Problem sprechen",
+      "Nicht mehr mit ihnen reden",
+      "Andere aufhetzen"
+    ],
+    "correctAnswer": "Ruhig bleiben und über das Problem sprechen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Körperhaltung ist beim Sitzen am Computer gesund?",
+    "type": "multiple-choice",
+    "options": [
+      "Gebückt und gekrümmt",
+      "Aufrecht mit geradem Rücken",
+      "Zur Seite gelehnt",
+      "Liegend"
+    ],
+    "correctAnswer": "Aufrecht mit geradem Rücken",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Jeder Mensch braucht gleich viel Schlaf, unabhängig vom Alter.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du tun, wenn ein Freund dir von Problemen zu Hause erzählt?",
+    "type": "multiple-choice",
+    "options": [
+      "Es allen weitererzählen",
+      "Zuhören und vorschlagen, mit einem Erwachsenen zu sprechen",
+      "Lachen",
+      "Ignorieren"
+    ],
+    "correctAnswer": "Zuhören und vorschlagen, mit einem Erwachsenen zu sprechen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welches Lebensmittel enthält viel Vitamin C?",
+    "type": "multiple-choice",
+    "options": [
+      "Brot",
+      "Orangen",
+      "Käse",
+      "Fleisch"
+    ],
+    "correctAnswer": "Orangen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Fast Food jeden Tag zu essen ist gesund, solange man Sport macht.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine gute Methode zur Stressbewältigung?",
+    "type": "multiple-choice",
+    "options": [
+      "Alles auf einmal erledigen wollen",
+      "Hobbys und Aktivitäten, die Spass machen",
+      "Weniger schlafen",
+      "Mehr Süssigkeiten essen"
+    ],
+    "correctAnswer": "Hobbys und Aktivitäten, die Spass machen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist Dehnen vor und nach dem Sport wichtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Um cool auszusehen",
+      "Um Verletzungen vorzubeugen und Muskeln zu lockern",
+      "Es ist nicht wichtig",
+      "Um langsamer zu werden"
+    ],
+    "correctAnswer": "Um Verletzungen vorzubeugen und Muskeln zu lockern",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Energydrinks sind für Kinder geeignet.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein wichtiger Teil der Zahnpflege neben dem Zähneputzen?",
+    "type": "multiple-choice",
+    "options": [
+      "Zahnseide benutzen",
+      "Viel Zucker essen",
+      "Nie zum Zahnarzt gehen",
+      "Nur Wasser trinken"
+    ],
+    "correctAnswer": "Zahnseide benutzen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was bedeutet es, ein Vorbild zu sein?",
+    "type": "multiple-choice",
+    "options": [
+      "Immer der Beste sein",
+      "Durch gutes Verhalten andere positiv beeinflussen",
+      "Andere kommandieren",
+      "Perfekt sein"
+    ],
+    "correctAnswer": "Durch gutes Verhalten andere positiv beeinflussen",
+    "grade": 5,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was sind Anzeichen für Alkoholkonsum?",
+    "type": "multiple-choice",
+    "options": [
+      "Bessere Konzentration",
+      "Undeutliches Sprechen, Gleichgewichtsprobleme",
+      "Mehr Energie",
+      "Klareres Denken"
+    ],
+    "correctAnswer": "Undeutliches Sprechen, Gleichgewichtsprobleme",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist Alkohol für Kinder und Jugendliche besonders schädlich?",
+    "type": "multiple-choice",
+    "options": [
+      "Er schmeckt nicht gut",
+      "Das Gehirn und der Körper sind noch in der Entwicklung",
+      "Er ist zu teuer",
+      "Er ist nicht schädlich"
+    ],
+    "correctAnswer": "Das Gehirn und der Körper sind noch in der Entwicklung",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Rauchen schadet nur der Lunge, nicht anderen Organen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine Sucht?",
+    "type": "multiple-choice",
+    "options": [
+      "Ein Hobby, das man gerne macht",
+      "Eine starke Abhängigkeit von einer Substanz oder Aktivität",
+      "Ein gesundes Interesse",
+      "Eine Sportart"
+    ],
+    "correctAnswer": "Eine starke Abhängigkeit von einer Substanz oder Aktivität",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein gesunder Weg, mit negativen Emotionen umzugehen?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie komplett ignorieren",
+      "Sport machen, darüber sprechen, Musik hören",
+      "Andere anschreien",
+      "Zu Substanzen greifen"
+    ],
+    "correctAnswer": "Sport machen, darüber sprechen, Musik hören",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Psychische Gesundheit ist genauso wichtig wie körperliche Gesundheit.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was kann passieren, wenn man zu wenig schläft über längere Zeit?",
+    "type": "multiple-choice",
+    "options": [
+      "Man wird stärker",
+      "Konzentrationsprobleme, schlechte Laune, geschwächtes Immunsystem",
+      "Man wird intelligenter",
+      "Nichts"
+    ],
+    "correctAnswer": "Konzentrationsprobleme, schlechte Laune, geschwächtes Immunsystem",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aussage über Medikamente ist richtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Man kann sie nehmen, wann immer man will",
+      "Sie sollten nur nach Anweisung eines Arztes genommen werden",
+      "Je mehr, desto besser",
+      "Man kann sie mit Freunden teilen"
+    ],
+    "correctAnswer": "Sie sollten nur nach Anweisung eines Arztes genommen werden",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Passivrauchen ist harmlos.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein Zeichen von guter psychischer Gesundheit?",
+    "type": "multiple-choice",
+    "options": [
+      "Nie Probleme haben",
+      "Mit Herausforderungen umgehen können und um Hilfe bitten",
+      "Immer glücklich sein",
+      "Perfekt sein"
+    ],
+    "correctAnswer": "Mit Herausforderungen umgehen können und um Hilfe bitten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist es wichtig, über Gefühle zu sprechen?",
+    "type": "multiple-choice",
+    "options": [
+      "Um Aufmerksamkeit zu bekommen",
+      "Um psychische Belastungen zu verarbeiten und Unterstützung zu finden",
+      "Es ist nicht wichtig",
+      "Um andere zu manipulieren"
+    ],
+    "correctAnswer": "Um psychische Belastungen zu verarbeiten und Unterstützung zu finden",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Soziale Medien können sowohl positive als auch negative Auswirkungen auf die mentale Gesundheit haben.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein wichtiger Bestandteil eines gesunden Lebensstils?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur gesunde Ernährung",
+      "Balance zwischen Bewegung, Ernährung, Schlaf und sozialen Kontakten",
+      "Nur viel Sport",
+      "Nur viel schlafen"
+    ],
+    "correctAnswer": "Balance zwischen Bewegung, Ernährung, Schlaf und sozialen Kontakten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Strategie hilft bei der Vermeidung von ungesundem Gruppendruck?",
+    "type": "multiple-choice",
+    "options": [
+      "Immer mitmachen, um beliebt zu sein",
+      "Selbstbewusstsein entwickeln und echte Freunde finden",
+      "Alleine sein",
+      "Andere kritisieren"
+    ],
+    "correctAnswer": "Selbstbewusstsein entwickeln und echte Freunde finden",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Stress ist immer schlecht für die Gesundheit.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist Depressiv-Sein?",
+    "type": "multiple-choice",
+    "options": [
+      "Einfach nur traurig sein",
+      "Eine ernsthafte psychische Erkrankung mit anhaltender Niedergeschlagenheit",
+      "Schlechte Laune haben",
+      "Müde sein"
+    ],
+    "correctAnswer": "Eine ernsthafte psychische Erkrankung mit anhaltender Niedergeschlagenheit",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum sind Proteine wichtig für den Körper?",
+    "type": "multiple-choice",
+    "options": [
+      "Sie schmecken gut",
+      "Sie helfen beim Muskelaufbau und Zellerneuerung",
+      "Sie machen dick",
+      "Sie sind nicht wichtig"
+    ],
+    "correctAnswer": "Sie helfen beim Muskelaufbau und Zellerneuerung",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Regelmässiges Krafttraining ist für Kinder schädlich.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein Anzeichen von Essstörungen?",
+    "type": "multiple-choice",
+    "options": [
+      "Gesunde Ernährung",
+      "Extreme Sorge um Gewicht und ungesunde Essgewohnheiten",
+      "Gerne kochen",
+      "Verschiedene Lebensmittel probieren"
+    ],
+    "correctAnswer": "Extreme Sorge um Gewicht und ungesunde Essgewohnheiten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aussage über Koffein ist richtig?",
+    "type": "multiple-choice",
+    "options": [
+      "Es ist für Kinder unbedenklich",
+      "Zu viel Koffein kann zu Schlafproblemen und Nervosität führen",
+      "Kinder sollten viel Kaffee trinken",
+      "Es hat keine Wirkung"
+    ],
+    "correctAnswer": "Zu viel Koffein kann zu Schlafproblemen und Nervosität führen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Jeder Mensch hat manchmal negative Gedanken oder schlechte Tage.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was solltest du tun, wenn du merkst, dass ein Freund sich selbst verletzt?",
+    "type": "multiple-choice",
+    "options": [
+      "Es ignorieren",
+      "Sofort einen vertrauenswürdigen Erwachsenen informieren",
+      "Es allen erzählen",
+      "Lachen"
+    ],
+    "correctAnswer": "Sofort einen vertrauenswürdigen Erwachsenen informieren",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aktivität fördert die psychische Gesundheit?",
+    "type": "multiple-choice",
+    "options": [
+      "Sich isolieren",
+      "Zeit mit Freunden und Familie verbringen",
+      "Den ganzen Tag im Bett bleiben",
+      "Nur online sein"
+    ],
+    "correctAnswer": "Zeit mit Freunden und Familie verbringen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "E-Zigaretten sind harmlos.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Falsch",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist Achtsamkeit?",
+    "type": "multiple-choice",
+    "options": [
+      "An die Zukunft denken",
+      "Im gegenwärtigen Moment präsent sein und bewusst wahrnehmen",
+      "An die Vergangenheit denken",
+      "Sich Sorgen machen"
+    ],
+    "correctAnswer": "Im gegenwärtigen Moment präsent sein und bewusst wahrnehmen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Warum ist es wichtig, verschiedene Sportarten auszuprobieren?",
+    "type": "multiple-choice",
+    "options": [
+      "Um anzugeben",
+      "Um herauszufinden, was Spass macht und verschiedene Fähigkeiten zu entwickeln",
+      "Es ist nicht wichtig",
+      "Um besser als andere zu sein"
+    ],
+    "correctAnswer": "Um herauszufinden, was Spass macht und verschiedene Fähigkeiten zu entwickeln",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Jeder Mensch entwickelt sich in seinem eigenen Tempo.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 3,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist eine gesunde Art, mit Misserfolgen umzugehen?",
+    "type": "multiple-choice",
+    "options": [
+      "Aufgeben",
+      "Aus Fehlern lernen und es erneut versuchen",
+      "Andere beschuldigen",
+      "Sich selbst schlecht machen"
+    ],
+    "correctAnswer": "Aus Fehlern lernen und es erneut versuchen",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Welche Aussage über Körperbild ist gesund?",
+    "type": "multiple-choice",
+    "options": [
+      "Jeder sollte gleich aussehen",
+      "Jeder Körper ist einzigartig und wertvoll",
+      "Nur ein bestimmtes Aussehen ist schön",
+      "Man sollte sich ständig mit anderen vergleichen"
+    ],
+    "correctAnswer": "Jeder Körper ist einzigartig und wertvoll",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Meditation und Atemübungen können bei Angst helfen.",
+    "type": "true-false",
+    "options": ["Wahr", "Falsch"],
+    "correctAnswer": "Wahr",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  },
+  {
+    "question": "Was ist ein wichtiger Faktor für langfristige Gesundheit?",
+    "type": "multiple-choice",
+    "options": [
+      "Nur auf das Gewicht achten",
+      "Gesunde Gewohnheiten entwickeln und beibehalten",
+      "Radikale Diäten machen",
+      "Nur an die Gegenwart denken"
+    ],
+    "correctAnswer": "Gesunde Gewohnheiten entwickeln und beibehalten",
+    "grade": 6,
+    "subject": "nmg",
+    "difficulty": 4,
+    "language": "de",
+    "curriculumCode": "NMG.1.4"
+  }
+]

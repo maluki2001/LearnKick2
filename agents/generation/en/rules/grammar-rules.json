@@ -1,0 +1,75 @@
+{
+  "language": "en",
+  "variant": "British English (preferred for Swiss schools)",
+  "totalRules": 8,
+  "rules": [
+    {
+      "id": "G01",
+      "rule": "British vs American spelling",
+      "description": "Use British spellings",
+      "examples": {
+        "correct": ["colour", "favourite", "organisation", "realise"],
+        "avoid": ["color", "favorite", "organization", "realize"]
+      }
+    },
+    {
+      "id": "G02",
+      "rule": "Subject-verb agreement",
+      "description": "Ensure verbs match subject number",
+      "examples": {
+        "correct": ["The dog runs", "The dogs run"],
+        "incorrect": ["The dog run", "The dogs runs"]
+      }
+    },
+    {
+      "id": "G03",
+      "rule": "Articles (a/an/the)",
+      "description": "Correct article usage",
+      "examples": {
+        "correct": ["an apple", "a book", "the sun"],
+        "incorrect": ["a apple", "an book"]
+      }
+    },
+    {
+      "id": "G04",
+      "rule": "Capitalisation",
+      "description": "Proper nouns, sentence starts",
+      "examples": {
+        "correct": ["Switzerland", "Monday", "The Alps"],
+        "incorrect": ["switzerland", "alps"]
+      }
+    },
+    {
+      "id": "G05",
+      "rule": "Punctuation",
+      "description": "Periods, commas, question marks",
+      "requiresPeriod": true,
+      "requiresQuestionMark": "for questions"
+    },
+    {
+      "id": "G06",
+      "rule": "Tense consistency",
+      "description": "Maintain same tense throughout",
+      "gradeSpecific": {
+        "1-2": "present tense only",
+        "3-4": "present and past",
+        "5-6": "all tenses"
+      }
+    },
+    {
+      "id": "G07",
+      "rule": "Plural forms",
+      "description": "Regular and irregular plurals",
+      "examples": ["cats", "children", "mice", "feet"]
+    },
+    {
+      "id": "G08",
+      "rule": "Contractions appropriate",
+      "description": "Use in informal contexts only",
+      "gradeSpecific": {
+        "1-2": "avoid",
+        "3-6": "acceptable in dialogue"
+      }
+    }
+  ]
+}

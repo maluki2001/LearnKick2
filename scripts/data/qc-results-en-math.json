@@ -1,0 +1,1618 @@
+{
+  "total": 100,
+  "passed": 13,
+  "failed": 87,
+  "passRate": "13.00%",
+  "issues": [
+    {
+      "id": "90db4fbf-0f94-4e55-8313-dfc32c8fee3a",
+      "question": "What is 94 - 67?",
+      "answers": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "correct_answer": "27",
+      "grade": 2,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"27\" is marked as wrong but equals the expected answer 27",
+          "question": "What is 94 - 67?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 27 is out of bounds for 4 answers",
+          "question": "What is 94 - 67?"
+        }
+      ]
+    },
+    {
+      "id": "cbdeaf28-7360-4cd6-81ba-2a2fa39acfae",
+      "question": "How many sides does a hexagon have?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "How many sides does a hexagon have?"
+        }
+      ]
+    },
+    {
+      "id": "aa663cd3-874a-4a3d-9745-c76d5bd3409d",
+      "question": "What is 25% of 100?",
+      "answers": [
+        "25",
+        "50",
+        "75",
+        "100"
+      ],
+      "correct_answer": "",
+      "grade": 4,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index  is out of bounds for 4 answers",
+          "question": "What is 25% of 100?"
+        }
+      ]
+    },
+    {
+      "id": "aed1e08b-4d2f-4fb4-af08-715f5a49960f",
+      "question": "Is 450 less than 850?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 450 less than 850?"
+        }
+      ]
+    },
+    {
+      "id": "eab17f64-06c7-4ff0-86db-e6271a014b87",
+      "question": "What is 2/5 × 3/4?",
+      "answers": [
+        "3/10",
+        "6/20",
+        "3/5",
+        "Both A and B"
+      ],
+      "correct_answer": "Both A and B",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index Both A and B is out of bounds for 4 answers",
+          "question": "What is 2/5 × 3/4?"
+        }
+      ]
+    },
+    {
+      "id": "80eab3b0-3b07-48b3-b302-46bd29c7a59e",
+      "question": "What is 5/6 × 3/5?",
+      "answers": [
+        "15/30",
+        "1/2",
+        "8/11",
+        "3/6"
+      ],
+      "correct_answer": "1",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 1, but expected 18 for multiplication",
+          "question": "What is 5/6 × 3/5?"
+        }
+      ]
+    },
+    {
+      "id": "168496a6-fb7d-42cf-99ad-0c4857fa0d40",
+      "question": "What is 1000 - 856?",
+      "answers": [
+        "142",
+        "143",
+        "144",
+        "145"
+      ],
+      "correct_answer": "144",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"144\" is marked as wrong but equals the expected answer 144",
+          "question": "What is 1000 - 856?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 144 is out of bounds for 4 answers",
+          "question": "What is 1000 - 856?"
+        }
+      ]
+    },
+    {
+      "id": "09a3000c-fb4f-4b04-a7ff-af1b02adbfea",
+      "question": "A rectangle has a length of 8 cm and width of 3 cm. What is its area?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A rectangle has a length of 8 cm and width of 3 cm. What is its area?"
+        }
+      ]
+    },
+    {
+      "id": "abae4cf4-a387-4212-aab1-8b9f75285892",
+      "question": "What is 7 + 6?",
+      "answers": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct_answer": "13",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"13\" is marked as wrong but equals the expected answer 13",
+          "question": "What is 7 + 6?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 13 is out of bounds for 4 answers",
+          "question": "What is 7 + 6?"
+        }
+      ]
+    },
+    {
+      "id": "58c3828c-dce8-4732-8836-1cdcbf2e5399",
+      "question": "What is 67 - 35?",
+      "answers": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correct_answer": "32",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"32\" is marked as wrong but equals the expected answer 32",
+          "question": "What is 67 - 35?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 32 is out of bounds for 4 answers",
+          "question": "What is 67 - 35?"
+        }
+      ]
+    },
+    {
+      "id": "02fb6022-9302-47cc-b9f0-decd11e2b77a",
+      "question": "A rectangular prism has dimensions 4 cm × 5 cm × 6 cm. What is its volume?",
+      "answers": [
+        "100 cm³",
+        "110 cm³",
+        "120 cm³",
+        "130 cm³"
+      ],
+      "correct_answer": "120 cm³",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 120 cm³ is out of bounds for 4 answers",
+          "question": "A rectangular prism has dimensions 4 cm × 5 cm × 6 cm. What is its volume?"
+        }
+      ]
+    },
+    {
+      "id": "dcb33c10-ef97-4165-8757-eac059635dd1",
+      "question": "What is 6 × 7?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 6 × 7?"
+        }
+      ]
+    },
+    {
+      "id": "aa1d1d0b-ca2b-40ed-ac84-6f6ca9ea235c",
+      "question": "9 + 4 = 13",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "9 + 4 = 13"
+        }
+      ]
+    },
+    {
+      "id": "9158b847-d973-4c5a-9b7a-1f05786228f5",
+      "question": "What is 1/4 + 1/2?",
+      "answers": [
+        "2/6",
+        "3/4",
+        "1/3",
+        "2/4"
+      ],
+      "correct_answer": "1",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 1, but expected 5 for addition",
+          "question": "What is 1/4 + 1/2?"
+        }
+      ]
+    },
+    {
+      "id": "474cc6f6-0d3c-4322-aa46-59de4d1b11cb",
+      "question": "What is 125 + 75?",
+      "answers": [
+        "190",
+        "195",
+        "200",
+        "205"
+      ],
+      "correct_answer": "200",
+      "grade": 2,
+      "difficulty": 4,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"200\" is marked as wrong but equals the expected answer 200",
+          "question": "What is 125 + 75?"
+        },
+        {
+          "type": "INAPPROPRIATE_NUMBER_RANGE",
+          "severity": "MEDIUM",
+          "message": "Number 125 exceeds grade 2 maximum of 100",
+          "question": "What is 125 + 75?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 200 is out of bounds for 4 answers",
+          "question": "What is 125 + 75?"
+        }
+      ]
+    },
+    {
+      "id": "4e8226a5-8807-4ca7-be61-82b55ba195e2",
+      "question": "What is the area of a square with side length 9 cm?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is the area of a square with side length 9 cm?"
+        }
+      ]
+    },
+    {
+      "id": "d97f7ce3-2ead-4cf3-8571-fb90769661b6",
+      "question": "25% is equivalent to 1/4.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "25% is equivalent to 1/4."
+        }
+      ]
+    },
+    {
+      "id": "cab963ce-e61f-4b44-947c-72d81c1e5459",
+      "question": "What is 13 - 7?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "6",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"6\" is marked as wrong but equals the expected answer 6",
+          "question": "What is 13 - 7?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 6 is out of bounds for 4 answers",
+          "question": "What is 13 - 7?"
+        }
+      ]
+    },
+    {
+      "id": "57b42caa-bac3-401f-98e6-e8a41f7b1192",
+      "question": "What is 87 - 49?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 87 - 49?"
+        }
+      ]
+    },
+    {
+      "id": "b9f4b105-1733-48d1-98fa-4db153019109",
+      "question": "What is 865 + 135?",
+      "answers": [
+        "980",
+        "990",
+        "1000",
+        "1010"
+      ],
+      "correct_answer": "1000",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"1000\" is marked as wrong but equals the expected answer 1000",
+          "question": "What is 865 + 135?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 1000 is out of bounds for 4 answers",
+          "question": "What is 865 + 135?"
+        }
+      ]
+    },
+    {
+      "id": "8eb8e2f2-9372-4198-88e6-422b6cbee01d",
+      "question": "You measure a table. It is 80 centimetres wide. Your friend has a table that is 95 centimetres wide. How much wider is your friend's table?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "You measure a table. It is 80 centimetres wide. Your friend has a table that is 95 centimetres wide. How much wider is your friend's table?"
+        }
+      ]
+    },
+    {
+      "id": "07b6e944-98fa-466c-859c-71178454ad4f",
+      "question": "2.5 kilograms equals 2500 grams.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "2.5 kilograms equals 2500 grams."
+        }
+      ]
+    },
+    {
+      "id": "7b84d4f5-fc80-40ef-87de-4b292927ef0e",
+      "question": "Is 1000 - 250 equal to 750?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 1000 - 250 equal to 750?"
+        }
+      ]
+    },
+    {
+      "id": "7b427fea-b412-4667-ac19-07e56dc55436",
+      "question": "500 millilitres is half a litre.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "500 millilitres is half a litre."
+        }
+      ]
+    },
+    {
+      "id": "4e8550ba-4d6c-4764-aea1-1eced22a8649",
+      "question": "What is 945 - 478?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 945 - 478?"
+        }
+      ]
+    },
+    {
+      "id": "4fefb7f8-3145-4e74-bf0b-e001c24c421c",
+      "question": "How many sides does an octagon have?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "How many sides does an octagon have?"
+        }
+      ]
+    },
+    {
+      "id": "07bab79a-8df8-4b33-84c3-0362d0a9432f",
+      "question": "What is 1 + 9?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct_answer": "10",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"10\" is marked as wrong but equals the expected answer 10",
+          "question": "What is 1 + 9?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 10 is out of bounds for 4 answers",
+          "question": "What is 1 + 9?"
+        }
+      ]
+    },
+    {
+      "id": "a5d43aae-27ba-455e-b2f4-896a66adb7db",
+      "question": "6 + 6 = 11",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "6 + 6 = 11"
+        }
+      ]
+    },
+    {
+      "id": "7b7b09dc-dba1-4e31-958d-372e5f12eb37",
+      "question": "What is 7 × 6?",
+      "answers": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "correct_answer": "42",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"42\" is marked as wrong but equals the expected answer 42",
+          "question": "What is 7 × 6?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 42 is out of bounds for 4 answers",
+          "question": "What is 7 × 6?"
+        }
+      ]
+    },
+    {
+      "id": "48faa0db-8fc9-4530-8b59-368e131d5d3f",
+      "question": "What is 5 × 5?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 5 × 5?"
+        }
+      ]
+    },
+    {
+      "id": "1a4a6505-6b8e-4e60-804b-c9c9ebb24ef3",
+      "question": "A shop sells watches for CHF 85 each. How many can you buy with CHF 500?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": "5",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 5 is out of bounds for 4 answers",
+          "question": "A shop sells watches for CHF 85 each. How many can you buy with CHF 500?"
+        }
+      ]
+    },
+    {
+      "id": "013023a1-7a51-4365-a7b7-a1bedc58394c",
+      "question": "A triangle has four sides.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "false",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index false is out of bounds for 2 answers",
+          "question": "A triangle has four sides."
+        }
+      ]
+    },
+    {
+      "id": "22c47d9b-5f24-49b6-9d1c-336a5ab51779",
+      "question": "What is half of 360?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is half of 360?"
+        }
+      ]
+    },
+    {
+      "id": "852281cb-e490-44c1-b616-4b6d06b1e290",
+      "question": "10% of 200 is 20.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "10% of 200 is 20."
+        }
+      ]
+    },
+    {
+      "id": "c2d1df95-a806-462b-b6ec-026021281e0c",
+      "question": "56 ÷ 8 = 7",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "56 ÷ 8 = 7"
+        }
+      ]
+    },
+    {
+      "id": "487db35a-76f4-4d25-a27c-c39b099bf664",
+      "question": "Which shape has three sides?",
+      "answers": [
+        "square",
+        "circle",
+        "triangle",
+        "rectangle"
+      ],
+      "correct_answer": "triangle",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index triangle is out of bounds for 4 answers",
+          "question": "Which shape has three sides?"
+        }
+      ]
+    },
+    {
+      "id": "7e1d747c-8fa6-4e68-9d55-106dd0c9ab0f",
+      "question": "What is 7 × 9?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 7 × 9?"
+        }
+      ]
+    },
+    {
+      "id": "d6629255-7513-416a-b01d-6f0bb91e07cf",
+      "question": "What is 9 × 9?",
+      "answers": [
+        "72",
+        "81",
+        "90",
+        "99"
+      ],
+      "correct_answer": "81",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"81\" is marked as wrong but equals the expected answer 81",
+          "question": "What is 9 × 9?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 81 is out of bounds for 4 answers",
+          "question": "What is 9 × 9?"
+        }
+      ]
+    },
+    {
+      "id": "db5036ed-fefa-4117-89d6-d2c7747ad006",
+      "question": "What is 6.4 × 5?",
+      "answers": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "correct_answer": "1",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 1, but expected 20 for multiplication",
+          "question": "What is 6.4 × 5?"
+        }
+      ]
+    },
+    {
+      "id": "a55e5e45-980b-4e98-88b6-33fc5d801b61",
+      "question": "What is 19 - 8?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 19 - 8?"
+        }
+      ]
+    },
+    {
+      "id": "38eae93d-9a72-4662-b43f-0042167f50d9",
+      "question": "What is 775 + 225?",
+      "answers": [
+        "980",
+        "990",
+        "1000",
+        "1010"
+      ],
+      "correct_answer": "1000",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"1000\" is marked as wrong but equals the expected answer 1000",
+          "question": "What is 775 + 225?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 1000 is out of bounds for 4 answers",
+          "question": "What is 775 + 225?"
+        }
+      ]
+    },
+    {
+      "id": "d3210416-bb8f-4d9e-b679-199547a1ebc0",
+      "question": "What is 7/12 + 5/12?",
+      "answers": [
+        "1",
+        "12/12",
+        "12/24",
+        "Both A and B"
+      ],
+      "correct_answer": "3",
+      "grade": 6,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 3, but expected 17 for addition",
+          "question": "What is 7/12 + 5/12?"
+        }
+      ]
+    },
+    {
+      "id": "e5aa3abd-cd1c-4325-a3af-b74237926fd3",
+      "question": "What is 15 × 8?",
+      "answers": [
+        "110",
+        "115",
+        "120",
+        "125"
+      ],
+      "correct_answer": "120",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"120\" is marked as wrong but equals the expected answer 120",
+          "question": "What is 15 × 8?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 120 is out of bounds for 4 answers",
+          "question": "What is 15 × 8?"
+        }
+      ]
+    },
+    {
+      "id": "372ab525-2eeb-4479-bc90-690ad49bb82f",
+      "question": "Is 300 + 400 equal to 700?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 300 + 400 equal to 700?"
+        }
+      ]
+    },
+    {
+      "id": "f703dbf8-58bb-4e50-bfc6-b8c5a95dac70",
+      "question": "A ruler is 20 centimetres long. You break off 4 centimetres. How long is the ruler now?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A ruler is 20 centimetres long. You break off 4 centimetres. How long is the ruler now?"
+        }
+      ]
+    },
+    {
+      "id": "94c2fed5-337c-447e-bd1b-b06ec99067bb",
+      "question": "What is 12 + 8?",
+      "answers": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct_answer": "20",
+      "grade": 1,
+      "difficulty": 4,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"20\" is marked as wrong but equals the expected answer 20",
+          "question": "What is 12 + 8?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 20 is out of bounds for 4 answers",
+          "question": "What is 12 + 8?"
+        }
+      ]
+    },
+    {
+      "id": "01f0ebdf-8369-466e-b63a-f30021feb1a3",
+      "question": "What is 5/8 + 1/4?",
+      "answers": [
+        "6/12",
+        "7/8",
+        "3/4",
+        "6/8"
+      ],
+      "correct_answer": "1",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 1, but expected 9 for addition",
+          "question": "What is 5/8 + 1/4?"
+        }
+      ]
+    },
+    {
+      "id": "585b07f8-932b-4c9f-85c6-52b16966b181",
+      "question": "What is 16 × 9?",
+      "answers": [
+        "134",
+        "140",
+        "144",
+        "150"
+      ],
+      "correct_answer": "144",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"144\" is marked as wrong but equals the expected answer 144",
+          "question": "What is 16 × 9?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 144 is out of bounds for 4 answers",
+          "question": "What is 16 × 9?"
+        }
+      ]
+    },
+    {
+      "id": "f16bcbfe-c975-4f15-8188-8d3365ac5e9b",
+      "question": "A year has 365 days except in a leap year.",
+      "answers": [
+        "Richtig",
+        "Falsch"
+      ],
+      "correct_answer": "true",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index true is out of bounds for 2 answers",
+          "question": "A year has 365 days except in a leap year."
+        }
+      ]
+    },
+    {
+      "id": "e4af04d4-15ff-446e-8899-572402eb01a1",
+      "question": "What is 125 + 275?",
+      "answers": [
+        "350",
+        "375",
+        "400",
+        "425"
+      ],
+      "correct_answer": "400",
+      "grade": 3,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"400\" is marked as wrong but equals the expected answer 400",
+          "question": "What is 125 + 275?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 400 is out of bounds for 4 answers",
+          "question": "What is 125 + 275?"
+        }
+      ]
+    },
+    {
+      "id": "f63acba9-1c8a-4025-b1fd-198139bb1524",
+      "question": "What is 987 - 598?",
+      "answers": [
+        "387",
+        "388",
+        "389",
+        "390"
+      ],
+      "correct_answer": "389",
+      "grade": 3,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"389\" is marked as wrong but equals the expected answer 389",
+          "question": "What is 987 - 598?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 389 is out of bounds for 4 answers",
+          "question": "What is 987 - 598?"
+        }
+      ]
+    },
+    {
+      "id": "a5678cec-0d7d-4fc5-b0a4-2d507541a4b5",
+      "question": "A swimming pool holds 850 litres of water. You add 275 litres. How much water is in the pool now?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A swimming pool holds 850 litres of water. You add 275 litres. How much water is in the pool now?"
+        }
+      ]
+    },
+    {
+      "id": "10fe8b1e-2b39-4bce-88e8-653190bc40df",
+      "question": "What is 3.6 ÷ 4?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 3.6 ÷ 4?"
+        }
+      ]
+    },
+    {
+      "id": "04ed6c70-bad1-4a7c-b8b9-14620e064690",
+      "question": "The perimeter of a triangle with sides 5 cm, 6 cm, and 7 cm is 18 cm.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "The perimeter of a triangle with sides 5 cm, 6 cm, and 7 cm is 18 cm."
+        }
+      ]
+    },
+    {
+      "id": "c5bdd212-0256-4554-9c86-1727b2fe3aef",
+      "question": "A baker makes 144 croissants. He sells 5/8 of them. How many are left?",
+      "answers": [
+        "48",
+        "52",
+        "54",
+        "56"
+      ],
+      "correct_answer": "54",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 54, but expected 0.625 for division",
+          "question": "A baker makes 144 croissants. He sells 5/8 of them. How many are left?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 54 is out of bounds for 4 answers",
+          "question": "A baker makes 144 croissants. He sells 5/8 of them. How many are left?"
+        }
+      ]
+    },
+    {
+      "id": "95110995-1185-4f6d-a48b-ee266d14e644",
+      "question": "Is 8 × 2 equal to 18?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 8 × 2 equal to 18?"
+        }
+      ]
+    },
+    {
+      "id": "1e15dfe9-c576-4792-bfd8-ff5e74c9f6a4",
+      "question": "A train travels at 90 km/h for 2.5 hours, then 60 km/h for 1.5 hours. What is the total distance?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A train travels at 90 km/h for 2.5 hours, then 60 km/h for 1.5 hours. What is the total distance?"
+        }
+      ]
+    },
+    {
+      "id": "a0a4716b-608b-41b7-a8cf-b8a8cd15685a",
+      "question": "Is 900 greater than 1000?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 900 greater than 1000?"
+        }
+      ]
+    },
+    {
+      "id": "295df5d8-e5bb-467b-ba9e-c072327dd916",
+      "question": "Converting 3.6 metres to centimetres gives 360 cm.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Converting 3.6 metres to centimetres gives 360 cm."
+        }
+      ]
+    },
+    {
+      "id": "116f4aba-c350-4758-a0e9-993bb7135030",
+      "question": "What is 5 × 2?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 5 × 2?"
+        }
+      ]
+    },
+    {
+      "id": "7fecfaa0-b727-431f-81df-7a26411d43f2",
+      "question": "14 - 9 = 5",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "14 - 9 = 5"
+        }
+      ]
+    },
+    {
+      "id": "b94ca0b0-a0a9-47ee-9628-18de19cec228",
+      "question": "How many fingers do you have on both hands?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "How many fingers do you have on both hands?"
+        }
+      ]
+    },
+    {
+      "id": "f5b4edb0-a71a-4ed8-a23b-85cacc0c406e",
+      "question": "The interior angles of a pentagon sum to 540 degrees.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "The interior angles of a pentagon sum to 540 degrees."
+        }
+      ]
+    },
+    {
+      "id": "e3297ce0-e72a-4e10-ae55-2c86d410a649",
+      "question": "You collect 13 shells at the beach. You give 5 shells to your sister. How many shells do you have?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "You collect 13 shells at the beach. You give 5 shells to your sister. How many shells do you have?"
+        }
+      ]
+    },
+    {
+      "id": "dd6829d7-a400-4b90-b3b8-3b8907775721",
+      "question": "What is 563 + 437?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 563 + 437?"
+        }
+      ]
+    },
+    {
+      "id": "638057dd-ace0-435f-b853-987261f3f35b",
+      "question": "What is 71 + 29?",
+      "answers": [
+        "98",
+        "99",
+        "100",
+        "101"
+      ],
+      "correct_answer": "100",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"100\" is marked as wrong but equals the expected answer 100",
+          "question": "What is 71 + 29?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 100 is out of bounds for 4 answers",
+          "question": "What is 71 + 29?"
+        }
+      ]
+    },
+    {
+      "id": "55ff85eb-c6b2-4b8c-ac06-44e5830297d2",
+      "question": "8 - 5 = 3",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "8 - 5 = 3"
+        }
+      ]
+    },
+    {
+      "id": "93759b87-5879-46e7-a873-d776d292d414",
+      "question": "Which shape has 3 sides?",
+      "answers": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correct_answer": "Triangle",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index Triangle is out of bounds for 4 answers",
+          "question": "Which shape has 3 sides?"
+        }
+      ]
+    },
+    {
+      "id": "398f58f9-4ad4-440c-b0c9-944569e1cf85",
+      "question": "What is 250 - 87?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 250 - 87?"
+        }
+      ]
+    },
+    {
+      "id": "06e2c8b4-8c18-4330-a8c1-226840158743",
+      "question": "Is 7 × 7 equal to 49?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 7 × 7 equal to 49?"
+        }
+      ]
+    },
+    {
+      "id": "8efb0f4c-d9c2-4f5e-acad-73e1979bed2d",
+      "question": "What is the perimeter of a square with side length 7 cm?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is the perimeter of a square with side length 7 cm?"
+        }
+      ]
+    },
+    {
+      "id": "952302fc-c78e-465c-8dc6-0d54dd3ee93b",
+      "question": "What is 0.125 as a fraction in simplest form?",
+      "answers": [
+        "1/8",
+        "1/4",
+        "125/100",
+        "1/10"
+      ],
+      "correct_answer": "",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index  is out of bounds for 4 answers",
+          "question": "What is 0.125 as a fraction in simplest form?"
+        }
+      ]
+    },
+    {
+      "id": "21273e23-307f-45a8-a9a2-fd13a83260cb",
+      "question": "What is 9/10 - 3/10?",
+      "answers": [
+        "6/10",
+        "3/5",
+        "Both A and B",
+        "6/20"
+      ],
+      "correct_answer": "2",
+      "grade": 6,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 2, but expected 7 for subtraction",
+          "question": "What is 9/10 - 3/10?"
+        }
+      ]
+    },
+    {
+      "id": "8bf68402-4094-4cdb-9e72-5c751a361137",
+      "question": "What is 92 - 47?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 92 - 47?"
+        }
+      ]
+    },
+    {
+      "id": "2bdd6e4f-835f-4e44-ab43-625be5a9663f",
+      "question": "What is 5/10 simplified?",
+      "answers": [
+        "1/2",
+        "2/5",
+        "5/5",
+        "10/20"
+      ],
+      "correct_answer": "",
+      "grade": 4,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index  is out of bounds for 4 answers",
+          "question": "What is 5/10 simplified?"
+        }
+      ]
+    },
+    {
+      "id": "8420b2e0-371a-43ff-87b1-9a068fededf2",
+      "question": "How many sides does a rectangle have?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "How many sides does a rectangle have?"
+        }
+      ]
+    },
+    {
+      "id": "79749aab-33b2-408c-b174-0ceecf44adcf",
+      "question": "You have CHF 10. You buy a toy for CHF 3. How much money do you have left?",
+      "answers": [
+        "CHF 5",
+        "CHF 6",
+        "CHF 7",
+        "CHF 8"
+      ],
+      "correct_answer": "CHF 7",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index CHF 7 is out of bounds for 4 answers",
+          "question": "You have CHF 10. You buy a toy for CHF 3. How much money do you have left?"
+        }
+      ]
+    },
+    {
+      "id": "a197d7bd-0425-4ba5-94d7-901a1150725b",
+      "question": "What is 42 ÷ 7?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "What is 42 ÷ 7?"
+        }
+      ]
+    },
+    {
+      "id": "652496af-6ef3-4b3f-9496-a3e86d061228",
+      "question": "What is 11 + 8?",
+      "answers": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "correct_answer": "19",
+      "grade": 1,
+      "difficulty": 3,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"19\" is marked as wrong but equals the expected answer 19",
+          "question": "What is 11 + 8?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 19 is out of bounds for 4 answers",
+          "question": "What is 11 + 8?"
+        }
+      ]
+    },
+    {
+      "id": "f41dab02-fcd6-4e26-af4d-419faee485d1",
+      "question": "A circle has corners.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A circle has corners."
+        }
+      ]
+    },
+    {
+      "id": "b4899d0e-6026-420e-91ec-a4df1c92b7ec",
+      "question": "What is 77 + 23?",
+      "answers": [
+        "98",
+        "99",
+        "100",
+        "101"
+      ],
+      "correct_answer": "100",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"100\" is marked as wrong but equals the expected answer 100",
+          "question": "What is 77 + 23?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 100 is out of bounds for 4 answers",
+          "question": "What is 77 + 23?"
+        }
+      ]
+    },
+    {
+      "id": "95cdea63-9fc3-479d-9c1b-74be03d9ec59",
+      "question": "What is 7/9 - 4/9?",
+      "answers": [
+        "3/9",
+        "1/3",
+        "Both A and B",
+        "3/18"
+      ],
+      "correct_answer": "2",
+      "grade": 5,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "INCORRECT_ANSWER",
+          "severity": "CRITICAL",
+          "message": "Correct answer is 2, but expected 5 for subtraction",
+          "question": "What is 7/9 - 4/9?"
+        }
+      ]
+    },
+    {
+      "id": "2ac47a0b-49ea-427f-bb32-0549815e6aa5",
+      "question": "Is 7 × 5 equal to 35?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "Is 7 × 5 equal to 35?"
+        }
+      ]
+    },
+    {
+      "id": "24e33ee4-ed07-450e-b45c-a550845ed886",
+      "question": "A rectangular garden is 18 m by 12 m. A path 2 m wide runs around the outside. What is the total area including the path?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A rectangular garden is 18 m by 12 m. A path 2 m wide runs around the outside. What is the total area including the path?"
+        }
+      ]
+    },
+    {
+      "id": "89d8e754-6800-4b1c-83d8-04d3785bd5b1",
+      "question": "What is 9 - 3?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "6",
+      "grade": 1,
+      "difficulty": 1,
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "WRONG_ANSWER_IS_CORRECT",
+          "severity": "CRITICAL",
+          "message": "Answer option \"6\" is marked as wrong but equals the expected answer 6",
+          "question": "What is 9 - 3?"
+        },
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "severity": "CRITICAL",
+          "message": "Correct answer index 6 is out of bounds for 4 answers",
+          "question": "What is 9 - 3?"
+        }
+      ]
+    },
+    {
+      "id": "9bcd1e60-3daa-4f87-af47-887522e42b7f",
+      "question": "A prime number greater than 2 must be odd.",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A prime number greater than 2 must be odd."
+        }
+      ]
+    },
+    {
+      "id": "f01c7219-0b31-4ad0-ad8a-5988de6255d1",
+      "question": "A shop has 72 toy cars. They sell 28 toy cars. How many toy cars are left?",
+      "status": "FAIL",
+      "issues": [
+        {
+          "type": "VALIDATION_ERROR",
+          "severity": "CRITICAL",
+          "message": "Cannot convert undefined or null to object",
+          "question": "A shop has 72 toy cars. They sell 28 toy cars. How many toy cars are left?"
+        }
+      ]
+    }
+  ]
+}

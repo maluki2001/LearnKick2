@@ -1,0 +1,42 @@
+{
+  "grades": [4, 5, 6],
+  "ageRange": "10-12 years",
+  "vocabularySize": "~3500 words",
+  "sentenceLength": {
+    "min": 6,
+    "max": 15,
+    "recommended": "8-12 words"
+  },
+  "complexity": "intermediate to advanced",
+  "categories": [
+    "academic vocabulary",
+    "scientific terms (habitats, materials, energy)",
+    "mathematical terms (fraction, decimal, perimeter, area)",
+    "geographic terms (continent, climate, capital)",
+    "historical terms (confederation, democracy, century)",
+    "abstract concepts (responsibility, equality, environment)",
+    "complex verbs (investigate, compare, analyse)",
+    "descriptive adjectives (ancient, renewable, democratic)"
+  ],
+  "grammar": {
+    "tenses": ["all tenses including perfect and future"],
+    "sentences": [
+      "complex statements",
+      "subordinate clauses",
+      "relative clauses",
+      "conditional sentences"
+    ],
+    "acceptable": ["passive voice", "reported speech", "modal verbs"]
+  },
+  "examples": {
+    "appropriate": [
+      "Switzerland became a federal state in 1848.",
+      "If you divide 24 by 6, what is the result?",
+      "Which renewable energy source is most common in Switzerland?"
+    ],
+    "tooSimple": [
+      "The cat is black.",
+      "What is 2 + 2?"
+    ]
+  }
+}

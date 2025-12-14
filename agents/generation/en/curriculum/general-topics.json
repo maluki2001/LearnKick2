@@ -1,0 +1,43 @@
+{
+  "subject": "general",
+  "totalQuestions": 200,
+  "topics": [
+    {
+      "name": "Swiss History",
+      "lehrplan21Code": "NMG.9.1",
+      "grades": [4, 5, 6],
+      "questions": 60,
+      "difficulties": [3, 4, 5],
+      "focus": ["Swiss Confederation", "key dates", "historical figures"]
+    },
+    {
+      "name": "Time & Calendar",
+      "lehrplan21Code": "NMG.9.2",
+      "grades": [2, 3, 4],
+      "questions": 40,
+      "difficulties": [2, 3]
+    },
+    {
+      "name": "Money & Currency",
+      "lehrplan21Code": "NMG.6.1",
+      "grades": [3, 4, 5],
+      "questions": 40,
+      "difficulties": [2, 3, 4],
+      "focus": ["CHF", "coins", "notes", "basic transactions"]
+    },
+    {
+      "name": "Community & Society",
+      "lehrplan21Code": "NMG.10.1",
+      "grades": [4, 5, 6],
+      "questions": 30,
+      "difficulties": [3, 4]
+    },
+    {
+      "name": "Technology & Media",
+      "lehrplan21Code": "MI.1.1",
+      "grades": [5, 6],
+      "questions": 30,
+      "difficulties": [4, 5]
+    }
+  ]
+}

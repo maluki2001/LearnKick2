@@ -1,0 +1,39 @@
+{
+  "subject": "art",
+  "language": "de",
+  "targetQuestions": 400,
+  "topics": [
+    {
+      "code": "BG.1.A.1",
+      "name": "Farben und Formen",
+      "grades": [1, 2, 3],
+      "difficulty": [1, 2],
+      "keywords": ["farben", "formen", "malen", "zeichnen"],
+      "questionCount": 100
+    },
+    {
+      "code": "BG.2.A.1",
+      "name": "Kunstwerke erkennen",
+      "grades": [4, 5, 6],
+      "difficulty": [3, 4],
+      "keywords": ["kunst", "künstler", "gemälde", "skulpturen"],
+      "questionCount": 100
+    },
+    {
+      "code": "TG.1.A.1",
+      "name": "Materialien und Werkzeuge",
+      "grades": [1, 2, 3, 4],
+      "difficulty": [1, 2, 3],
+      "keywords": ["material", "werkzeug", "basteln"],
+      "questionCount": 100
+    },
+    {
+      "code": "TG.2.A.1",
+      "name": "Handwerk und Design",
+      "grades": [4, 5, 6],
+      "difficulty": [3, 4, 5],
+      "keywords": ["design", "konstruktion", "handwerk"],
+      "questionCount": 100
+    }
+  ]
+}

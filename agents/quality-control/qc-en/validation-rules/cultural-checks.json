@@ -1,0 +1,81 @@
+{
+  "context": "International English for Swiss schools",
+  "totalChecks": 12,
+  "checks": [
+    {
+      "id": "CU01",
+      "name": "Swiss context when relevant",
+      "description": "Prefer Swiss examples",
+      "severity": "medium",
+      "preferred": [
+        "Swiss cities over foreign cities",
+        "CHF over other currencies",
+        "Swiss geography, history, culture"
+      ]
+    },
+    {
+      "id": "CU02",
+      "name": "No cultural bias",
+      "description": "Neutral, internationally appropriate",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "CU03",
+      "name": "Multilingual awareness",
+      "description": "Respect Swiss multilingualism",
+      "severity": "medium",
+      "note": "Don't assume English is native language"
+    },
+    {
+      "id": "CU04",
+      "name": "Gender-neutral language",
+      "description": "No gender stereotypes",
+      "severity": "critical",
+      "autoReject": true,
+      "examples": {
+        "avoid": ["Girls like pink", "Boys play football"],
+        "prefer": ["Children enjoy many colours", "Students play sports"]
+      }
+    },
+    {
+      "id": "CU05",
+      "name": "Inclusive examples",
+      "description": "Represent diversity",
+      "severity": "high",
+      "autoReject": false
+    },
+    {
+      "id": "CU06",
+      "name": "Avoid political topics",
+      "description": "Neutral except democracy basics",
+      "severity": "high",
+      "autoReject": false,
+      "flagForReview": true
+    },
+    {
+      "id": "CU07",
+      "name": "No religious bias",
+      "description": "Respect all religions",
+      "severity": "critical",
+      "autoReject": true
+    },
+    {
+      "id": "CU08",
+      "name": "Metric system only",
+      "description": "Use metres, kilograms, Celsius",
+      "severity": "high",
+      "autoReject": false,
+      "units": ["m", "cm", "km", "kg", "g", "L", "°C"]
+    },
+    {
+      "id": "CU09",
+      "name": "Age-appropriate content",
+      "description": "No violence, adult topics",
+      "severity": "critical",
+      "autoReject": true
+    }
+  ],
+  "autoReject": ["CU02", "CU04", "CU07", "CU09"],
+  "flagForReview": ["CU06"]
+}

@@ -1,0 +1,1175 @@
+{
+  "timestamp": "2025-12-07T04:20:05.484Z",
+  "summary": {
+    "total": 100,
+    "passed": 50,
+    "failed": 50,
+    "passRate": "50.00%"
+  },
+  "failedQuestionIds": [
+    "e8326141-b826-4b39-8872-54dec333be69",
+    "aec1ebc2-723e-4e5a-b651-4e9ce3881b5f",
+    "d7a47116-3161-453a-bd17-9bcddf0f2283",
+    "0ae2ff45-c842-4b47-9c43-76764f0c499d",
+    "c69d5743-dd65-4b9e-a0e6-f67880dfa406",
+    "8a1f5a63-e604-4d79-ae80-0040d9e10dcd",
+    "5b684606-7c88-4703-b225-0d1280a8e800",
+    "69d7f919-2d08-4d76-a220-5506c1f008c9",
+    "673b56d0-3b65-4abc-ab26-fe73bb5cc4e6",
+    "3aaef5a5-c8d5-4836-957c-22e836af6ad5",
+    "aefd20aa-7f8d-4ecf-b1c0-21056eb13eff",
+    "a10f6d9e-ff49-4b1a-960c-f62cbb380c52",
+    "333dab24-d2f9-4e2b-a993-05c8fb97acd2",
+    "0157cbfc-e8fc-4e24-adcb-813576e50e1b",
+    "d5a33f9a-6926-4a6e-9728-8ed50e607493",
+    "70b12f6d-6175-4923-9a68-f81499a80632",
+    "4b2e6eed-74f7-405c-9a6b-2a0b012af2cd",
+    "6b2b3d32-e560-4fc8-8fd0-a5d330d3770f",
+    "1893c066-3482-47ba-86f6-0559e00a302c",
+    "5e5d133f-8c44-4aff-999a-c55cc48767bf",
+    "848a9b95-810a-4c48-8aa6-9acf85cb71dd",
+    "6e6ee72b-02de-4580-ab3a-a4870920ea04",
+    "fa339b25-6dc2-46f2-ad1c-37c2584de0c8",
+    "2e8412e4-473e-4569-b9e6-c7f547b75253",
+    "cb4ba287-b9c2-4590-8ec9-d524210ae732",
+    "cbb4b21b-4e3e-49f2-97f9-bd773d4f84e6",
+    "306119eb-68eb-4009-835f-48af6023c99a",
+    "792b660c-3250-429a-a37a-8cf7d2026773",
+    "31c24461-3929-4f8b-bea9-a8c20f71a3d1",
+    "3f3e9195-9d61-44d8-a7cd-26c80e9bc4c2",
+    "49d6084a-0e43-4acb-8780-c5f744e4f946",
+    "314297a7-7065-4827-aaab-06ed959fe2de",
+    "96183024-1fe5-464c-9e6b-01eb5a742b44",
+    "aef07139-0166-40c6-b0ec-d7baafe49c24",
+    "b25d0ffa-6d14-40ae-a02c-c0e022ea0b0d",
+    "c643c21b-d4ba-4919-a00c-53749272db05",
+    "9fcbf450-1d69-47f8-bff6-644c04058c74",
+    "49a0c684-3d10-467b-96c9-df5506f502de",
+    "61829204-5a73-4795-b27c-bb3b010c7d45",
+    "6d502e15-b3d3-46fe-960d-5865a6733185",
+    "d8e25a2b-1400-4dbc-90d4-54e462536554",
+    "0e8f0928-c584-48f6-9d06-8a92bd3995c2",
+    "9924031f-33e2-49a8-905c-0fc87f789bf4",
+    "ade292b4-ad97-43f2-a851-f26d5df031c3",
+    "303b61ac-ca52-47e9-a41a-522e227b4ff8",
+    "6493e895-5296-4703-8c79-606449e3cbb2",
+    "1df23589-48cb-4329-89ee-d51aa17a421a",
+    "31dc6882-5ce4-4d7d-86dc-34bc43762c88",
+    "2900519c-9c39-4b57-a574-1a81da735d27",
+    "eaa19124-e7f3-4e33-9286-1bdd8ab8a81f"
+  ],
+  "details": [
+    {
+      "id": "e8326141-b826-4b39-8872-54dec333be69",
+      "question": "What is the plural of 'mouse'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "6da65612-fd9e-4dec-a071-14aea191491e",
+      "question": "Which sentence needs a semicolon?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "a5c6b5b4-9f0f-4a77-a5be-fdc2a11739d9",
+      "question": "Which sentence is in the past tense?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "aec1ebc2-723e-4e5a-b651-4e9ce3881b5f",
+      "question": "What is an antonym for 'victory'?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "d7a47116-3161-453a-bd17-9bcddf0f2283",
+      "question": "What type of noun is 'London'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "cd072e1d-b286-4f35-8da8-56da6576e355",
+      "question": "Which word rhymes with 'thought'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "50865e15-fdff-441e-b8ff-cada9f558b6a",
+      "question": "Which sentence is a compound sentence?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5c10a89f-3ba3-420a-94be-a85ca415449a",
+      "question": "Which sentence uses a colon correctly?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "81bee720-f402-48ea-ba83-f2c650508ddd",
+      "question": "Which pair of words are homophones?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "96238109-02fd-4695-961e-fcc9eb083f51",
+      "question": "Which sentence uses a double negative incorrectly?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "d3327043-9e9b-4bda-900b-3a7c42809d25",
+      "question": "Which of these is a consonant?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "f7fc95ea-1c11-4fcd-b2ba-68f0614139e4",
+      "question": "Where should the apostrophe go in \"theyre going home\"?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "0ae2ff45-c842-4b47-9c43-76764f0c499d",
+      "question": "The suffix '-ology' means 'the study of'.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "c69d5743-dd65-4b9e-a0e6-f67880dfa406",
+      "question": "A complex sentence contains one independent clause and at least one dependent clause.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "f4c21ac1-36d8-4090-bd0f-584dce370c27",
+      "question": "Which sentence uses 'an' correctly?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "056adfbd-c650-47f8-bbfa-3af8edc0338f",
+      "question": "Which letter comes between V and X?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "8a1f5a63-e604-4d79-ae80-0040d9e10dcd",
+      "question": "What is the past tense of 'eat'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "5b684606-7c88-4703-b225-0d1280a8e800",
+      "question": "What is a synonym for 'happy'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "5a6c8454-7bcc-4224-bf84-be7fce11ce70",
+      "question": "How do you spell the colour of the sky?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "33db8e02-5e90-488b-9bb4-4f385417faf2",
+      "question": "How is 'organisation' spelled in British English?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "69d7f919-2d08-4d76-a220-5506c1f008c9",
+      "question": "What is the correct plural of 'mouse'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "673b56d0-3b65-4abc-ab26-fe73bb5cc4e6",
+      "question": "What is an antonym for 'wide'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "3aaef5a5-c8d5-4836-957c-22e836af6ad5",
+      "question": "An oxymoron combines contradictory terms.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "326a5ca3-29b6-4921-8d60-bfe2b212dfed",
+      "question": "Which word has the same vowel sound as 'eat'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "dce1fb2f-12cd-4677-92fe-149a39f7a033",
+      "question": "How do you spell the number 9?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "aefd20aa-7f8d-4ecf-b1c0-21056eb13eff",
+      "question": "What is the superlative form of 'much'?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "8d699492-2310-4bd9-9c67-fc60407fc3b3",
+      "question": "Which word has a silent 'h'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "a10f6d9e-ff49-4b1a-960c-f62cbb380c52",
+      "question": "Which word means the same as 'big'?",
+      "grade": 2,
+      "difficulty": 1,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "EMPTY_ANSWER",
+          "issue": "Correct answer is empty",
+          "location": "correct_answer"
+        }
+      ]
+    },
+    {
+      "id": "333dab24-d2f9-4e2b-a993-05c8fb97acd2",
+      "question": "What is the past participle of 'speak'?",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "0157cbfc-e8fc-4e24-adcb-813576e50e1b",
+      "question": "An adverb describes a verb.",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "2b2b6d9e-c2a8-4ceb-a69f-713e84ff0d78",
+      "question": "Which sentence uses an apostrophe correctly?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "66e90872-e047-4a76-a6bc-59a282598c0c",
+      "question": "Which is a simple sentence?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "d5a33f9a-6926-4a6e-9728-8ed50e607493",
+      "question": "What is an antonym for 'empty'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "70b12f6d-6175-4923-9a68-f81499a80632",
+      "question": "Which is the correct spelling of the first month?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "VALIDATION_ERROR",
+          "issue": "Error during validation: Cannot read properties of undefined (reading 'toLowerCase')",
+          "location": "validation_process"
+        }
+      ]
+    },
+    {
+      "id": "595081f1-4126-4c13-87bb-38bbe605b782",
+      "question": "How do you spell the colour of a tomato?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6304bef0-dad2-4588-9bb3-9376e4cccc0e",
+      "question": "Which sentence uses the conditional perfect tense?",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "4cbf55be-6ccd-40d1-ab1f-2a366f751fd5",
+      "question": "Which word is a correlative conjunction?",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "4b2e6eed-74f7-405c-9a6b-2a0b012af2cd",
+      "question": "What is the superlative form of 'tall'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "b4aafb16-4e30-4aad-999e-3345315574bb",
+      "question": "Which word rhymes with 'box'?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6b2b3d32-e560-4fc8-8fd0-a5d330d3770f",
+      "question": "What is a synonym for 'scared'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "a3650d60-35bd-4f71-973f-56e78b7c2095",
+      "question": "Which word contains a suffix?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "1893c066-3482-47ba-86f6-0559e00a302c",
+      "question": "What is an antonym for 'strong'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "b145dd15-7730-45de-a223-dbad8fd67447",
+      "question": "Which sentence needs a hyphen?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "1d954f2f-ae9b-45d6-9d60-cfd71600fda4",
+      "question": "Which sentence has parallel structure?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "332022a4-daf3-48f9-a3b0-d1501a20a484",
+      "question": "Which sentence uses correct grammar?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6dee4889-a805-44c7-95ef-f68e6944deb4",
+      "question": "Which word rhymes with 'snow'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5e5d133f-8c44-4aff-999a-c55cc48767bf",
+      "question": "What type of sentence is this? 'What a beautiful day!'",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "ea3c4dd0-263c-404a-949c-11787b420792",
+      "question": "Which suffix means 'without'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "848a9b95-810a-4c48-8aa6-9acf85cb71dd",
+      "question": "What is a synonym for 'cold'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "2d5e2478-bbe4-4611-82ac-f345be6c1bbe",
+      "question": "Which sentence is in the future tense?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6e6ee72b-02de-4580-ab3a-a4870920ea04",
+      "question": "How many consonants are in the word 'school'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "issue": "Correct answer index 4 is out of bounds",
+          "location": "correct_answer"
+        }
+      ]
+    },
+    {
+      "id": "fa339b25-6dc2-46f2-ad1c-37c2584de0c8",
+      "question": "The prefix 'circum-' means 'around'.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "2e8412e4-473e-4569-b9e6-c7f547b75253",
+      "question": "What is an antonym for 'rough'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "cb4ba287-b9c2-4590-8ec9-d524210ae732",
+      "question": "What is the plural of 'box'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "cbb4b21b-4e3e-49f2-97f9-bd773d4f84e6",
+      "question": "Which word is spelled correctly?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "VALIDATION_ERROR",
+          "issue": "Error during validation: Cannot read properties of undefined (reading 'toLowerCase')",
+          "location": "validation_process"
+        }
+      ]
+    },
+    {
+      "id": "0626f56c-f1a1-4f80-bef1-42dbd45f2109",
+      "question": "Which word rhymes with 'light'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "45b156f1-c05c-4d3b-b3ce-1bd9b8545052",
+      "question": "Which sentence uses parallel structure correctly?",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "306119eb-68eb-4009-835f-48af6023c99a",
+      "question": "What is a synonym for 'beautiful'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "792b660c-3250-429a-a37a-8cf7d2026773",
+      "question": "'She don't like chocolate' is correct grammar.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "e9aec221-eeb3-4533-817e-1c3250bd51ee",
+      "question": "Which word rhymes with 'duck'?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "5bc05b1d-2a21-4b31-ab1a-a3a652f99041",
+      "question": "Which sentence is a question?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "e77a46c0-a14d-40be-ba9b-6ae7deabcecd",
+      "question": "Is T a vowel or consonant?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "31c24461-3929-4f8b-bea9-a8c20f71a3d1",
+      "question": "How many vowels are in the word 'education'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "issue": "Correct answer index 5 is out of bounds",
+          "location": "correct_answer"
+        }
+      ]
+    },
+    {
+      "id": "d46a3b77-c033-44a4-9fcf-46123acd82bc",
+      "question": "How many vowels are in the word 'ocean'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "9da79dfa-1925-4bce-9f9b-dd9a097cc16b",
+      "question": "Which sentence uses the second conditional correctly?",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "543909bb-88c5-4e9a-bce4-374f74fcf173",
+      "question": "Which word is a subordinating conjunction?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "412610fa-1722-4084-883b-3830a53b2aee",
+      "question": "Which sentence uses the imperative mood?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "3f3e9195-9d61-44d8-a7cd-26c80e9bc4c2",
+      "question": "What is the past participle of 'write'?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "49d6084a-0e43-4acb-8780-c5f744e4f946",
+      "question": "What is an antonym for 'difficult'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "314297a7-7065-4827-aaab-06ed959fe2de",
+      "question": "The word 'phone' is short for 'telephone'.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "96183024-1fe5-464c-9e6b-01eb5a742b44",
+      "question": "Which sentence has correct capitalization?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "DUPLICATE_ANSWERS",
+          "issue": "Found duplicate answers in the answer array",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "aef07139-0166-40c6-b0ec-d7baafe49c24",
+      "question": "The word 'shouldn't' is a contraction of 'should not'.",
+      "grade": 6,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "f3602207-40eb-47d7-b6b5-06ee9f42b2b6",
+      "question": "Which word is a preposition?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "b25d0ffa-6d14-40ae-a02c-c0e022ea0b0d",
+      "question": "What is the past tense of 'see'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "00c3246d-c40a-46b3-be26-6190af2de784",
+      "question": "Which sentence uses correct punctuation for a list with internal commas?",
+      "grade": 6,
+      "difficulty": 4,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "c643c21b-d4ba-4919-a00c-53749272db05",
+      "question": "Which word is spelled correctly in British English?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "AMERICAN_SPELLING",
+          "issue": "Found American spelling \"favorite\", should use British \"favourite\"",
+          "location": "answer_1",
+          "text": "favorite"
+        },
+        {
+          "type": "VALIDATION_ERROR",
+          "issue": "Error during validation: Cannot read properties of undefined (reading 'toLowerCase')",
+          "location": "validation_process"
+        }
+      ]
+    },
+    {
+      "id": "9fcbf450-1d69-47f8-bff6-644c04058c74",
+      "question": "Which word means 'to make something less severe'?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "EMPTY_ANSWER",
+          "issue": "Correct answer is empty",
+          "location": "correct_answer"
+        }
+      ]
+    },
+    {
+      "id": "49a0c684-3d10-467b-96c9-df5506f502de",
+      "question": "The past participle of 'fly' is 'flown'.",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "82d8f995-a21a-45e2-a370-1ac8b6b34e2e",
+      "question": "Which word rhymes with 'cough'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "61829204-5a73-4795-b27c-bb3b010c7d45",
+      "question": "What is a synonym for 'pretty'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "6d502e15-b3d3-46fe-960d-5865a6733185",
+      "question": "How many consonants are in the word 'plant'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_CORRECT_ANSWER_INDEX",
+          "issue": "Correct answer index 4 is out of bounds",
+          "location": "correct_answer"
+        }
+      ]
+    },
+    {
+      "id": "d8e25a2b-1400-4dbc-90d4-54e462536554",
+      "question": "What is an antonym for 'soft'?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "d6296f38-c635-43b2-aa34-97f9309d0ec1",
+      "question": "Which sentence uses 'a' correctly?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "12d32d27-1f61-4502-bafc-096db846ef67",
+      "question": "Which of these words has two vowels?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6230d433-8e55-45ab-af2b-e0d9d02f5a66",
+      "question": "Which word is a conjunction?",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "0e8f0928-c584-48f6-9d06-8a92bd3995c2",
+      "question": "The word 'wasn't' is a contraction of 'was not'.",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "9924031f-33e2-49a8-905c-0fc87f789bf4",
+      "question": "Irony is when the literal meaning differs from the intended meaning.",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "ade292b4-ad97-43f2-a851-f26d5df031c3",
+      "question": "The prefix 're-' means 'again'.",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "8f2b0aee-d14b-4d69-86c2-1572b0681101",
+      "question": "Which word has two syllables?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "303b61ac-ca52-47e9-a41a-522e227b4ff8",
+      "question": "What is the present tense of 'They were running'?",
+      "grade": 5,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "e00486d8-7dd6-42b2-8b25-46ba127c48b9",
+      "question": "Which word rhymes with 'queen'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "6493e895-5296-4703-8c79-606449e3cbb2",
+      "question": "Which is the correct British spelling?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "AMERICAN_SPELLING",
+          "issue": "Found American spelling \"color\", should use British \"colour\"",
+          "location": "answer_0",
+          "text": "color"
+        }
+      ]
+    },
+    {
+      "id": "e42d6a73-432e-43d2-9b87-27627ad3d800",
+      "question": "Which word rhymes with 'king'?",
+      "grade": 2,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "1df23589-48cb-4329-89ee-d51aa17a421a",
+      "question": "What is the root word in 'biodegradable'?",
+      "grade": 6,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        }
+      ]
+    },
+    {
+      "id": "31dc6882-5ce4-4d7d-86dc-34bc43762c88",
+      "question": "The words 'effect' and 'affect' mean the same thing.",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "01425589-3640-4daf-bf04-85c0fba29626",
+      "question": "Which word is an antonym for 'difficult'?",
+      "grade": 3,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "2900519c-9c39-4b57-a574-1a81da735d27",
+      "question": "Onomatopoeia is when words sound like what they describe.",
+      "grade": 4,
+      "difficulty": 3,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "MISSING_QUESTION_MARK",
+          "issue": "Question appears to be missing a question mark",
+          "location": "question"
+        },
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "158fcde6-5aa3-4d18-a56c-d1a95e36eb58",
+      "question": "How do you spell the colour of an apple?",
+      "grade": 1,
+      "difficulty": 2,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "id": "eaa19124-e7f3-4e33-9286-1bdd8ab8a81f",
+      "question": "The past tense of 'see' is 'saw'.",
+      "grade": 4,
+      "difficulty": 2,
+      "status": "FAIL",
+      "errors": [
+        {
+          "type": "INVALID_ANSWER_COUNT",
+          "issue": "Expected 4 answers, found 2",
+          "location": "answers"
+        }
+      ]
+    },
+    {
+      "id": "c0eb0a40-c579-4ffe-80a2-fb05ac199750",
+      "question": "Which word is a synonym for 'reluctant'?",
+      "grade": 5,
+      "difficulty": 3,
+      "status": "PASS",
+      "errors": []
+    }
+  ]
+}

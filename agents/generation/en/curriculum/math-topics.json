@@ -1,0 +1,69 @@
+{
+  "subject": "math",
+  "totalQuestions": 600,
+  "topics": [
+    {
+      "name": "Numbers 0-20",
+      "lehrplan21Code": "MA.1.A.1",
+      "grades": [1, 2],
+      "questions": 80,
+      "difficulties": [1, 2]
+    },
+    {
+      "name": "Addition & Subtraction",
+      "lehrplan21Code": "MA.1.A.2",
+      "grades": [2, 3, 4],
+      "questions": 120,
+      "difficulties": [1, 2, 3]
+    },
+    {
+      "name": "Multiplication Tables",
+      "lehrplan21Code": "MA.1.A.3",
+      "grades": [3, 4, 5],
+      "questions": 100,
+      "difficulties": [2, 3, 4]
+    },
+    {
+      "name": "Division",
+      "lehrplan21Code": "MA.1.A.4",
+      "grades": [4, 5, 6],
+      "questions": 80,
+      "difficulties": [3, 4, 5]
+    },
+    {
+      "name": "Fractions",
+      "lehrplan21Code": "MA.1.B.1",
+      "grades": [4, 5, 6],
+      "questions": 70,
+      "difficulties": [3, 4, 5]
+    },
+    {
+      "name": "Decimals",
+      "lehrplan21Code": "MA.1.B.2",
+      "grades": [5, 6],
+      "questions": 50,
+      "difficulties": [4, 5]
+    },
+    {
+      "name": "Geometry - Shapes",
+      "lehrplan21Code": "MA.2.A.1",
+      "grades": [1, 2, 3],
+      "questions": 40,
+      "difficulties": [1, 2]
+    },
+    {
+      "name": "Measurement",
+      "lehrplan21Code": "MA.2.B.1",
+      "grades": [3, 4, 5],
+      "questions": 40,
+      "difficulties": [2, 3, 4]
+    },
+    {
+      "name": "Area & Perimeter",
+      "lehrplan21Code": "MA.2.C.1",
+      "grades": [5, 6],
+      "questions": 20,
+      "difficulties": [4, 5]
+    }
+  ]
+}

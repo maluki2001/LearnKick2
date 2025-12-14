@@ -1,0 +1,25 @@
+{
+  "grades": [3, 4],
+  "level": "Mittelstufe (Intermediate)",
+  "wordCount": "~1500 Wörter",
+  "vocabulary": {
+    "expanded_topics": [
+      "Natur und Umwelt",
+      "Schweizer Geografie",
+      "Berufe",
+      "Verkehr",
+      "Jahreszeiten und Wetter"
+    ],
+    "complex_verbs": ["arbeiten", "spielen", "lernen", "fahren", "schwimmen"],
+    "prepositions": ["in", "auf", "unter", "über", "neben", "zwischen"],
+    "conjunctions": ["und", "oder", "aber", "denn", "weil"],
+    "time_words": ["gestern", "heute", "morgen", "jetzt", "später"]
+  },
+  "complexity": {
+    "sentence_length": "5-8 Wörter",
+    "tenses": ["Präsens", "Perfekt", "Präteritum (einfach)"],
+    "grammar": ["Nebensätze mit 'weil/dass'", "Modalverben"],
+    "allow": ["einfache Fremdwörter", "Komposita"],
+    "avoid": ["Passiv", "Konjunktiv II"]
+  }
+}
